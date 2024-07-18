@@ -1,0 +1,935 @@
+Grocery_Name,MRP_Price,Discount_Price,Quantity,brand_name,price_per_unit
+Premia Badam (Almonds) : 500 gms,524,393,500 gm,Premia,₹ 0.79
+ProV Select California Almonds : 1 kg,1349,599,1 kg,ProV,₹ 599.00
+Chana Dal : 500 gms,74,53,500 gm,Chana,₹ 0.11
+Premia Chana Dal : 1 Kgs,133,104,1 kg,Premia,₹ 0.11
+Nutraj California Almonds : 1 kg,1149,739,1 kg,Nutraj,₹ 739.00
+Prov Independence California Almonds : 500 gms,698,309,500 gm,Prov,₹ 0.62
+Rajma Kashmiri Red : 500 gms,158,106,500 gm,Rajma,₹ 0.21
+Swaad Badam : 500 gm,468,329,500 gm,Swaad,₹ 0.66
+Rajma White : 500 gms,156,112,500 gm,Rajma,₹ 0.22
+Tata Sampann Chana Dal : 500 gms,78,70,500 gm,Tata,₹ 0.14
+Wonderland California Almonds : 500 gms,725,359,500 gm,Wonderland,₹ 0.72
+Premia Mamra Badam : 200 gms,599,340,200 gm,Premia,₹ 1.70
+Rajma Red Small : 500 gms,129,99,500 gm,Rajma,₹ 0.20
+Nutraj Almond : 200 gms,299,179,200 gm,Nutraj,₹ 0.90
+Satyam Rajma Pink : 500 gms,152,141,500 gm,Satyam,₹ 0.28
+DMart Healthy Choice Unpolished Chana Dal : 1 kg,152,106,1 kg,DMart,₹ 106.00
+Premia Badam American : 1 kg,922,727,1 kg,Premia,₹ 727.00
+Tata Sampann 100% Organic Unpolished Chana Dal : 1 kg,210,189,1 kg,Tata,₹ 189.00
+KMK Almond Mamra (Badam) : 200 gms,750,575,200 gm,KMK,₹ 2.88
+KMK Almond American (Badam) : 200 gms,258,168,200 gm,KMK,₹ 0.84
+Satyam Rajma Sharmili : 500 gms,142,132,500 gm,Satyam,₹ 0.26
+Satyam Chana Dal : 500 gms,91,84,500 gm,Satyam,₹ 0.17
+Tata Sampann Organic Unpolished Rajma Red : 500 gms,180,162,500 gm,Tata,₹ 0.32
+Premia Chana Dal : 500 gms,74,55,500 gm,Premia,₹ 0.32
+Premia Rajma Kashmiri : 500 gms,158,108,500 gm,Premia,₹ 0.32
+Moong Dal : 1 kg,188,152,1 kg,Moong,₹ 152.00
+Nutraj Cashews : 500 gms,699,399,500 gm,Nutraj,₹ 0.80
+Tata Sampann Moong Dal : 1 kg,214,162,1 kg,Tata,₹ 162.00
+Premia Regular Kaju (Cashews) - 320 : 500 gms,652,446,500 gm,Premia,₹ 0.89
+Moong Dal Chilti : 1 kg,203,154,1 kg,Moong,₹ 154.00
+Premia Kaju : 500 gms,604,406,500 gm,Premia,₹ 0.81
+Kalbavi Popular Cashews : 500  gms,649,379,500 gm,Kalbavi,₹ 0.76
+Premia Kaju Tukda (Cashews) : 200 gms,310,185,200 gm,Premia,₹ 0.93
+Premia Chowli Premium : 500 gms,100,72,500 gm,Premia,₹ 0.93
+ProV Select Cashews : 500 gms,849,419,500 gm,ProV,₹ 0.84
+Kalbavi Cashews (Kaju) : 500 gms,699,429,500 gm,Kalbavi,₹ 0.86
+Tata Sampann Moong Chilka : 500 gms,109,98,500 gm,Tata,₹ 0.20
+Premia Kaju Special (Cashews) - 240 : 500 gms,662,492,500 gm,Premia,₹ 0.98
+Wonderland Cashews : 500 gms,770,409,500 gm,Wonderland,₹ 0.82
+Premia Cashew Broken : 500 gms,527,386,500 gm,Premia,₹ 0.77
+Kokan Gem Goa Cashew Classic (Kaju) : 500 gms,650,399,500 gm,Kokan,₹ 0.80
+DMart Healthy Choice Unpolished Moong Dal : 1 kg,216,162,1 kg,DMart,₹ 162.00
+Chowli Big : 500 gms,77,56,500 gm,Chowli,₹ 0.11
+Premia Chowli Red : 500 gms,92,67,500 gm,Premia,₹ 0.11
+Tata Sampann 100% Organic Unpolished Moong Dal : 1 kg,280,252,1 kg,Tata,₹ 252.00
+Satyam Moong Dal : 500 gms,132,122,500 gm,Satyam,₹ 0.24
+Kokan Gem Goa Cashew Premium (Kaju) : 500 gms,750,549,500 gm,Kokan,₹ 1.10
+Organic Tattva Moong Dal Yellow Split : 1 kg,310,195,1 kg,Organic,₹ 195.00
+Premia Kaju (210) Premium : 100 gms,197,114,100 gm,Premia,₹ 1.14
+KMK Cashew Nut (Kaju) : 200 gms,325,199,200 gm,KMK,₹ 0.99
+Nutraj Snack Rite Roasted & Salted Cashew : 150 gms,299,149,150 gm,Nutraj,₹ 0.99
+Satyam Moong Chilti : 500 gms,152,141,500 gm,Satyam,₹ 0.28
+Organic Tattva Moong Dal Whole : 500 gms,145,115,500 gm,Organic,₹ 0.23
+Satyam Chowla : 500 gms,109,101,500 gm,Satyam,₹ 0.20
+Premia Chowli Small : 500 gms,144,102,500 gm,Premia,₹ 0.20
+Premia Moong Dal Chilti : 1 Kg,203,159,1 kg,Premia,₹ 0.20
+Premia Moong Dal Chilti: 500gms,112,79,500 gm,Premia,₹ 0.20
+Tur Dal Latur : 1 kg,291,225,1 kg,Tur,₹ 225.00
+Tata Sampann Toor Dal : 1 kg,299,269,1 kg,Tata,₹ 269.00
+Tur Dal Premium Gujarat : 1 kg,303,239,1 kg,Tur,₹ 239.00
+Turdal Latur: 500 gms,155,109,500 gm,Turdal,₹ 239.00
+Nutraj Pista : 400 gms,699,379,400 gm,Nutraj,₹ 0.95
+ProV Select California Roasted & Salted Pistachios : 400 gms,799,389,400 gm,ProV,₹ 0.97
+DMart Healthy Choice Unpolished Toor Dal : 1 kg,333,235,1 kg,DMart,₹ 235.00
+Tata Sampann 100% Organic Unpolished Toor Dal : 1 kg,299,269,1 kg,Tata,₹ 269.00
+Organic Tattva Arhar Tur Dal : 1 kg,365,245,1 kg,Organic,₹ 245.00
+Premia Pista Plain (Pistachios) : 100 gms,394,237,100 gm,Premia,₹ 2.37
+Nutraj Premium California Pistachios (Pista) : 200 gms,379,259,200 gm,Nutraj,₹ 1.29
+Premia Soyawadi : 200 gms,42,24,200 gm,Premia,₹ 0.12
+Satyam Tur (Toor) Dal : 500 gm,162,150,500 gm,Satyam,₹ 0.30
+Nutraj Iranian Pistachios (Pista) : 200 gms,449,289,200 gm,Nutraj,₹ 1.45
+Toor Dal Plain : 5 kgs,1200,962,5 kg,Toor,₹ 192.40
+Nutrela Soya Mini Chunks : 200 gms,60,52,200 gm,Nutrela,₹ 0.26
+Premia Mini Soya Chunks : 200 gms,45,24,200 gm,Premia,₹ 0.12
+Premia Pista Salty (Pistachio) : 200 gms,455,295,200 gm,Premia,₹ 1.48
+KMK Pista Magaz : 200 gms,575,475,200 gm,KMK,₹ 2.38
+Nutraj Plain Pistachio Kernel : 100 gms,299,229,100 gm,Nutraj,₹ 2.29
+Nutrela Soya Chunks : 200 gms,60,52,200 gm,Nutrela,₹ 0.26
+Premia Soyabean : 500 gms,76,58,500 gm,Premia,₹ 0.12
+Nutrela Soya Granules : 200 gms,60,50,200 gm,Nutrela,₹ 0.25
+KMK Pista Salted Irani (Pistachios) : 200 gms,319,249,200 gm,KMK,₹ 1.25
+Swaad Pista : 400 gms,584,375,400 gm,Swaad,₹ 0.94
+Satyam Toor Dal Oily : 500 gms,162,149,500 gm,Satyam,₹ 0.30
+Nutraj Roasted & Salted Pista : 100 gms,199,129,100 gm,Nutraj,₹ 1.29
+Premia Udid Dal : 500 gms,134,92,500 gm,Premia,₹ 1.29
+Desi Kabuli Chana : 500 gms,173,119,500 gm,Desi,₹ 0.24
+Date Crown Fard (Khajur) : 500 gms,288,185,500 gm,Date,₹ 0.37
+Tata Sampann Urad Dal : 1 kg,224,201,1 kg,Tata,₹ 201.00
+Udid (Urad) Dal Chilti : 500 gms,112,78,500 gm,Udid,₹ 0.16
+Satyam Kabuli Chana : 500 gms,188,174,500 gm,Satyam,₹ 0.35
+Premia Red Dried Dates (Kharik) : 500 gms,361,267,500 gm,Premia,₹ 0.53
+Nutraj Arabian Premium Dates : 500 gms,199,119,500 gm,Nutraj,₹ 0.26
+Falcon UAE Dates Seedless (Khajur) : 500 gms,200,159,500 gm,Falcon,₹ 0.32
+Shamim Iranian Wet Dates : 400 gms,200,153,400 gm,Shamim,₹ 0.38
+Tata Sampann Organic Unpolished Kabuli Chana : 500 gms,160,144,500 gm,Tata,₹ 0.29
+Emperor Dates Iranian Muzafati : 400 gms,200,140,400 gm,Emperor,₹ 0.35
+Organic Tattva Kabuli Chana : 500 gms,199,117,500 gm,Organic,₹ 0.23
+Date Crown Bumaan Dates : 500 gms,150,75,500 gm,Date,₹ 0.15
+Emperor Royal Peacock Seeded Dates (Khajur) : 500 gms,125,93,500 gm,Emperor,₹ 0.19
+Emperor Dates - Deseeded Dates : 500 gms,150,120,500 gm,Emperor,₹ 0.24
+Nutraj Dry Dates (Chuara-Khareek) : 500 gms,249,189,500 gm,Nutraj,₹ 0.38
+Apis Royal Zahidi Premium Dates : 500 gms,125,109,500 gm,Apis,₹ 0.22
+Falcon Safawi Dates : 500 gms,535,414,500 gm,Falcon,₹ 0.83
+Nutraj Fard Premium Dates : 500 gms,299,209,500 gm,Nutraj,₹ 0.42
+Satyam Udid (Urad) Dal : 500 gms,146,135,500 gm,Satyam,₹ 0.27
+King Solomon Medjoul Natural Dates : 500 gms,990,750,500 gm,King,₹ 1.50
+Premia Black Dried Dates (Kharik) : 200 gms,175,110,200 gm,Premia,₹ 0.55
+Falcon Aqaba Dates : 500 gms,150,115,500 gm,Falcon,₹ 0.23
+Emperor Premium Dates Zahidi : 500 gms,150,99,500 gm,Emperor,₹ 0.20
+Falcon UAE Dates Seeded : 500 gms,165,119,500 gm,Falcon,₹ 0.24
+Emperor Dates - Dates with Seed : 500 gms,110,85,500 gm,Emperor,₹ 0.17
+Tata Sampann Organic Unpolished Urad Dal : 500 gms,145,130,500 gm,Tata,₹ 0.26
+Organic Tattva Urad Dal White Split : 500 gms,170,135,500 gm,Organic,₹ 0.27
+King Solomon Oriental Dates : 250 gms,249,124,250 gm,King,₹ 0.50
+Date Crown Khenaizi (Khajur) : 500 gms,252,185,500 gm,Date,₹ 0.37
+Royal Delight Finest Oman Dates : 400 gms,249,195,400 gm,Royal,₹ 0.49
+Organic Tattva Urad Dal Whole White : 500 gms,175,115,500 gm,Organic,₹ 0.23
+Azmah Dates : 500 gms,625,464,500 gm,Azmah,₹ 0.93
+Royal Delight Finest Ajwa Dates : 250 gms,549,390,250 gm,Royal,₹ 1.56
+Falcon Zahdi Dates Seedless : 500 gms,160,121,500 gm,Falcon,₹ 0.24
+Al Barakah Emirates Dates : 500 gms,220,110,500 gm,Al,₹ 0.22
+Falcon Zahdi Dates Seeded : 500 gms,125,105,500 gm,Falcon,₹ 0.21
+Nutraj Dry Dates (Yellow) Chuara-Kharek Pouch : 500 gms,249,189,500 gm,Nutraj,₹ 0.38
+Premia Udid Dal Chilti : 500 gms,115,85,500 gm,Premia,₹ 0.38
+Premia Udid Dal: 1Kg,233,168,1 kg,Premia,₹ 0.38
+Masoor Dal : 1 kg,135,108,1 kg,Masoor,₹ 108.00
+Premia Kismis Indian (Raisins) : 500 gms,178,124,500 gm,Premia,₹ 0.25
+Premia Chana Big : 500 gms,98,78,500 gm,Premia,₹ 0.25
+Premia Masoor Whole : 500 gms,68,54,500 gm,Premia,₹ 0.25
+Nutraj Raisins - Kishmish : 500 gms,299,129,500 gm,Nutraj,₹ 0.26
+Tata Sampann Masoor Dal : 1 kg,170,130,1 kg,Tata,₹ 130.00
+Chana Green : 500 gms,100,72,500 gm,Chana,₹ 0.14
+Premia Kismis Black Seedless : 100 gms,68,43,100 gm,Premia,₹ 0.43
+Satyam Masur Dal : 500 gms,83,76,500 gm,Satyam,₹ 0.15
+KMK Black Raisins Seedless (Kismis) : 200 gms,150,94,200 gm,KMK,₹ 0.47
+Wonderland Raisins : 500 gms,300,99,500 gm,Wonderland,₹ 0.20
+Premia Kismis Selected : 100 gms,108,76,100 gm,Premia,₹ 0.76
+Mahafruit Premium Quality Kishmish (Raisins) : 500 gms,215,149,500 gm,Mahafruit,₹ 0.30
+Tata Sampann Organic Unpolished (Kala) Chana : 500 gms,105,94,500 gm,Tata,₹ 0.19
+Mahafruit Black Seeded Kishmish : 200 gms,139,75,200 gm,Mahafruit,₹ 0.38
+KMK Green Raisins Afghan (Kismis) : 200 gms,215,175,200 gm,KMK,₹ 0.88
+Organic Tattva Kala Chana : 500 gms,120,79,500 gm,Organic,₹ 0.16
+Satyam Chana Small : 500 gms,86,79,500 gm,Satyam,₹ 0.16
+Tata Sampan 100% Organic Unpolished Masoor Dal : 500 gms,105,94,500 gm,Tata,₹ 0.19
+Satyam Chana Green : 500 gms,116,107,500 gm,Satyam,₹ 0.21
+Satyam Chana Mosambi : 500 gms,116,107,500 gm,Satyam,₹ 0.21
+Carnival Seedless Black Raisins : 250 gms,235,188,250 gm,Carnival,₹ 0.75
+Premia Kismis Black (Raisins) : 200 gms,129,80,200 gm,Premia,₹ 0.40
+Premia Chana Small : 1 kg,134,104,1 kg,Premia,₹ 0.40
+Premia Desi Kabuli Chana : 1 Kg,321,258,1 kg,Premia,₹ 0.40
+Premia Masoor Dal : 1 kg,134,108,1 kg,Premia,₹ 0.40
+Premia Chana Green : 500 gms,100,71,500 gm,Premia,₹ 0.40
+Nutraj Daily Walnut Kernels : 500 gms,899,529,500 gm,Nutraj,₹ 1.06
+Nutraj California Whole Walnut (Akrod) : 1 kg,999,475,1 Kg,Nutraj,₹ 475.00
+Premia Akrod Magaj (Walnut Kernels) : 100 gms,255,158,100 gm,Premia,₹ 1.58
+Nutraj California Walnut Kernels (Akrod Magaj) : 250 gms,499,325,250 gm,Nutraj,₹ 1.30
+Daliya : 500 gms,99,67,500 gm,Daliya,₹ 0.13
+Udid (Urad) Black Whole : 500 gms,102,81,500 gm,Udid,₹ 0.16
+Wonderland Walnuts : 1 kg,950,499,1 kg,Wonderland,₹ 499.00
+Urad Dal Premium : 500 gms,141,100,500 gm,Urad,₹ 0.20
+Prov Premium Whole Walnut : 500 gms,649,259,500 gm,Prov,₹ 0.52
+KMK Walnut Shell (Whole) : 500 gms,475,369,500 gm,KMK,₹ 0.74
+Nutraj Chilean Walnuts : 1 kg,999,529,1 kg,Nutraj,₹ 529.00
+Satyam Dalia : 200 gms,51,47,200 gm,Satyam,₹ 0.23
+KMK Walnut Kernel (Akrod) : 150 gms,325,260,150 gm,KMK,₹ 1.73
+Satyam Udid (Urad) Whole : 500 gms,129,119,500 gm,Satyam,₹ 0.24
+Carnival Premium Walnut : 250 gms,665,466,250 gm,Carnival,₹ 1.86
+Premia Daliya : 200 gms,42,28,200 gm,Premia,₹ 1.86
+Premia Daliya: 500gms,95,67,500 gm,Premia,₹ 1.86
+Premia Udid : 500 gms,121,95,500 gm,Premia,₹ 1.86
+Premia Moong Whole: 1 Kg,220,174,1 kg,Premia,₹ 1.86
+Premia Matki : 500 gms,88,65,500 gm,Premia,₹ 1.86
+Premia Mix Dal : 500 gms,115,82,500 gm,Premia,₹ 1.86
+Satyam Moong Whole : 500 gms,159,147,500 gm,Satyam,₹ 0.29
+Premia Mix Dal : 1 kg,211,163,1 kg,Premia,₹ 0.29
+Premia Jardalu : 100 gms,112,73,100 gm,Premia,₹ 0.73
+Dal - Rice Mix : 500 gms,71,57,500 gm,Dal,₹ 0.11
+Premia Moong Whole Small : 500 gms,99,74,500 gm,Premia,₹ 0.11
+Premia Moong Whole : 500 gms,120,89,500 gm,Premia,₹ 0.11
+Masoor Whole : 1 kg,127,98,1 kg,Masoor,₹ 98.00
+Premia Mixed Dry Fruits : 500 gms,361,270,500 gm,Premia,₹ 0.54
+KMK Mix Mewa Cut Dry Fruits : 200 gms,250,215,200 gm,KMK,₹ 1.07
+Nutraj Mix Dry Fruits : 450 gms,399,289,450 gm,Nutraj,₹ 0.64
+Satyam Masoor Whole : 500 gms,83,77,500 gm,Satyam,₹ 0.15
+KMK Cranberry Whole : 200 gms,199,139,200 gm,KMK,₹ 0.69
+Nutraj Snack Rite Nuts & Dry Fruit Mix : 150 gms,299,149,150 gm,Nutraj,₹ 0.99
+Dried Cranberry : 100 gms,149,99,100 gm,Dried,₹ 0.99
+Dried Blueberry : 100 gms,299,199,100 gm,Dried,₹ 1.99
+Nutraj Snack Rite Sports Mix : 150 gms,299,149,150 gm,Nutraj,₹ 0.99
+Nutraj Snack Rite Cranberry & Nuts Trio : 150 gms,299,149,150 gm,Nutraj,₹ 0.99
+Carnival Cranberry Premium Whole : 200 gms,225,160,200 gm,Carnival,₹ 0.80
+Nutraj Snack Rite Nutty Corn Mix : 150 gms,299,149,150 gm,Nutraj,₹ 0.99
+Carnival Cocktail Mix Nuts : 250 gms,499,389,250 gm,Carnival,₹ 1.56
+Premium Dry Fruit Box : 600 gms,950,599,600 gm,Premium,₹ 1.00
+Premium Dry Fruit Box : 400 gms,600,449,400 gm,Premium,₹ 1.12
+Premia Dryfruit Mix : 500 gms,417,265,500 gm,Premia,₹ 1.12
+Carnival Shahi Uphaar : 300 gms,549,389,300 gm,Carnival,₹ 1.12
+Prov Select Dry Fruits Mix : 500 gms,599,299,500 gm,Prov,₹ 1.12
+Vatana Green : 500 gms,108,75,500 gm,Vatana,₹ 0.15
+Premia Mix Chana-Vatna (sprout) : 500 gms,79,64,500 gm,Premia,₹ 0.15
+Vatana Black : 500 gms,78,55,500 gm,Vatana,₹ 0.11
+Premia Charoli : 100 gms,380,257,100 gm,Premia,₹ 2.57
+Satyam Safed (White) Vatana : 500 gms,119,110,500 gm,Satyam,₹ 0.22
+Satyam Vatana Green : 500 gms,119,110,500 gm,Satyam,₹ 0.22
+Satyam Vatana Black : 500 gms,83,77,500 gm,Satyam,₹ 0.15
+KMK Charoli : 100 gms,221,175,100 gm,KMK,₹ 1.75
+Premia Vatana Green : 500 gms,107,77,500 gm,Premia,₹ 1.75
+Premia Vatana White : 500 gms,78,54,500 gm,Premia,₹ 1.75
+Makhana (Foxnuts) : 100 gms,168,122,100 gm,Makhana,₹ 1.22
+Premia Jawari Solapur : 1 kgs,123,99,1 kg,Premia,₹ 1.22
+Matki : 1 kg,161,126,1 kg,Matki,₹ 126.00
+Morya Phool Makhana (Fox Nuts) : 100 gms,130,99,100 gm,Morya,₹ 0.99
+Matki Small : 500 gms,118,81,500 gm,Matki,₹ 0.16
+Moong Whole Small : 500 gms,101,72,500 gm,Moong,₹ 0.14
+Mixed Pulses For Sprout : 500 gms,98,68,500 gm,Mixed,₹ 0.14
+Farmley Himalayan Salted Makhana Jar : 83 gms,149,99,83 gm,Farmley,₹ 1.19
+Satyam Math (Matki) : 500 gms,129,119,500 gm,Satyam,₹ 0.24
+Farmley Minty Pudina Makhana Jar : 83 gms,199,125,83 gm,Farmley,₹ 1.51
+Farmley Tangy Tomato Makhana Jar : 83 gms,149,89,83 gm,Farmley,₹ 1.07
+Satyam Makhana : 50 gms,93,86,50 gm,Satyam,₹ 1.72
+Mix Chana Vatana (For Sprout) : 500 gms,79,58,500 gm,Mix,₹ 0.12
+Satyam Wal Kadwa : 500 gms,228,212,500 gm,Satyam,₹ 0.42
+Premia Mix Pulse (Sprout) : 500 gms,97,75,500 gm,Premia,₹ 0.42
+Nutraj Dried Figs (Anjeer) : 500 gms,899,699,500 gm,Nutraj,₹ 1.40
+Nutraj Dried Anjeer : 250 gm,449,369,250 gm,Nutraj,₹ 1.48
+Premia Anjeer (Figs) : 100 gms,232,156,100 gm,Premia,₹ 1.56
+Healthy Crunch Anjeer (Figs) : 250 gms,375,339,250 gm,Healthy,₹ 1.36
+Kulith (Horse Gram) : 500 gms,106,73,500 gm,Kulith,₹ 0.15
+Carnival Premium Anjeer Figs : 250 gms,495,415,250 gm,Carnival,₹ 1.66
+KMK Anjeer (Figs) : 200 gms,429,315,200 gm,KMK,₹ 1.57
+Premia Groundnut : 500 gms,137,104,500 gm,Premia,₹ 0.21
+Satyam Singdana (Groundnut) : 500 gms,119,109,500 gm,Satyam,₹ 0.22
+24 Mantra Organic Peanut : 500 gms,170,134,500 gm,24,₹ 0.27
+Organic Tattva Groundnuts (Peanuts) : 500 gms,185,115,500 gm,Organic,₹ 0.23
+Premia Sugar : 5 kgs,313,243,5 kg,Premia,₹ 48.60
+Premia Jeera : 200 gms,158,142,200 gm,Premia,₹ 0.71
+Premia Poha Jada : 1 kg,78,65,1 kg,Premia,₹ 65.00
+Premia Sabudana : 1 kg,104,89,1 kg,Premia,₹ 89.00
+Premia Green Elaichi : 50 gms,298,210,50 gm,Premia,₹ 4.20
+Premium Jaggery : 900 gms,90,64,900 gm,Premium,₹ 0.07
+Keshar Premium Natural Jaggery Jar : 900 gms,110,90,900 gm,Keshar,₹ 0.10
+Premia Kashmiri Chilli Powder Deluxe : 500 gms,470,313,500 gm,Premia,₹ 0.63
+Premia Badishep : 200 gms,162,105,200 gm,Premia,₹ 0.53
+Premia Black Pepper : 100 gms,162,111,100 gm,Premia,₹ 1.11
+Premia Dhaniya : 400 gms,152,105,400 gm,Premia,₹ 0.26
+Premia Til White : 500 gms,168,126,500 gm,Premia,₹ 0.25
+Premia Green Elaichi Economy : 10 gms,39,30,10 gm,Premia,₹ 3.00
+Premia Kashmiri Chilli Powder : 1 kg,880,608,1 kg,Premia,₹ 608.00
+Premia Cassia Taj : 100 gms,100,64,100 gm,Premia,₹ 0.64
+Premia Lukhnowi Badishep : 100 gms,80,56,100 gm,Premia,₹ 0.56
+Premia Dry Coconut : 500 gms,148,111,500 gm,Premia,₹ 0.22
+Jaggery : 900 gms,90,64,900 gm,Jaggery,₹ 0.07
+Premia Haldi Powder Deluxe : 200 gms,58,37,200 gm,Premia,₹ 0.18
+Mamra (Puffed Rice) : 500 gms,60,39,500 gm,Mamra,₹ 0.08
+Premia Rai : 200 gms,31,23,200 gm,Premia,₹ 0.12
+Premia Dhania Powder Deluxe : 500 gms,105,72,500 gm,Premia,₹ 0.14
+Premia Ajma : 100 gm,64,42,100 gm,Premia,₹ 0.42
+Premia Khaskhas : 100 gms,252,181,100 gm,Premia,₹ 1.81
+Premia Jeera Powder Deluxe : 100 gms,108,84,100 gm,Premia,₹ 0.84
+Premia Guntur Chilli : 100 gms,63,43,100 gm,Premia,₹ 0.43
+Premia Roasted Badishep : 100 gms,71,44,100 gm,Premia,₹ 0.44
+Premia Emli : 500 gms,138,98,500 gm,Premia,₹ 0.20
+Premia Coconut Powder : 200 gms,73,53,200 gm,Premia,₹ 0.27
+Premia Kasoori Methi : 100 gms,145,63,100 gm,Premia,₹ 0.63
+Premia Lawang : 20 gms,50,38,20 gm,Premia,₹ 1.90
+Premia Rai Small : 200 gms,35,24,200 gm,Premia,₹ 0.12
+Premia Shaha Jeera : 50 gms,71,46,50 gm,Premia,₹ 0.92
+Premia Poha Basmati : 500 gms,74,53,500 gm,Premia,₹ 0.11
+Premia Star Anise (Badiyan) : 100 gms,152,114,100 gm,Premia,₹ 1.14
+Premia Poha Patla : 500 gms,50,35,500 gm,Premia,₹ 0.07
+Premia Chilli Kashmiri : 100 gms,182,130,100 gm,Premia,₹ 1.30
+Premia Sabudana Small : 500 gms,58,46,500 gm,Premia,₹ 0.09
+Premia Black Pepper Powder : 100 gms,134,85,100 gm,Premia,₹ 0.85
+Premia Methi : 100 gms,20,14,100 gm,Premia,₹ 0.14
+Amchur Powder : 100 gms,40,28,100 gm,Amchur,₹ 0.28
+Premia Dhaniya Dal : 100 gms,47,31,100 gm,Premia,₹ 0.31
+Kolhapuri Surati Kurmura : 500 gms,80,49,500 gm,Kolhapuri,₹ 0.10
+Premia Jaipatri (Mace) : 20 gms,160,115,20 gm,Premia,₹ 5.75
+Premia Dhania Jeera Mix Khandela : 200 gms,89,57,200 gm,Premia,₹ 0.28
+Premia Dhania Powder : 200 gms,49,31,200 gm,Premia,₹ 0.15
+Premia Sugar Crystals (Khadi Shakkar) : 200 gms,22,14,200 gm,Premia,₹ 0.07
+Premia Garam Masala Powder Deluxe : 100 gms,73,46,100 gm,Premia,₹ 0.46
+Premia Bedgi Chilli : 100 gms,132,88,100 gm,Premia,₹ 0.88
+Premia Masala Elaichi : 100 gms,281,191,100 gm,Premia,₹ 1.91
+Premia Alsi : 100 gms,15,10,100 gm,Premia,₹ 0.10
+Premia Malwani Masala Deluxe : 200 gms,120,77,200 gm,Premia,₹ 0.39
+Premia Tej Patta : 50 gms,29,13,50 gm,Premia,₹ 0.26
+Premia Ginger Powder : 100 gms,61,39,100 gm,Premia,₹ 0.39
+Premia Til Black : 100 gms,48,30,100 gm,Premia,₹ 0.30
+Premia Sugar Candy : 200 gms,31,17,200 gm,Premia,₹ 0.09
+Premia Amsul Wet Kokam : 200 gms,107,65,200 gm,Premia,₹ 0.33
+Premia Sabja : 100 gms,58,43,100 gm,Premia,₹ 0.43
+Premia Dry Ginger (Sunth) : 100 gms,114,71,100 gm,Premia,₹ 0.71
+Premia Eating Soda : 200 gms,28,16,200 gm,Premia,₹ 0.08
+Premia Dinkh (Edible Gum) : 100 gms,47,31,100 gm,Premia,₹ 0.31
+Premia Jaifal : 4 Pieces,59,38,4 pcs,Premia,₹ 9.50
+Premia Kokam Rind Lonavala : 100 gms,100,58,100 gm,Premia,₹ 0.58
+Premia Kalvanji : 100 gms,46,29,100 gm,Premia,₹ 0.29
+Premia Reshampatti Chilli Khandela : 500 gms,235,155,500 gm,Premia,₹ 0.31
+Premia Sakariya : 200 gms,22,12,200 gm,Premia,₹ 0.06
+Premia Sunday Mix Masala : 200 gms,118,75,200 gm,Premia,₹ 0.38
+Premia Dagad Phool (Black Stone Flower) : 50 gms,77,43,50 gm,Premia,₹ 0.86
+Premia Nimbu Phool (Citric Acid) : 50 gms,18,11,50 gm,Premia,₹ 0.22
+Premia Halim : 100 gms,36,21,100 gm,Premia,₹ 0.21
+Miki Maize (Makai) Poha : 500 gms,42,38,500 gm,Miki,₹ 0.08
+Fortune Sunlite Refined Sunflower Oil : 1 Litre,135,120,1 L,Fortune,₹ 120.00
+Fortune Refined Sunflower Oil Tin : 15 Litres,1925,1635,15 L,Fortune,₹ 109.00
+Sunrich Refined Sunflower Oil : 899 gms,134,104,899 gm,Sunrich,₹ 0.12
+Fortune Sunlite Refined Sunflower Oil : 15 Litres,1975,1725,15 L,Fortune,₹ 115.00
+Sunday Refined Sunflower Oil : 905 gms,190,109,905 gm,Sunday,₹ 0.12
+Swaad Refined Sunflower Oil : 1 Litre,150,101,1 L,Swaad,₹ 101.00
+Gemini Refined Sunflower Oil : 5 Litres,750,615,5 L,Gemini,₹ 123.00
+Sunday Refined Sunflower Oil : 15 Litres,2950,1695,15 L,Sunday,₹ 113.00
+Dhara Refined Sunflower Oil : 1 Litre,140,114,1 L,Dhara,₹ 114.00
+Sunny Sun Lite Refined Sunflower Oil : 1 Litre,140,98,1 L,Sunny,₹ 98.00
+Gemini Refined Sunflower Oil : 15 Litres,1900,1689,15 L,Gemini,₹ 112.60
+Aadhaar Refined Sunflower Oil Pouch : 900 gms,128,99,900 gm,Aadhaar,₹ 0.11
+Liberty Vista Refined Sunflower Oil : 899 gms,180,101,899 gm,Liberty,₹ 0.11
+Dhara Refined Sunflower Oil : 15 Litres,2145,1689,15 L,Dhara,₹ 112.60
+Dalda Refined Sunflower Oil Pouch : 1 Litre,144,99,1 L,Dalda,₹ 99.00
+Sweekar Refined Sunflower Oil Jar : 15 Litres,1875,1679,15 L,Sweekar,₹ 111.93
+Sundrop Superlite Advanced Sunflower Oil : 1 Litre,180,169,1 L,Sundrop,₹ 169.00
+Sunny Sun Lite Refined Sunflower Oil Tin : 15 Litres,1980,1615,15 L,Sunny,₹ 107.67
+Saffola Gold Oil : 1 Litre,160,146,1 L,Saffola,₹ 146.00
+Saffola Active Oil : 1 Litre,160,114,1 L,Saffola,₹ 114.00
+Saffola Active Oil : 15 Litres,2425,1620,15 L,Saffola,₹ 108.00
+Saffola Gold Oil : 15 Litres,2500,2199,15 L,Saffola,₹ 146.60
+Saffola Total Pro Heart Conscious Oil Pouch : 1 Litre,200,186,1 L,Saffola,₹ 186.00
+Hudson Canola Oil : 1 Litre,350,249,1 L,Hudson,₹ 249.00
+Fortune Rice Bran Health Oil : 1 Litre,149,125,1 L,Fortune,₹ 125.00
+Premia Refined Rice Bran Oil : 1 Litre,150,100,1 L,Premia,₹ 100.00
+Fortune Rice Bran Health Oil : 15 Litres,1999,1765,15 L,Fortune,₹ 117.67
+Svity Kolam Rice Bran Oil Pouch : 1 Litre,145,100,1 L,Svity,₹ 0.10
+Riso 100% Rice Bran Oil Jar : 5 Litre,810,685,5 L,Riso,₹ 137.00
+Riso 100% Rice Bran Oil Pouch : 1 Litre,165,135,1 L,Riso,₹ 0.14
+Dhara Life Refined Rice Bran Oil : 1 Litre,160,114,1 L,Dhara,₹ 114.00
+Kings Rice Bran Physically Refined Rice Bran Oil : 900 gms,120,97,900 gm,Kings,₹ 0.11
+Gemini Rice Bran Oil : 1 Litre,150,125,1 L,Gemini,₹ 125.00
+Ricela Refined Rice Bran Oil : 5 Litres,855,628,5 L,Ricela,₹ 125.60
+Guinea Filtered Groundnut Oil : 15 Litres,3700,2869,15 L,Guinea,₹ 191.27
+Gulab Groundnut Oil : 5 Litres,1191,869,5 L,Gulab,₹ 173.80
+Dhara Filtered Groundnut Oil Pouch : 1 Litre,250,205,1 L,Dhara,₹ 205.00
+Fortune Filtered Groundnut Oil : 1 Litre,240,196,1 L,Fortune,₹ 196.00
+Gulab Filtered Groundnut Oil : 15 Litres,3524,2699,15 L,Gulab,₹ 179.93
+Guinea Filtered Groundnut Oil : 5 Litres,1325,1070,5 L,Guinea,₹ 214.00
+RRO Primio Gold Filtered Groundnut Oil : 1 Litre,255,181,1 L,RRO,₹ 181.00
+RRO Primio Refined Groundnut Oil : 5 Litres,1275,1079,5 L,RRO,₹ 215.80
+Guinea Lite Groundnut Oil : 5 Litres,1300,1045,5 L,Guinea,₹ 209.00
+RRO Primio Refined Groundnut Oil : 15 Litres,4000,2899,15 L,RRO,₹ 193.27
+Gramiyaa Wood Cold Pressed Groundnut Oil : 1 Litre,490,399,1 L,Gramiyaa,₹ 399.00
+RRO Primio Gold Filtered Groundnut Oil : 15 Litres,3500,2725,15 L,RRO,₹ 181.67
+Gramiyaa Wood Cold Pressed Coconut Oil : 500 ml,290,228,500 ml,Gramiyaa,₹ 0.46
+Borges Olive Oil For Indian Cooking : 2 Litres,3500,2249,2 L,Borges,₹ 1124.50
+Del Monte Extra Light Olive Oil : 2 Litres,2700,1779,2 L,Del,₹ 889.50
+Borges Extra Virgin Olive Oil : 1 Litre,2000,1199,1 L,Borges,₹ 1199.00
+Leonardo Extra Light Olive Oil : 2 Litres,2599,1545,2 L,Leonardo,₹ 772.50
+Leonardo Olive Pomace Oil : 5 Litres,4099,2899,5 L,Leonardo,₹ 579.80
+Figaro Olive Oil Tin : 200 ml,449,399,200 ml,Figaro,₹ 2.00
+Figaro Extra Virgin Olive Oil : 500 ml,1099,749,500 ml,Figaro,₹ 1.50
+Bertolli Extra Light Tasting Olive Oil : 2 Litres,3999,2075,2 L,Bertolli,₹ 1037.50
+Borges Pure Olive Oil - Classic : 1 Litre,1800,1069,1 L,Borges,₹ 1069.00
+Patanjali Kachi Ghani Mustard Oil : 1 Litre,145,134,1 L,Patanjali,₹ 134.00
+Patanjali Kachi Ghani Mustard Oil Pouch : 1 Litre,140,125,1 L,Patanjali,₹ 125.00
+Fortune Kachi Ghani Mustard Oil Bottle : 1 Litre,185,146,1 L,Fortune,₹ 146.00
+Fortune Kachi Ghani Mustard Oil : 1 Litre,180,144,1 L,Fortune,₹ 144.00
+Dhara Kachighani (Mustard) Oil : 1 Litre,160,145,1 L,Dhara,₹ 145.00
+Dalda Kachi Ghani Oil : 1 Litre,165,139,1 L,Dalda,₹ 139.00
+Tez Mustard Kachchi Ghani Oil Bottle : 1 Litre,198,169,1 L,Tez,₹ 169.00
+RRO Premium Mustard Oil : 5 Litres,975,765,5 L,RRO,₹ 153.00
+Tez Mustard Kachchi Ghani Oil Pouch : 1 Litre,194,159,1 L,Tez,₹ 159.00
+RRO Mastdil Premium Mustard Oil Bottle : 1 Litre,195,155,1 L,RRO,₹ 155.00
+Radhuni Gold Refined Palmolein Oil : 870 gms,126,88,870 gm,Radhuni,₹ 0.10
+Ruchi Gold Refined Palmolein Oil : 870 gms,125,90,870 gm,Ruchi,₹ 0.10
+Tilsona Til Oil Bottle : 1 Litre,435,389,1 L,Tilsona,₹ 389.00
+Gemini Refined Soyabean Oil : 1 Litre,140,115,1 L,Gemini,₹ 115.00
+Swaad Soyabean Oil : 1 Litre,145,98,1 L,Swaad,₹ 98.00
+Idhayam Gingelly Oil : 1 Litre,559,489,1 L,Idhayam,₹ 489.00
+KLF Coconad 100% Edible Coconut Oil: 1 Litre,305,225,1 L,KLF,₹ 225.00
+RRO Til Dil Premium Til Oil Bottle : 1 Litre,360,285,1 L,RRO,₹ 285.00
+Fortune Plus Soya Health Oil : 1 Litre,130,116,1 L,Fortune,₹ 116.00
+KPL Shudhi Coconut Oil : 1 Litre,240,210,1 L,KPL,₹ 210.00
+Fortune Xpert Pro Immunity : 1 Litre,150,119,1 L,Fortune,₹ 119.00
+Idhayam Sesame Oil Bottle : 1 Litre,565,499,1 L,Idhayam,₹ 499.00
+Gramiyaa Wood Cold Pressed Sesame Oil : 1 Litre,690,545,1 L,Gramiyaa,₹ 545.00
+Gowardhan Pure Cow Ghee Pouch : 2x1 Litre,1450,1245,2x1L,Gowardhan,₹ 622.50
+Patanjali Cow Ghee : 1 Litre,720,665,1 L,Patanjali,₹ 665.00
+Mother Dairy Pure Cow Ghee : 1 Litre,685,585,1 L,Mother,₹ 585.00
+Amul Cow Ghee Pouch : 1 Litre,650,595,1 L,Amul,₹ 595.00
+Gowardhan Pure Cow Ghee : 1 Litre,749,669,1 L,Gowardhan,₹ 669.00
+Prabhat Dairy Cow Ghee Pouch : 1 Litre,725,555,1 L,Prabhat,₹ 555.00
+Dynamix Cow Ghee Pouch : 1 Litre,719,615,1 L,Dynamix,₹ 615.00
+Gowardhan Cow Ghee Tin : 5 Litres,3695,3199,5 L,Gowardhan,₹ 639.80
+Dynamix Cow Ghee Tin : 5 Litres,3595,3099,5 L,Dynamix,₹ 619.80
+Amul Cow Ghee Tin : 1 Litre,665,615,1 L,Amul,₹ 615.00
+Yeole Brothers Cow Ghee Pouch : 1 Litre,729,495,1 L,Yeole,₹ 0.49
+Dynamix Cow Ghee Jar : 1 Litre,735,635,1 L,Dynamix,₹ 635.00
+HariBol A2 Milk Desi Cow Ghee : 225 ml,450,299,225 ml,HariBol,₹ 1.33
+Organic India Organic Cow Ghee : 500 ml,715,595,500 ml,Organic,₹ 1.19
+Amul Pure Ghee Pouch : 1 Litre,635,585,1 L,Amul,₹ 585.00
+Haldiram's Deshi Ghee : 1 Litre,625,509,1 L,Haldiram's,₹ 509.00
+Chitale Dairy Cow Ghee Box : 1 Litre,720,669,1 L,Chitale,₹ 669.00
+Sagar Pure Ghee Pouch : 1 Litre,635,579,1 L,Sagar,₹ 579.00
+Govind Pure Ghee Pouch : 1 Litre,735,565,1 L,Govind,₹ 565.00
+Milky Mist Agmark Ghee Pouch : 1 Litre,820,512,1 L,Milky,₹ 512.00
+Amul Pure Ghee Tin : 1 Litre,650,615,1 L,Amul,₹ 615.00
+Chitale Dairy Ghee Box : 1 Litre,720,669,1 L,Chitale,₹ 669.00
+Milky Mist Ghee Jar : 200 ml,190,99,200 ml,Milky,₹ 0.49
+Sagar Pure Ghee Tin : 5 Litres,3200,2999,5 L,Sagar,₹ 599.80
+Amul Pure Ghee Jar : 500 ml,330,307,500 ml,Amul,₹ 0.61
+Parsi Dairy Farm Buffalo Ghee Jar : 500 ml,620,519,500 ml,Parsi,₹ 1.04
+Yeole Brothers Cow Ghee  Jar : 200 ml,185,129,200 ml,Yeole,₹ 0.65
+Dalda Vanaspati : 1 Litre,150,123,1 L,Dalda,₹ 123.00
+Aashirvaad Superior MP Wheat Atta : 10 kgs,568,479,10 kg,Aashirvaad,₹ 47.90
+Fortune Chakki Fresh Wheat Atta : 10 kgs,480,389,10 kg,Fortune,₹ 38.90
+Aashirvaad Select Sharbati Wheat Atta : 5 kgs,331,276,5 kg,Aashirvaad,₹ 55.20
+Aashirvaad Multigrain Atta : 5 kgs,359,278,5 kg,Aashirvaad,₹ 55.60
+Nature Fresh Sampoorna Superior MP Wheat Atta : 10 kgs,475,379,10 kg,Nature,₹ 37.90
+Pillsbury Chakki Fresh Wheat Atta : 10 kgs,551,375,10 kg,Pillsbury,₹ 37.50
+Taste For Life MP Sihore Chapati Fine Wheat Atta : 5 kgs,460,415,5 kg,Taste,₹ 83.00
+Wheat Flour Chakki Atta : 5 kgs,225,203,5 kg,Wheat,₹ 40.60
+Pillsbury Multi Grain Atta : 5 kgs,352,264,5 kg,Pillsbury,₹ 52.80
+Rice Atta : 1 kg,64,46,1 kg,Rice,₹ 46.00
+24 Mantra Organic Whole Wheat Atta : 5 kgs,370,310,5 Kg,24,₹ 62.00
+Aashirvaad Organic Whole Wheat Atta : 5 kgs,355,290,5 kg,Aashirvaad,₹ 58.00
+Organic Tattva Organic Wheat Flour : 5 kgs,399,259,5 kg,Organic,₹ 51.80
+Sunday Whole Wheat Chakki Fresh Atta : 10 kgs,425,335,10 kg,Sunday,₹ 33.50
+Taste For Life Premium Khapli Wheat Atta : 1 kg,162,148,1 kg,Taste,₹ 148.00
+Premia Ragi Flour (Nachni Atta) : 500 gms,41,27,500 gm,Premia,₹ 148.00
+Wheat Lokwan (Lokvan) : 10 kgs,570,449,10 kg,Wheat,₹ 44.90
+Premia Rawa : 1 kg,62,50,1 kg,Premia,₹ 44.90
+Premia Maida : 500 gms,34,25,500 gm,Premia,₹ 44.90
+Satyam Sabudana : 500 gms,77,71,500 gm,Satyam,₹ 0.14
+Premia Lapsi Rava Small : 500 gms,38,25,500 gm,Premia,₹ 0.14
+Nachni : 1 kg,89,67,1 kg,Nachni,₹ 67.00
+Bajari : 1 kg,69,46,1 kg,Bajari,₹ 46.00
+Premia Bajari : 1 kg,61,47,1 kg,Premia,₹ 46.00
+Makai For Popcorn : 200 gms,40,25,200 gm,Makai,₹ 0.13
+Satyam Lapsi Medium : 500 gms,37,34,500 gm,Satyam,₹ 0.07
+Pink Harvest Farms White Quinoa : 500 gms,225,112,500 gm,Pink,₹ 0.22
+True Elements Whole Grain Quinoa : 1 kg,650,325,1 Kg,TRUE,₹ 325.00
+Organic India Quinoa : 500 gms,295,265,500 gm,Organic,₹ 0.53
+Satyam Barley : 100 gms,15,14,100 gm,Satyam,₹ 0.14
+Premia Idli Rava : 1 kg,64,46,1 kg,Premia,₹ 0.14
+Premia Rava small : 1 kg,62,48,1 kg,Premia,₹ 0.14
+Premia Besan : 1 Kg,118,99,1 kg,Premia,₹ 0.14
+Fortune Chana Dal Besan : 1 kg,160,106,1 kg,Fortune,₹ 106.00
+Satyam Rava : 500 gms,39,36,500 gm,Satyam,₹ 0.07
+Tata Sampann Fine Besan : 1 kg,149,134,1 Kg,Tata,₹ 134.00
+Satyam Besan : 500 gms,73,67,500 gm,Satyam,₹ 0.13
+Lapsi Rava / Daliya : 500 gms,37,27,500 gm,Lapsi,₹ 0.05
+Nachni Atta : 500 gms,41,32,500 gm,Nachni,₹ 0.06
+Bhagirathi Jowar Atta : 500 gms,53,39,500 gm,Bhagirathi,₹ 0.08
+Satyam Maida : 500 gms,41,38,500 gm,Satyam,₹ 0.08
+Bhagirathi Modak Atta : 500 gms,65,45,500 gm,Bhagirathi,₹ 0.09
+Bhagirathi Thalipeeth Bhajni : 200 gms,45,35,200 gm,Bhagirathi,₹ 0.17
+Satyam Rajgira Flour : 500 gms,136,126,500 gm,Satyam,₹ 0.25
+Bhagirathi Rajgira Atta : 200 gms,75,55,200 gm,Bhagirathi,₹ 0.28
+Blue Bird Corn Flour : 500 gms,80,60,500 gm,Blue,₹ 0.12
+Bhagirathi Nachani (Ragi) Atta : 500 gms,55,42,500 gm,Bhagirathi,₹ 0.08
+Bhagirathi Upwas Bhajani : 200 gms,75,55,200 gm,Bhagirathi,₹ 0.28
+Bhagirathi Bajra Atta : 500 gms,40,36,500 gm,Bhagirathi,₹ 0.07
+Bhagirathi Rice Atta : 500 gms,36,28,500 gm,Bhagirathi,₹ 0.06
+Bhagirathi Shingada Atta : 200 gms,120,85,200 gm,Bhagirathi,₹ 0.42
+Makai Atta : 500 gms,41,27,500 gm,Makai,₹ 0.05
+Bajari Atta : 500 gms,43,30,500 gm,Bajari,₹ 0.06
+Brown Polson Cornflour : 500 gms,87,75,500 gm,Brown,₹ 0.15
+Organic Tattva Suji : 500 gms,75,54,500 gm,Organic,₹ 0.11
+Bhagirathi Sattu Atta : 200 gms,40,34,200 gm,Bhagirathi,₹ 0.17
+Satyam Rice Atta (Flour) : 500 gms,41,38,500 gm,Satyam,₹ 0.08
+Weikfield Corn Flour : 100 gms,30,25,100 gm,Weikfield,₹ 0.25
+K-Pra Ustav Modak Flour : 500 gms,70,45,500 gm,K-Pra,₹ 0.09
+Bhagirathi Multigrain Bhakari Atta : 500 gms,48,35,500 gm,Bhagirathi,₹ 0.07
+Bedekar Thalipith Bhajni : 200 gms,50,45,200 gm,Bedekar,₹ 0.23
+Bhagirathi Makai (Corn) Flour : 500 gms,36,28,500 gm,Bhagirathi,₹ 0.06
+Bedekar Rajgira Pith : 200 gms,80,65,200 gm,Bedekar,₹ 0.33
+Bedekar Bhajjia Mix : 200 gms,65,52,200 gm,Bedekar,₹ 0.26
+Bedekar Upwas Bhajni : 200 gms,80,65,200 gm,Bedekar,₹ 0.33
+Rambandhu Chakali Bhajani Pith : 500 gms,125,83,500 gm,Rambandhu,₹ 0.17
+K-Pra Anarasa Ready Mix : 500 gms,140,83,500 gm,K-Pra,₹ 0.17
+Bhagirathi Anarase Peeth : 500 gms,130,79,500 gm,Bhagirathi,₹ 0.16
+Premia Makai For Popcorn : 500 gms,96,63,500 gm,Premia,₹ 0.16
+Daawat Rozana Super Basmati Rice : 5 kgs,486,359,5 kg,Daawat,₹ 71.80
+India Gate Super Basmati Rice : 5 kgs,1120,729,5 kg,India,₹ 145.80
+India Gate Basmati Rice Rozana : 5 kgs,585,449,5 kg,India,₹ 89.80
+India Gate Mini Mogra (Broken) Basmati Rice : 10 kgs,680,549,10 kg,India,₹ 54.90
+Daawat Super Basmati Rice : 5 kgs,1095,649,5 kg,Daawat,₹ 129.80
+Daawat Devaaya Basmati Rice : 5 kgs,720,549,5 kg,Daawat,₹ 109.80
+Daawat Heritage Daily Feast Tukda Basmati Rice : 5 kgs,600,299,5 kg,Daawat,₹ 59.80
+Daawat Rozana Basmati Rice - Gold : 5 kgs,570,399,5 kg,Daawat,₹ 79.80
+India Gate Basmati Rice - Mini Mogra-II - Kanki : 10 kgs,520,429,10 kg,India,₹ 42.90
+Fortune Everyday Hamesha Basmati Rice : 5 kgs,465,365,5 kg,Fortune,₹ 73.00
+India Gate Basmati Rice - Mogra : 5 kgs,415,329,5 kg,India,₹ 65.80
+Daawat Biryani Basmati Rice : 1 kg,235,185,1 kg,Daawat,₹ 185.00
+India Gate Basmati Rice - Tibar : 5 kgs,865,649,5 kg,India,₹ 129.80
+India Gate Basmati Rice - Classic : 5 kgs,1210,999,5 kg,India,₹ 199.80
+Basmati Rice Mogra : 10 kgs,750,610,10 kg,Basmati,₹ 61.00
+Basmati Rice Broken (Kani) : 10 kgs,500,452,10 kg,Basmati,₹ 45.20
+Daawat Sehat Mini Mogra (Broken) Basmati Rice : 5 kgs,325,259,5 kg,Daawat,₹ 51.80
+Basmati Rice Mini Mogra (Broken) : 10 kgs,650,488,10 kg,Basmati,₹ 48.80
+Kohinoor Charminar Everyday Basmati Rice : 5 kgs,550,305,5 kg,Kohinoor,₹ 61.00
+Basmati Rice : 1 kg,164,128,1 kg,Basmati,₹ 128.00
+India Gate Regular Choice Basmati Rice : 5 kgs,525,392,5 Kg,India,₹ 78.40
+Daawat Pulav Basmati Rice : 5 kgs,820,620,5 kg,Daawat,₹ 124.00
+India Gate Basmati Rice - Dubar : 1 kg,164,139,1 kg,India,₹ 139.00
+Daawat Traditional Basmati Rice : 1 kg,225,195,1 kg,Daawat,₹ 195.00
+India Gate Pure Basmati Rice - Daily Delight : 5 Kgs,425,299,5 kg,India,₹ 195.00
+Devaaya Biryani Basmati Rice : 5 kgs,1076,639,5 kg,Devaaya,₹ 127.80
+Daawat Brown Basmati Rice : 1 kg,190,155,1 kg,Daawat,₹ 155.00
+Fortune Rozana Basmati Rice : 5 kgs,585,429,5 Kg,Fortune,₹ 85.80
+Fortune Everyday Basmati Rice : 5 kgs,845,575,5 Kg,Fortune,₹ 115.00
+GB Tini Basmati Rice : 5 kgs,270,219,5 kg,GB,₹ 43.80
+Devaaya Rozana Basmati Rice : 5 kgs,480,305,5 kg,Devaaya,₹ 61.00
+Mogra Basmati Rice : 1 kg,85,68,1 kg,Mogra,₹ 68.00
+Rice Basmati Wand : 5 kgs,800,628,5 kg,Rice,₹ 125.60
+India Gate Everyday Basmati Rice : 5 kgs,480,359,5 kg,India,₹ 71.80
+GB Daily Basmati Rice  : 5 kgs,415,314,5 kg,GB,₹ 62.80
+GB Rozana Basmati Rice :  5 kgs,455,347,5 kg,GB,₹ 69.40
+Lal Qilla Traditional Basmati Rice : 5 kgs,1330,1129,5 kg,Lal,₹ 225.80
+Kohinoor Royale Authentic biryani Basmati Rice : 500 gms,159,49,500 gm,Kohinoor,₹ 0.10
+Daawat Biryani Basmati Rice : 500 gms,118,95,500 gm,Daawat,₹ 0.19
+Tilda Premium Basmati Rice : 1 kgs,200,129,1 kg,Tilda,₹ 129.00
+GB Evergreen Basmati Rice : 5 kgs,625,492,5 kg,GB,₹ 98.40
+Tilda Rozana Basmati Rice : 1 kgs,180,90,1 kg,Tilda,₹ 90.00
+Lal Qilla Dubar Basmati Rice : 1 kg,115,99,1 kg,Lal,₹ 99.00
+Lal Qilla Tibar Basmati Rice : 1 kg,145,119,1 kg,Lal,₹ 119.00
+Lal Qilla Classic Whiteline Basmati Rice : 1 kg,200,175,1 kg,Lal,₹ 175.00
+Lal Qilla Brown Basmati Rice : 1 kg,200,170,1 kg,Lal,₹ 170.00
+Fortune Mogra Basmati Rice : 5 kgs,375,269,5 kg,Fortune,₹ 53.80
+Wada Kolam Sorted Rice : 10 kgs,900,676,10 kg,Wada,₹ 67.60
+HMT Kolam Sorted Rice : 10 kgs,700,649,10 kg,HMT,₹ 64.90
+Eco Kolam Jirasar Sorted Rice : 10 kgs,550,510,10 kg,Eco,₹ 51.00
+Daawat Lachkari Wada Kolam : 5 kgs,490,359,5 kg,Daawat,₹ 71.80
+Silky Kolam Rice : 1 kg,93,75,1 kg,Silky,₹ 75.00
+24 Mantra Organic Sonamasuri Brown Rice : 1 kg,99,89,1 kg,24,₹ 89.00
+India Gate Brown Rice : 1 kg,152,119,1 kg,India,₹ 119.00
+Devaaya Brown Rice : 1 kg,110,85,1 kg,Devaaya,₹ 0.09
+Tata Sampann Poha : 500 gms,53,35,500 gm,Tata,₹ 0.07
+Satyam Poha Jada : 500 gms,49,45,500 gm,Satyam,₹ 0.09
+Premia Red Poha : 500 gms,63,44,500 gm,Premia,₹ 0.09
+Satyam Poha (Powa) Patla : 500 gms,58,53,500 gm,Satyam,₹ 0.11
+Organic Tattva Red Poha : 500 gms,99,61,500 gm,Organic,₹ 0.12
+Jowar Kurmura : 200 gms,50,23,200 gm,Jowar Kurmura :,₹ 0.12
+Nachani (Ragi) Kurmura  : 200 gms,50,23,200 gm,Nachani (Ragi) Kurmura,₹ 0.12
+Bajri Kurmura  : 200 gms,50,23,200 gm,Bajri Kurmura,₹ 0.12
+Vijay Premium Murmura (Puffed Rice) : 500 gms,55,37,500 gm,Vijay,₹ 0.07
+Natraj Makai Pauva : 500 gms,45,33,500 gm,Natraj,₹ 0.07
+Ambemohar Rice : 5 kgs,650,508,5 kg,Ambemohar,₹ 101.60
+Idli Rice : 1 kg,80,63,1 kg,Idli,₹ 63.00
+Premia Bhagar : 500 gms,95,72,500 gm,Premia,₹ 63.00
+Daawat Sehat Mini Mogra II Basmati Rice : 10 kgs,500,379,10 kg,Daawat,₹ 37.90
+Red Rice : 1 kg,87,69,1 kg,Red,₹ 69.00
+Kohinoor Charminar Long Grain Rice : 5 kgs,599,299,5 kg,Kohinoor,₹ 59.80
+IR Boiled Rice : 1 kg,63,55,1 kg,IR,₹ 55.00
+Fortune Jubilee Regular Rice : 5 kgs,375,339,5 kg,Fortune,₹ 67.80
+Masoori Boiled Rice : 1 kg,72,58,1 kg,Masoori,₹ 58.00
+Satyam Sama : 500 gms,103,95,500 gm,Satyam,₹ 0.19
+Bemisal Shahi Pakwan Premium Rice : 5 kgs,328,245,5 Kg,Bemisal,₹ 49.00
+Satyam Jeera : 200 gms,287,266,200 gm,Satyam,₹ 1.33
+Premchand Gold Dhana Dal : 200 gms,90,65,200 gm,Premchand,₹ 0.33
+Premia Ajma : 200 gms,127,77,200 gm,Premia,₹ 0.39
+Satyam Kashmiri Chilly : 100 gms,182,169,100 gm,Satyam,₹ 1.69
+Satyam Bedgi Chilly : 100 gms,198,184,100 gm,Satyam,₹ 1.84
+Premia Chilli Guntur Stemless : 100 gms,77,51,100 gm,Premia,₹ 0.51
+Satyam Elaichi : 50 gms,318,295,50 gm,Satyam,₹ 5.90
+Premia Grated Dry Coconut : 200 gms,76,48,200 gm,Premia,₹ 0.24
+Satyam Pumpkin Seeds : 100 gms,104,96,100 gm,Satyam,₹ 0.96
+Satyam Watermelon Seed : 200 gms,319,296,200 gm,Satyam,₹ 1.48
+Masala Elaichi : 50 gms,146,109,50 gm,Masala,₹ 2.18
+Satyam Miri (Black Pepper) : 100 gms,176,160,100 gm,Satyam,₹ 1.60
+Satyam Khobra (Coconut) : 200 gms,78,72,200 gm,Satyam,₹ 0.36
+Farmley Premium Pumpkin Seeds : 200 gms,229,114,200 gm,Farmley,₹ 0.57
+Nisarga Dry Coconut : 500 gms,260,89,500 gm,Nisarga,₹ 0.18
+Satyam Badishop : 100 gms,97,90,100 gm,Satyam,₹ 0.90
+Farmley Premium Chia Seeds : 200 gms,199,91,200 gm,Farmley,₹ 0.46
+Tamarind : 500 gms,110,84,500 gm,Tamarind,₹ 0.17
+Satyam Elaichi Big : 50 gms,184,171,50 gm,Satyam,₹ 3.42
+Satyam Chia Seeds : 100 gms,82,76,100 gm,Satyam,₹ 0.76
+Amrut Dhana Dal : 200 gms,105,62,200 gm,Amrut,₹ 0.31
+Satyam Sunflower Seeds : 100 gms,62,57,100 gm,Satyam,₹ 0.57
+Satyam Dhania : 200 gms,108,100,200 gm,Satyam,₹ 0.50
+Satyam Taj (Cassia Bark) : 50 gms,38,35,50 gm,Satyam,₹ 0.70
+Farmley Premium Sunflower Seeds : 200 gms,480,70,200 gm,Farmley,₹ 0.35
+Amrut Roasted Sounf (Variyali) Mukhwas : 200 gms,140,70,200 gm,Amrut,₹ 0.35
+Pink Harvest Farms Chia Seeds : 350 gms,399,199,350 gm,Pink,₹ 0.57
+Satyam Pandi Chilli : 100 gms,78,72,100 gm,Satyam,₹ 0.72
+Satyam Bore Chilly : 100 gms,168,155,100 gm,Satyam,₹ 1.55
+Satyam Lavang : 50 gms,137,127,50 gm,Satyam,₹ 2.54
+Satyam Tamarind : 500 gms,185,172,500 gm,Satyam,₹ 0.34
+Satyam Ajma : 100 gms,107,99,100 gm,Satyam,₹ 0.99
+Satyam Pumpkin Seeds Salted : 100 gms,121,112,100 gm,Satyam,₹ 1.12
+Amrut Rajwadi Mukhwas : 200 gms,140,62,200 gm,Amrut,₹ 0.31
+Satyam Rai : 200 gms,48,44,200 gm,Satyam,₹ 0.22
+Satyam Garam Masala Whole : 100 gms,145,134,100 gm,Satyam,₹ 1.34
+Satyam Methi : 100 gms,28,26,100 gm,Satyam,₹ 0.26
+Pink Harvest Farms Tri-Colour Quinoa : 350 gms,399,199,350 gm,Pink,₹ 0.57
+Satyam Quinoa : 100 gms,58,53,100 gm,Satyam,₹ 0.53
+Satyam Sabja : 100 gms,66,61,100 gm,Satyam,₹ 0.61
+Everest Kashmirilal Red Chilli Powder : 100 gms,124,97,100 gm,Everest,₹ 0.97
+Everest Tikhalal Chilli Powder : 200 gms,136,121,200 gm,Everest,₹ 0.60
+Maggi Masala Magic : 120 gms,100,85,120 gm,Maggi,₹ 0.71
+Everest Garam Masala : 100 gms,100,86,100 gm,Everest,₹ 0.86
+Ramdev Strong Hing : 100 gms,290,220,100 gm,Ramdev,₹ 2.20
+Premia Extra Strong Hing Powder : 100 gms,190,99,100 gm,Premia,₹ 0.99
+Everest Kitchen King Masala : 100 gms,90,81,100 gm,Everest,₹ 0.81
+LG Hing : 200 gms,356,259,200 gm,LG,₹ 1.29
+Vandevi Hing Powder : 100 gms,166,83,100 gm,Vandevi,₹ 0.83
+Premia Yellow Hing Powder : 100 gms,120,59,100 gm,Premia,₹ 0.59
+Everest Pav Bhaji Masala : 100 gms,90,69,100 gm,Everest,₹ 0.69
+Everest Chaat Masala : 100 gms,85,74,100 gm,Everest,₹ 0.74
+Everest Shahi Biryani Masala : 50 gms,83,65,50 gm,Everest,₹ 1.30
+Vandevi Hing 2001 Powder : 100 gms,200,120,100 gm,Vandevi,₹ 1.20
+Everest Turmeric Powder : 200 gms,76,67,200 gm,Everest,₹ 0.34
+Everest Coriander Powder : 200 gms,84,68,200 gm,Everest,₹ 0.34
+Aashirvaad Chilli Powder : 500 gms,360,180,500 gm,Aashirvaad,₹ 0.36
+MTR Sambar Powder : 200 gms,160,125,200 gm,MTR,₹ 0.63
+Everest Chhole Masala : 100 gms,88,76,100 gm,Everest,₹ 0.76
+Jawai Rajwadi Tea Masala : 50 gms,149,49,50 gm,Jawai,₹ 0.98
+Premia Red Chilli Powder : 200 gms,92,43,200 gm,Premia,₹ 0.21
+Everest Yellow Hing Powder : 100 gms,240,192,100 gm,Everest,₹ 1.92
+Goldiee Red Chilli Powder Pouch : 500 gms,212,106,500 gm,Goldiee,₹ 0.21
+Jawai Badam Keshari Milk Masala : 20 gms,149,49,20 gm,Jawai,₹ 2.45
+Everest Tea Masala : 100 gms,132,105,100 gm,Everest,₹ 1.05
+Everest Sambhar Masala : 50 gms,42,37,50 gm,Everest,₹ 0.74
+Suhana Paneer Tikka Mix Masala : 50 gms,45,29,50 gm,Suhana,₹ 0.58
+Goldiee Kashmiri Mirch Powder : 100 gms,116,58,100 gm,Goldiee,₹ 0.58
+Everest Chicken Masala : 50 gms,48,41,50 gm,Everest,₹ 0.82
+Everest Meat Masala : 100 gms,92,78,100 gm,Everest,₹ 0.78
+Tata Sampann Turmeric Powder : 200 gms,76,68,200 gm,Tata,₹ 0.34
+Goldiee Turmeric Powder Pouch : 500 gms,99,83,500 gm,Goldiee,₹ 0.17
+Ramdev Chilli Powder : 200 gms,143,124,200 gm,Ramdev,₹ 0.62
+Suhana Paneer Butter Masala Mix : 50 gms,45,32,50 gm,Suhana,₹ 0.64
+Suhana Chicken Biryani Mix : 50 gms,45,35,50 gm,Suhana,₹ 0.70
+MTR Idli/Dosa/Chilly Chutney Powder : 200 gms,155,125,200 gm,MTR,₹ 0.63
+Badshah Hing Compounded : 50 gms,95,47,50 gm,Badshah,₹ 0.94
+Jalaram Brand Cardamom Powder : 20 gms,130,85,20 gm,Jalaram,₹ 4.25
+Suhana Mutter Paneer Mix Masala : 50 gms,45,32,50 gm,Suhana,₹ 0.64
+Goldiee Coriander Powder Pouch : 500 gms,107,53,500 gm,Goldiee,₹ 0.11
+Everest Tandoori Chicken Masala : 100 gms,92,81,100 gm,Everest,₹ 0.81
+Badshah Mumbai Bhaji Pav Masala : 100 gms,88,65,100 gm,Badshah,₹ 0.65
+Vandevi Hing 2001 Powder : 50 gms,100,75,50 gm,Vandevi,₹ 1.50
+Everest Kasuri Methi Powder : 100 gms,102,90,100 gm,Everest,₹ 0.90
+Everest Pani Puri Masala : 50 gms,40,35,50 gm,Everest,₹ 0.70
+Badshah Rajwadi Garam Masala : 100 gms,98,73,100 gm,Badshah,₹ 0.73
+Suhana Paneer Makhanwala Mix Masala : 50 gms,45,35,50 gm,Suhana,₹ 0.70
+Suhana Chicken Gravy Mix : 80 gms,50,32,80 gm,Suhana,₹ 0.40
+Catch Sprinklers Chat Masala : 100 gms,85,60,100 gm,Catch,₹ 0.60
+Kubal Sunday Malvani Masala : 200 gms,210,105,200 gm,Kubal,₹ 0.53
+Everest Sabji Masala : 50 gms,38,34,50 gm,Everest,₹ 0.68
+DMart Healthy Choice Chia Seeds : 100 gms,132,66,100 gm,DMart,₹ 0.66
+DMart Healthy Choice Roasted Pumpkin Seeds : 100 gms,168,74,100 gm,DMart,₹ 0.74
+Aashirvaad Turmeric Powder : 500 gms,180,119,500 gm,Aashirvaad,₹ 0.24
+Everest Kutilal Chilli Powder : 100 gms,68,55,100 gm,Everest,₹ 0.55
+Goldiee Garam Masala : 100 gms,82,41,100 gm,Goldiee,₹ 0.41
+Ramdev Turmeric Powder : 200 gms,86,76,200 gm,Ramdev,₹ 0.38
+Badshah Biryani Pulav Masala : 100 gms,165,120,100 gm,Badshah,₹ 1.20
+Snapin Chilli Flakes Spice : 35 gms,75,60,35 gm,Snapin,₹ 1.71
+Badshah Chat Masala : 100 gms,83,63,100 gm,Badshah,₹ 0.63
+Badshah Kitchen King Masala : 100 gms,88,65,100 gm,Badshah,₹ 0.65
+Suhana Butter Chicken Mix : 50 gms,45,32,50 gm,Suhana,₹ 0.64
+DMart Healthy Choice Roasted Watermelon Seeds : 100 gms,225,105,100 gm,DMart,₹ 1.05
+Badshah Dry Mango Powder : 50 gms,50,35,50 gm,Badshah,₹ 0.70
+Goldiee Kitchen King Masala : 100 gms,80,40,100 gm,Goldiee,₹ 0.40
+DMart Healthy Choice Roasted Sunflower Seeds : 100 gms,103,46,100 gm,DMart,₹ 0.46
+Badshah Kamal Tea Masala : 100 gms,132,110,100 gm,Badshah,₹ 1.10
+Aashirvaad Coriander Powder : 500 gms,230,115,500 gm,Aashirvaad,₹ 0.23
+Goldiee Chicken Masala : 100 gms,70,35,100 gm,Goldiee,₹ 0.35
+Kubal Chilli Powder : 500 gms,280,130,500 gm,Kubal,₹ 0.26
+Ramdev Coriander Powder : 200 gms,88,77,200 gm,Ramdev,₹ 0.39
+Bedekar Goda Masala : 100 gms,65,50,100 gm,Bedekar,₹ 0.50
+Badshah Black Pepper Powder : 50 gms,78,55,50 gm,Badshah,₹ 1.10
+Goldiee Chat Masala : 100 gms,70,35,100 gm,Goldiee,₹ 0.35
+Kapol Tea Masala : 100 gms,230,189,100 gm,Kapol,₹ 1.89
+Kapol Usal - Misal Masala : 50 gms,70,60,50 gm,Kapol,₹ 1.20
+Badshah Chicken Masala : 100 gms,90,64,100 gm,Badshah,₹ 0.64
+Jalaram Brand Cinnamon Powder : 50 gms,75,60,50 gm,Jalaram,₹ 1.20
+Badshah Punjabi Chhole Masala : 100 gms,86,64,100 gm,Badshah,₹ 0.64
+Suhana Mutton Gravy Mix : 80 gms,50,35,80 gm,Suhana,₹ 0.44
+Goldiee Pavbhaji Masala : 100 gms,74,37,100 gm,Goldiee,₹ 0.37
+Goldiee Sabji Masala : 100 gms,60,30,100 gm,Goldiee,₹ 0.30
+Goldiee Biryani/Pulav Masala : 50 gms,44,22,50 gm,Goldiee,₹ 0.44
+Snapin Cardamom Powder Spice : 40 gms,379,275,40 gm,Snapin,₹ 6.88
+Kubal Turmeric Powder : 500 gms,250,125,500 gm,Kubal,₹ 0.25
+Kapol Sandwich Masala : 50 gms,70,55,50 gm,Kapol,₹ 1.10
+Badshah Chana Masala : 100 gms,78,65,100 gm,Badshah,₹ 0.65
+Goldiee Meat Masala Special : 100 gms,86,43,100 gm,Goldiee,₹ 0.43
+Goldiee Chhole Masala : 100 gms,76,38,100 gm,Goldiee,₹ 0.38
+Jalaram Brand Tea Masala with Saffron : 20 gms,60,48,20 gm,Jalaram,₹ 2.40
+MTR Paneer Masalas Variety Pack : 3x12 gms,30,15,3U X 12 gm,MTR,₹ 2.40
+Kapol Dabeli Masala : 50 gms,83,67,50 gm,Kapol,₹ 1.34
+Jalaram Brand Black Pepper Powder : 50 gms,85,68,50 gm,Jalaram,₹ 1.36
+Jalaram Brand Nutmeg (Jaifal) Powder : 10 gms,35,28,10 gm,Jalaram,₹ 2.80
+Jalaram Brand Kashmiri Milk Masala : 20 gms,94,75,20 gm,Jalaram,₹ 3.75
+Kubal SP Mix Usal Masala : 200 gms,150,75,200 gm,Kubal,₹ 0.38
+Tata I-Shakti Cooking Soda : 100 gms,20,18,100 gm,Tata,₹ 0.18
+Kubal Coriander Powder : 500 gms,200,100,500 gm,Kubal,₹ 0.20
+Bedekar Ready Mix Pickle Masala : 100 gms,75,65,100 gm,Bedekar,₹ 0.65
+Blue Bird Test-Mi-Nov Monosodium Glutamate : 25 gms,30,25,25 gm,Blue,₹ 1.00
+Chings Manchurian Miracle Masala : 13 gms,10,8,13 gm,Chings,₹ 0.62
+Mother's Recipe Rozaana Ginger & Garlic Paste : 700 gms,239,119,700 gm,Mother's,₹ 0.17
+Smith & Jones Ginger Garlic Paste : 200 gms,50,25,200 gm,Smith,₹ 0.13
+Dabur Hommade Coconut Milk : 200 ml,75,69,200 ml,Dabur,₹ 0.34
+Mother's Recipe Ginger Garlic Paste : 200 gms,50,35,200 gm,Mother's,₹ 0.17
+Hommade Tomato Puree : 200 gms,27,24,200 gm,Hommade,₹ 0.12
+Hommade Ginger Garlic Paste : 200 gms,50,25,200 gm,Hommade,₹ 0.13
+Everest Special Chatpat Kanda Lasun Masala : 200 gms,70,54,200 gm,Everest,₹ 0.27
+Maggi Magic Cubes - Vegetarian Masala : 40 gms,35,32,40 gm,Maggi,₹ 0.80
+Blue Bird Baking Powder : 50 gms,30,27,50 gm,Blue,₹ 0.54
+Everest Ginger Garlic Paste : 200 gms,50,45,200 gm,Everest,₹ 0.23
+Weikfield Baking Powder : 50 gms,25,21,50 gm,Weikfield,₹ 0.42
+Jalaram Kesar (Saffron) : 1 gm,340,240,1 gm,Jalaram,₹ 0.42
+Keya Wonder Hot Red Chilli Flakes: 40 gms,99,59,40 gm,Keya,₹ 1.48
+Keya Piri Piri : 80 gms,119,79,80 gm,Keya,₹ 0.99
+Snapin Oregano Herb : 20 gms,89,63,20 gm,Snapin,₹ 3.15
+Snapin Pizza Mix Seasoning : 45 gms,99,81,45 gm,Snapin,₹ 1.80
+Keya Oregano : 7 gms,109,74,7 gm,Keya,₹ 10.57
+Snapin Mixed Herbs : 20 gms,99,79,20 gm,Snapin,₹ 3.95
+Keya Pizza Seasoning : 40 gms,119,79,40 gm,Keya,₹ 1.98
+Snapin Pasta Mix Seasoning : 25 gms,99,75,25 gm,Snapin,₹ 3.00
+Nutrivalue Moringa Olifera Drum Stick Leaves Powder : 100 gms,170,123,100 gm,Nutrivalue,₹ 1.23
+Everest Kesari Milk Masala : 50 gms,210,189,50 gm,Everest,₹ 3.78
+Rasoi Magic Paneer Tikka Masala Spice Mix : 45 gms,52,26,45 gm,Rasoi,₹ 0.58
+Rasoi Magic Paneer Makhanwala Masala : 45 gms,52,42,45 gm,Rasoi,₹ 0.93
+Real Thai Coconut Milk : 250 ml,115,90,250 ml,Real,₹ 0.36
+Rasoi Magic Mutter Paneer Masala : 45 gms,52,39,45 gm,Rasoi,₹ 0.87
+Mother's Recipe Chicken Biryani Mix : 100 gms,55,27,100 gm,Mother's,₹ 0.27
+Rasoi Magic No Onion No Garlic Veg Kolhapuri Spice Mix : 45 gms,55,40,45 gm,Rasoi,₹ 0.89
+Rasoi Magic No Onion No Garlic Mutter Paneer Mix : 45 gms,55,40,45 gm,Rasoi,₹ 0.89
+Jalaram Brand Chhas Masala : 100 gms,80,55,100 gm,Jalaram,₹ 0.55
+Jalaram Brand Chat Masala : 100 gms,70,56,100 gm,Jalaram,₹ 0.56
+Rasoi Magic Veg Kolhapuri Mix : 45 gms,52,37,45 gm,Rasoi,₹ 0.82
+Rambandhu Chivada Masala : 50 gms,30,25,50 gm,Rambandhu,₹ 0.50
+Rambandhu Chakali Masala : 50 gms,30,21,50 gm,Rambandhu,₹ 0.42
+Bedekar Instant Chakli Bhajni :  500 gms,150,75,500 gm,Bedekar,₹ 0.15
+Suhana Kesari Milk Masala : 20 gms,75,55,20 gm,Suhana,₹ 2.75
+Flying Bird Vanilla Essence : 20 ml,50,40,20 ml,Flying,₹ 2.00
+Flying Bird Artificial Food Essence Shahi Biryani : 20 ml,90,70,20 ml,Flying,₹ 3.50
+Tata Salt - Evaporated Iodised : 1 kg,28,24,1 kg,Tata,₹ 24.00
+Puro Healthy Salt : 1 kg,110,95,1 Kg,Puro,₹ 95.00
+Tata Rock Salt : 1 kg,120,89,1 Kg,Tata,₹ 89.00
+Tata Salt Lite - Low Sodium Iodised : 1 kg,50,40,1 kg,Tata,₹ 40.00
+Rock Salt : 1 kg,99,45,1 kg,Rock,₹ 45.00
+Aashirvaad Salt : 1 kg,28,14,1 kg,Aashirvaad,₹ 14.00
+Tata SuperLite Salt : 1 kg,65,54,1 kg,Tata,₹ 54.00
+Catch Sprinklers Black Salt : 200 gms,45,38,200 gm,Catch,₹ 0.19
+Tata Salt - Iron Health : 1 kg,50,45,1 kg,Tata,₹ 0.04
+Satyam Sindhav Powder : 100 gms,14,13,100 gm,Satyam,₹ 0.13
+Madhur Pure & Hygienic Sugar : 5 kgs,315,266,5 kg,Madhur,₹ 53.20
+Premia Pithi Sugar : 500 gms,38,27,500 gm,Premia,₹ 0.05
+Organic Tattva Sugar : 1 kg,160,99,1 kg,Organic,₹ 99.00
+24 Mantra Organic Sugar : 1 kg,145,126,1 kg,24,₹ 126.00
+Organic Tattva Brown Sugar : 500 gms,90,72,500 gm,Organic,₹ 0.14
+Satyam Sugar Bura : 500 gms,47,43,500 gm,Satyam,₹ 0.09
+Mawana Brown Sugar : 1 kg,130,118,1 kg,Mawana,₹ 118.00
+Premia Big Sakariya : 200 gms,20,12,200 gm,Premia,₹ 0.06
+Avanti Sugar Cubes : 126 Cubes,65,57,126 Cubes,Avanti,₹ 0.45
+Mawana Caster Sugar : 1 kg,130,99,1 kg,Mawana,₹ 99.00
+Mawana White Sugar Sachet : 1 kg,160,120,1 kg,Mawana,₹ 120.00
+Mawana Brown Sugar Sachet : 1 kg,200,149,1 kg,Mawana,₹ 149.00
+Mawana Icing Sugar : 1 kg,140,110,1 kg,Mawana,₹ 110.00
+Mawana Breakfast Sugar : 1 kg,130,99,1 kg,Mawana,₹ 99.00
+Pitambari Ruchiyana Jaggery Powder - Chemical Free : 500 gms,85,42,500 gm,Pitambari,₹ 0.08
+Paawak Jaggery Cubes Jar : 500 gms,110,55,500 gm,Paawak,₹ 0.11
+24 Mantra Organic Jaggery Powder : 500 gms,80,66,500 gm,24,₹ 0.13
+Rasmalai Premium Desi Jaggery Pieces : 800 gms,100,78,800 gm,Rasmalai,₹ 0.10
+Satyam Jaggery : 500 gms,62,57,500 gm,Satyam,₹ 0.11
+Organic Tattva Jaggery Powder : 500 gms,90,65,500 gm,Organic,₹ 0.13
+Tur Dal Latur : 1 kg,291,225,1 kg,Tur,₹ 225.00
+Moong Dal : 1 kg,188,152,1 kg,Moong,₹ 152.00
+Premia Groundnut : 500 gms,137,104,500 gm,Premia,₹ 0.21
+Tur Dal Premium Gujarat : 1 kg,303,239,1 kg,Tur,₹ 239.00
+Chana Dal : 500 gms,74,53,500 gm,Chana,₹ 0.11
+Masoor Dal : 1 kg,135,108,1 kg,Masoor,₹ 108.00
+Premia Moong Whole : 500 gms,120,89,500 gm,Premia,₹ 108.00
+Moong Dal Chilti : 1 kg,203,154,1 kg,Moong,₹ 154.00
+DMart Healthy Choice Unpolished Toor Dal : 1 kg,333,235,1 kg,DMart,₹ 235.00
+Rajma Kashmiri Red : 500 gms,158,106,500 gm,Rajma,₹ 0.21
+Masoor Whole : 1 kg,127,98,1 kg,Masoor,₹ 98.00
+Matki : 1 kg,161,126,1 kg,Matki,₹ 126.00
+Rajma White : 500 gms,156,112,500 gm,Rajma,₹ 0.22
+Daliya : 500 gms,99,67,500 gm,Daliya,₹ 0.13
+Premia Chana Small : 500 gms,73,53,500 gm,Premia,₹ 0.13
+Vatana Green : 500 gms,108,75,500 gm,Vatana,₹ 0.15
+Udid (Urad) Dal Chilti : 500 gms,112,78,500 gm,Udid,₹ 0.16
+Udid (Urad) Black Whole : 500 gms,102,81,500 gm,Udid,₹ 0.16
+Rajma Red Small : 500 gms,129,99,500 gm,Rajma,₹ 0.20
+Premia Rajma Red Small : 500 gms,118,99,500 gm,Premia,₹ 0.20
+Premia Soyawadi : 200 gms,42,24,200 gm,Premia,₹ 0.12
+DMart Healthy Choice Unpolished Moong Dal : 1 kg,216,162,1 kg,DMart,₹ 162.00
+Chowli Big : 500 gms,77,56,500 gm,Chowli,₹ 0.11
+Chana Green : 500 gms,100,72,500 gm,Chana,₹ 0.14
+Mixed Pulses For Sprout : 500 gms,98,68,500 gm,Mixed,₹ 0.14
+Vatana Black : 500 gms,78,55,500 gm,Vatana,₹ 0.11
+DMart Healthy Choice Unpolished Chana Dal : 1 kg,152,106,1 kg,DMart,₹ 106.00
+Kulith (Horse Gram) : 500 gms,106,73,500 gm,Kulith,₹ 0.15
+Premia Soyabean : 500 gms,76,58,500 gm,Premia,₹ 0.12
+Dal - Rice Mix : 500 gms,71,57,500 gm,Dal,₹ 0.11
+Premia Sugar : 5 kgs,313,243,5 kg,Premia,₹ 48.60
+Premium Jaggery : 900 gms,90,64,900 gm,Premium,₹ 0.07
+Keshar Premium Natural Jaggery Jar : 900 gms,110,90,900 gm,Keshar,₹ 0.10
+Jaggery : 900 gms,90,64,900 gm,Jaggery,₹ 0.07
+Premia Sugar Crystals (Khadi Shakkar) : 200 gms,22,14,200 gm,Premia,₹ 0.07
+Premia Sugar Candy : 200 gms,31,17,200 gm,Premia,₹ 0.09
+Shree Annapurna Jaggery Powder : 1 kg,100,53,1 Kg,Shree,₹ 53.00
+Premia Sakariya : 200 gms,22,12,200 gm,Premia,₹ 0.06
+Premia Big Sakariya : 200 gms,20,12,200 gm,Premia,₹ 0.06
+Premia Pithi Sugar : 500 gms,38,27,500 gm,Premia,₹ 0.05
+Wada Kolam Sorted Rice : 10 kgs,900,676,10 kg,Wada,₹ 67.60
+HMT Kolam Sorted Rice : 10 kgs,700,649,10 kg,HMT,₹ 64.90
+Ambemohar Rice : 5 kgs,650,508,5 kg,Ambemohar,₹ 101.60
+Eco Kolam Jirasar Sorted Rice : 10 kgs,550,510,10 kg,Eco,₹ 51.00
+Idli Rice : 1 kg,80,63,1 kg,Idli,₹ 63.00
+GB Surti Kolam Sorted Rice : 5 kgs,510,340,5 kg,GB,₹ 68.00
+Basmati Rice Mogra : 10 kgs,750,610,10 kg,Basmati,₹ 61.00
+Bhagar : 500 gms,126,79,500 gm,Bhagar,₹ 0.16
+Silky Kolam Rice : 1 kg,93,75,1 kg,Silky,₹ 75.00
+Basmati Rice Mini Mogra (Broken) : 10 kgs,650,488,10 kg,Basmati,₹ 48.80
+Basmati Rice : 1 kg,164,128,1 kg,Basmati,₹ 128.00
+Red Rice : 1 kg,87,69,1 kg,Red,₹ 69.00
+Mogra Basmati Rice : 1 kg,85,68,1 kg,Mogra,₹ 68.00
+Rice Basmati Wand : 5 kgs,800,628,5 kg,Rice,₹ 125.60
+IR Boiled Rice : 1 kg,63,55,1 kg,IR,₹ 55.00
+Masoori Boiled Rice : 1 kg,72,58,1 kg,Masoori,₹ 58.00
+Premia Poha Jada : 1 kg,78,65,1 kg,Premia,₹ 65.00
+Premia Poha Basmati : 500 gms,74,53,500 gm,Premia,₹ 0.11
+Premia Poha Patla : 500 gms,50,35,500 gm,Premia,₹ 0.07
+Miki Maize (Makai) Poha : 500 gms,42,38,500 gm,Miki,₹ 0.08
+Mamra (Puffed Rice) : 500 gms,60,39,500 gm,Mamra,₹ 0.08
+Kolhapuri Surati Kurmura : 500 gms,80,49,500 gm,Kolhapuri,₹ 0.10
+Premia Badam (Almonds) : 500 gms,524,393,500 gm,Premia,₹ 0.79
+Premia Regular Kaju (Cashews) - 320 : 500 gms,652,446,500 gm,Premia,₹ 0.89
+Premia Kismis Indian (Raisins) : 500 gms,178,124,500 gm,Premia,₹ 0.25
+Premia Akrod Magaj (Walnut Kernels) : 100 gms,255,158,100 gm,Premia,₹ 1.58
+Premia Kaju Tukda (Cashews) : 200 gms,310,185,200 gm,Premia,₹ 0.93
+Date Crown Fard (Khajur) : 500 gms,288,185,500 gm,Date,₹ 0.37
+Akrod (Walnut) Whole : 1 kg,873,695,1 kg,Akrod,₹ 695.00
+Premia Kaju Special (Cashews) - 240 : 500 gms,662,492,500 gm,Premia,₹ 0.98
+Premia Anjeer (Figs) : 100 gms,232,156,100 gm,Premia,₹ 1.56
+Premia Pista Plain (Pistachios) : 100 gms,394,237,100 gm,Premia,₹ 2.37
+Premia Mixed Dry Fruits : 500 gms,361,270,500 gm,Premia,₹ 0.54
+Premia Red Dried Dates (Kharik) : 500 gms,361,267,500 gm,Premia,₹ 0.53
+Falcon UAE Dates Seedless (Khajur) : 500 gms,200,159,500 gm,Falcon,₹ 0.32
+Date Crown Bumaan Dates : 500 gms,150,75,500 gm,Date,₹ 0.15
+Emperor Royal Peacock Seeded Dates (Khajur) : 500 gms,125,93,500 gm,Emperor,₹ 0.19
+Wonderland Roasted & Salted California Pista : 400 gms,725,399,400 gm,Wonderland,₹ 1.00
+Premia Pista Salty (Pistachio) : 200 gms,455,295,200 gm,Premia,₹ 1.48
+Emperor Dates - Deseeded Dates : 500 gms,150,120,500 gm,Emperor,₹ 0.24
+Premia Jardalu : 100 gms,112,73,100 gm,Premia,₹ 0.73
+Premia Kaju (210) Premium : 100 gms,197,114,100 gm,Premia,₹ 1.14
+Premia Kismis Selected : 100 gms,108,76,100 gm,Premia,₹ 0.76
+Premia Black Dried Dates (Kharik) : 200 gms,175,110,200 gm,Premia,₹ 0.55
+Falcon Aqaba Dates : 500 gms,150,115,500 gm,Falcon,₹ 0.23
+Premia Akrod Whole : 200 gms,221,135,200 gm,Premia,₹ 0.68
+Falcon UAE Dates Seeded : 500 gms,165,119,500 gm,Falcon,₹ 0.24
+Emperor Dates - Dates with Seed : 500 gms,110,85,500 gm,Emperor,₹ 0.17
+Date Crown Khenaizi (Khajur) : 500 gms,252,185,500 gm,Date,₹ 0.37
+Falcon Zahdi Dates Seedless : 500 gms,160,121,500 gm,Falcon,₹ 0.24
+Falcon Zahdi Dates Seeded : 500 gms,125,105,500 gm,Falcon,₹ 0.21
+Premia Kismis Black (Raisins) : 200 gms,129,80,200 gm,Premia,₹ 0.40
+Premium Dry Fruit Box : 600 gms,950,599,600 gm,Premium,₹ 1.00
+Premium Dry Fruit Box : 400 gms,600,449,400 gm,Premium,₹ 1.12
+Premia Jeera : 200 gms,158,142,200 gm,Premia,₹ 0.71
+Premia Green Elaichi : 50 gms,298,210,50 gm,Premia,₹ 4.20
+Premia Kashmiri Chilli Powder Deluxe : 500 gms,470,313,500 gm,Premia,₹ 0.63
+Premia Badishep : 200 gms,162,105,200 gm,Premia,₹ 0.53
+Premia Extra Strong Hing Powder : 100 gms,190,99,100 gm,Premia,₹ 0.99
+Premia Black Pepper : 100 gms,162,111,100 gm,Premia,₹ 1.11
+Premia Dhaniya : 400 gms,152,105,400 gm,Premia,₹ 0.26
+Premia Til White : 500 gms,168,126,500 gm,Premia,₹ 0.25
+Premia Green Elaichi Economy : 10 gms,39,30,10 gm,Premia,₹ 3.00
+Premia Kashmiri Chilli Powder : 1 kg,880,608,1 kg,Premia,₹ 608.00
+Premia Cassia Taj : 100 gms,100,64,100 gm,Premia,₹ 0.64
+Premia Lukhnowi Badishep : 100 gms,80,56,100 gm,Premia,₹ 0.56
+Premia Dry Coconut : 500 gms,148,111,500 gm,Premia,₹ 0.22
+Premia Haldi Powder Deluxe : 200 gms,58,37,200 gm,Premia,₹ 0.18
+Premia Rai : 200 gms,31,23,200 gm,Premia,₹ 0.12
+Premia Dhania Powder Deluxe : 500 gms,105,72,500 gm,Premia,₹ 0.14
+Premia Ajma : 100 gm,64,42,100 gm,Premia,₹ 0.42
+Premia Khaskhas : 100 gms,252,181,100 gm,Premia,₹ 1.81
+Premia Jeera Powder Deluxe : 100 gms,108,84,100 gm,Premia,₹ 0.84
+Premia Guntur Chilli : 100 gms,63,43,100 gm,Premia,₹ 0.43
+Premia Roasted Badishep : 100 gms,71,44,100 gm,Premia,₹ 0.44
+Premia Emli : 500 gms,138,98,500 gm,Premia,₹ 0.20
+Premia Coconut Powder : 200 gms,73,53,200 gm,Premia,₹ 0.27
+Premia Kasoori Methi : 100 gms,145,63,100 gm,Premia,₹ 0.63
+Premia Lawang : 20 gms,50,38,20 gm,Premia,₹ 1.90
+Premia Rai Small : 200 gms,35,24,200 gm,Premia,₹ 0.12
+Premia Shaha Jeera : 50 gms,71,46,50 gm,Premia,₹ 0.92
+Premia Red Chilli Powder : 200 gms,92,43,200 gm,Premia,₹ 0.21
+Premia Star Anise (Badiyan) : 100 gms,152,114,100 gm,Premia,₹ 1.14
+Premia Chilli Kashmiri : 100 gms,182,130,100 gm,Premia,₹ 1.30
+Premia Black Pepper Powder : 100 gms,134,85,100 gm,Premia,₹ 0.85
+Premia Methi : 100 gms,20,14,100 gm,Premia,₹ 0.14
+Premia Chilli Guntur Stemless : 100 gms,77,51,100 gm,Premia,₹ 0.51
+Amchur Powder : 100 gms,40,28,100 gm,Amchur,₹ 0.28
+Premia Dhaniya Dal : 100 gms,47,31,100 gm,Premia,₹ 0.31
+Premia Jaipatri (Mace) : 20 gms,160,115,20 gm,Premia,₹ 5.75
+Premia Dhania Jeera Mix Khandela : 200 gms,89,57,200 gm,Premia,₹ 0.28
+Premia Dhania Powder : 200 gms,49,31,200 gm,Premia,₹ 0.15
+Premia Garam Masala Powder Deluxe : 100 gms,73,46,100 gm,Premia,₹ 0.46
+Premia Bedgi Chilli : 100 gms,132,88,100 gm,Premia,₹ 0.88
+Premia Masala Elaichi : 100 gms,281,191,100 gm,Premia,₹ 1.91
+Premia Alsi : 100 gms,15,10,100 gm,Premia,₹ 0.10
+Premia Malwani Masala Deluxe : 200 gms,120,77,200 gm,Premia,₹ 0.39
+Premia Tej Patta : 50 gms,29,13,50 gm,Premia,₹ 0.26
+Premia Ginger Powder : 100 gms,61,39,100 gm,Premia,₹ 0.39
+Premia Til Black : 100 gms,48,30,100 gm,Premia,₹ 0.30
+Premia Amsul Wet Kokam : 200 gms,107,65,200 gm,Premia,₹ 0.33
+Premia Sabja : 100 gms,58,43,100 gm,Premia,₹ 0.43
+Premia Dry Ginger (Sunth) : 100 gms,114,71,100 gm,Premia,₹ 0.71
+Premia Eating Soda : 200 gms,28,16,200 gm,Premia,₹ 0.08
+Premia Dinkh (Edible Gum) : 100 gms,47,31,100 gm,Premia,₹ 0.31
+Premia Jaifal : 4 Pieces,59,38,4 pcs,Premia,₹ 9.50
+Premia Kokam Rind Lonavala : 100 gms,100,58,100 gm,Premia,₹ 0.58
+Premia Kalvanji : 100 gms,46,29,100 gm,Premia,₹ 0.29
+Premia Reshampatti Chilli Khandela : 500 gms,235,155,500 gm,Premia,₹ 0.31
+Premia Sunday Mix Masala : 200 gms,118,75,200 gm,Premia,₹ 0.38
+Premia Dagad Phool (Black Stone Flower) : 50 gms,77,43,50 gm,Premia,₹ 0.86
+Premia Nimbu Phool (Citric Acid) : 50 gms,18,11,50 gm,Premia,₹ 0.22
+Premia Halim : 100 gms,36,21,100 gm,Premia,₹ 0.21
+Premia Goda Masala : 100 gms,43,27,100 gm,Premia,₹ 0.27
+Wheat Lokwan (Lokvan) : 10 kgs,570,449,10 kg,Wheat,₹ 44.90
+Wheat Sihore : 10 kgs,570,465,10 kg,Wheat,₹ 46.50
+Wheat MP Sihore Premium : 10 kgs,900,634,10 kg,Wheat,₹ 63.40
+Premia Sabudana : 1 kg,104,89,1 kg,Premia,₹ 89.00
+Premia Maida : 500 gms,34,25,500 gm,Premia,₹ 89.00
+Nachni : 1 kg,89,67,1 kg,Nachni,₹ 67.00
+Lapsi Rava / Daliya : 500 gms,37,27,500 gm,Lapsi,₹ 0.05
+Bajari : 1 kg,69,46,1 kg,Bajari,₹ 46.00
+Makai For Popcorn : 200 gms,40,25,200 gm,Makai,₹ 0.13
+Premia Rice Atta : 1 Kg,64,52,1 kg,Premia,₹ 0.13
+Premia Sabudana Small : 500 gms,58,46,500 gm,Premia,₹ 0.09
+Idli Rava : 500 gms,35,24,500 gm,Idli,₹ 0.05
+Premia Jawari Atta : 500 gms,55,40,500 gm,Premia,₹ 0.05
+Swaad Refined Sunflower Oil : 1 Litre,150,101,1 L,Swaad,₹ 101.00

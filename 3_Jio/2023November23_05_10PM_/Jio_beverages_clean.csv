@@ -1,0 +1,988 @@
+Unnamed: 0,Product name,MRP,Selling Price,Tag,PerUnitPrice,Brand,Quantity,Unit,Pack of,Conversion,Platform,Discount,Discount Percentage,Price Per Unit(Kg/L)
+0, Maaza Mango Drink 1.2 L ,75.0,57.0,,,MAAZA,1.2,l,1,Success,JoiMart,18.0,24.0,47.5
+1, Biovitalia Organics Premium Milk Thistle Capsules for Liver Health & Antioxidant Support - Silybum Marianum Extract - 60 Vegan Capsules - Dietary Supplement ,950.0,490.0, sponsored ,,BIOVITALIA ORGANICS,,none,1,Failed,JoiMart,460.0,48.42,
+2, Maaza Mango Drink 600 ml ,42.0,32.0,,,MAAZA,600.0,ml,1,Success,JoiMart,10.0,23.81,53.33
+3, Thums Up 2.25 L ,99.0,77.0,,,THUMS UP,2.25,l,1,Success,JoiMart,22.0,22.22,34.22
+4, Sprite 2.25 L ,99.0,74.0,,,SPRITE,2.25,l,1,Success,JoiMart,25.0,25.25,32.89
+5, Brooke Bond Red Label Strong Blend Tea 1 kg ,600.0,430.0,,,RED LABEL,1.0,kg,1,Success,JoiMart,170.0,28.33,430.0
+6, Mirinda Orange 2.25 L ,90.0,65.0,,,MIRINDA,2.25,l,1,Success,JoiMart,25.0,27.78,28.89
+7, Thums Up 600 ml ,38.0,28.0,,,THUMS UP,600.0,ml,1,Success,JoiMart,10.0,26.32,46.67
+8, Kinley Soda 750 ml ,20.0,18.0,,,KINLEY,750.0,ml,1,Success,JoiMart,2.0,10.0,24.0
+9, Red Bull Energy Drink 250 ml (4 pcs)  ,480.0,380.0,,,RED BULL,250.0,ml,1,Success,JoiMart,100.0,20.83,1520.0
+10," Biovitalia Organics Premium Biotin Capsules for Hair, Skin & Nails - Supports Growth, Hormonal Balance & Healthy Glow - Expertly Crafted Formula - 60 Veg Capsules ",990.0,390.0, sponsored ,,BIOVITALIA ORGANICS,,none,1,Failed,JoiMart,600.0,60.61,
+11, Sprite 600 ml ,38.0,32.0,,,SPRITE,600.0,ml,1,Success,JoiMart,6.0,15.79,53.33
+12, 7Up 750 ml ,40.0,37.0,,,7 UP,750.0,ml,1,Success,JoiMart,3.0,7.5,49.33
+13, Monster Energy Drink 350 ml ,125.0,84.0,,,MONSTER,350.0,ml,1,Success,JoiMart,41.0,32.8,240.0
+14, Mirinda Orange 750 ml ,40.0,37.0,,,MIRINDA,750.0,ml,1,Success,JoiMart,3.0,7.5,49.33
+15, Tata Agni Strong Leaf Tea 1 kg ,230.0,195.0,,,TATA AGNI,1.0,kg,1,Success,JoiMart,35.0,15.22,195.0
+16," Biovitalia Organics Ashwagandha Capsules - Stress Management, Mood Enhancement, Sleep Support - 60 Veg Caps, ISO Certified| WHO GMP Animal Cruelty-Free| 100% Vegan Gelatin Free| USDA I HACCP ",949.0,549.0, sponsored ,,BIOVITALIA ORGANICS,,none,1,Failed,JoiMart,400.0,42.15,
+17, Wagh Bakri Premium Leaf Tea 1 kg ,570.0,480.0,,,WAGH BAKRI,1.0,kg,1,Success,JoiMart,90.0,15.79,480.0
+18," Nikunj Real Elaichi Tea, 1kg ",300.0,189.0,,,NIKUNJ,1.0,kg,1,Success,JoiMart,111.0,37.0,189.0
+19, Taj Mahal Tea 1 kg ,880.0,780.0,,,TAJ MAHAL,1.0,kg,1,Success,JoiMart,100.0,11.36,780.0
+20, B Natural Mixed Fruit Juice 1 L ,130.0,65.0,,,B NATURAL,1.0,l,1,Success,JoiMart,65.0,50.0,65.0
+21, Pepsi 2.25 L ,85.0,47.0,,,PEPSI,2.25,l,1,Success,JoiMart,38.0,44.71,20.89
+22, Biovitalia Organics Premium Saw Palmetto Capsules for Prostate Health & Urinary Tract Support - Natural Serenoa Repens Extract - 60 Vegan Capsules - Dietary Supplement ,1399.0,559.0, sponsored ,,BIOVITALIA ORGANICS,,none,1,Failed,JoiMart,840.0,60.04,
+23, Tata Agni Tea 250 g ,50.0,44.0,,,TATA AGNI,250.0,g,1,Success,JoiMart,6.0,12.0,176.0
+24, Frooti Mango Drink 2 L ,120.0,89.0,,,FROOTI,2.0,l,1,Success,JoiMart,31.0,25.83,44.5
+25, Brooke Bond Taj Mahal Tea 500 g ,450.0,364.0,,,TAJ MAHAL,500.0,g,1,Success,JoiMart,86.0,19.11,728.0
+26, 7Up 2.25 L ,90.0,70.0,,,7 UP,2.25,l,1,Success,JoiMart,20.0,22.22,31.11
+27, Tata Tea Premium Desh Ki Chai 1 kg ,570.0,400.0,,,TATA TEA PREMIUM,1.0,kg,1,Success,JoiMart,170.0,29.82,400.0
+28," Biovitalia Organics Premium Multivitamin for Women Capsules - Comprehensive Nutritional Support with Shatavari, Ashwagandha, Wheatgrass & More - 60 Vegan Capsules ",749.0,439.0, sponsored ,,BIOVITALIA ORGANICS,,none,1,Failed,JoiMart,310.0,41.39,
+29, Fanta Orange 2.25 L ,99.0,69.0,,,FANTA,2.25,l,1,Success,JoiMart,30.0,30.3,30.67
+30, Tata Gold Leaf Tea 500 g ,300.0,235.0,,,TATA TEA GOLD,500.0,g,1,Success,JoiMart,65.0,21.67,470.0
+31, Bournvita 1 kg ,432.0,332.0,,,BOURNVITA,1.0,kg,1,Success,JoiMart,100.0,23.15,332.0
+32, Maaza Refresh Mango Drink 135 ml (10 pcs) ,100.0,79.0,,,MAAZA,135.0,ml,1,Success,JoiMart,21.0,21.0,585.19
+33, Thums Up 250 ml (8 pcs) ,160.0,135.0,,,THUMS UP,250.0,ml,1,Success,JoiMart,25.0,15.62,540.0
+34," Biovitalia Organics Spirulina Capsules - Enhance Endurance & Energy, Rich in B Vitamins - 60 Veg Caps, ISO Certified| WHO GMP Animal Cruelty-Free| 100% Vegan Gelatin Free| USDA I HACCP ",990.0,439.0, sponsored ,,BIOVITALIA ORGANICS,,none,1,Failed,JoiMart,551.0,55.66,
+35," Nikunj Dhaba Special Leaf Tea, 1 kg ",275.0,169.0,,,NIKUNJ,1.0,kg,1,Success,JoiMart,106.0,38.55,169.0
+36, Brooke Bond Taaza Leaf Tea 1 kg ,230.0,194.0,,,TAAZA,1.0,kg,1,Success,JoiMart,36.0,15.65,194.0
+37, Storia Tender Coconut Water 1 L ,170.0,85.0,,,STORIA,1.0,l,1,Success,JoiMart,85.0,50.0,85.0
+38, Horlicks Classic Malt 750 g ,449.0,329.0,,,HORLICKS,750.0,g,1,Success,JoiMart,120.0,26.73,438.67
+39," Nikunj Assam Tea, 1kg ",220.0,165.0,,,NIKUNJ,1.0,kg,1,Success,JoiMart,55.0,25.0,165.0
+40," Biovitalia Organics Plant-Based Vitamin B12 Capsules - Support Nerve Function & Energy Metabolism - 60 Veg Caps, ISO Certified| WHO GMP Animal Cruelty-Free| 100% Vegan Gelatin Free| USDA I HACCP ",749.0,439.0, sponsored ,,BIOVITALIA ORGANICS,,none,1,Failed,JoiMart,310.0,41.39,
+41, Tropicano Slice Mango Drink 1.75 L ,105.0,79.0,,,SLICE,1.75,l,1,Success,JoiMart,26.0,24.76,45.14
+42, Society Tea 1 kg ,570.0,480.0,,,SOCIETY,1.0,kg,1,Success,JoiMart,90.0,15.79,480.0
+43, Brooke Bond Red Label Natural Care Tea 250 g ,160.0,140.0,,,RED LABEL,250.0,g,1,Success,JoiMart,20.0,12.5,560.0
+44, B Natural Guava Juice 1 L ,130.0,65.0,,,B NATURAL,1.0,l,1,Success,JoiMart,65.0,50.0,65.0
+45, Mountain Dew 750 ml ,40.0,29.0,,,MOUNTAIN DEW,750.0,ml,1,Success,JoiMart,11.0,27.5,38.67
+46," Biovitalia Organics Watermelon Flavored Nutraceutical Apple Cider Vinegar Effervescent Tablets - Boost Metabolism, Manage Weight & Support Digestion - 15 Tablets ",399.0,349.0, sponsored ,,BIOVITALIA ORGANICS,,none,1,Failed,JoiMart,50.0,12.53,
+47, Bournvita 750 g ,370.0,262.0,,,BOURNVITA,750.0,g,1,Success,JoiMart,108.0,29.19,349.33
+48, Wagh Bakri Premium Leaf Tea 500 g ,290.0,239.0,,,WAGH BAKRI,500.0,g,1,Success,JoiMart,51.0,17.59,478.0
+49, Wagh Bakri Premium Leaf Tea 250 g ,145.0,130.0,,,WAGH BAKRI,250.0,g,1,Success,JoiMart,15.0,10.34,520.0
+50, Brooke Bond Red Label Natural Care Tea 500 g ,335.0,295.0,,,RED LABEL,500.0,g,1,Success,JoiMart,40.0,11.94,590.0
+51, Tata Gold Leaf Tea 1 kg ,600.0,445.0,,,TATA TEA GOLD,1.0,kg,1,Success,JoiMart,155.0,25.83,445.0
+52, Biovitalia Organics Premium Moringa Capsules - Nutrient-Rich Superfood with Protein & Vitamins - Moringa Oleifera Extract - 60 Vegan Capsules| ISO Certified| WHO GMP Animal Cruelty-Free| Gelatin Free ,390.0,349.0, sponsored ,,BIOVITALIA ORGANICS,,none,1,Failed,JoiMart,41.0,10.51,
+53, Paper Boat Coconut Water 200 ml ,50.0,33.0,,,PAPER BOAT,200.0,ml,1,Success,JoiMart,17.0,34.0,165.0
+54, B Natural Litchi Juice 1 L ,130.0,65.0,,,B NATURAL,1.0,l,1,Success,JoiMart,65.0,50.0,65.0
+55, Red Label Natural Care Tea 1 kg ,650.0,499.0,,,RED LABEL,1.0,kg,1,Success,JoiMart,151.0,23.23,499.0
+56, Coca Cola Original 250 ml (8 pcs) ,160.0,120.0,,,COCA COLA,250.0,ml,1,Success,JoiMart,40.0,25.0,480.0
+57, Dabur Chyawanprash 3x Immunity With Awaleha 950 g ,395.0,335.0,,,DABUR,950.0,g,1,Success,JoiMart,60.0,15.19,352.63
+58, Sprite 250 ml ,20.0,18.0,,,SPRITE,250.0,ml,1,Success,JoiMart,2.0,10.0,72.0
+59," Nikunj Dhaba Special Leaf Tea, 1.5 kg Budget Pack ",400.0,249.0,,,NIKUNJ,1.5,kg,1,Success,JoiMart,151.0,37.75,166.0
+60, Coca Cola 600 ml ,38.0,32.0,,,COCA COLA,600.0,ml,1,Success,JoiMart,6.0,15.79,53.33
+61, Pepsi 250 ml ,35.0,31.0,,,PEPSI,250.0,ml,1,Success,JoiMart,4.0,11.43,124.0
+62, B Natural Orange Juice 1 L ,130.0,65.0,,,B NATURAL,1.0,l,1,Success,JoiMart,65.0,50.0,65.0
+63, Thums Up 300 ml ,40.0,34.0,,,THUMS UP,300.0,ml,1,Success,JoiMart,6.0,15.0,113.33
+64, Thums Up 250 ml ,20.0,18.0,,,THUMS UP,250.0,ml,1,Success,JoiMart,2.0,10.0,72.0
+65, Horlicks Chocolate Delight 750 g ,375.0,255.0,,,HORLICKS,750.0,g,1,Success,JoiMart,120.0,32.0,340.0
+66, Appy Fizz 600 ml ,35.0,32.0,,,APPY,600.0,ml,1,Success,JoiMart,3.0,8.57,53.33
+67, Brooke Bond Red Label Leaf Tea 500 g ,300.0,265.0,,,RED LABEL,500.0,g,1,Success,JoiMart,35.0,11.67,530.0
+68, Bournvita 75 g ,30.0,27.0,,,BOURNVITA,75.0,g,1,Success,JoiMart,3.0,10.0,360.0
+69, Red Label Leaf Tea 250 g (Carton) ,155.0,139.0,,,RED LABEL,250.0,g,1,Success,JoiMart,16.0,10.32,556.0
+70, Nescafe Classic Instant Coffee 90 g ,350.0,287.0,,,NESCAFE,90.0,g,1,Success,JoiMart,63.0,18.0,3188.89
+71, Fanta Orange 600 ml ,38.0,32.0,,,FANTA,600.0,ml,1,Success,JoiMart,6.0,15.79,53.33
+72, Nescafe Classic Instant Coffee 45 g ,170.0,141.0,,,NESCAFE,45.0,g,1,Success,JoiMart,29.0,17.06,3133.33
+73, Real Fruit Power Mixed Fruit Juice 1 L ,128.0,93.0,,,REAL,1.0,l,1,Success,JoiMart,35.0,27.34,93.0
+74, Tata Agni Strong Leaf Tea 500 g ,115.0,100.0,,,TATA AGNI,500.0,g,1,Success,JoiMart,15.0,13.04,200.0
+75, Amul Pro Whey Protein Drink 500 g ,180.0,140.0,,,AMUL,500.0,g,1,Success,JoiMart,40.0,22.22,280.0
+76, Fanta Orange 300 ml ,40.0,26.0,,,FANTA,300.0,ml,1,Success,JoiMart,14.0,35.0,86.67
+77, Wagh Bakri Navchetan Strong Leaf Tea 1 kg ,220.0,199.0,,,WAGH BAKRI,1.0,kg,1,Success,JoiMart,21.0,9.55,199.0
+78, B Natural Mixed Fruit Juice 180 ml ,20.0,15.0,,,B NATURAL,180.0,ml,1,Success,JoiMart,5.0,25.0,83.33
+79, Society Tea 500 g ,290.0,265.0,,,SOCIETY,500.0,g,1,Success,JoiMart,25.0,8.62,530.0
+80, Mountain Dew 250 ml ,35.0,29.0,,,MOUNTAIN DEW,250.0,ml,1,Success,JoiMart,6.0,17.14,116.0
+81, Real Fruit Power Masala Pomegranate Juice 1 L ,140.0,70.0,,,REAL,1.0,l,1,Success,JoiMart,70.0,50.0,70.0
+82, Storia Pomegranate 100% Juice with No Added Sugar & Preservatives 750 ml ,170.0,85.0,,,STORIA,750.0,ml,1,Success,JoiMart,85.0,50.0,113.33
+83, Society Tea 250 g ,145.0,134.0,,,SOCIETY,250.0,g,1,Success,JoiMart,11.0,7.59,536.0
+84, Brooke Bond Taaza Leaf Tea 250 g ,50.0,46.0,,,TAAZA,250.0,g,1,Success,JoiMart,4.0,8.0,184.0
+85, Taj Mahal Tea 100 g (Carton) ,95.0,88.0,,,TAJ MAHAL,100.0,g,1,Success,JoiMart,7.0,7.37,880.0
+86, Limca 250 ml ,20.0,18.0,,,LIMCA,250.0,ml,1,Success,JoiMart,2.0,10.0,72.0
+87, Bournvita 500 g ,233.0,173.0,,,BOURNVITA,500.0,g,1,Success,JoiMart,60.0,25.75,346.0
+88, Tropicana Slice Mango Drink 600 ml ,35.0,32.0,,,SLICE,600.0,ml,1,Success,JoiMart,3.0,8.57,53.33
+89, BRU Instant Coffee 100 g ,300.0,260.0,,,BRU,100.0,g,1,Success,JoiMart,40.0,13.33,2600.0
+90, Dabur Chyawanprash Awaleha 250 g ,116.0,96.0,,,DABUR,250.0,g,1,Success,JoiMart,20.0,17.24,384.0
+91, Horlicks Classic Malt 1 kg ,574.0,516.0,,,HORLICKS,1.0,kg,1,Success,JoiMart,58.0,10.1,516.0
+92, Tata Agni Leaf Tea 1.5 kg ,335.0,301.0,,,TATA AGNI,1.5,kg,1,Success,JoiMart,34.0,10.15,200.67
+93, Women's Horlicks Plus Caramel Drink Mix 400 g ,355.0,295.0,,,HORLICKS,400.0,g,1,Success,JoiMart,60.0,16.9,737.5
+94, Zandu Sona Chandi Chyawanplus 900 g ,385.0,260.0,,,ZANDU,900.0,g,1,Success,JoiMart,125.0,32.47,288.89
+95, Frooti Mango Drink 125 ml ,10.0,10.0,,,FROOTI,125.0,ml,1,Success,JoiMart,0.0,0.0,80.0
+96," MAHARASTRA CHAHA WITH ""CUP"" - Special Chai (Pack 2) 1 Kg Each Jar 500gm ",750.0,262.0,,,"MAHARASTRA CHAHA WITH ""CUP""",1.0,kg,1,Success,JoiMart,488.0,65.07,262.0
+97, Nescafe Sunrise Instant Coffee Powder 50 g ,115.0,105.0,,,SUNRISE,50.0,g,1,Success,JoiMart,10.0,8.7,2100.0
+98, Coca Cola 250 ml ,20.0,18.0,,,COCA COLA,250.0,ml,1,Success,JoiMart,2.0,10.0,72.0
+99, Nescafe Classic Instant Coffee 24 g ,82.0,76.0,,,NESCAFE,24.0,g,1,Success,JoiMart,6.0,7.32,3166.67
+100, Frooti 600 ml ,42.0,31.0,,,FROOTI,600.0,ml,1,Success,JoiMart,11.0,26.19,51.67
+101, Patanjali Special Chyawanprash 1 kg ,360.0,270.0,,,PATANJALI,1.0,kg,1,Success,JoiMart,90.0,25.0,270.0
+102, PediaSure Chocolate Drink Powder 400 g (Carton) ,770.0,700.0,,,PEDIASURE,400.0,g,1,Success,JoiMart,70.0,9.09,1750.0
+103, BRU Green Label Filter Coffee Powder 500 g ,280.0,226.0,,,BRU,500.0,g,1,Success,JoiMart,54.0,19.29,452.0
+104, Mirinda Orange 250 ml ,20.0,18.0,,,MIRINDA,250.0,ml,1,Success,JoiMart,2.0,10.0,72.0
+105, Rage Coffee 50 Gms Irish Hazelnut Flavour ,349.0,149.0,,,RAGE COFFEE,50.0,gms,1,Success,JoiMart,200.0,57.31,2980.0
+106, Sprite 300 ml ,40.0,34.0,,,SPRITE,300.0,ml,1,Success,JoiMart,6.0,15.0,113.33
+107, Ensure Vanilla Drink Powder 400 g ,800.0,675.0,,,ENSURE,400.0,g,1,Success,JoiMart,125.0,15.62,1687.5
+108, Bisleri Packaged Drinking Water 250 ml ,6.0,6.0,,,BISLERI,250.0,ml,1,Success,JoiMart,0.0,0.0,24.0
+109, Complan Royale Chocolate Drink Powder 1 kg ,599.0,449.0,,,COMPLAN,1.0,kg,1,Success,JoiMart,150.0,25.04,449.0
+110, Continental Speciale Instant Coffee 200g Pouch | 100% Pure Coffee ,400.0,389.0,,,CONTINENTAL,200.0,g,1,Success,JoiMart,11.0,2.75,1945.0
+111, Octavius | KADAK Assam Tea - 2.5 Kg | Extra Strong Assam Tea | Black Tea | Kadak Chai Patti | Loose Tea | Strong Chai | Tea Powder | Chai Patti | Taza Tea | Garden Fresh Tea | Tea 2.5 Kg ,750.0,649.0,,,OCTAVIUS,2.5,kg,1,Success,JoiMart,101.0,13.47,259.6
+112, Octavius | Suprabhatam Tez Kadak Tea - 1Kg | Extra Strong Assam Tea | Black Tea | Kadak Chai Patti | Strong Chai | Tea Powder | Chai Patti 1 kg | Taza Tea 1 kg | Garden Fresh Tea | Tea 1 Kg ,240.0,219.0,,,OCTAVIUS,1.0,kg,1,Success,JoiMart,21.0,8.75,219.0
+113, Horlicks Chocolate Delight 1 kg ,499.0,379.0,,,HORLICKS,1.0,kg,1,Success,JoiMart,120.0,24.05,379.0
+114, Maaza Refresh Mango Drink 135 ml ,10.0,10.0,,,MAAZA,135.0,ml,1,Success,JoiMart,0.0,0.0,74.07
+115, Red Label Leaf Tea 100 g ,55.0,51.0,,,RED LABEL,100.0,g,1,Success,JoiMart,4.0,7.27,510.0
+116, Horlicks Women's Plus Chocolate 400 g ,365.0,305.0,,,HORLICKS,400.0,g,1,Success,JoiMart,60.0,16.44,762.5
+117, Real Active Orange Juice 1 L ,155.0,99.0,,,REAL,1.0,l,1,Success,JoiMart,56.0,36.13,99.0
+118, Paper Boat Aamras 200 ml ,35.0,29.0,,,PAPER BOAT,200.0,ml,1,Success,JoiMart,6.0,17.14,145.0
+119, Paper Boat Apple Fruit Juice 150 ml ,20.0,16.0,,,PAPER BOAT,150.0,ml,1,Success,JoiMart,4.0,20.0,106.67
+120, Appy Fizz 250 ml ,20.0,18.0,,,APPY FIZZ,250.0,ml,1,Success,JoiMart,2.0,10.0,72.0
+121, Continental STRONG Coffee Powder 1 Kg Bag ( 5 Pouches of 200g ) ,825.0,799.0,,,CONTINENTAL,1.0,kg,1,Success,JoiMart,26.0,3.15,799.0
+122, Campa Sports Cricket Electrolytes 250 ml ,20.0,15.0,,,CAMPA,250.0,ml,1,Success,JoiMart,5.0,25.0,60.0
+123, Tang Orange Instant Drink Mix 500 g ,150.0,121.0,,,TANG,500.0,g,1,Success,JoiMart,29.0,19.33,242.0
+124, Red Bull Energy Drink 250 ml ,125.0,110.0,,,RED BULL,250.0,ml,1,Success,JoiMart,15.0,12.0,440.0
+125, Octavius | Kadak Masala Tea - 1Kg | 100% Natural Spices | Black Tea | Strong Tea | Masala Chai | Natural Care | Kadak Chai Patti | Spiced Tea | Ayurvedic Herbs | Vedic Tea | Tea 1 Kg ,450.0,349.0,,,OCTAVIUS,1.0,kg,1,Success,JoiMart,101.0,22.44,349.0
+126, SRI SRI Morvita Gain More Incomplete ,2459.0,2459.0,,,SRI SRI,,none,1,Failed,JoiMart,0.0,0.0,
+127, Horlicks Classic Malt 500 g ,284.0,264.0,,,HORLICKS,500.0,g,1,Success,JoiMart,20.0,7.04,528.0
+128, B Natural Litchi Fruit Juice 180 ml ,20.0,15.0,,,B NATURAL,180.0,ml,1,Success,JoiMart,5.0,25.0,83.33
+129, Pediasure 7 Plus Chocolate Drink Powder 400 g ,460.0,427.0,,,PEDIASURE,400.0,g,1,Success,JoiMart,33.0,7.17,1067.5
+130, Sprite Lemon Lime Flavor Soft Drink 250 ml (Pack of 8) ,160.0,135.0,,,SPRITE,250.0,ml,8,Success,JoiMart,25.0,15.62,540.0
+131, PediaSure Vanilla Delight Drink Powder 400 g (Carton) ,770.0,654.0,,,PEDIASURE,400.0,g,1,Success,JoiMart,116.0,15.06,1635.0
+132, Horlicks Lite Regular Malt 450 g ,349.0,304.0,,,HORLICKS,450.0,g,1,Success,JoiMart,45.0,12.89,675.56
+133, Storia Badam Shake 180 ml ,45.0,30.0,,,STORIA,180.0,ml,1,Success,JoiMart,15.0,33.33,166.67
+134, Real Fruit Power Litchi Juice 1 L ,125.0,89.0,,,REAL,1.0,l,1,Success,JoiMart,36.0,28.8,89.0
+135, Tata Tea | Agni | Strong Leaf Tea| 250 Gm Each| Pack of 4| 1 Kg+ Green Elaichi 25 Gm ,450.0,450.0,,,TATA TEA,250.0,gm,4,Success,JoiMart,0.0,0.0,1800.0
+136, Continental Speciale Instant Coffee Powder 50g Pouch | BUY 1 + GET 1 FREE | PACK OF 2 | 100% Pure Coffee | 100g (50g * 2 Pouches) ,329.0,159.0,,,CONTINENTAL,50.0,g,2,Success,JoiMart,170.0,51.67,3180.0
+137, Cadbury Hot Chocolate Powder 200 g ,220.0,165.0,,,CADBURY,200.0,g,1,Success,JoiMart,55.0,25.0,825.0
+138, Kinley Packaged Drinking Water 1 L ,20.0,18.0,,,KINLEY,1.0,l,1,Success,JoiMart,2.0,10.0,18.0
+139, Campa Sports Cricket Electrolytes 500 ml ,30.0,22.0,,,CAMPA,500.0,ml,1,Success,JoiMart,8.0,26.67,44.0
+140, Continental XTRA Coffee Powder 200gm Pouch | Strongest Instant Coffee | PACK OF 1 | ,380.0,369.0,,,CONTINENTAL,200.0,gm,1,Success,JoiMart,11.0,2.89,1845.0
+141, Ensure Diabetes Care Vanilla Drink Powder 400 g ,925.0,800.0,,,ENSURE,400.0,g,1,Success,JoiMart,125.0,13.51,2000.0
+142, Real Fruit Power Pomegranate Juice 1 L ,130.0,115.0,,,REAL,1.0,l,1,Success,JoiMart,15.0,11.54,115.0
+143, Horlicks Chocolate Delight 500 g ,249.0,204.0,,,HORLICKS,500.0,g,1,Success,JoiMart,45.0,18.07,408.0
+144, Stings Energy Drink 250 ml ,30.0,27.0,,,STING,250.0,ml,1,Success,JoiMart,3.0,10.0,108.0
+145, Red Bull 250 ml (6 pcs) ,700.0,569.0,,,RED BULL,250.0,ml,1,Success,JoiMart,131.0,18.71,2276.0
+146, 7 Up 250 ml ,20.0,18.0,,,7 UP,250.0,ml,1,Success,JoiMart,2.0,10.0,72.0
+147, Real Fruit Power Guava Juice 1 L ,120.0,90.0,,,REAL,1.0,l,1,Success,JoiMart,30.0,25.0,90.0
+148, Tetley Lemon & Honey Green Tea Bags 100 pcs ,625.0,312.0,,,TETLEY,100.0,pcs,1,Success,JoiMart,313.0,50.08,3.12
+149, Society Masala Tea 1 kg (Pouch) ,640.0,489.0,,,SOCIETY,1.0,kg,1,Success,JoiMart,151.0,23.59,489.0
+150, Budweiser Beats Energy Drink 250 ml ,110.0,55.0,,,BUDWEISER,250.0,ml,1,Success,JoiMart,55.0,50.0,220.0
+151, Storia Chocolate Shake 180 ml ,45.0,30.0,,,STORIA,180.0,ml,1,Success,JoiMart,15.0,33.33,166.67
+152, Bournvita 200 g ,125.0,116.0,,,BOURNVITA,200.0,g,1,Success,JoiMart,9.0,7.2,580.0
+153, Paper Boat Jaljeera Drink 200 ml ,35.0,23.0,,,PAPER BOAT,200.0,ml,1,Success,JoiMart,12.0,34.29,115.0
+154, Protinex Rich Chocolate 400 g ,675.0,595.0,,,PROTINEX,400.0,g,1,Success,JoiMart,80.0,11.85,1487.5
+155, Continental Malgudi Filter Coffee 500gm Pouch ( 60% Coffee - 40% Chicory ) ,250.0,249.0,,,CONTINENTAL,500.0,gm,1,Success,JoiMart,1.0,0.4,498.0
+156, Continental XTRA Coffee Powder 200gm Pouch | Strongest Instant Coffee | PACK OF 2 | 400gm ,760.0,649.0,,,CONTINENTAL,200.0,gm,2,Success,JoiMart,111.0,14.61,3245.0
+157, Nescafe Classic Instant Coffee Powder 190 g ,680.0,610.0,,,NESCAFE,190.0,g,1,Success,JoiMart,70.0,10.29,3210.53
+158, Cravova Classic Mojito 300 ml ,60.0,30.0,,,CRAVOVA,300.0,ml,1,Success,JoiMart,30.0,50.0,100.0
+159, Complan Royal Chocolate Powdered Drink 500 g ,319.0,297.0,,,COMPLAN,500.0,g,1,Success,JoiMart,22.0,6.9,594.0
+160, Paper Boat Chilli Guava Fruit Juice 200 ml ,35.0,23.0,,,PAPER BOAT,200.0,ml,1,Success,JoiMart,12.0,34.29,115.0
+161, Nature Day Jeera Sparkling Fruit Drink 600 ml ,60.0,30.0,,,NATURE DAY,600.0,ml,1,Success,JoiMart,30.0,50.0,50.0
+162," Nescafe Gold Imported, 200 Gm ",1168.75,800.0, Imported ,,NESCAFE,200.0,gm,1,Success,JoiMart,368.75,31.55,4000.0
+163, Wagh Bakri Navchetan| Tea| Premium Tea| 250 Gm Each| Pack of 4| 1 Kg + Green Ilayachi 25g | ,450.0,445.0,,,WAGH BAKRI,250.0,gm,4,Success,JoiMart,5.0,1.11,1780.0
+164, Taj Mahal Tea Bags 100 pcs ,220.0,198.0,,,TAJ MAHAL,100.0,pcs,1,Success,JoiMart,22.0,10.0,1.98
+165, Paper Boat Aam Panna 200 ml ,35.0,23.0,,,PAPER BOAT,200.0,ml,1,Success,JoiMart,12.0,34.29,115.0
+166, PediaSure Chocolate Drink Powder 1 kg ,1785.0,1606.0,,,PEDIASURE,1.0,kg,1,Success,JoiMart,179.0,10.03,1606.0
+167, Society Elaichi Adrak Chai | Society Tea | Ginger & Cardamom | Refreshing & Tasteful | 250 g | Pack of 1 ,170.0,170.0,,,SOCIETY,250.0,g,1,Success,JoiMart,0.0,0.0,680.0
+168, Dukes Club Soda 750 ml ,20.0,18.0,,,DUKES,750.0,ml,1,Success,JoiMart,2.0,10.0,24.0
+169, MOGU MOGU Multi Flavour Mix Fruit Juice with 25% NATA De Coco 300ML - Pack of 6 ,420.0,420.0,,,MOGU,300.0,ml,6,Success,JoiMart,0.0,0.0,1400.0
+170, Real Fruit Power Masala Guava Juice 1 L ,140.0,70.0,,,REAL,1.0,l,1,Success,JoiMart,70.0,50.0,70.0
+171, Organic India Classic Tulsi Green Tea Bags 1.74 g (25 pcs) ,215.0,161.0,,,ORGANIC INDIA,1.74,g,1,Success,JoiMart,54.0,25.12,92528.74
+172, Paper Boat Swing Plus Zesty Pomegranate Juice 600 ml ,40.0,35.0,,,PAPER BOAT,600.0,ml,1,Success,JoiMart,5.0,12.5,58.33
+173, 7Up 250 ml (Can) ,35.0,31.0,,,7 UP,250.0,ml,1,Success,JoiMart,4.0,11.43,124.0
+174, Horlicks Classic Malt 450 g ,284.0,264.0,,,HORLICKS,450.0,g,1,Success,JoiMart,20.0,7.04,586.67
+175, PediaSure Vanilla Delight Drink Powder 1 kg ,1785.0,1606.0,,,PEDIASURE,1.0,kg,1,Success,JoiMart,179.0,10.03,1606.0
+176, Cravova Kiwi Mojito 300 ml ,60.0,30.0,,,CRAVOVA,300.0,ml,1,Success,JoiMart,30.0,50.0,100.0
+177, Girnar Royal Cup Tea 1 kg ,570.0,470.0,,,GIRNAR,1.0,kg,1,Success,JoiMart,100.0,17.54,470.0
+178, NutroVally Lemon Honey Flavored Green Tea | Premium & Detox Refreshing Tea | 100% Natural Leaves Green Tea Bags 50 PCS ,498.0,249.0,,,NUTROVALLY,50.0,pcs,1,Success,JoiMart,249.0,50.0,4.98
+179," BEVZILLA Instant Coffee Powder - 48 Sachets | Turkish Hazelnut, Classic, French Vanilla & English Butterscotch | 12 Sachets Each Flavour ",299.0,239.0,,,BEVZILLA,48.0,sachets,1,Success,JoiMart,60.0,20.07,4.98
+180, Appy Apple Juice Drink 125 ml ,10.0,10.0,,,APPY,125.0,ml,1,Success,JoiMart,0.0,0.0,80.0
+181, NutroVally Lemon Honey Flavored Green Tea | For Weight Loss & Build's Immune | Premium & Detox Refreshing Tea | 100% Natural Green Tea Bags -25 Bags ,249.0,179.0,,,NUTROVALLY,,none,1,Failed,JoiMart,70.0,28.11,
+182," Nikunj Premium Green Tea Jar, 250g ",220.0,159.0,,,NIKUNJ,250.0,g,1,Success,JoiMart,61.0,27.73,636.0
+183, Horlicks Women's Plus Caramel 750 g ,599.0,474.0,,,HORLICKS,750.0,g,1,Success,JoiMart,125.0,20.87,632.0
+184, Wagh Bakri | Premium Leaf Tea |250 Gm Each | Pack of 2 | 500 Gm + Green Elaichi 25 Gm ,520.0,480.0,,,WAGH BAKRI,250.0,gm,2,Success,JoiMart,40.0,7.69,1920.0
+185, Wagh Bakri Spiced Tea 250 g ,165.0,153.0,,,WAGH BAKRI,250.0,g,1,Success,JoiMart,12.0,7.27,612.0
+186, Manna Sattu 100% Channa Sattu Protein Mix 1kg (500g x 2 Packs) ,318.0,265.0,,,MANNA,1.0,kg,1,Success,JoiMart,53.0,16.67,265.0
+187, NESCAFE Classic Instant Coffee Powder Imported | Instant Coffee Made with Robusta Beans | Roasted Coffee Beans | 100% Pure Coffee | 190g / 200g ,799.0,674.0, Imported ,,NESCAFE,190.0,g,1,Success,JoiMart,125.0,15.64,3547.37
+188, Nescafe Gold Instant Coffee Powder 95 g ,550.0,399.0,,,NESCAFE,95.0,g,1,Success,JoiMart,151.0,27.45,4200.0
+189, Wagh Bakri Premium Navchetan Tea | 250g*4 Pk | 1kg | + Organic Green Ilayachi 25g | ,450.0,445.0,,,WAGH BAKRI,250.0,g,1,Success,JoiMart,5.0,1.11,1780.0
+190, Tata Tea Agni | Strong Leaf Tea | 250 Gm Each | Pack of 2 | 500 Gm + Green Elaichi 25 Gm ,350.0,310.0,,,TATA TEA,250.0,gm,2,Success,JoiMart,40.0,11.43,1240.0
+191, Bru Instant Coffee Powder Pack of 2 x 200g | Special Catering Pack | Super Strong Coffee Powder ,720.0,599.0,,,BRU,200.0,g,2,Success,JoiMart,121.0,16.81,2995.0
+192, Tata Gold Care Flavoured Leaf Tea 500 g ,325.0,250.0,,,TATA TEA GOLD,500.0,g,1,Success,JoiMart,75.0,23.08,500.0
+193, Nescafe Sunrise COFFEE POWDER SPECIAL CATERING PACK OF 2 (EACH 200G) Instant Coffee ,640.0,599.0,,,A. MANGALS,200.0,g,2,Success,JoiMart,41.0,6.41,2995.0
+194, B Natural Chatpata Jamun Juice 1 L ,140.0,70.0,,,B NATURAL,1.0,l,1,Success,JoiMart,70.0,50.0,70.0
+195, Wagh Bakri Premium Leaf Tea| 250g* 4 Packs| 1 Kg+ Green Premium Ilayachi 25g ,790.0,790.0,,,WAGH BAKRI,250.0,g,1,Success,JoiMart,0.0,0.0,3160.0
+196, Tata Tea Premium Tea 1.5 kg ,705.0,525.0,,,TATA TEA,1.5,kg,1,Success,JoiMart,180.0,25.53,350.0
+197," BEVZILLA 100% Arabica Instant Coffee Powder - 200 Grams | Premium Coffee| Strong Coffee| Classic Coffee| Espresso, Latte & Cappucino| Pure Coffee| Hot & Cold Coffee ",799.0,369.0,,,BEVZILLA,200.0,grams,1,Success,JoiMart,430.0,53.82,1845.0
+198, Cravova Green Apple Mojito 300 ml ,60.0,30.0,,,CRAVOVA,300.0,ml,1,Success,JoiMart,30.0,50.0,100.0
+199, Balaji Agro Meri Chai_ CHARMINAR_ 1kg ,240.0,180.0,,,BALAJ AGRO MERI CHAI,1.0,kg,1,Success,JoiMart,60.0,25.0,180.0
+200, Nature Day Fresh Lime Sparkling Fruit Drink 600 ml ,60.0,30.0,,,NATURE DAY,600.0,ml,1,Success,JoiMart,30.0,50.0,50.0
+201, Tata Tea Premium| Desh Ki Chai| 250 Gm* 2 Packs| 500g+ Green Ilayachi 25g ,510.0,490.0,,,TATA TEA PREMIUM,250.0,gm,1,Success,JoiMart,20.0,3.92,1960.0
+202, Girnar Royal Cup Tea 250 g ,145.0,134.0,,,GIRNAR,250.0,g,1,Success,JoiMart,11.0,7.59,536.0
+203," Lipton Tulsi Natura Green Tea Bags, 50 Tea Bags ",310.0,270.0,,,LIPTON,50.0,tea bags,1,Success,JoiMart,40.0,12.9,5.4
+204, Wagh Bakri | Navchetan Premium Tea| 250 Gm Each| Pack of 4| 1 Kg+ Green Elaichi 25 Gm ,470.0,465.0,,,WAGH BAKRI,250.0,gm,4,Success,JoiMart,5.0,1.06,1860.0
+205, PediaSure Chocolate Drink Powder 200 g (Carton) ,420.0,390.0,,,PEDIASURE,200.0,g,1,Success,JoiMart,30.0,7.14,1950.0
+206, Girnar Detox Green Tea - Desi Kahwa |36 Tea Bags in Each Pack | Pack of 2 + Green Elaichi 25 Gm ,869.0,869.0,,,GIRNAR,25.0,gm,2,Success,JoiMart,0.0,0.0,34760.0
+207, Tropicana Litchi Delight Fruit Juice 1 L ,123.0,103.0,,,TROPICANA,1.0,l,1,Success,JoiMart,20.0,16.26,103.0
+208," MAHARASTRA CHAHA WITH ""CUP"" Leaf Tea -1 kg (500 gm Jar Pack of 2) ",780.0,262.0,,,"MAHARASTRA CHAHA WITH ""CUP""",1.0,kg,2,Success,JoiMart,518.0,66.41,262.0
+209, Cravova Peach Mojito 300 ml ,60.0,30.0,,,CRAVOVA,300.0,ml,1,Success,JoiMart,30.0,50.0,100.0
+210, Tata Tea Gold |Premium Assam Tea Gently Aromatic Long Leaves| 500G + Green Ilayachi 25 Gm ,550.0,540.0,,,TATA TEA,500.0,g,1,Success,JoiMart,10.0,1.82,1080.0
+211," Nikunj Supreme Leaf Tea, 1kg ",400.0,279.0,,,NIKUNJ,1.0,kg,1,Success,JoiMart,121.0,30.25,279.0
+212, HORLICKS DIABETES PLUS (400 g) ,790.0,749.0,,,HORLICKS,400.0,g,1,Success,JoiMart,41.0,5.19,1872.5
+213, PediaSure 7 Plus Vanilla Drink Powder 400 g ,615.0,571.0,,,PEDIASURE,400.0,g,1,Success,JoiMart,44.0,7.15,1427.5
+214, Protinex Creamy Vanilla 400 g ,675.0,589.0,,,PROTINEX,400.0,g,1,Success,JoiMart,86.0,12.74,1472.5
+215, Lipton Darjeeling Leaf Tea 250 g (Carton) ,495.0,396.0,,,LIPTON,250.0,g,1,Success,JoiMart,99.0,20.0,1584.0
+216, Gatorade Blue Bolt Sports Drink 500 ml ,50.0,45.0,,,GATORADE,500.0,ml,1,Success,JoiMart,5.0,10.0,90.0
+217, Sprite Malaysia 320ml Imported |Pack of 2| ,400.0,360.0, Imported ,,SPRITE,320.0,ml,2,Success,JoiMart,40.0,10.0,1125.0
+218, Coolberg Non Alcoholic Cranberry Beer 330 ml ,99.0,73.0,,,COOLBERG,330.0,ml,1,Success,JoiMart,26.0,26.26,221.21
+219, Dabur Vita Chocolaty Drink Mix 500 g ,230.0,130.0,,,DABUR,500.0,g,1,Success,JoiMart,100.0,43.48,260.0
+220, Raw Pressery Coconut Water 200 ml ,60.0,49.0,,,RAW PRESSERY,200.0,ml,1,Success,JoiMart,11.0,18.33,245.0
+221, Apple Cider Vinegar for Weight Loss With Mother Unfiltered And Undiluted Vinegar Vinegar (500 ml) ,399.0,175.0,,,VEDARTH,500.0,ml,1,Success,JoiMart,224.0,56.14,350.0
+222, Organic India Tulsi Green Tea 100 g ,285.0,213.0,,,ORGANIC INDIA,100.0,g,1,Success,JoiMart,72.0,25.26,2130.0
+223," Manna Instant Badam Drink Mix with Real bits of Badam, 400g | More Bits per Sip | Make milk tastier ",289.0,199.0,,,MANNA,400.0,g,1,Success,JoiMart,90.0,31.14,497.5
+224, Paper Boat Vitamin D Lychee Juice 150 ml ,30.0,27.0,,,PAPER BOAT,150.0,ml,1,Success,JoiMart,3.0,10.0,180.0
+225, Dabur Chyawanprakash Sugarfree 900 g ,440.0,340.0,,,DABUR,900.0,g,1,Success,JoiMart,100.0,22.73,377.78
+226, Continental Malgudi Filter Coffee 500gm Pouch (80% Coffee - 20% Chicory) ,310.0,309.0,,,CONTINENTAL,500.0,gm,1,Success,JoiMart,1.0,0.32,618.0
+227, Octavius | Classic Assam Black Tea - 100 Tea bags | Strong Tea | Kadak Chai | 1 Teabag Can Make 2 Cups | English Breakfast Tea | Refreshing | Morning Tea | Everyday Tea | 100 Pieces | Black Tea | - (2 gm x 100 Teabag) ,190.0,169.0,,,OCTAVIUS,2.0,g,1,Success,JoiMart,21.0,11.05,84500.0
+228, Nature Day Ginger Drink 600 ml ,60.0,30.0,,,NATURE DAY,600.0,ml,1,Success,JoiMart,30.0,50.0,50.0
+229," MAHARASTRA CHAHA WITH ""CUP"" - Special Rich and Flavourful Chai 500 gm ",560.0,167.0,,,"MAHARASTRA CHAHA WITH ""CUP""",500.0,gm,1,Success,JoiMart,393.0,70.18,334.0
+230," Nikunj Gold Tea - Royal Edition, 500g ",280.0,191.0,,,NIKUNJ,500.0,g,1,Success,JoiMart,89.0,31.79,382.0
+231, Cravova Watermelon Mojito 300 ml ,60.0,30.0,,,CRAVOVA,300.0,ml,1,Success,JoiMart,30.0,50.0,100.0
+232, Horlicks Mother's Plus Vanilla Flavour 400 g ,620.0,576.0,,,HORLICKS,400.0,g,1,Success,JoiMart,44.0,7.1,1440.0
+233, Lipton Tulsi Natura Green Tea Bags 25 pcs ,170.0,143.0,,,LIPTON,25.0,pcs,1,Success,JoiMart,27.0,15.88,5.72
+234, KANGEN Alkaline Water 8.5+ PH 1 Litre Pack Of 12 ,840.0,840.0,,,KANGEN,,none,12,Failed,JoiMart,0.0,0.0,
+235, Girnar Royal Cup Tea 500 g ,290.0,255.0,,,GIRNAR,500.0,g,1,Success,JoiMart,35.0,12.07,510.0
+236," Orglife Apple Cider Vinegar With Garlic Ginger Lemon Honey, 500 ml Each (Pack Of 2) ",998.0,314.0,,,ORGLIFE,500.0,ml,2,Success,JoiMart,684.0,68.54,628.0
+237, Paper Boat Swing Fizz Guava Drink 600 ml ,40.0,37.0,,,PAPER BOAT,600.0,ml,1,Success,JoiMart,3.0,7.5,61.67
+238, B Natural Fruits N Bits Litchi with Apple Drink 300 ml ,65.0,32.0,,,B NATURAL,300.0,ml,1,Success,JoiMart,33.0,50.77,106.67
+239, Coolberg Non Alcoholic Peach Beer 330 ml ,99.0,73.0,,,COOLBERG,330.0,ml,1,Success,JoiMart,26.0,26.26,221.21
+240," Nikunj Gold Tea - Royal Edition, 1kg ",550.0,349.0,,,NIKUNJ,1.0,kg,1,Success,JoiMart,201.0,36.55,349.0
+241," Bevzilla 60 Instant Coffee Powder Sachets(4 Flavours) - 120 Grams | Turkish Hazelnut, Colombian Gold, French Vanilla & English Butterscotch | 15 Sachets Each Flavour| Makes 60 Cups| 100 % Arabica Coffee| Strong Coffee ",449.0,279.0,,,BEVZILLA,120.0,g,1,Success,JoiMart,170.0,37.86,2325.0
+242, Ensure Vanilla Drink Powder 200 g ,440.0,409.0,,,ENSURE,200.0,g,1,Success,JoiMart,31.0,7.05,2045.0
+243, Baidyanath Chawanprash Awaleha 950 g ,385.0,308.0,,,BAIDYANATH,950.0,g,1,Success,JoiMart,77.0,20.0,324.21
+244, Organic India TULSI GREEN TEA LEMON GINGER 25 IB- Pack of 2 ,430.0,387.0,,,ORGANIC INDIA,,none,2,Failed,JoiMart,43.0,10.0,
+245, Tetley Green Tea Bags 100 pcs ,625.0,312.0,,,TETLEY,100.0,pcs,1,Success,JoiMart,313.0,50.08,3.12
+246, Coolberg Non Alcoholic Malt Beer 330 ml ,99.0,73.0,,,COOLBERG,330.0,ml,1,Success,JoiMart,26.0,26.26,221.21
+247, Aquafina Packaged Drinking Water 1 L ,20.0,18.0,,,AQUAFINA,1.0,l,1,Success,JoiMart,2.0,10.0,18.0
+248, Alo Frut Litchi + Aloevera Fruit Juice 300 ml ,40.0,30.0,,,ALO FRUT,300.0,ml,1,Success,JoiMart,10.0,25.0,100.0
+249, Paper Boat Anar Fruit Juice 200 ml ,50.0,46.0,,,PAPER BOAT,200.0,ml,1,Success,JoiMart,4.0,8.0,230.0
+250, Cravova Orange Mojito 300 ml ,60.0,30.0,,,CRAVOVA,300.0,ml,1,Success,JoiMart,30.0,50.0,100.0
+251, HORLICKS Chocolate Delight Flavour (1 kg) ,499.0,485.0,,,HORLICKS,1.0,kg,1,Success,JoiMart,14.0,2.81,485.0
+252, BRU Instant Coffee 50 g ,195.0,180.0,,,BRU,50.0,g,1,Success,JoiMart,15.0,7.69,3600.0
+253, Junior Horlicks Vanilla 500 g ,330.0,310.0,,,HORLICKS,500.0,g,1,Success,JoiMart,20.0,6.06,620.0
+254, Tata Gold Care Flavoured Tea 1 kg ,630.0,475.0,,,TATA TEA,1.0,kg,1,Success,JoiMart,155.0,24.6,475.0
+255, Glucon-D Regular 450 g ,125.0,99.0,,,GLUCON-D,450.0,g,1,Success,JoiMart,26.0,20.8,220.0
+256, Rage Coffee 50 Gms Dark Chocolate Flavour ,349.0,149.0,,,RAGE COFFEE,50.0,gms,1,Success,JoiMart,200.0,57.31,2980.0
+257, Tata Coffee| Instant Coffee| Super Saver Pack| 200g Each | Pack of 2 |400g ,485.0,485.0,,,TATA COFFEE,200.0,g,2,Success,JoiMart,0.0,0.0,2425.0
+258, Complan Creamy Classic 500 g ,305.0,256.0,,,COMPLAN,500.0,g,1,Success,JoiMart,49.0,16.07,512.0
+259," Red Bull Energy Drink, 250 ML Can JST ",200.0,177.0,,,JST,250.0,ml,1,Success,JoiMart,23.0,11.5,708.0
+260, B Natural Fruits N Bits Guava Drink 300 ml ,65.0,32.0,,,B NATURAL,300.0,ml,1,Success,JoiMart,33.0,50.77,106.67
+261, Nescafe Classic Instant Coffee Powder 200 g ,660.0,613.0,,,NESCAFE,200.0,g,1,Success,JoiMart,47.0,7.12,3065.0
+262, Bournvita 5 Star Magic Chocolate 750 g ,405.0,364.0,,,BOURNVITA,750.0,g,1,Success,JoiMart,41.0,10.12,485.33
+263," Monster Taurine Ginger Energy Drink, 500 Mlpack of 2 ",770.0,653.0, Imported ,,MONSTER,500.0,ml,2,Success,JoiMart,117.0,15.19,1306.0
+264, Brooke Bond Red Label Natural Care Tea 500 Grm + 25 Grm Black Papper ( Kali Mirch ) ,460.0,460.0,,,RED LABEL,500.0,g,1,Success,JoiMart,0.0,0.0,920.0
+265, Wagh Bakri Premium Navchetan Tea| 250g* 2 Pk| 500g | + Organic Green Ilayachi 25g| ,340.0,290.0,,,WAGH BAKRI,250.0,g,1,Success,JoiMart,50.0,14.71,1160.0
+266, Alo Frut Mixed Fruit + Aloevera Juice 300 ml ,40.0,30.0,,,ALO FRUT,300.0,ml,1,Success,JoiMart,10.0,25.0,100.0
+267, Octavius | KADAK Assam Tea - 1Kg | Extra Strong Assam Tea | Black Tea | Kadak Chai Patti | Loose Tea | Strong Chai | Tea Powder | Chai Patti 1 kg | Taza Tea 1 kg | Garden Fresh Tea | Tea 1 Kg ,300.0,279.0,,,OCTAVIUS,1.0,kg,1,Success,JoiMart,21.0,7.0,279.0
+268, Paper Boat Swing Plus Lush Lychee Juice 600 ml ,40.0,36.0,,,PAPER BOAT,600.0,ml,1,Success,JoiMart,4.0,10.0,60.0
+269, Charged Berry Bolt By ThumsUp 250 ml ,20.0,18.0,,,CHARGED,250.0,ml,1,Success,JoiMart,2.0,10.0,72.0
+270, Rage Coffee - 50 GMS Original Blend ,299.0,149.0,,,RAGE COFFEE,50.0,gms,1,Success,JoiMart,150.0,50.17,2980.0
+271," Fanta Orange Drink, 320 Ml | Pack of 2| ",400.0,360.0, Imported ,,FANTA,320.0,ml,2,Success,JoiMart,40.0,10.0,1125.0
+272, Bru Instant Coffee Powder { Special Catering } Pack of 3 x 200 grams Each ,960.0,849.0,,,BRU,200.0,g,3,Success,JoiMart,111.0,11.56,4245.0
+273, Schweppes Tonic Water 300 ml ,60.0,55.0,,,SCHWEPPES,300.0,ml,1,Success,JoiMart,5.0,8.33,183.33
+274, Paper Boat Swing Medley Mixed Fruit Drink 600 ml ,40.0,36.0,,,PAPER BOAT,600.0,ml,1,Success,JoiMart,4.0,10.0,60.0
+275, Real Orange Juice by Dabur 1-L (Pack of 2) with Reusable Stainless Steel Straws (Set of 4) ,460.0,457.0,,,REAL,,none,2,Failed,JoiMart,3.0,0.65,
+276, Tata Tea Premium| Desh Ki Chai| 250 Gm* 4 Packs| 1 Kg+ Green Ilayachi 25g| ,770.0,770.0,,,TATA TEA PREMIUM,250.0,gm,1,Success,JoiMart,0.0,0.0,3080.0
+277, Brooke Bond Red Label Leaf Tea| Premium Tea| 250g* 2 Packs| 500g+ Green ilayachi 25g| ,480.0,480.0,,,RED LABEL,250.0,g,1,Success,JoiMart,0.0,0.0,1920.0
+278, SENSO Chai Premix Masala Vegetarian (10 sachets) ,140.0,90.0,,,SENSO,10.0,sachets,1,Success,JoiMart,50.0,35.71,9.0
+279, Cloud9 Energy Drink Berry Mix 250ml Bottle - Pack of 30 ,664.0,664.0,,,CLOUD 9,250.0,ml,30,Success,JoiMart,0.0,0.0,2656.0
+280," BEVZILLA Instant Coffee Powder - 48 Sachets (Hazelnut)| Hot & Cold Coffee| Makes 48 Cups| 100 % Arabica Coffee| Strong Coffee| Easy To Carry| Best Coffee| Espresso, Latte, Cappuccino ",299.0,239.0,,,BEVZILLA,48.0,sachets,1,Success,JoiMart,60.0,20.07,4.98
+281, Patanjali Aloe Vera Fibre Juice 1 L ,210.0,189.0,,,PATANJALI,1.0,l,1,Success,JoiMart,21.0,10.0,189.0
+282, PediaSure Vanilla Delight Drink Powder 200 g (Carton) ,420.0,390.0,,,PEDIASURE,200.0,g,1,Success,JoiMart,30.0,7.14,1950.0
+283, Society Leaf & Masala Tea 250gm Combo ,315.0,305.0,,,SOCIETY,250.0,gm,1,Success,JoiMart,10.0,3.17,1220.0
+284, Alo Frut Kiwi + Aloevera Fruit Juice 1 L ,120.0,99.0,,,ALO FRUT,1.0,l,1,Success,JoiMart,21.0,17.5,99.0
+285, Davidoff Espresso 57 Dark and Chocolatey Instant Coffee 100 g ,650.0,590.0,,,DAVIDOFF,100.0,g,1,Success,JoiMart,60.0,9.23,5900.0
+286, Gatorade Orange Sports Drink 500 ml ,50.0,45.0,,,GATORADE,500.0,ml,1,Success,JoiMart,5.0,10.0,90.0
+287, Tata Grand Premium Coffee 50 g ,160.0,120.0,,,TATA COFFEE,50.0,g,1,Success,JoiMart,40.0,25.0,2400.0
+288," Giacobazzi Non Alcoholic Sparkling Red Wine, 750ml ",999.0,599.0,,,GIACOBAZZI,750.0,ml,1,Success,JoiMart,400.0,40.04,798.67
+289, Storia Mango 100% Juice with No Added Sugar & Preservatives 750 ml ,170.0,85.0,,,STORIA,750.0,ml,1,Success,JoiMart,85.0,50.0,113.33
+290, NutroVally Green Tea | For Weight Loss & Boost Immune | Premium Natural & Pure Aromatic Leaves | Lemon Green Tea Bags 100 Pcs ,796.0,419.0,,,NUTROVALLY,100.0,pcs,1,Success,JoiMart,377.0,47.36,4.19
+291, Mogu Mogu Lychee Juice 25% with Nata De Coco 300 ml - Pack of 6 ,420.0,420.0,,,MOGU MOGU,300.0,ml,6,Success,JoiMart,0.0,0.0,1400.0
+292, Nature Day Orange Sparkling Fruit Drink 600 ml ,60.0,30.0,,,NATURE DAY,600.0,ml,1,Success,JoiMart,30.0,50.0,50.0
+293, Tropicana Orange Juice 1 L ,145.0,130.0,,,TROPICANA,1.0,l,1,Success,JoiMart,15.0,10.34,130.0
+294, B Natural Mixed Fruit Chaat Juice 1 l ,140.0,70.0,,,B NATURAL,1.0,l,1,Success,JoiMart,70.0,50.0,70.0
+295, Dabur Chyawanprash Awaleha 500 g ,220.0,204.0,,,DABUR,500.0,g,1,Success,JoiMart,16.0,7.27,408.0
+296, Lipton Honey & Lemon Green Tea Bags 100 pcs ,625.0,562.0,,,LIPTON,100.0,pcs,1,Success,JoiMart,63.0,10.08,5.62
+297, Aarambh Green Tea Bags 25 pcs ,170.0,65.0,,,AARAMBH,25.0,pcs,1,Success,JoiMart,105.0,61.76,2.6
+298," MAHARASTRA CHAHA WITH ""CUP"" - LEAF Tea -500Gm ",560.0,167.0,,,"MAHARASTRA CHAHA WITH ""CUP""",500.0,gm,1,Success,JoiMart,393.0,70.18,334.0
+299," Shunya Go and Fizz Lime & Lemon Combo, Sugar Free Flavoured Soft Drink 300ml- (Pack of 12) ",720.0,494.0,,,SHUNYA,300.0,ml,12,Success,JoiMart,226.0,31.39,1646.67
+300, Tata Gold Care Flavoured Leaf Tea 250 g ,180.0,160.0,,,TATA GOLD,250.0,g,1,Success,JoiMart,20.0,11.11,640.0
+301, Nescafe Classic Black Roast Coffee 95 g ,410.0,381.0,,,NESCAFE,95.0,g,1,Success,JoiMart,29.0,7.07,4010.53
+302, Leo Coffee Special Peaberry Freshly Ground Filter Coffee Powder Medium Roast Mild and Aromatic - 250 g ,175.0,104.0,,,LEO COFFEE,250.0,g,1,Success,JoiMart,71.0,40.57,416.0
+303, Storia Banana Shake 180 ml ,45.0,30.0,,,STORIA,180.0,ml,1,Success,JoiMart,15.0,33.33,166.67
+304, Ensure FOS Chocolate Drink Powder 400 g ,840.0,770.0,,,ENSURE,400.0,g,1,Success,JoiMart,70.0,8.33,1925.0
+305, Galaxy Drink 750 ML (Red Grape) Combo Pack of 2 ,800.0,760.0, Imported ,,GALAXY,750.0,ml,2,Success,JoiMart,40.0,5.0,1013.33
+306, Manna Sattu 100% Channa Sattu Protein Mix 500g ,159.0,149.0,,,MANNA,500.0,g,1,Success,JoiMart,10.0,6.29,298.0
+307, Storia Mixed Fruit Juice 750 ml ,170.0,85.0,,,STORIA,750.0,ml,1,Success,JoiMart,85.0,50.0,113.33
+308, Rage Coffee Combo Pack of 3 - Irish Hazelnut & Dark Chocolate & Creme Caramel Flavoured Coffee 50 Gms Each ,1047.0,399.0,,,RAGE COFFEE,50.0,gms,3,Success,JoiMart,648.0,61.89,7980.0
+309, Society Masala Tea 250 g ,170.0,170.0,,,SOCIETY,250.0,g,1,Success,JoiMart,0.0,0.0,680.0
+310, Nescafe Gold Blend 50 g ,350.0,327.0,,,NESCAFE,50.0,g,1,Success,JoiMart,23.0,6.57,6540.0
+311," Pepsi Turkey, 250 Ml |Pack of 2| ",400.0,360.0, Imported ,,PEPSI,250.0,ml,2,Success,JoiMart,40.0,10.0,1440.0
+312, Leo Coffee House Blend Pure Filter Coffee Powder Medium Roast Mild and Aromatic - 250 g ,194.0,140.0,,,LEO COFFEE,250.0,g,1,Success,JoiMart,54.0,27.84,560.0
+313, Wagh Bakri Spiced Tea | 7 Refreshing Spices | 250 Gm Each | Pack of 4 |1 Kg + Green Elaichi 25 Gm ,1120.0,965.0,,,WAGH BAKRI,25.0,gm,4,Success,JoiMart,155.0,13.84,38600.0
+314," Bevzilla Instant Coffee Gift Box of 24 Assorted Flavour Sachets & Frother - 6 Sachets Each Flavour(2 Gram Each Sachet) | Makes 24 Cups Coffee | Turkish Hazelnut, Colombian Gold, French Vanilla & English Butterscotch | 100% Arabica| Strong Coffee ",799.0,361.0,,,BEVZILLA,2.0,g,1,Success,JoiMart,438.0,54.82,180500.0
+315, 9am Sharbat E Jannat Combo Pack of 2 (Rose 750ml+ Khus 750ml) ,280.0,205.0,,,9 AM,750.0,ml,2,Success,JoiMart,75.0,26.79,273.33
+316, Keya 500ml Lemon Juice Concentrate - Goodness of 50 Lemons ,235.0,206.0,,,KEYA,500.0,ml,1,Success,JoiMart,29.0,12.34,412.0
+317, Society Masala Tea 100 g ,69.0,64.0,,,SOCIETY,100.0,g,1,Success,JoiMart,5.0,7.25,640.0
+318, Lipton Green Tea 250 g ,370.0,344.0,,,LIPTON,250.0,g,1,Success,JoiMart,26.0,7.03,1376.0
+319, Society Tea Leaf Tea | Leaf Tea | Chai | Strong blend | Robust Flavour | 500 g Pouch | Pack of 2 ,560.0,532.0,,,SOCIETY,500.0,g,2,Success,JoiMart,28.0,5.0,1064.0
+320, Coolberg Non Alcoholic Mint Beer 330 ml ,99.0,73.0,,,COOLBERG,330.0,ml,1,Success,JoiMart,26.0,26.26,221.21
+321, Schweppes Ginger Ale 300 ml ,60.0,55.0,,,SCHWEPPES,300.0,ml,1,Success,JoiMart,5.0,8.33,183.33
+322, Complan Royale Chocolate 200 g ,129.0,119.0,,,COMPLAN,200.0,g,1,Success,JoiMart,10.0,7.75,595.0
+323, MTR Badam Drink Mix 200 g ,125.0,116.0,,,MTR,200.0,g,1,Success,JoiMart,9.0,7.2,580.0
+324, NutroVally Green Tea | For Weight Loss & Boost Immune | 100% Natural & Aromatic Leaves | Lemon Green Tea Bags 50 Pcs ,398.0,249.0,,,NUTROVALLY,50.0,pcs,1,Success,JoiMart,149.0,37.44,4.98
+325, Continental Xtra Coffee 50 g ,175.0,87.0,,,CONTINENTAL,50.0,g,1,Success,JoiMart,88.0,50.29,1740.0
+326, Tetley Ginger Mint and Lemon Green Tea Bags 25 pcs ,170.0,133.0,,,TETLEY,25.0,pcs,1,Success,JoiMart,37.0,21.76,5.32
+327, Complan Kesar Badam 200 g ,140.0,130.0,,,COMPLAN,200.0,g,1,Success,JoiMart,10.0,7.14,650.0
+328, Gatorade Lemon Sports Drink 500 ml ,50.0,45.0,,,GATORADE,500.0,ml,1,Success,JoiMart,5.0,10.0,90.0
+329," Coca Cola Light No Sugar No Calories Imported, 320 ml ",240.0,229.0, Imported ,,COCA COLA,320.0,ml,1,Success,JoiMart,11.0,4.58,715.62
+330, Tropicana Orange Delight Fruit Juice 180 ml ,20.0,18.0,,,TROPICANA,180.0,ml,1,Success,JoiMart,2.0,10.0,100.0
+331, Hersheys Milk Booster Chocolate Syrup 450 g ,210.0,160.0,,,HERSHEY'S,450.0,g,1,Success,JoiMart,50.0,23.81,355.56
+332, Wagh Bakri | Mili Premium Tea |Strong Leaf Tea |1 Kg + Green Elaichi 25 Gm ,650.0,605.0,,,WAGH BAKRI,1.0,kg,1,Success,JoiMart,45.0,6.92,605.0
+333, Nestea Iced Tea Premix | Lemon Flavour | Source of Vitamin C | Super Saver Pack | 1 Kg ,625.0,625.0,,,NESTEA,1.0,kg,1,Success,JoiMart,0.0,0.0,625.0
+334," All In One Lemon Tea Premix With Sulphur Less Sugar, 25 Pouches ",180.0,180.0,,,ALL IN ONE,,none,1,Failed,JoiMart,0.0,0.0,
+335, Nescafe Gold Blend Instant Coffee 190 g ,1050.0,945.0,,,NESCAFE,190.0,g,1,Success,JoiMart,105.0,10.0,4973.68
+336, Horlicks Protein Plus Chocolate 400 g ,650.0,600.0,,,HORLICKS,400.0,g,1,Success,JoiMart,50.0,7.69,1500.0
+337, Leo Coffee Madras Blend Filter Coffee Powder Medium Roast Rich and Creamy Texture - 500 g ,370.0,240.0,,,LEO COFFEE,500.0,g,1,Success,JoiMart,130.0,35.14,480.0
+338, Tropicana Orange Delight Fruit Juice 1 L ,120.0,108.0,,,TROPICANA,1.0,l,1,Success,JoiMart,12.0,10.0,108.0
+339," Nutrovally Chamomile Herbal Tea | 100% Natural Whole Leaf , Stress Relief ,Relaxing, & Good Sleep, | Green Tea bags 50 Pcs ",498.0,269.0,,,NUTROVALLY,50.0,pcs,1,Success,JoiMart,229.0,45.98,5.38
+340, Horlicks Chocolate Health & Nutrition Drink 1 kg Refill Pack ,599.0,499.0,,,HORLICKS,1.0,kg,1,Success,JoiMart,100.0,16.69,499.0
+341," Davidoff Rich Aroma Coffee, 90 Gm ",650.0,600.0, Imported ,,DAVIDOFF,90.0,gm,1,Success,JoiMart,50.0,7.69,6666.67
+342, Skippi Icepops 100% Natural Ice Popsicles (12 x 70 ml) ,240.0,189.0,,,SKIPPI ICE POPS,70.0,ml,1,Success,JoiMart,51.0,21.25,2700.0
+343, Alo Frut Mixed Berries + Aloevera Fruit Juice 1 L ,120.0,99.0,,,ALO FRUT,1.0,l,1,Success,JoiMart,21.0,17.5,99.0
+344, HORLICKS Chocolate Delight Flavour 1 KG JAR ,599.0,499.0,,,HORLICKS,1.0,kg,1,Success,JoiMart,100.0,16.69,499.0
+345," Protinex Original, 1 Kg ",1499.0,1435.0,,,PROTINEX,1.0,kg,1,Success,JoiMart,64.0,4.27,1435.0
+346, Ensure Diabetes Care Chocolate Drink Powder 200 g ,540.0,502.0,,,ENSURE,200.0,g,1,Success,JoiMart,38.0,7.04,2510.0
+347," Colombian Brew Hazelnut Instant Coffee Powder, No Sugar Vegan, 50gm ",199.0,197.0,,,COLOMBIAN BREW,50.0,gm,1,Success,JoiMart,2.0,1.01,3940.0
+348, Zandu Chyavanprash Avaleha 900 g ,395.0,295.0,,,ZANDU,900.0,g,1,Success,JoiMart,100.0,25.32,327.78
+349, B Natural Chilly Guava Juice 1 l ,140.0,70.0,,,B NATURAL,1.0,l,1,Success,JoiMart,70.0,50.0,70.0
+350, Bru Tripti Blend special catering Strong Instant Coffee powder pack of 3 x 200 grams each ,960.0,849.0,,,BRU,200.0,g,3,Success,JoiMart,111.0,11.56,4245.0
+351, Prime Varitry Pack (Pack Of 15) Imported ,20250.0,12810.0, Imported ,,IMPORTED,,none,15,Failed,JoiMart,7440.0,36.74,
+352, Red Bull 350 ml ,165.0,150.0,,,RED BULL,350.0,ml,1,Success,JoiMart,15.0,9.09,428.57
+353," Mountain Dew Malaysia, 320 Ml ",206.25,174.0, Imported ,,MOUNTAIN DEW,320.0,ml,1,Success,JoiMart,32.25,15.64,543.75
+354, SENSO Instant Tea Premix Masala Gluten Free (10 sachets) ,140.0,100.0,,,SENSO,10.0,sachets,1,Success,JoiMart,40.0,28.57,10.0
+355, Dabur Chyawanprash Awaleha Gur (Jaggery) 900 g ,395.0,315.0,,,DABUR CHYAWANPRASH,900.0,g,1,Success,JoiMart,80.0,20.25,350.0
+356, Dabur Vedic Ayurvedic Herbs Premium Tea 500 g ,325.0,219.0,,,DABUR,500.0,g,1,Success,JoiMart,106.0,32.62,438.0
+357, Tropicana 100% Apple Fruit Juice 1 L ,145.0,130.0,,,TROPICANA,1.0,l,1,Success,JoiMart,15.0,10.34,130.0
+358, Cloud9 Natural Mineral Drinking Water 200 ml (pack of 30) ,274.0,274.0,,,CLOUD 9,200.0,ml,30,Success,JoiMart,0.0,0.0,1370.0
+359," Cocojal Natural Tender Coconut Water| No Added Flavours| Not from Concentrate| 200ml, Pack of 48 ",2400.0,1959.0,,,COCOJAL,200.0,ml,48,Success,JoiMart,441.0,18.38,9795.0
+360, Evocus Black Alkaline Drink | PACK OF 6 (500 mL each) | 8+ pH | Infused with Essential Minerals ,600.0,510.0,,,EVOCUS,500.0,ml,6,Success,JoiMart,90.0,15.0,1020.0
+361," Fogoso Fire Bronze Magic Wine, 375 Ml Imported ",400.0,330.0, Imported ,,IMPORTED,375.0,ml,1,Success,JoiMart,70.0,17.5,880.0
+362, Goodricke Roasted Darjeeling Tea - 250 gm | Whole Leaf Tea | 100% Pure & Original Darjeeling Long Leaf Tea | Flavoury Golden Orange Pekoe Darjeeling Tea Loose Leaves| Darjeeling Black Tea ,280.0,251.0,,,GOODRICKE,250.0,gm,1,Success,JoiMart,29.0,10.36,1004.0
+363, Manama Lime and Mint Mojito Syrup for Mocktails & Cocktails (750ML) ,310.0,310.0,,,MANAMA,750.0,ml,1,Success,JoiMart,0.0,0.0,413.33
+364, Ensure Chocolate Drink Powder 200 g ,440.0,409.0,,,ENSURE,200.0,g,1,Success,JoiMart,31.0,7.05,2045.0
+365, Horlicks Chocolate Delight 200 g ,119.0,110.0,,,HORLICKS,200.0,g,1,Success,JoiMart,9.0,7.56,550.0
+366, Girnar Masala Tea Instant Premix | 10 Sachets of 14 Gm in each Pack | Pack of 1 + Green Elaichi 25 Gm ,400.0,380.0,,,GIRNAR,10.0,sachets,1,Success,JoiMart,20.0,5.0,38.0
+367, Storia Guava Chilli Juice 180 ml ,40.0,30.0,,,STORIA,180.0,ml,1,Success,JoiMart,10.0,25.0,166.67
+368," Coca cola Cherry, 330 Ml |Pack of 3| Imported ",600.0,525.0, Imported ,,COCA COLA,330.0,ml,3,Success,JoiMart,75.0,12.5,1590.91
+369, Cloud9 Golden Shikanji Lemon Juice 200 ml pack of 24 ,388.0,388.0,,,CLOUD 9,9.0,g,24,Success,JoiMart,0.0,0.0,43111.11
+370, Girnar Desi Kahwa Detox Green Tea Bags 10 pcs ,100.0,93.0,,,GIRNAR,10.0,pcs,1,Success,JoiMart,7.0,7.0,9.3
+371, BEVZILLA Instant Coffee Powder (English Butterscotch Flavour) - 75 Grams | 100 % Premium Arabica Beans | Hot & Cold Coffee | Makes 40 Cups | Strong Coffee | Flavoured Coffee| Best Coffee| Premium Coffee| Dark Roast| Instant Coffee ,375.0,209.0,,,BEVZILLA,75.0,grams,1,Success,JoiMart,166.0,44.27,2786.67
+372, Dhopabor Premium Tea - 500gm |High Quality Assam CTC Chai | ,194.0,184.0,,,DHOPABOR,500.0,gm,1,Success,JoiMart,10.0,5.15,368.0
+373," Vedic Kahwa Green Tea Bags 100 pcs - Eco-Friendly detox kahwa Green Tea 100 bag in Resealable pouch- All in one green tea kahwa Tea bags - kawa tea, kava tea, green tea bag by The Tea Trove ",650.0,284.0,,,THE TEA TROVE,100.0,pcs,1,Success,JoiMart,366.0,56.31,2.84
+374, Tropicana Mixed Fruit Delight Fruit Juice 180 ml ,20.0,18.0,,,TROPICANA,180.0,ml,1,Success,JoiMart,2.0,10.0,100.0
+375, Pediasure 7 Plus Chocolate Drink Powder 200 g ,350.0,325.0,,,PEDIASURE,200.0,g,1,Success,JoiMart,25.0,7.14,1625.0
+376," Manna Instant Badam Drink Mix with Real bits of Badam, 800g | More Bits per Sip| Make milk tastier ",578.0,349.0,,,MANNA,800.0,g,1,Success,JoiMart,229.0,39.62,436.25
+377, Rage Coffee 50 Gms Butterscotch Delight Flavour ,349.0,149.0,,,RAGE COFFEE,50.0,gms,1,Success,JoiMart,200.0,57.31,2980.0
+378," Tetley Immune Vitamin C Lemon, Honey Green Tea Bags Box (40 g) Imported ",480.0,450.0, Imported ,,TETLEY,40.0,g,1,Success,JoiMart,30.0,6.25,11250.0
+379," BEVZILLA Instant Coffee Powder - 96 Sachets (Hazelnut)| Hot & Cold Coffee| Makes 96 Cups| 100 % Arabica Coffee| Strong Coffee| Easy To Carry| Best Coffee| Espresso, Latte, Cappuccino| Premium ",599.0,405.0,,,BEVZILLA,96.0,sachets,1,Success,JoiMart,194.0,32.39,4.22
+380, Wagh Bakri Instant Masala Tea Premix 140 g (14 g x 10 Sachets) ,280.0,265.0,,,WAGH BAKRI,140.0,g,1,Success,JoiMart,15.0,5.36,1892.86
+381," Farm Hots kokum Agal / Kokum Juice (Garcinia Indica) Salted,Without Sugar,500 ml can ",390.0,123.0,,,FARM HOTS,500.0,ml,1,Success,JoiMart,267.0,68.46,246.0
+382, GAJANAND (Aah Gajanand Vah Gajanand) Premium CTC Tea Leaf / 250gm / Pack of 1 / Chai Patti with Strong Taste and Refreshing Aroma / 100% Assam CTC Tea Leaves ,130.0,130.0,,,GAJANAND (AAH GAJANAND VAH GAJANAND),250.0,gm,1,Success,JoiMart,0.0,0.0,520.0
+383, Rage Coffee 100 Gms Irish Hazelnut Flavour ,549.0,349.0,,,RAGE COFFEE,100.0,gms,1,Success,JoiMart,200.0,36.43,3490.0
+384," Coca Cola Bebas Gula Sugar, 330 Ml Pack of 4 ",450.0,400.0, Imported ,,COCA COLA,330.0,ml,4,Success,JoiMart,50.0,11.11,1212.12
+385, JAWAI Rajwadi Kadak Masala Chai (MASALA TEA) | Best Masala Chai | 100 Grams ,195.0,145.0,,,JAWAI,100.0,grams,1,Success,JoiMart,50.0,25.64,1450.0
+386, Brooke Bond Red Label Leaf Tea| Premium Tea| 250g* 4 Packs| 1 Kg+ Green ilayachi 25g| ,710.0,710.0,,,RED LABEL,250.0,g,1,Success,JoiMart,0.0,0.0,2840.0
+387," Colombian Brew Arabica Espresso Filter Coffee Powder, Roast & Ground Strong, 100g Pack of 2 ",250.0,198.0,,,COLOMBIANBREWCOFFEE,100.0,g,2,Success,JoiMart,52.0,20.8,1980.0
+388, Protinex Tasty Chocolate 250 g ,445.0,410.0,,,PROTINEX,250.0,g,1,Success,JoiMart,35.0,7.87,1640.0
+389," Manama Blue Curacao Syrup, Mixer for Mocktails and Cocktails (750ML) ",310.0,310.0,,,MANAMA,750.0,ml,1,Success,JoiMart,0.0,0.0,413.33
+390, Tropicana Mixed Fruit Juice 1 L ,145.0,130.0,,,TROPICANA,1.0,l,1,Success,JoiMart,15.0,10.34,130.0
+391," Taj Mahal Tea with Long Leaves, 1kg ",750.0,630.0,,,TAJ MAHAL,1.0,kg,1,Success,JoiMart,120.0,16.0,630.0
+392," 3 Sisters Non Alcoholic German Lager Beer, 330 Ml |Pack of 2| ",400.0,350.0, Imported ,,3 SISTERS,330.0,ml,2,Success,JoiMart,50.0,12.5,1060.61
+393, Organic India Tulsi Ginger Tea Bags 25 pcs ,195.0,146.0,,,ORGANIC INDIA,25.0,pcs,1,Success,JoiMart,49.0,25.13,5.84
+394, BRU Tripti Blend instant Coffee Powder pack of 2 ( each 200g ) Instant Coffee (2 x 200 g) ,640.0,599.0,,,A. MANGALS,200.0,g,2,Success,JoiMart,41.0,6.41,2995.0
+395, Society Leaf Tea 250g Jar ,155.0,155.0,,,SOCIETY,250.0,g,1,Success,JoiMart,0.0,0.0,620.0
+396," Cocojal Natural Tender Coconut Water| No Added Flavours| Not from Concentrate| 200ml, Pack of 24 ",1200.0,999.0,,,COCOJAL,200.0,ml,24,Success,JoiMart,201.0,16.75,4995.0
+397," Bevzilla 96 Sachets Assorted Flavoured Instant Coffee Powder Box - 192gm | 24 Sachets Each Flavour | French Vanilla, English Butterscotch, Turkish Hazelnut, Colombian Gold | 100% Arabica Beans | No Added Preservatives | Makes 96 Cups | Premium Coffee ",599.0,405.0,,,BEVZILLA,96.0,sachets,1,Success,JoiMart,194.0,32.39,4.22
+398," Heineken 0.0 Percent Non Alcoholic Beer Can, 330 ml ",300.0,279.0, Imported ,,HEINEKEN,330.0,ml,1,Success,JoiMart,21.0,7.0,845.45
+399," Bavaria Premium Original Non Alcoholic Beer, 330 Ml Imported ",206.25,174.0, Imported ,,IMPORTED,330.0,ml,1,Success,JoiMart,32.25,15.64,527.27
+400, CHAI POINT Assam Green Tea | Loose Leaf Enriched with Anti-Oxidants | Single Origin Tea | Green Tea Leaves | Loose Green Tea | Good for Weight Loss 100G ,249.0,160.0,,,CHAIPOINT,100.0,g,1,Success,JoiMart,89.0,35.74,1600.0
+401, Manna Health Mix Sathu Maavu 1Kg ,489.0,439.0,,,MANNA,1.0,kg,1,Success,JoiMart,50.0,10.22,439.0
+402," Nescafe Gold Rich and Smooth Instant Coffee Powder, 95g Jar ",699.0,569.0,,,NESCAFE,95.0,g,1,Success,JoiMart,130.0,18.6,5989.47
+403, Mysore Concerns Roasted And Ground Brindavan Bold South Indian Filter Coffee 454 G ,290.0,276.0,,,MYSORE CONCERNS,454.0,g,1,Success,JoiMart,14.0,4.83,607.93
+404, SENSO Instant Tea Premix Masala No Artificial Colors 1 kg ,410.0,291.0,,,SENSO,1.0,kg,1,Success,JoiMart,119.0,29.02,291.0
+405, Manna Health Mix Sathu Maavu 600g ,319.0,295.0,,,MANNA,600.0,g,1,Success,JoiMart,24.0,7.52,491.67
+406, Horlicks Protein Plus Vanilla Drink Mix 400 g ,650.0,600.0,,,HORLICKS,400.0,g,1,Success,JoiMart,50.0,7.69,1500.0
+407, Protinex Original 250 g ,499.0,464.0,,,PROTINEX,250.0,g,1,Success,JoiMart,35.0,7.01,1856.0
+408," Pepsi Black Singapore, 320 Ml ",206.25,174.0, Imported ,,PEPSI BLACK,320.0,ml,1,Success,JoiMart,32.25,15.64,543.75
+409, Shunya Go Zesty Orange Sugar Free Flavoured Drink - 4 Super Herbs Pack of 12 (300ml X 12) ,720.0,584.0,,,SHUNYA,300.0,ml,12,Success,JoiMart,136.0,18.89,1946.67
+410, Johnnie Walker Refreshing Mixer Non Alcoholic Carbonated Drink 330 ml Pack of 4 ,400.0,240.0,,,JOHNNIE WALKER,330.0,ml,4,Success,JoiMart,160.0,40.0,727.27
+411, Organic Spearmint Tea Bags for PCOS - 40 Eco-Friendly Tea Bags in Resealable pouch by The Tea Trove ,328.0,204.0,,,THE TEA TROVE,,none,1,Failed,JoiMart,124.0,37.8,
+412, Patanjali Giloy Fruit Juice 500 ml ,90.0,81.0,,,PATANJALI,500.0,ml,1,Success,JoiMart,9.0,10.0,162.0
+413, Saffola Immuniveda Chyawanprash Avaleha 1.25 kg ,560.0,520.0,,,SAFFOLA,1.25,kg,1,Success,JoiMart,40.0,7.14,416.0
+414, AKHYA GOLD PREMIUM ASSAM LEAF TEA 1KG ,600.0,399.0,,,AKHYA,1.0,kg,1,Success,JoiMart,201.0,33.5,399.0
+415," Colombian Brew 3 in 1 Assorted Instant Coffee Premix Café Latte, Cappuccino, Hazelnut, Vanilla Caramel, Double Choco Mocha, 10 Sachets Box Buy 3 Get 1 Free ",996.0,699.0,,,COLOMBIANBREWCOFFEE,3.0,g,1,Success,JoiMart,297.0,29.82,233000.0
+416, Bambino Tasty Instant Badam Drink Mix Bottle 500g ,250.0,245.0,,,BAMBINO,500.0,g,1,Success,JoiMart,5.0,2.0,490.0
+417," Fanta Lychee Flavoured Drink, 320 Ml |Pack of 2| Imported ",400.0,360.0, Imported ,,FANTA,320.0,ml,2,Success,JoiMart,40.0,10.0,1125.0
+418, Manna Health mix Sathu Maavu 1.2kg (600g x 2 Packs) ,638.0,469.0,,,MANNA,1.2,kg,1,Success,JoiMart,169.0,26.49,390.83
+419," CHAI POINT Premium Assam Tea | Single Origin Tea, Fresh | Assam Tea | Black Tea Leaves | Tea Powder | Premium Chai Patti | Loose Leaf Tea 200G ",199.0,140.0,,,CHAIPOINT,200.0,g,1,Success,JoiMart,59.0,29.65,700.0
+420, Bean2Brew | Premium Blend (80: 20) | Filter Coffee Powder | 800g ,520.0,380.0,,,BEAN2BREW,800.0,g,1,Success,JoiMart,140.0,26.92,475.0
+421," Nutrition Planet Micronized Creatine Monohydrate for Pre/Post Workout Recovery (Black Currant - 348g, 60 Servings) ",1200.0,498.0,,,NUTRITION PLANET,348.0,g,1,Success,JoiMart,702.0,58.5,1431.03
+422," NATRAJ The Right Choice Premium Loose Green Tea Leaves for Weight Loss and Improve Immunity, 300 GM ",475.0,325.0,,,NATRAJ THE RIGHT CHOICE,300.0,gm,1,Success,JoiMart,150.0,31.58,1083.33
+423," Chai Point Assam Masala Tea Natural Spices (Cinnamon, Clove, cardamon, Ginger, Black Pepper), Single Origin Tea 200g ",300.0,200.0,,,CHAIPOINT,200.0,g,1,Success,JoiMart,100.0,33.33,1000.0
+424, 7 Up Sugar Free |Pack of 2 | ,400.0,360.0, Imported ,,7 UP,,none,2,Failed,JoiMart,40.0,10.0,
+425," 3 Sisters Non Alcoholic Kiwi Beer, 330 Ml |Pack of 2| ",400.0,350.0, Imported ,,3 SISTERS,330.0,ml,2,Success,JoiMart,50.0,12.5,1060.61
+426, Evocus Black Alkaline Drink | PACK OF 24 (500 mL each) | 8+ pH | Infused with Essential Minerals ,2400.0,2040.0,,,EVOCUS,500.0,ml,24,Success,JoiMart,360.0,15.0,4080.0
+427," Society Tea Leaf Tea, 1 Kg ",570.0,542.0,,,SOCIETY,1.0,kg,1,Success,JoiMart,28.0,4.91,542.0
+428," JST Goli Soda || Multi Flavor Pack of 10 - 2 of Each Flavor Raspberry Blast, Classic Lime, Fizzy Orange, Raspberry & Cola Masala Flavour Mocktail Drink in Modern Pet Bottle ",750.0,660.0,,,JST,,none,10,Failed,JoiMart,90.0,12.0,
+429, Rio Raw Mango Bubbly Fruit Energy Drink | Pack of 6 | 250 ml ,270.0,235.0,,,RIO,250.0,ml,6,Success,JoiMart,35.0,12.96,940.0
+430," Teddy Roosevelt Flavoured Instant Coffee Powder, Hazelnut 50g, Vanilla Caramel 50g| 100g ",598.0,147.0,,,TEDDY ROOSEVELT,50.0,g,1,Success,JoiMart,451.0,75.42,2940.0
+431," Nescafe Gold Rich and Smooth Instant Coffee Powder, 190g Jar ",999.0,854.0,,,NESCAFE,190.0,g,1,Success,JoiMart,145.0,14.51,4494.74
+432, Hill Bagan CTC Premium Tea 1KG ,680.0,426.0,,,"HILL BAGAN- ""TASTE OF QUALITY""",1.0,kg,1,Success,JoiMart,254.0,37.35,426.0
+433, NutroVally Green Tea | For Weight Loss & Boost Immune | Premium Natural & Pure Aromatic Leaves | Lemon Green Tea Bags 75 Pcs ,597.0,249.0,,,NUTROVALLY,75.0,pcs,1,Success,JoiMart,348.0,58.29,3.32
+434, Taj Mahal Tea Bag (200 Tea Bags) ,399.0,320.0,,,TAJ MAHAL,200.0,tea bag,1,Failed,JoiMart,79.0,19.8,
+435, Alo Frut Orange + Aloevera Fruit Juice 1 L ,120.0,99.0,,,ALO FRUT,1.0,l,1,Success,JoiMart,21.0,17.5,99.0
+436, Leo Coffee Breakfast Blend Filter Coffee Powder Medium Roast Extra Strong - 200 g ,120.0,108.0,,,LEO COFFEE,200.0,g,1,Success,JoiMart,12.0,10.0,540.0
+437, Christopher Cocoa Hot Drinking Chocolate Powder with Dark Chocolate Buttons 200g ,250.0,203.0,,,CHRISTOPHER COCOA,200.0,g,1,Success,JoiMart,47.0,18.8,1015.0
+438," Octavius Elaichi/Cardamom Tea | Strong, Aromatic Assam Chai Patti - 1kg Pack ",360.0,360.0,,,OCTAVIUS,1.0,kg,1,Success,JoiMart,0.0,0.0,360.0
+439, Octavius | Gold Tea - 1Kg | 15% Darjeeling Long Leaf | Black Tea | Blend of Darjeeling & Assam Tea | Loose Tea | Strong Chai | Tea Powder | Chai Patti 1 kg | Garden Fresh Tea | Tea 1 Kg ,450.0,445.0,,,OCTAVIUS,1.0,kg,1,Success,JoiMart,5.0,1.11,445.0
+440," Pack of 2 200 Gram 100% Arabica Instant Classic Strong Coffee Powder | Premium Coffee| Strong Coffee| Classic Coffee| Espresso, Latte & Cappucino| Pure Coffee| Hot & Cold Coffee | Non Breakable Jar ",1598.0,731.0,,,BEVZILLA,200.0,gram,2,Success,JoiMart,867.0,54.26,3655.0
+441, GOODRICKE Chai CTC Leaf Tea 1 kg ,350.0,315.0,,,GOODRICKE,1.0,kg,1,Success,JoiMart,35.0,10.0,315.0
+442, Foodio. fit Tender Coconut Water Powder 2L | Coconut Water Premix Pack of 10 Sachets | Nariyal Paani ( 200ML Each) ,499.0,189.0,,,FOODIO.FIT,2.0,l,10,Success,JoiMart,310.0,62.12,94.5
+443," Bevzilla 50 Grams X 4 Flavoured Instant Coffee Powder Pack of Colombian Gold,Turkish Hazelnut,French Vanilla & English Butterscotch|50 Gms Each|Premium Arabica Instant Coffee ",1999.0,539.0,,,BEVZILLA,50.0,grams,1,Success,JoiMart,1460.0,73.04,10780.0
+444, Cloud9 Natural Mineral Drinking Water 1 L (pack of 12) ,340.0,340.0,,,CLOUD 9,1.0,l,12,Success,JoiMart,0.0,0.0,340.0
+445, CHAI POINT Instant Tea | Incredibly Authentic | Ginger Flavoured Tea | 10 Sachets | Adhrak Chai | Instant Tea Premix | Tea Ginger Mix (Pack of 1) ,199.0,140.0,,,CHAIPOINT,10.0,sachets,1,Success,JoiMart,59.0,29.65,14.0
+446, Lipton Yellow Label Leaf Tea 250 g ,300.0,279.0,,,LIPTON,250.0,g,1,Success,JoiMart,21.0,7.0,1116.0
+447," TEA VALLEY Classic Tea Strong, Malty, Aromatic and Rich Taste 100 Percent Assam and Dooars CTC Tea Blend Make Masala Tea, Ginger Tea or Cardamom Tea, 250 g (pack of 3) ",300.0,255.0,,,TEA VALLEY,250.0,g,3,Success,JoiMart,45.0,15.0,1020.0
+448, Mogu Mogu Strawberry Juice 25% with Nata De Coco 300 ml - Pack of 6 ,420.0,420.0,,,MOGU MOGU,300.0,ml,6,Success,JoiMart,0.0,0.0,1400.0
+449, Bournvita Five Star Magic 500 g ,280.0,260.0,,,BOURNVITA,500.0,g,1,Success,JoiMart,20.0,7.14,520.0
+450," NATRAJ The Right Choice Premium Loose Green Tea Leaves 200g for Body Detoxification Weight Loss and Improve Immunity, ",375.0,250.0,,,NATRAJ THE RIGHT CHOICE,200.0,g,1,Success,JoiMart,125.0,33.33,1250.0
+451, Rage Coffee - 50 GMS Creme Caramel - Premium Instant Coffee ,349.0,149.0,,,RAGE COFFEE,50.0,gms,1,Success,JoiMart,200.0,57.31,2980.0
+452, Organic India Tulsi Original Tea Bags 25 pcs ,188.0,141.0,,,ORGANIC INDIA,25.0,pcs,1,Success,JoiMart,47.0,25.0,5.64
+453, Girnar Masala Chai Instant Tea Premix 14 g (10 Sachets) ,150.0,139.0,,,GIRNAR,14.0,g,1,Success,JoiMart,11.0,7.33,9928.57
+454, HORLICKS Protein Plus | Health & Nutrition Drink (400 g) ,750.0,620.0,,,HORLICKS,400.0,g,1,Success,JoiMart,130.0,17.33,1550.0
+455, Organic India Tulsi Ginger Tea 100 g ,225.0,168.0,,,ORGANIC INDIA,100.0,g,1,Success,JoiMart,57.0,25.33,1680.0
+456," Davidoff Cafe Instant Coffee Jar, Espresso 57 Intense Imported, 100 g ",650.0,574.0, Imported ,,DAVIDOFF,100.0,g,1,Success,JoiMart,76.0,11.69,5740.0
+457, Cloud9 Natural Mineral Drinking Water 500 ml (pack of 24) ,340.0,340.0,,,CLOUD 9,500.0,ml,24,Success,JoiMart,0.0,0.0,680.0
+458, Tetley Tea Bags 100 pcs ,210.0,195.0,,,TETLEY,100.0,pcs,1,Success,JoiMart,15.0,7.14,1.95
+459, Mysore Concerns Roasted And Ground Brindavan Bold South Indian Filter Coffee 454 G Pack of 3 ,870.0,827.0,,,MYSORE CONCERNS,454.0,g,3,Success,JoiMart,43.0,4.94,1821.59
+460," Dalmia Gold Premium CTC Tea | Original 100% Tea | Strong, Aromatic & Rich | 1kg (Poly Pack) ",455.0,450.0,,,DALMIA GOLD,1.0,kg,1,Success,JoiMart,5.0,1.1,450.0
+461, HYDRATE Ionized Alkaline Water with Perfectly Balanced 8.5 pH & Essential Minerals Pack of 6(500 ml) ,480.0,432.0,,,HYDRATE,500.0,ml,6,Success,JoiMart,48.0,10.0,864.0
+462, The Tea Trove- Pure Chamomile Tea Bags Organic - 40 Eco-Friendly Camomile Tea Bag in Resealable pouch - Caffeine Free Camomile tea for sleep and Stress relief tea by The Tea Trove - Steep Hot Or Iced ,328.0,199.0,,,THE TEA TROVE,,none,1,Failed,JoiMart,129.0,39.33,
+463," Farm Hots Kokum Syrup/Kokum Sharbat,500 ml can ",450.0,142.0,,,FARM HOTS,500.0,ml,1,Success,JoiMart,308.0,68.44,284.0
+464, Cloud9 Golden Orange Fruit Juice 200 ml pack of 24 ,388.0,388.0,,,CLOUD 9,9.0,g,24,Success,JoiMart,0.0,0.0,43111.11
+465, Mr. Fresh Coco 100 % Tender Coconut Water Coconut Water || Pack of 12||No Added Flavors||200 ml Each ,600.0,480.0,,,MR. FRESH,200.0,ml,12,Success,JoiMart,120.0,20.0,2400.0
+466, Rio Passion Swing Fruit Energy Drink | Pack of 6 | 250 ml ,270.0,235.0,,,RIO,250.0,ml,6,Success,JoiMart,35.0,12.96,940.0
+467," Coca Cola Klasik Classic Imported, 320 ml ",240.0,229.0, Imported ,,COCA COLA,320.0,ml,1,Success,JoiMart,11.0,4.58,715.62
+468, Tata Coffee | Instant Coffee | Super Saver Pack | 200g Pack ,335.0,335.0,,,TATA COFFEE,200.0,g,1,Success,JoiMart,0.0,0.0,1675.0
+469, Open Secret Unjunked Kesar Thandai Shake Mix Powder - Pack of 1 ,349.0,296.0,,,OPEN SECRET,,none,1,Failed,JoiMart,53.0,15.19,
+470, BRU Instant Coffee 100 g (Jar) ,390.0,362.0,,,BRU,100.0,g,1,Success,JoiMart,28.0,7.18,3620.0
+471, Rio Pink Guava Fruit Drink | Pack of 6 | 250 ml ,270.0,240.0,,,RIO,250.0,ml,6,Success,JoiMart,30.0,11.11,960.0
+472," All In One Lemon Tea Premix Sulphur Less Sugar Pack, 25 Pouches Each (Pack Of 4) ",720.0,719.0,,,ALL IN ONE,,none,4,Failed,JoiMart,1.0,0.14,
+473," Cambridge Tea Party Refresh 30 Tea Bags, Lemon Ginger Mint Tulsi Green Tea (immunity booster with natural vitamins, cleanse, detox, cold relief ) ",225.0,199.0,,,CAMBRIDGE TEA PARTY,30.0,tea bags,1,Success,JoiMart,26.0,11.56,6.63
+474, Octavius | Premium Assam Tea - 1Kg | Extra Strong Assam Tea | Black Tea | Kadak Chai Patti | Loose Tea | Strong Chai | Tea Powder | Chai Patti 1 kg | Taza Tea 1 kg | Garden Fresh Tea | Tea 1 Kg ,390.0,379.0,,,OCTAVIUS,1.0,kg,1,Success,JoiMart,11.0,2.82,379.0
+475, Society Leaf Tea 500gm Jar ,290.0,276.0,,,SOCIETY,500.0,gm,1,Success,JoiMart,14.0,4.83,552.0
+476, NESCAFE CLASSIC INSTANT COFFEE 200G ,660.0,649.0,,,NESCAFE,200.0,g,1,Success,JoiMart,11.0,1.67,3245.0
+477, Bambino Instant Badam Drink Mix 1 Kg ,350.0,340.0,,,BAMBINO,1.0,kg,1,Success,JoiMart,10.0,2.86,340.0
+478, TheTeaTrove Honey Lemon Green Tea Bags 100 pcs - Eco-Friendly All Natural Honey Lemon Tea Bags 100 pcs in Resealable pouch - All in one Green Tea Lemon and Honey tea bags 100 pieces ,600.0,274.0,,,THE TEA TROVE,100.0,pcs,1,Success,JoiMart,326.0,54.33,2.74
+479, Wagh Bakri | Mili Kadak Danedar Tea | 250 Gm Each | Pack of 2 | 500 Gm + Green Elaichi 25 Gm ,410.0,315.0,,,WAGH BAKRI,250.0,gm,2,Success,JoiMart,95.0,23.17,1260.0
+480, BEVZILLA Instant Coffee Powder (French Vanilla Flavour) - 75 Grams | 100 % Premium Arabica Beans | Hot & Cold Coffee | Makes 40 Cups | Strong Coffee | Flavoured Coffee| Best Coffee| Premium Coffee| Dark Roast| Instant Coffee ,375.0,209.0,,,BEVZILLA,75.0,grams,1,Success,JoiMart,166.0,44.27,2786.67
+481, Tetley Pure Original Green Tea Bags 25 pcs ,170.0,133.0,,,TETLEY,25.0,pcs,1,Success,JoiMart,37.0,21.76,5.32
+482, Tropicana Guava Delight Fruit Juice 180 ml ,20.0,18.0,,,TROPICANA,180.0,ml,1,Success,JoiMart,2.0,10.0,100.0
+483, Bournvita Lil Champs Chocolate 500 g ,341.0,317.0,,,BOURNVITA,500.0,g,1,Success,JoiMart,24.0,7.04,634.0
+484, Leeford Green Tea Ginger with Lemon Grass & Lemon with Honey For Good Health Combo Pack (2 x 25 Tea Bags) ,500.0,359.0,,,LEEFORD,25.0,tea bags,1,Success,JoiMart,141.0,28.2,14.36
+485, BEVZILLA Instant Coffee Powder (Turkish Hazelnut Flavour) - 75 Grams | 100 % Premium Arabica Beans | Hot & Cold Coffee | Makes 40 Cups | Strong Coffee | Flavoured Coffee| Best Coffee| Premium Coffee| Dark Roast| Instant Coffee ,375.0,209.0,,,BEVZILLA,75.0,grams,1,Success,JoiMart,166.0,44.27,2786.67
+486, Cloud9 Fruttu Mango Fruit Juice 160 ml pack of 24 ,340.0,340.0,,,CLOUD 9,160.0,ml,24,Success,JoiMart,0.0,0.0,2125.0
+487, City Gold Tea Elaichi Chai Cardamom Tea 1 kg Packet Tea - Kadak Elaichi Flavoured Tea 1kg Pack ,345.0,345.0,,,CITY GOLD,1.0,kg,1,Success,JoiMart,0.0,0.0,345.0
+488, KANGEN Alkaline Water 8.5+ PH 500ML Pack of 24 ,960.0,960.0,,,KANGEN,500.0,ml,24,Success,JoiMart,0.0,0.0,1920.0
+489," D'aromas Pure Coffee Powder 50g x 2, Instant Coffee Powder with Rich Aroma and Bold Taste ",280.0,198.0,,,D'AROMAS,50.0,g,1,Success,JoiMart,82.0,29.29,3960.0
+490, Nescafe Gold Cappuccino Coffee 125 g ,200.0,186.0,,,NESCAFE,125.0,g,1,Success,JoiMart,14.0,7.0,1488.0
+491, Society Premium Green Tea 250G Jar ,250.0,225.0,,,SOCIETY,250.0,g,1,Success,JoiMart,25.0,10.0,900.0
+492, Octavius | Suprabhatam Tez Kadak Tea - 1Kg Pack of 2 | Extra Strong Assam Tea | Black Tea | Kadak Chai Patti | Loose Tea | Strong Chai |Tea Powder |Chai Patti | Taza Tea | Garden Fresh Tea ,480.0,398.0,,,OCTAVIUS,1.0,kg,2,Success,JoiMart,82.0,17.08,398.0
+493," First Flavour Tea Premium Assam Black Loose CTC/Dust Tea, 1 KG Pouch - Strong, Aromatic & Rich | Black Assam CTC Dust Tea | Premium Kadak Chai Patti (Pack of 1Kg) ",440.0,340.0,,,FIRST FLAVOUR,1.0,kg,1,Success,JoiMart,100.0,22.73,340.0
+494, Zandu Kesari Jivan Fit for Diabetic Chyawanprash 900 g ,770.0,695.0,,,ZANDU,900.0,g,1,Success,JoiMart,75.0,9.74,772.22
+495, Tetley Long Leaf with Lemon Natural Green Tea 100 g ,155.0,144.0,,,TETLEY,100.0,g,1,Success,JoiMart,11.0,7.1,1440.0
+496, Tetley Leaf Green Tea 250 g (Carton) ,370.0,330.0,,,TETLEY,250.0,g,1,Success,JoiMart,40.0,10.81,1320.0
+497, Aava Alkaline Natural Mineral Water 1 Ltr Cup-Cap | Pack of 12 ,1320.0,899.0,,,AAVA,1.0,ltr,12,Success,JoiMart,421.0,31.89,899.0
+498, PediaSure 7 Plus Vanilla Drink Powder 200 g ,350.0,325.0,,,PEDIASURE,200.0,g,1,Success,JoiMart,25.0,7.14,1625.0
+499," Prime Blue Razz, 500 Ml Imported ",1350.0,600.0, Imported ,,IMPORTED,500.0,ml,1,Success,JoiMart,750.0,55.56,1200.0
+500, Baidyanath Chawanprash Awaleha 250 g ,99.0,79.0,,,BAIDYANATH,250.0,g,1,Success,JoiMart,20.0,20.2,316.0
+501, Cloud 9 Jeera | Jeera Soft Drink | Instant Refreshing Jeera Drink | 300 ml Pack of 24 ,556.0,556.0,,,CLOUD 9,300.0,ml,24,Success,JoiMart,0.0,0.0,1853.33
+502, PRISTINE Deccan Gold Pure Filter Coffee Powder (80% Coffee 20% Chicory) 200g - Pack of 2 ,260.0,260.0,,,PRISTINE,200.0,g,2,Success,JoiMart,0.0,0.0,1300.0
+503, Sleepy Owl 100gm Original Premium Instant Coffee | 100% Arabica | Flavoured Coffee | Rich & Smooth | Makes 50 Strong & Delicious Cups ,495.0,399.0,,,SLEEPY OWL,100.0,gm,1,Success,JoiMart,96.0,19.39,3990.0
+504, Mogu Mogu Grape Juice 25% with Nata De Coco 300 ml - Pack of 6 ,420.0,420.0,,,MOGU MOGU,300.0,ml,6,Success,JoiMart,0.0,0.0,1400.0
+505," Fanta Anggur Grape Drink, 320 Ml |Pack of 2| Imported ",400.0,360.0, Imported ,,FANTA,320.0,ml,2,Success,JoiMart,40.0,10.0,1125.0
+506," Evian Water, 500 Ml |Pack of 2| Imported ",500.0,400.0, Imported ,,IMPORTED,500.0,ml,2,Success,JoiMart,100.0,20.0,800.0
+507, Raw Pressery Sugarcane Juice 250 ml ,75.0,50.0,,,RAW PRESSERY,250.0,ml,1,Success,JoiMart,25.0,33.33,200.0
+508, Raw Pressery Alphonso Mango Basics Juice 1 L ,250.0,232.0,,,RAW PRESSERY,1.0,l,1,Success,JoiMart,18.0,7.2,232.0
+509, Zandu Kesari Jivan Saffron Pearl Revitalizer Chyawanprash 900 g ,740.0,665.0,,,ZANDU,900.0,g,1,Success,JoiMart,75.0,10.14,738.89
+510, Groviva Wholesome Child Nutrition for Growth & Development - 400g Jar (Chocolate) ,725.0,652.0,,,GROVIVA,400.0,g,1,Success,JoiMart,73.0,10.07,1630.0
+511," Rk Home Made Natural Syrup Blue Coraco Syrup And Blue Lagoon Syrups, 750 Ml ",500.0,199.0,,,RK HOME MADE NATURAL SYRUP,750.0,ml,1,Success,JoiMart,301.0,60.2,265.33
+512, Care Ashwagandha Spiced Herbal 100 Green Tea Bags| Immunity Boost Desi Kahwa Weight Loss | Made Natural 100 Whole Leaf Herbs Certificated### Cinnamon### Tulsi### Ginger ,960.0,644.0,,,CARE,100.0,g,1,Success,JoiMart,316.0,32.92,6440.0
+513, STATUE OF LIBERTY Tea DUST 1 KG ,300.0,256.0,,,GS,1.0,kg,1,Success,JoiMart,44.0,14.67,256.0
+514," Nescafe Original Low Fat Milk Coffee Drink, 240 Ml Imported 7 Up |Pack of 2| ",400.0,375.0, Imported ,,7 UP,240.0,ml,2,Success,JoiMart,25.0,6.25,1562.5
+515, Organic India TULSI DETOX KAHWA 25 TEABAGS- Pack of 2 ,450.0,405.0,,,ORGANIC INDIA,25.0,teabags,2,Failed,JoiMart,45.0,10.0,
+516, Himalayan Heritage's Kangra Green Tea( 500 Grams Leaf Tea) ,350.0,350.0,,,HIMALAYAN HERITAGE TEA,500.0,grams,1,Success,JoiMart,0.0,0.0,700.0
+517, Lipton Honey Lemon Green Tea Bags 10 pcs ,70.0,65.0,,,LIPTON,10.0,pcs,1,Success,JoiMart,5.0,7.14,6.5
+518, Girnar Masala Tea Instant Premix | 10 Schts of 14 Gm in each Pack | Pack of 3 + Green Elaichi 25 Gm ,715.0,715.0,,,GIRNAR,25.0,gm,3,Success,JoiMart,0.0,0.0,28600.0
+519, Chaipoint Green Tea Bags ( Pack of 25 Sachets) ,278.0,190.0,,,CHAIPOINT,25.0,sachets,25,Success,JoiMart,88.0,31.65,7.6
+520," Pepsi Max Raspberry Flavour, 330 Ml |Pack of 3| Imported ",600.0,525.0, Imported ,,PEPSI,330.0,ml,3,Success,JoiMart,75.0,12.5,1590.91
+521, Rio Boom Energy Drink Can | (Pack of 6 X 250 ML) ,330.0,322.0,,,RIO,250.0,ml,6,Success,JoiMart,8.0,2.42,1288.0
+522, Organic India TULSI HONEY CHAMOMILE 25 TEABAGS- Pack of 2 ,390.0,351.0,,,ORGANIC INDIA,25.0,teabags,2,Failed,JoiMart,39.0,10.0,
+523, Horlicks Chocolate 1 kg ,499.0,449.0,,,HORLICKS,1.0,kg,1,Success,JoiMart,50.0,10.02,449.0
+524, Real Activ Tender Coconut Water 200 ml ,55.0,51.0,,,REAL,200.0,ml,1,Success,JoiMart,4.0,7.27,255.0
+525, HARAYUG SHAHI ROSE SYRUP 750 ML WITH SILVER LEAVES ,650.0,250.0,,,HARAYUG,750.0,ml,1,Success,JoiMart,400.0,61.54,333.33
+526, Cloud9 Energy Drink Classic 250ml Bottle - Pack of 30 ,664.0,664.0,,,CLOUD 9,250.0,ml,30,Success,JoiMart,0.0,0.0,2656.0
+527," FOGOSO Cloudem Zero Magic Champagne Non Alcohlic Gold, 375 Ml Imported ",962.5,330.0, Imported ,,IMPORTED,375.0,ml,1,Success,JoiMart,632.5,65.71,880.0
+528, Bournvita 14.4 g ,5.0,5.0,,,BOURNVITA,14.4,g,1,Success,JoiMart,0.0,0.0,347.22
+529, Manna Ragi Malt Drink Mix 200g (Pack of 2) ,398.0,225.0,,,MANNA,200.0,g,2,Success,JoiMart,173.0,43.47,1125.0
+530," Cambridge Tea Party Kashmiri Kahwa 30 Tea Bags, Saffron Almond Cardamom Clove Pepper Cinnamon Rose Tulsi Green Tea ",225.0,199.0,,,CAMBRIDGE TEA PARTY,30.0,tea bags,1,Success,JoiMart,26.0,11.56,6.63
+531, Rungta's Dhamaka Strong Tea 1 Kg | KADAK & STRONG Blended Tea | Unique Blend Chai ,410.0,310.0,,,RUNGTA'S,1.0,kg,1,Success,JoiMart,100.0,24.39,310.0
+532, Tata Gold Mixture Tea 500 g ,235.0,218.0,,,TATA TEA,500.0,g,1,Success,JoiMart,17.0,7.23,436.0
+533, Girnar Royal Cup Tea 100 g ,50.0,46.0,,,GIRNAR,100.0,g,1,Success,JoiMart,4.0,8.0,460.0
+534," PureFoods Vietnamese Tender Coconut Water, 100% Pure Natural | Nariyal Paani Pack of 1 - 320ml ",95.0,95.0,,,ROLLINS PUREFOODS,320.0,ml,1,Success,JoiMart,0.0,0.0,296.88
+535, Rage Coffee 75 Gms Dark Roast ,185.0,149.0,,,RAGE COFFEE,75.0,gms,1,Success,JoiMart,36.0,19.46,1986.67
+536, Open Secret Choco Almond Shake Powder - Pack of 2 ,698.0,523.0,,,OPEN SECRET,,none,2,Failed,JoiMart,175.0,25.07,
+537, Christopher Cocoa Hazelnut Mocha Hot Drinking Chocolate Powder with Dark Chocolate Buttons 200g ,350.0,211.0,,,CHRISTOPHER COCOA,200.0,g,1,Success,JoiMart,139.0,39.71,1055.0
+538, Nescafe Classic South Africa 50 Gms ,302.5,244.0, Imported ,,NESCAFE,50.0,gms,1,Success,JoiMart,58.5,19.34,4880.0
+539, Continental Malgudi Filter Coffee Powder 500g Pouch Combo | Pack of 2 | 80/40 + 60/20 | ,560.0,559.0,,,CONTINENTAL,500.0,g,2,Success,JoiMart,1.0,0.18,1118.0
+540, VAHDAM - Organic Spiced Turmeric Tea | USDA Organic Certified 15 Turmeric Tea Bags | Blend of Turmeric Powder & Fresh Spices | Herbal Tea for Weight Loss |Green tea for weight loss ,199.0,179.0,,,VAHDAM,,none,1,Failed,JoiMart,20.0,10.05,
+541, Society OMT Elaichi Instant Tea Premix 500g Jar ,230.0,230.0,,,SOCIETY,500.0,g,1,Success,JoiMart,0.0,0.0,460.0
+542, Dhopabor Premium Tea -1 KG (2 x 500g Value Offer Packs)| High quality Assam CTC Chai| ,388.0,349.0,,,DHOPABOR,1.0,kg,1,Success,JoiMart,39.0,10.05,349.0
+543," Christopher Cocoa, Drinking Chocolate Cocoa Powder, Dark No Sugar, 200g ",299.0,219.0,,,CHRISTOPHER COCOA,200.0,g,1,Success,JoiMart,80.0,26.76,1095.0
+544, Teabox Chamomile Green Tea Bags 25 Pieces | For Stress Relief & Good Sleep | Made with 100% Whole Leaf & Natural Chamomile Flowers | 2 Free Samples Included ,263.0,249.0,,,TEABOX,25.0,tea bags,1,Success,JoiMart,14.0,5.32,9.96
+545, Himgiri Gulab Sharbat 750 ml ,150.0,127.0,,,HITKARY PHARMACY,750.0,ml,1,Success,JoiMart,23.0,15.33,169.33
+546, Davidoff Rich Aroma Vivid and Spicy Instant Coffee 200 g (100 g X 2 Bottles) ,1300.0,1129.0,,,DAVIDOFF,200.0,g,1,Success,JoiMart,171.0,13.15,5645.0
+547, Coffee Day Arabica Coffee Powder - 200 gm X 2 Packs ,400.0,380.0,,,CAFÉ COFFEE DAY,200.0,gm,1,Success,JoiMart,20.0,5.0,1900.0
+548," Sleepy Owl Premium Instant Coffee Sachets | 96 gm - Pack of 48 Assorted Coffee Powder Sachets | 2g Each - Original, French Vanilla, Hazelnut, and Filter Kaapi - Flavoured Coffee | Coffee Pouch - Makes 48 Cups ",480.0,429.0,,,SLEEPY OWL,96.0,gm,48,Success,JoiMart,51.0,10.62,4468.75
+549," Sri Sri Tattva Chocolate Ojasvita - Sharp Mind & Fit Body Foil Pack, 1kg ",560.0,504.0,,,SRI SRI,1.0,kg,1,Success,JoiMart,56.0,10.0,504.0
+550, Mapro Lounge Mojito Mint & Lemon Flavoured Fruit Sharbat 1Ltr ,630.0,598.0,,,MAPRO,1.0,ltr,1,Success,JoiMart,32.0,5.08,598.0
+551, Healthy Panda - Organic Sprouted Ragi Dry fruit Malt (400G) - Sugar Free-Health Mix / health drink for kids / health drink for Adults / women health drink / Millets Food / Dryfruit powder ,399.0,239.0,,,HEALTHY PANDA,400.0,g,1,Success,JoiMart,160.0,40.1,597.5
+552," RiseUp Aroma Fresh Filter Coffee Powder, Aroma Ribbon Filter Coffee Powder, 500 g (Combo of 2) ",400.0,299.0,,,RISE UP COFEE,500.0,g,1,Success,JoiMart,101.0,25.25,598.0
+553," AACTUALA Kiwi Aloe Vera Coconut Water Fruit Juice, Aloe Vera Juice - 200ml, Pack of 6 (6 x 200 ml) ",299.0,282.0,,,AACTUALA,200.0,ml,6,Success,JoiMart,17.0,5.69,1410.0
+554, Leo Coffee Degree Blend Filter Coffee Powder Medium Roast Strong - 200 g ,124.0,111.0,,,LEO COFFEE,200.0,g,1,Success,JoiMart,13.0,10.48,555.0
+555, Manna Go Grains Chocolate. Multigrain Health Drink Mix 400g ,299.0,225.0,,,MANNA,400.0,g,1,Success,JoiMart,74.0,24.75,562.5
+556," Sri Sri Tattva Karela Jamun Juice,500 Ml Each (Pack Of 2) ",255.0,229.0,,,SRI SRI,500.0,ml,2,Success,JoiMart,26.0,10.2,458.0
+557," Orglife Red Wine Vinegar Organic With Mother, 500 ml (Pack Of 1) ",599.0,195.0,,,ORGLIFE,500.0,ml,1,Success,JoiMart,404.0,67.45,390.0
+558," Lavazza IL Mattino Vivace Coffee Powder, 200 g ",210.0,199.0,,,LAVAZZA,200.0,g,1,Success,JoiMart,11.0,5.24,995.0
+559," Shunya Fizz Lime & Lemon & Classic Cola Combo | Sugar Free Soft Drink | 0 Calories & No Aspartame | Supercharged with Green Tea, Ashwagandha & Vitamin C | Pack of 12(300 ml X 12) ",720.0,615.0,,,SHUNYA,300.0,ml,12,Success,JoiMart,105.0,14.58,2050.0
+560, GS Tea DUST 250 GM (Pack of 4) ,420.0,380.0,,,GS,250.0,gm,4,Success,JoiMart,40.0,9.52,1520.0
+561, Shunya Fizz Lime & Lemon | Sugar Free Soft Drink | 0 Calories & No Aspartame | Supercharged with Green Tea & Vitamin C | Pack of 24 (300 ml X 24) ,1440.0,1152.0,,,SHUNYA,300.0,ml,24,Success,JoiMart,288.0,20.0,3840.0
+562," Colombian Brew Pure Instant Coffee Powder, Smooth & Strong, 100g Buy 2 Get 1 Free ",897.0,497.0,,,COLOMBIAN BREW,100.0,g,1,Success,JoiMart,400.0,44.59,4970.0
+563, Davidoff Espresso 57 Dark and Chocolatey Instant Coffee 200 g (100 g X 2 Bottles) ,1300.0,1129.0,,,DAVIDOFF,200.0,g,1,Success,JoiMart,171.0,13.15,5645.0
+564, Bean2Brew | Premium Blend | Filter Coffee Powder | 80:20 | 200g ,130.0,125.0,,,BEAN2BREW,200.0,g,1,Success,JoiMart,5.0,3.85,625.0
+565, Tata Gold Mixture Tea 1 kg ,475.0,427.0,,,TATA TEA,1.0,kg,1,Success,JoiMart,48.0,10.11,427.0
+566, BUY 100% HAND-PICKED ASSAM LEAF TEA | DESI CHAI PATTI BY PYASA TEA | TEA 1KG ,1000.0,539.0,,,PYASA,1.0,kg,1,Success,JoiMart,461.0,46.1,539.0
+567, Sunbean Beaten Caffe Powder 120 g (Pack of 10) ,150.0,99.0,,,SUNBEAN,120.0,g,10,Success,JoiMart,51.0,34.0,825.0
+568, Continental Speciale Coffee Jar - 200 gm | 100% Pure Coffee | Classic Instant Coffee ,540.0,399.0,,,CONTINENTAL,200.0,gm,1,Success,JoiMart,141.0,26.11,1995.0
+569, Groviva Wholesome Child Nutrition for Growth & Development - 400g Jar (Vanilla) ,725.0,652.0,,,GROVIVA,400.0,g,1,Success,JoiMart,73.0,10.07,1630.0
+570, Pepsi Lemon ,206.25,174.0, Imported ,,PEPSI,,none,1,Failed,JoiMart,32.25,15.64,
+571, Nutvit Nutrition Green Coffee Beans Powder for Weight Management 50gm Pack of 1 ,249.0,170.0,,,NUTVIT,50.0,gm,1,Success,JoiMart,79.0,31.73,3400.0
+572," Shunya Go Sugar Free Mixed Fruit Mania Flavoured Drink - Immunity-Boosting, 0 Calories & 0 Preservatives Everyday Hydration Vitamins, Minerals & Electrolytes, 4 Super Herbs Pack of 12 (300ml each) ",720.0,684.0,,,SHUNYA,300.0,ml,12,Success,JoiMart,36.0,5.0,2280.0
+573, Nawab's Secret 100% Natural Premium Kewra Water and Rose Water (Pack of 2 * 200ml) - Essence for Biryani and Mughlai Dishes ,240.0,206.0,,,NAWAB'S SECRET,200.0,ml,2,Success,JoiMart,34.0,14.17,1030.0
+574, Kokan Gem Kokum Blast 180 ml ,25.0,12.0,,,KOKAN GEM,180.0,ml,1,Success,JoiMart,13.0,52.0,66.67
+575, Rage Coffee Combo Pack of 2 - Irish Hazelnut & Creme Caramel Flavoured Coffee 50 Gms Each ,698.0,299.0,,,RAGE COFFEE,50.0,gms,2,Success,JoiMart,399.0,57.16,5980.0
+576, Tata Gold Mixture Tea 250 g ,120.0,111.0,,,TATA TEA GOLD,250.0,g,1,Success,JoiMart,9.0,7.5,444.0
+577, J DEVI TEA Organic Blended Strong Taste & Refreshing Tea|Unique Blend Crafted For Chai Lovers Across India | Red-250 gm ,399.0,129.0,,,J DEVI TEA,250.0,gm,1,Success,JoiMart,270.0,67.67,516.0
+578," BEVZILLA Instant Coffee Powder - 48 Sachets (Colombian Gold)| Hot & Cold Coffee| Makes 48 Cups| 100 % Arabica Coffee| Strong Coffee| Easy To Carry| Best Coffee| Espresso, Latte, Cappuccino ",299.0,239.0,,,BEVZILLA,48.0,sachets,1,Success,JoiMart,60.0,20.07,4.98
+579, Society Tea 100 g ,55.0,51.0,,,SOCIETY,100.0,g,1,Success,JoiMart,4.0,7.27,510.0
+580, Lipton Honey Lemon Green Tea 100 g ,155.0,144.0,,,LIPTON,100.0,g,1,Success,JoiMart,11.0,7.1,1440.0
+581, Tata Teaveda Tea 250 g ,145.0,134.0,,,TATA TEA,250.0,g,1,Success,JoiMart,11.0,7.59,536.0
+582, Manama Black Currant Crush and Strawberry Crush | 750ML Each | Topping for Cakes and Shakes | (Pack of 2) ,380.0,380.0,,,MANAMA,750.0,ml,2,Success,JoiMart,0.0,0.0,506.67
+583, Bevzilla Coffee Shaker with 25 Assorted Flavoured Sachets Instant Coffee Powder | Shaker - 500ml | Sachet - 2gm Each | 4 Flavours ,399.0,250.0,,,BEVZILLA,500.0,ml,1,Success,JoiMart,149.0,37.34,500.0
+584, Mogu Mogu Orange Juice 25% with Nata De Coco 300 ml - Pack of 6 ,420.0,420.0,,,MOGU MOGU,300.0,ml,6,Success,JoiMart,0.0,0.0,1400.0
+585, JINDAL COCOA CLASSIC CHOCOLATE SYRUP 650 GMS ,220.0,165.0,,,JINDAL COCOA,650.0,gms,1,Success,JoiMart,55.0,25.0,253.85
+586, NutroVally Green Tea | Premium Natural & Pure Aromatic Leaves | Rich In Antioxidant Lemon Green Tea Bags -25 Pcs ,199.0,175.0,,,NUTROVALLY,25.0,pcs,1,Success,JoiMart,24.0,12.06,7.0
+587, Bevzilla 48 Sachets Dark Wish Dark Roast Strong Coffee Powder Box - 96gm | The Strongest Coffee | Instant Coffee | 100% Arabica Beans | No Added Preservatives | Makes 48 Cups ,499.0,279.0,,,BEVZILLA,48.0,sachets,1,Success,JoiMart,220.0,44.09,5.81
+588," Colombian Brew Instant Coffee Powder Pure, Strong, 1kg Hotel Pack ",2200.0,1299.0,,,COLOMBIAN BREW,1.0,kg,1,Success,JoiMart,901.0,40.95,1299.0
+589, Black & White Ginger Ale Non alcoholic Infused with Natural Flavoured Drink Can Carbonated Beverage 330 ml Pack of 4 ,400.0,320.0,,,BLACK & WHITE,330.0,ml,4,Success,JoiMart,80.0,20.0,969.7
+590, G.M.S TULSI TEA Gold Gift Pack | Tulsi Gold Brokens Tea 1 kg & Premium Gold Finish Stainless Steel Kullhad Set of 6 in Jewellery Box | Gold Kadak Chai | CTC Tea ,1999.0,1599.0,,,G.M.S TULSI TEA,1.0,kg,6,Success,JoiMart,400.0,20.01,1599.0
+591, Cloud 9 Fruttu Litchi Fruit Juice 160 ml pack of 24 ,340.0,340.0,,,CLOUD 9,160.0,ml,24,Success,JoiMart,0.0,0.0,2125.0
+592," The Indian Chai - Bloom Diwali Gift Box | Contains Rose Petals (15g), Teen Paan Rose Tea (50g) and Kama S Tea (75g) | Assorted Herbal, Black & Chai Tea in Glass Jar | Loose Leaf Tea | Diwali Gift Pack ",599.0,399.0,,,THE INDIAN CHAI,15.0,g,1,Success,JoiMart,200.0,33.39,26600.0
+593," Schweppes 320ml (Tonic Water, Pack of 4) (Imported) ",500.0,427.0, Imported ,,SCHWEPPES,320.0,ml,4,Success,JoiMart,73.0,14.6,1334.38
+594, Dr Pepper Zero Sugar Coca Cola |Pack of 3| Imported ,600.0,525.0, Imported ,,COCA COLA,,none,3,Failed,JoiMart,75.0,12.5,
+595," Sleepy Owl 50gm Original Premium Instant Coffee | 100% Arabica | Makes 25 Cups | Strong & Delicious Coffee | Rich & Smooth Aroma | Make Café Style Hot or Cold Coffee, Cappuccino, Espresso, Latte at Home ",325.0,199.0,,,SLEEPY OWL,50.0,gm,1,Success,JoiMart,126.0,38.77,3980.0
+596," Tea Valley Utsah Dumdar Chai 900Gm | KADAK, MALTY, Aromatic & Strong | Unique Blend of Assam and Dooars CTC | ",230.0,230.0,,,TEA VALLEY,900.0,gm,1,Success,JoiMart,0.0,0.0,255.56
+597, Alo Frut Guava + Aloevera Fruit Juice 1 L ,120.0,99.0,,,ALO FRUT,1.0,l,1,Success,JoiMart,21.0,17.5,99.0
+598, Momsy Premium Assam Tea| Single Origin Tea| Strong and Robust Blend| Premium Chai Patti (450gm) ,499.0,272.0,,,MOMSY,450.0,gm,1,Success,JoiMart,227.0,45.49,604.44
+599," BEVZILLA Instant Coffee Powder - 48 Sachets (Butterscotch)| Hot & Cold Coffee| Makes 48 Cups| 100 % Arabica Coffee| Strong Coffee| Easy To Carry| Best Coffee| Espresso, Latte, Cappuccino ",299.0,239.0,,,BEVZILLA,48.0,sachets,1,Success,JoiMart,60.0,20.07,4.98
+600, CHAI POINT Instant Masala Tea | Incredibly Authentic | Masala Flavored Tea | 10 Sachets | Masala Chai | Instant Premix Tea (Pack of 1) ,199.0,140.0,,,CHAIPOINT,10.0,sachets,1,Success,JoiMart,59.0,29.65,14.0
+601, Starbucks Vanilla Frappuccino 250 ml JST ,350.0,300.0,,,JST,250.0,ml,1,Success,JoiMart,50.0,14.29,1200.0
+602, Mountain Dew Voltage (355ml) Imported Coca Cola ,850.0,750.0,,,COCA COLA,355.0,ml,1,Success,JoiMart,100.0,11.76,2112.68
+603, Open Secret Chocolate Thandai Mix Powder - 225g - Pack of 1 ,349.0,279.0,,,OPEN SECRET,225.0,g,1,Success,JoiMart,70.0,20.06,1240.0
+604, Winola Chocolate Dressing Spread for Perfect Topping (1.3 kg) ,300.0,251.0,,,WINOLA,1.3,kg,1,Success,JoiMart,49.0,16.33,193.08
+605, Davidoff Crema Intense Smooth and Rounded Instant Coffee 100 g ,650.0,590.0,,,DAVIDOFF,100.0,g,1,Success,JoiMart,60.0,9.23,5900.0
+606, Marvel Yellow Tea 250 g ,135.0,67.0,,,MARVEL,250.0,g,1,Success,JoiMart,68.0,50.37,268.0
+607, Continental Xtra Coffee 50G Pouch | Buy 4 and Get 4 Free | 400g ,1400.0,699.0,,,CONTINENTAL,50.0,g,1,Success,JoiMart,701.0,50.07,13980.0
+608, GS Tea DUST 1 KG ,420.0,384.0,,,GS,1.0,kg,1,Success,JoiMart,36.0,8.57,384.0
+609, Jivvij Samaara Jivraj CTC Premium Loose Leaf Tea Refreshing Kadak Strong Aroma Desi Chai with Goodness of Time-Tested Indian Ingredients ,649.0,649.0,,,JIVVIJ SAMAARA,,none,1,Failed,JoiMart,0.0,0.0,
+610, Octavius | KADAK Assam Tea - 1Kg (Pack of 2) | Extra Strong Assam Tea | Black Tea | Kadak Chai Patti | Loose Tea | Strong Chai | Tea Powder | Chai Patti | Taza Tea | Garden Fresh Tea | Tea 2 Kg ,600.0,469.0,,,OCTAVIUS,1.0,kg,2,Success,JoiMart,131.0,21.83,469.0
+611, Jeju SamDaSoo Natural Mineral Water ,2800.0,2800.0, Imported ,,JEJU SAMDASOO,,none,1,Failed,JoiMart,0.0,0.0,
+612," C. SOMABHAI's No. 11 CTC Premium Dust Tea - 1kg, Assam Tea, Kadak Chai Patti, Strong Regular Black Tea Powder 1 kg Pack ",520.0,490.0,,,C. SOMABHAI (QUALITY TEA),1.0,kg,1,Success,JoiMart,30.0,5.77,490.0
+613, Octavius | Pure Green Tea Bags - 100 Pieces | All Natural | Antioxidant-rich | Improves Metabolism | Reduces Waist | Detox Green Tea Bags (2gm x 100 Bags) ,260.0,255.0,,,OCTAVIUS,2.0,g,1,Success,JoiMart,5.0,1.92,127500.0
+614, Real Fruit Power Pineapple Juice 1 L ,130.0,120.0,,,REAL,1.0,l,1,Success,JoiMart,10.0,7.69,120.0
+615, Society Hot Lemon Premix Tea | Instant Lemon Tea | 500g Pouch ,195.0,176.0,,,SOCIETY,500.0,g,1,Success,JoiMart,19.0,9.74,352.0
+616, Aquafina Packaged Drinking Water 500 ml ,10.0,10.0,,,AQUAFINA,500.0,ml,1,Success,JoiMart,0.0,0.0,20.0
+617, Shree Guruji Kesaria Thandai Dry Fruit Syrup Sharbat (1 Litre) Pack of 1 ,550.0,550.0,,,SHREE GURUJI,,none,1,Failed,JoiMart,0.0,0.0,
+618, Tata Coffee Grand| Strong Coffee| Super Saver Pack| 200 Gm Each | Pack of 2| 400 Gm ,499.0,499.0,,,TATA COFFEE,200.0,gm,2,Success,JoiMart,0.0,0.0,2495.0
+619," PepsiCo ChefsNeed Pepsi Black 320ml, |Pack of 3 |Cans (Imported Product) ",600.0,525.0, Imported ,,PEPSI,320.0,ml,3,Success,JoiMart,75.0,12.5,1640.62
+620, Continental THIS Cappuccino 3 in 1 Premix Coffee| 132g Box ( 22g* 6 Sachets) | Pack of 3 ,375.0,369.0,,,CONTINENTAL,132.0,g,3,Success,JoiMart,6.0,1.6,2795.45
+621, Kahvi 100% Authentic Coffee Powder | Instant Coffee Powder | Arabica & Robasta Beans | Strong Taste & Rich Aroma I Hot & Cold Coffee I 50G Pouch x 2 ,320.0,200.0,,,KAHVI BRAND,50.0,g,1,Success,JoiMart,120.0,37.5,4000.0
+622, Goodricke Thurbo Darjeeling Tea - 250 Gm | Single Estate Whole Leaf Black Tea ,350.0,315.0,,,GOODRICKE,250.0,gm,1,Success,JoiMart,35.0,10.0,1260.0
+623," Schweppes Ginger Ale, 320 Ml |Pack of 3| Imported from Malaysia ",600.0,450.0, Imported ,,SCHWEPPES,320.0,ml,3,Success,JoiMart,150.0,25.0,1406.25
+624, Girnar Adrakh Instant Tea Premix 10 g (10 pcs) ,150.0,139.0,,,GIRNAR,10.0,g,1,Success,JoiMart,11.0,7.33,13900.0
+625, Kokan Gem Kokum Syrup 1 L ,180.0,90.0,,,KOKAN GEM,1.0,l,1,Success,JoiMart,90.0,50.0,90.0
+626, GS Tea GREEN 100 GM ,100.0,90.0,,,GS,100.0,gm,1,Success,JoiMart,10.0,10.0,900.0
+627, Lipton Pure & Light Green Tea Bags 100 pcs ,625.0,581.0,,,LIPTON,100.0,pcs,1,Success,JoiMart,44.0,7.04,5.81
+628, Black & White Ginger Ale Non alcoholic Infused with Natural Flavoured Drink Can Carbonated Beverage 330 ml Pack of 2 ,200.0,160.0,,,BLACK & WHITE,330.0,ml,2,Success,JoiMart,40.0,20.0,484.85
+629," Davidoff Expresso Intense Coffee, 90 Gm ",650.0,600.0, Imported ,,DAVIDOFF,90.0,gm,1,Success,JoiMart,50.0,7.69,6666.67
+630," Monster Ultra Energy Drink Zero Sugar, 500 Mlpack of 2 ",770.0,650.0, Imported ,,MONSTER,500.0,ml,2,Success,JoiMart,120.0,15.58,1300.0
+631," Skippi Desi Flavour of Ice Pops, Kala Khatta, Rose, Jaljeera, Imli, Chilli Guava, Aam Panna ( 2 sets of 6 Indian flavours, 12 Ice pops X 70ml each) ",240.0,180.0,,,SKIPPI ICE POPS,70.0,ml,1,Success,JoiMart,60.0,25.0,2571.43
+632, Society Tea Leaf Tea 250g Pouch ,290.0,290.0,,,SOCIETY,250.0,g,1,Success,JoiMart,0.0,0.0,1160.0
+633," Mtn Dew, Major Melon 355 Ml Imported Coca Cola ",850.0,750.0,,,COCA COLA,355.0,ml,1,Success,JoiMart,100.0,11.76,2112.68
+634, Wagh Bakri | MiliKadak DanedarTea |Strong LeafTea | 250G Each | Pack of 4 |1K + Green Elaichi 25G ,570.0,510.0,,,WAGH BAKRI,250.0,g,4,Success,JoiMart,60.0,10.53,2040.0
+635," Sleepy Owl 50gm French Vanilla Premium Instant Coffee | 100% Arabica | Makes 25 Cups | Sweet & Mellow Flavoured Coffee | Make Café Style Hot or Cold Coffee, Cappuccino, Espresso, Latte at Home ",325.0,199.0,,,SLEEPY OWL,50.0,gm,1,Success,JoiMart,126.0,38.77,3980.0
+636, Hill Bagan Elaichi CTC Tea Refreshing Flavour Real & Aroma 250gm (Cardamom) ,250.0,215.0,,,"HILL BAGAN- ""TASTE OF QUALITY""",250.0,gm,1,Success,JoiMart,35.0,14.0,860.0
+637, SENSO Tea Premix Ginger Preservatives Free (10 sachets) ,140.0,100.0,,,SENSO,10.0,sachets,1,Success,JoiMart,40.0,28.57,10.0
+638, Dhopabor Premium Tea -500 g (2 x 250g Value Offer Packs) | High quality Assam CTC Chai| ,194.0,188.0,,,DHOPABOR,500.0,g,1,Success,JoiMart,6.0,3.09,376.0
+639, Mogu Mogu Mango Juice 25% with Nata De Coco 300 ml - Pack of 6 ,420.0,420.0,,,MOGU MOGU,300.0,ml,6,Success,JoiMart,0.0,0.0,1400.0
+640, Rage Coffee Combo Pack of 2 Flavoured Instant Coffee - 50 gms each of Irish Hazelnut & Dark Chocolate ,698.0,299.0,,,RAGE COFFEE,50.0,g,2,Success,JoiMart,399.0,57.16,5980.0
+641," Cambridge Tea Party Slim 30 Tea Bags, Hibiscus Clove Orange Rose Turmeric Cinnamon Tulsi Green Tea ",225.0,199.0,,,CAMBRIDGE TEA PARTY,30.0,tea bags,1,Success,JoiMart,26.0,11.56,6.63
+642, Lipton After Lunch Ginger Green Tea Bags 1.8 g (25 pcs) ,190.0,175.0,,,LIPTON,1.8,g,1,Success,JoiMart,15.0,7.89,97222.22
+643," Nescafe Gold Blend Coffee Imported , 50 Gm ",398.5,349.0, Imported ,,NESCAFE,50.0,gm,1,Success,JoiMart,49.5,12.42,6980.0
+644, Maharani Premium Tea 1KG - Assam Leaf Tea ,470.0,403.0,,,BANSAL KI MASHHUR MAHARANI,1.0,kg,1,Success,JoiMart,67.0,14.26,403.0
+645, Jindal Cocoa Cocoa Powder 100 gms (Pack of 2) ,180.0,175.0,,,JINDAL COCOA,100.0,gms,2,Success,JoiMart,5.0,2.78,1750.0
+646, KANGEN DAILY WATER INTAKE BOTTLE 500 ML (PACK OF 24) ,960.0,940.0,,,KANGEN,500.0,ml,24,Success,JoiMart,20.0,2.08,1880.0
+647, Leeford Herbal Infusion Detox Desi Kahwa Green Tea For Weight Loss - with Antioxidants and Nutrients (25 Infusion Tea Bags) ,250.0,203.0,,,LEEFORD,,none,1,Failed,JoiMart,47.0,18.8,
+648, JAIN SHIKANJI ,150.0,150.0,,,INSTANT JAIN SHIKANJI,,none,1,Failed,JoiMart,0.0,0.0,
+649," The Pahadi Story Masala Chai Loose Leaf 175g, Premium Assam Masala Tea, 100% Natural Ingredients Infused With Premium Black CTC, Ginger, Clove, Cinnamon, Cardamom, Black Pepper ",349.0,314.0,,,THE PAHADI STORY,175.0,g,1,Success,JoiMart,35.0,10.03,1794.29
+650, Society Leaf & Masala Tea 500gm Combo ,610.0,580.0,,,SOCIETY,500.0,gm,1,Success,JoiMart,30.0,4.92,1160.0
+651, Hitkary Rose Sharbat Syrup 750 ml ,180.0,157.0,,,HITKARY PHARMACY,750.0,ml,1,Success,JoiMart,23.0,12.78,209.33
+652, Shree Royal Premium leaf tea| Black Tea| pack of 1kg |Assam leaf tea ,550.0,390.0,,,SHREE ROYAL,1.0,kg,1,Success,JoiMart,160.0,29.09,390.0
+653, NATTFRU Kiwi Fruit Juice | Immunity Booster | Vitamin C | No Added Color or Preservatives - Only 100% Fruit ,199.0,197.0,,,NATTFRU,,none,1,Failed,JoiMart,2.0,1.01,
+654, 9am Corn Flour Pack of 2 (Each - 1kg) ,280.0,252.0,,,9 AM,1.0,kg,2,Success,JoiMart,28.0,10.0,252.0
+655," Nutrovally Chamomile Herbal Tea | 100% Natural Whole Leaf ,Stress Relief ,Relaxing, & Good Sleep, | Tea Bags 25 pcs ",249.0,189.0,,,NUTROVALLY,25.0,pcs,1,Success,JoiMart,60.0,24.1,7.56
+656, DALMIA GOLD 250GM POUCH PACK OF 4 ,468.0,445.0,,,DALMIA GOLD,250.0,gm,4,Success,JoiMart,23.0,4.91,1780.0
+657, Continental Speciale Coffee 50 g ,200.0,100.0,,,CONTINENTAL,50.0,g,1,Success,JoiMart,100.0,50.0,2000.0
+658, HORLICKS Protein Plus Chocolate Flavour 400 Gram Jar ,750.0,620.0,,,HORLICKS,400.0,gram,1,Success,JoiMart,130.0,17.33,1550.0
+659," TEA VALLEY Gold, Royal and Classic Tea Combo 100 Percent Assam and Dooars CTC Tea with Aromatic Long Leaf, 250 g Each (pack of 3) ",400.0,350.0,,,TEA VALLEY,250.0,g,3,Success,JoiMart,50.0,12.5,1400.0
+660," Rage Coffee Silk Blend Assorted Sachets | Pack of 30 | Rich & Bold Instant Coffee Flavour | Espresso, Cappuccino, Latte | Premium Bold & Smooth (10 Sachets Each Flavours) ",179.0,179.0,,,RAGE COFFEE,10.0,sachets,30,Success,JoiMart,0.0,0.0,17.9
+661, Continental Hazelnut Flavoured Instant Coffee 50g Jar | BUY 1 + GET 1 FREE | 100% Premium Freeze Dried Coffee ,450.0,199.0,,,CONTINENTAL,50.0,g,1,Success,JoiMart,251.0,55.78,3980.0
+662, Continental Speciale Instant Coffee Powder 50g*4 | BUY 1 + GET 1 FREE | 100% Pure Coffee ,1600.0,799.0,,,CONTINENTAL,50.0,g,1,Success,JoiMart,801.0,50.06,15980.0
+663," Drink Masti Enjoy Masti Masti Agar Agar Powder for Jelly, [ China Grass] for kids and teens| Flavoured powder for milk-40gm ",1000.0,220.0,,,DRINK MASTI ENJOY MASTI MASTI,40.0,gm,1,Success,JoiMart,780.0,78.0,5500.0
+664, Redbull Plus Energy Drink 250ml Sugar Free Imported JST ,200.0,180.0,,,JST,250.0,ml,1,Success,JoiMart,20.0,10.0,720.0
+665, Country Bean Hazelnut Coffee 50g - No Added Sugar ,325.0,249.0,,,COUNTRY BEAN,50.0,g,1,Success,JoiMart,76.0,23.38,4980.0
+666," Christopher Cocoa Assorted Cake Sprinkles Dark Chocolate Chips 50g, White Chocolate Chips 50g, Rainbow Chocolate sprinkles 30g (Snack, Topping Ice Cream, Cakes, Baking) ",249.0,123.0,,,CHRISTOPHER COCOA,50.0,g,1,Success,JoiMart,126.0,50.6,2460.0
+667," MOJOCO Refreshing Coconut Water - Vital Minerals, | Real Tender Coconut Water - 200 ML (Pack of 6) ",360.0,299.0,,,MOJOCO,200.0,ml,6,Success,JoiMart,61.0,16.94,1495.0
+668, Mr. Fresh Coco 100 % Tender Coconut Water Coconut Water || Pack of 48||No Added Flavors||200 ml Each ,2400.0,1608.0,,,MR. FRESH,200.0,ml,48,Success,JoiMart,792.0,33.0,8040.0
+669," Manama Cherry Fruit Flavoured Syrup, Mixer for Mocktails and Cocktails 750ml (Pack of 1) ",340.0,340.0,,,MANAMA,750.0,ml,1,Success,JoiMart,0.0,0.0,453.33
+670," C. SOMABHAI's No. 10 Premium CTC Leaf Tea - 1kg, Assam Black Losse Leaf Tea ",560.0,525.0,,,C. SOMABHAI (QUALITY TEA),1.0,kg,1,Success,JoiMart,35.0,6.25,525.0
+671," First Flavour Tea Premium Assam Black Loose CTC/Dust Tea, 500Gm Pouch - Strong, Aromatic & Rich | Black Assam CTC Dust Tea | Premium Kadak Chai Patti (Pack of 1) ",190.0,185.0,,,FIRST FLAVOUR,500.0,gm,1,Success,JoiMart,5.0,2.63,370.0
+672," Gusto Foods Green Lime Juice Concentrate, 600 Ml (Pack Of 3) ",267.0,199.0,,,GUSTO FOODS,600.0,ml,3,Success,JoiMart,68.0,25.47,331.67
+673, Mojoco Malai Nata De Coco Tender Coconut Water 2000 Ml ,70.0,65.0,,,MOJOCO,2000.0,ml,1,Success,JoiMart,5.0,7.14,32.5
+674," Ogreeny Red Wine Vinegar Organic Non Alcoholic Drink, 750 ml (Pack Of 1) ",899.0,273.0,,,OGREENY,750.0,ml,1,Success,JoiMart,626.0,69.63,364.0
+675," AACTUALA Aloe Vera Coconut Water Fruit Juice With Kiwi - 200ml, Pack of 6 (6 x 0.2 L) ",399.0,289.0,,,AACTUALA,200.0,ml,6,Success,JoiMart,110.0,27.57,1445.0
+676," Rage Coffee Silk Blend Classic 50 GMs | 100% Pure Coffee | Premium, Bold & Smooth ",165.0,149.0,,,RAGE COFFEE,50.0,gms,1,Success,JoiMart,16.0,9.7,2980.0
+677," Granules n Beans Assorted Chai Cardamom, Ginger, Lemongrass Ginger, Masala Instant Tea Premix 10 Sachet x 14g ",160.0,144.0,,,GRANULES N BEANS,14.0,g,1,Success,JoiMart,16.0,10.0,10285.71
+678, Weikfield Drinking Chocolate Powder 100 g ,75.0,65.0,,,WEIKFIELD,100.0,g,1,Success,JoiMart,10.0,13.33,650.0
+679, G.M.S TULSI TEA | Kadak Chai | Brokens - Dana Tea | Black Tea | CTC Tea | Kadak Taste of Gujarat | Aromatic Blend For Gujarati Chai Lovers 1 kg ,380.0,380.0,,,G.M.S TULSI TEA,1.0,kg,1,Success,JoiMart,0.0,0.0,380.0
+680," Urban Platter Canadian Cranberry Juice, 1 Litre ",1750.0,1700.0,,,URBAN PLATTER,,none,1,Failed,JoiMart,50.0,2.86,
+681, Shunya Fizz Classic Cola | Sugar Free Soft Drink | 0 Calories & No Aspartame | Supercharged with Ashwagandha & Vitamin C | Pack of 12 (300 ml X 12) ,720.0,616.0,,,SHUNYA,300.0,ml,12,Success,JoiMart,104.0,14.44,2053.33
+682," NATURUP Tender Coconut Water Powder Mix (240g),( Pack of 20) Nariyal Pani ",400.0,398.0,,,NATURUP,240.0,g,20,Success,JoiMart,2.0,0.5,1658.33
+683," Colombian Brew Hazelnut Instant Coffee Powder, No Sugar Vegan, 1kg Hotel Pack ",3500.0,1399.0,,,COLOMBIAN BREW,1.0,kg,1,Success,JoiMart,2101.0,60.03,1399.0
+684, Lipton Darjeeling Leaf Tea 500 g ,970.0,902.0,,,LIPTON,500.0,g,1,Success,JoiMart,68.0,7.01,1804.0
+685, Protinex Creamy Vanilla 250 g ,445.0,410.0,,,PROTINEX,250.0,g,1,Success,JoiMart,35.0,7.87,1640.0
+686, Open Secret Shake Mix Thadai Combo - Chocolate and Kesar Badam ,698.0,628.0,,,OPEN SECRET,,none,1,Failed,JoiMart,70.0,10.03,
+687, MURALIS - 100% Pure Filter Coffee Powder | 400 gms |Pack of 2 | Traditional South Indian Coffee ,259.0,249.0,,,MURALIS,400.0,gms,2,Success,JoiMart,10.0,3.86,622.5
+688, Mogu Mogu Pineapple Juice 25% with Nata De Coco 300 ml - Pack of 6 ,420.0,420.0,,,MOGU MOGU,300.0,ml,6,Success,JoiMart,0.0,0.0,1400.0
+689," Dhampur Green Mocktail Syrup Combo| Pina Colada, Fresh mint, Blue Curacao Pack of 3 - 900ml , Each - 300ml ",405.0,385.0,,,DHAMPUR GREEN,900.0,ml,3,Success,JoiMart,20.0,4.94,427.78
+690, Octavius Gold Tea CTC Chai - 1 Kg ,590.0,375.0,,,OCTAVIUS,1.0,kg,1,Success,JoiMart,215.0,36.44,375.0
+691," organic forest Spearmint Tea for PCOD and PCOS, Helps balancing Hormones (100 grams) Unflavored Herbal Tea Pouch (100 g) ",340.0,180.0,,,ORGANIC FOREST,100.0,grams,1,Success,JoiMart,160.0,47.06,1800.0
+692, Organic Life Apple Cider Vinegar With Mother Raw & Unfiltered (1000 ML) ,998.0,399.0,,,ORGANIC LIFE,1000.0,ml,1,Success,JoiMart,599.0,60.02,399.0
+693," Sri Sri Tattva Wheat Grass Juice - Daily Fitness Essential, 1000ml ",320.0,288.0,,,SRI SRI TATTVA SHUDDHTA KA NAAM,1000.0,ml,1,Success,JoiMart,32.0,10.0,288.0
+694, Schweppes Soda Water 300 ml ,60.0,55.0,,,SCHWEPPES,300.0,ml,1,Success,JoiMart,5.0,8.33,183.33
+695," Colombian Brew Arabica Espresso Filter Coffee Powder, Roast & Ground Strong, 1kg ",999.0,899.0,,,COLOMBIANBREWCOFFEE,1.0,kg,1,Success,JoiMart,100.0,10.01,899.0
+696," DORJE TEAS Darjeeling Green Tea, Organic Whole Loose Leaf, Monsoon Harvest Tea Leaves (Pack of 1, 100 Gram) ",249.0,124.0,,,DORJE TEAS,100.0,gram,1,Success,JoiMart,125.0,50.2,1240.0
+697, Kokan Raj Kairi Panna Juice 1 L ,170.0,85.0,,,KOKAN RAJ,1.0,l,1,Success,JoiMart,85.0,50.0,85.0
+698," Electrorush ORS Apple Flavoured ORS Ready to Drink, Oral Rehydration for Instant Energy, Pack of 6 ",176.0,176.0,,,ELECTRORUSH,,none,6,Failed,JoiMart,0.0,0.0,
+699, Sharbat E Jannat Combo Pack of 2 (Rose 750ml + Rose 750ml) ,280.0,250.0,,,9 AM,750.0,ml,2,Success,JoiMart,30.0,10.71,333.33
+700, Castillo De Salobrena Red Grape And White Wine100% Non Alcohol Fruit Wine 1 Liter Celebration Drink ,999.0,849.0, Imported ,,CASTILLO DE SALOBRENA,1.0,liter,1,Success,JoiMart,150.0,15.02,849.0
+701," BEVZILLA Instant Coffee Powder - 48 Sachets (French Vanilla)| Hot & Cold Coffee| Makes 48 Cups| 100 % Arabica Coffee| Strong Coffee| Easy To Carry| Best Coffee| Espresso, Latte, Cappuccino ",299.0,239.0,,,BEVZILLA,48.0,sachets,1,Success,JoiMart,60.0,20.07,4.98
+702, NutroVally_Green Tea With Lemon Honey Flavored | Premium & Detox Refreshing Tea | Tea Bags 100 PCS ,996.0,419.0,,,NUTROVALLY,100.0,pcs,1,Success,JoiMart,577.0,57.93,4.19
+703, Bevzilla's Assorted 50 GM *4 Instant Coffee Powder Jars Gift Box with free Cafe glass ,2699.0,459.0,,,BEVZILLA,50.0,gm,1,Success,JoiMart,2240.0,82.99,9180.0
+704," Kokozo Mango Juice Drink With Nata De Coco, 300 Ml (Pack Of 6) ",900.0,719.0, Imported ,,KOKOZO,300.0,ml,6,Success,JoiMart,181.0,20.11,2396.67
+705, Open Secret Kesar Badam Thandai Shake Mix - Pack of 2 ,698.0,558.0,,,OPEN SECRET,,none,2,Failed,JoiMart,140.0,20.06,
+706," Gopaljee Thandai with badam, Pista, elaichi 500g ",275.0,259.0,,,GOPALJEE,500.0,g,1,Success,JoiMart,16.0,5.82,518.0
+707," Christopher Cocoa Instant Active Dry Yeast 100g (Bake Bread, Cake, Pizza, Dough) ",249.0,123.0,,,CHRISTOPHER COCOA,100.0,g,1,Success,JoiMart,126.0,50.6,1230.0
+708, Wagh Bakri Premium Leaf Tea 500 Gm + 50 Gm Black Papper ,640.0,635.0,,,WAGH BAKRI,500.0,gm,1,Success,JoiMart,5.0,0.78,1270.0
+709," PII ELECTROLYTE Orange Liquid, 200ml, ORS Ready To Drink Oral Rehydration (Pack of 15) ",570.0,423.0,,,PII===ELECTROLYTE,200.0,ml,15,Success,JoiMart,147.0,25.79,2115.0
+710, Black & White Ginger Ale Non alcoholic Infused with Natural Flavoured Drink Can Carbonated Beverage 330 ml Pack of 24 ,2400.0,1599.0,,,BLACK & WHITE,330.0,ml,24,Success,JoiMart,801.0,33.38,4845.45
+711, Rage Coffee Combo - Instant Coffee with Free Frother | Original Blend 50 gms | Frothy Coffee At Home | Black Coffee or Cafe Style Coffee | Made Using 100% Arabica Coffee Beans ,749.0,399.0,,,RAGE COFFEE,50.0,gms,1,Success,JoiMart,350.0,46.73,7980.0
+712, Shevades Products Omkar Products Kokum Syrup 500ml ,220.0,209.0,,,SHEVADES PRODUCTS,500.0,ml,1,Success,JoiMart,11.0,5.0,418.0
+713," Nescafe Gold Imported, 50 Gm ",398.75,321.0, Imported ,,NESCAFE,50.0,gm,1,Success,JoiMart,77.75,19.5,6420.0
+714, Insta Bytes Tulsi Adrak Chai Masala Tea Masala Full of Aroma and great taste (100 Gram) ,399.0,199.0,,,ASHDEEP'S INSTA BYTES EASY COOK,100.0,gram,1,Success,JoiMart,200.0,50.13,1990.0
+715, Raw Pressery Basics Valencia Orange Juice 250 ml ,120.0,111.0,,,RAW PRESSERY,250.0,ml,1,Success,JoiMart,9.0,7.5,444.0
+716," Monster Energy Can, 500ml JST ",400.0,274.0,,,JST,500.0,ml,1,Success,JoiMart,126.0,31.5,548.0
+717, Bambino Instant Badam Treatt Mix Each 200g X Pack of 2 (400 Gms) ,210.0,195.0,,,BAMBINO,200.0,g,2,Success,JoiMart,15.0,7.14,975.0
+718, DABUR Shilajit Double Gold 10 Capsules for Stamina and Rejuvenation ,350.0,350.0,,,DABUR,,none,1,Failed,JoiMart,0.0,0.0,
+719," First Flavour Tea Premium Assam Black Loose CTC/Dust Tea, 1 KG Pouch - Strong, Aromatic & Rich | Black Assam CTC Dust Tea | Premium Kadak Chai Patti (Pack of 1Kg*5) ",2200.0,1430.0,,,FIRST FLAVOUR,1.0,kg,1,Success,JoiMart,770.0,35.0,1430.0
+720, MINTRI TEA Classic CTC Chai| Jyoti Pure Indian Tea 2.5 kg Jar ,750.0,699.0,,,MINTRI TEA,2.5,kg,1,Success,JoiMart,51.0,6.8,279.6
+721, MOJOCO - Tender Coconut Water (27x200ml) | Pure and Raw Coconut Water | Enriched with Vitamins ,810.0,656.0,,,MOJOCO,200.0,ml,1,Success,JoiMart,154.0,19.01,3280.0
+722," Monster Energy Juice Monster Khaotic Tropical Orange, Energy + Juice, Energy Drink, (Pack of 4) JST ",1000.0,800.0,,,JST,,none,4,Failed,JoiMart,200.0,20.0,
+723, Dabur Glucose-D Original 200 g ,70.0,60.0,,,DABUR,200.0,g,1,Success,JoiMart,10.0,14.29,300.0
+724," D'aromas Instant Pure Coffee Powder without chicory 100g|Ideal for Office,Home,Café,Restaurant,Hotel ",400.0,298.0,,,D'AROMAS,100.0,g,1,Success,JoiMart,102.0,25.5,2980.0
+725, Leeford Lemon & Honey Green Tea for Weight Loss - with Antioxidants and Nutrients (25 Tea Bags) ,250.0,203.0,,,LEEFORD,25.0,tea bags,1,Success,JoiMart,47.0,18.8,8.12
+726," Alkalen Water-Based Electrolyte Drink Ph Alkaline 8.5 To 9.5, 1 L (Pack Of 12) ",720.0,699.0,,,ALKALEN,1.0,l,12,Success,JoiMart,21.0,2.92,699.0
+727, VEGAN - Back To Our Artisanal Roots JUNIORS HEALTH MIX 250 GRAMS / MILLET CHILDREN FOOD ,599.0,199.0,,,VEGAN - BACK TO OUR ARTISANAL ROOTS,250.0,grams,1,Success,JoiMart,400.0,66.78,796.0
+728, TEA POWDER ,14500.0,11000.0,,,GREEN LEAVES INTERNATIONAL,,none,1,Failed,JoiMart,3500.0,24.14,
+729," TEA VALLEY Royal CTC Tea Premium Blend of Assam and Dooars Tea Strong, Malty, Aromatic and Rich Taste, 1 kg ",510.0,420.0,,,TEA VALLEY,1.0,kg,1,Success,JoiMart,90.0,17.65,420.0
+730," Davidoff Espresso 57 Dark and Chocolatey Instant Coffe Jar, 100g (Pack of 1) ",650.0,598.0,,,DAVIDOFF,100.0,g,1,Success,JoiMart,52.0,8.0,5980.0
+731, MINTRI TEA Classic CTC Chai| Jyoti Pure Indian Tea 1kg (500gms x 2 packs) ,310.0,299.0,,,MINTRI TEA,1.0,kg,1,Success,JoiMart,11.0,3.55,299.0
+732, Monster Energy Assault Imported ,385.0,310.0, Imported ,,IMPORTED,,none,1,Failed,JoiMart,75.0,19.48,
+733, MindBrew Premium Tea| Tea 1 Kg| Assam Tea 1kg| 1 Kg Tea Pouch ,999.0,350.0,,,MINDBREW,1.0,kg,1,Success,JoiMart,649.0,64.96,350.0
+734," Colombian Brew Vanilla Instant Coffee Powder Sachets, Pack of 180 ",360.0,360.0,,,COLOMBIAN BREW,,none,180,Failed,JoiMart,0.0,0.0,
+735," Colombian Brew High Caffeine Espresso Instant Coffee Powder, Strong, 50g ",199.0,197.0,,,COLOMBIAN BREW,50.0,g,1,Success,JoiMart,2.0,1.01,3940.0
+736," Prime Blue Rasberry, 500 Ml Imported ",1350.0,600.0, Imported ,,IMPORTED,500.0,ml,1,Success,JoiMart,750.0,55.56,1200.0
+737, Continental Malgudi Filter Coffee Decoction Liquid 10ml Sachets | Each Box - 5 Sachets| Pack of 6 | Strong South Indian Instant Filter Coffee ,300.0,299.0,,,CONTINENTAL,10.0,ml,6,Success,JoiMart,1.0,0.33,29900.0
+738, Organic Hibiscus Tea Bags - 40 Eco-friendly Hibiscus Tea Bag in Resealable pouch by The Tea Trove ,347.0,204.0,,,THE TEA TROVE,,none,1,Failed,JoiMart,143.0,41.21,
+739, Evocus Black Alkaline Drink | PACK OF 12 (500 mL each) | 8+ pH | Infused with Essential Minerals ,1200.0,1020.0,,,EVOCUS,500.0,ml,12,Success,JoiMart,180.0,15.0,2040.0
+740, Farm Hots Kokumrut syrup 1000ML ,450.0,209.0,,,FARM HOTS,1000.0,ml,1,Success,JoiMart,241.0,53.56,209.0
+741, Paras Strong Red Cutting Tea ,180.0,160.0,,,PARAS TEA,,none,1,Failed,JoiMart,20.0,11.11,
+742, Rage Coffee Combo Pack of 3 - Butterscotch Delight & Vanilla Bubblegum & Mint Mocha Flavoured Instant Crystal Coffee 50 Gms Each ,1047.0,399.0,,,RAGE COFFEE,50.0,gms,3,Success,JoiMart,648.0,61.89,7980.0
+743, OLD JAMAICA Ginger Beer 330ml pack of 4 imported ,1350.0,1060.0,,,IMPORTED,330.0,ml,4,Success,JoiMart,290.0,21.48,3212.12
+744, Pure Chamomile Tea ,600.0,235.0,,,NAVVAYD,,none,1,Failed,JoiMart,365.0,60.83,
+745," Aquatein Pro 21G Ready To Drink Protein Water With 6G Bcaa And 4G Glutamine, Orange, Strawberry, Green Apple, Mixed Berry (Pack Of 24) ",3600.0,2448.0,,,AQUATEIN,21.0,g,24,Success,JoiMart,1152.0,32.0,116571.43
+746," Kokozo Nata De Coco Assorted Flavour Family Pack, 300 Ml (Pack Of 6) ",900.0,719.0, Imported ,,KOKOZO,300.0,ml,6,Success,JoiMart,181.0,20.11,2396.67
+747," Bevzilla 200 Gram 100% Arabica Instant(Premium French Vanilla) | Make 100 Cups | Espresso, Latte & Cappucino| Hot & Cold Coffee | Unbreakable Jar ",999.0,365.0,,,BEVZILLA,200.0,gram,1,Success,JoiMart,634.0,63.46,1825.0
+748," Nescafe Nesecafe Matinal, 200 Gm ",660.0,532.0, Imported ,,NESCAFE,200.0,gm,1,Success,JoiMart,128.0,19.39,2660.0
+749, Davidoff Espresso 57 Dark & Chocolatey Instant Coffee 100 gm Glass Jar ,650.0,650.0,,,DAVIDOFF,100.0,g,1,Success,JoiMart,0.0,0.0,6500.0
+750, SENSO Tea Premix Cardamom Preservatives Free 14 g (10 sachets) ,140.0,100.0,,,SENSO,14.0,g,1,Success,JoiMart,40.0,28.57,7142.86
+751," Cambridge Tea Party Rejuvenate 30 Tea Bags, Ashwagandha Chamomile Ginger Lemon Mint Tulsi Green Tea ",225.0,135.0,,,CAMBRIDGE TEA PARTY,30.0,tea bags,1,Success,JoiMart,90.0,40.0,4.5
+752," Colombian Brew Instant Coffee Powder, 60-40 South Indian Quick Filter, 200g ",349.0,247.0,,,COLOMBIAN BREW,200.0,g,1,Success,JoiMart,102.0,29.23,1235.0
+753, Cloud 9 Golden Jeera| Jeera Soft Drink| 300 ml Pack of 24 [Price Including Courier Charges] ,556.0,556.0,,,CLOUD 9,9.0,g,24,Success,JoiMart,0.0,0.0,61777.78
+754, Galaxy Drink 750 ML (Apple) Combo Pack of 2 ,800.0,760.0, Imported ,,GALAXY,750.0,ml,2,Success,JoiMart,40.0,5.0,1013.33
+755," Fanta Strawberry Flavoured Drink, 6 X 320 ml ",1200.0,746.0, Imported ,,FANTA,320.0,ml,1,Success,JoiMart,454.0,37.83,2331.25
+756," ""Bevzilla 100 Grams (50 Gm X 2 Bags) Classic Strong Coffee Powder | Make 50 Cups| Strong Coffee| Classic Coffee| Espresso, Latte & Cappucino| Hot & Cold Coffee "" ",398.0,229.0,,,BEVZILLA,100.0,grams,1,Success,JoiMart,169.0,42.46,2290.0
+757," Rk Home Made Natural Syrup Orange Concentrated Syrups And Squash, 750 Ml ",500.0,199.0,,,RK HOME MADE NATURAL SYRUP,750.0,ml,1,Success,JoiMart,301.0,60.2,265.33
+758," PureFoods Vietnamese Tender Coconut Water, 100% Pure Natural | Nariyal Paani Pack of 6 - 500ml each ",750.0,750.0,,,ROLLINS PUREFOODS,500.0,ml,6,Success,JoiMart,0.0,0.0,1500.0
+759," Monster Ultra Mega Energy Drink, 500 Mlpack of 2 ",770.0,650.0, Imported ,,MONSTER,500.0,ml,2,Success,JoiMart,120.0,15.58,1300.0
+760," Sri Sri Tattva Chocolate Ojasvita - Sharp Mind & Fit Body Box, 200g ",145.0,130.0,,,SRI SRI,200.0,g,1,Success,JoiMart,15.0,10.34,650.0
+761, The Tea Trove- Japanese Matcha Green Tea Bags - 40 Eco-Friendly Matcha Tea + Sencha Green Tea Bag in Resealable pouch - Matcha Green belly fat tea for women and men by The Tea Trove - Steep Hot Or Iced ,345.0,206.0,,,THE TEA TROVE,,none,1,Failed,JoiMart,139.0,40.29,
+762, Hitkary Kala khatta sharbat 750ml ,199.0,169.0,,,HITKARY PHARMACY,750.0,ml,1,Success,JoiMart,30.0,15.08,225.33
+763, FIZZY JEERA ,500.0,499.0,,,FIZZY TALES,,none,1,Failed,JoiMart,1.0,0.2,
+764, Teabox Detox Kahwa Green Tea Bags 25 Pieces | For Natural Body Cleanse & Cold Relief | Made with 100% Indian Herbs & Spices | 2 Free Samples Included ,262.0,240.0,,,TEABOX,25.0,tea bags,1,Success,JoiMart,22.0,8.4,9.6
+765," The Pahadi Story Masala Chai Patti 450gm, 100% Natural Summer Harvest Blend Of Black Assam Tea CTC,100% Natural Ingredients (Assam Masala Tea) ",750.0,675.0,,,THE PAHADI STORY,450.0,gm,1,Success,JoiMart,75.0,10.0,1500.0
+766," Nirvam Rose Sharbat from Khadi India, Instant Refreshing Syrup Drink for Summer, 750ml ",499.0,249.0,,,NIRVAM,750.0,ml,1,Success,JoiMart,250.0,50.1,332.0
+767, Manama Blueberry Fruit Syrup | Mixer for Mocktails and Cocktails | 750ML Bottle ,340.0,340.0,,,MANAMA,750.0,ml,1,Success,JoiMart,0.0,0.0,453.33
+768, Vikram tea Red Rose Special Dust Tea (1 Kg) ,1600.0,480.0,,,VARIETY TEA,1.0,kg,1,Success,JoiMart,1120.0,70.0,480.0
+769, Wagh Bakri Premium Leaf Tea 250 Grm | Pack of 2 | 500 Grm + 25 Grm Tea Masala ,580.0,575.0,,,WAGH BAKRI,250.0,g,2,Success,JoiMart,5.0,0.86,2300.0
+770, Hill Bagan Elaichi CTC Tea Refreshing Flavour Real & Aroma 1kg (Cardamom) ,680.0,460.0,,,"HILL BAGAN- ""TASTE OF QUALITY""",1.0,kg,1,Success,JoiMart,220.0,32.35,460.0
+771," Christopher Cocoa, Double Chocolate Hot Cocoa Powder Mix, 10 Sachets Box ",249.0,203.0,,,CHRISTOPHER COCOA,10.0,sachets,1,Success,JoiMart,46.0,18.47,20.3
+772," Urban Platter Arabian Date Syrup, 500g ",300.0,285.0,,,URBAN PLATTER,500.0,g,1,Success,JoiMart,15.0,5.0,570.0
+773, Zabar Kashmiri Kahwa Instant Mix 250 GMS ,315.0,310.0,,,KASHMIR EXOTICS,250.0,gms,1,Success,JoiMart,5.0,1.59,1240.0
+774, CHAI POINT Instant Tea | Incredibly Authentic | Elaichi Flavor | 10 Sachets | Elaichi Tea | Instant Tea Premix Tea| Assam Tea| Elaichi Premix Chai (Pack of 1) ,199.0,140.0,,,CHAIPOINT,10.0,sachets,1,Success,JoiMart,59.0,29.65,14.0
+775, Mapro Lemon Barley Water 1 L ,252.0,234.0,,,MAPRO,1.0,l,1,Success,JoiMart,18.0,7.14,234.0
+776, Wagh Bakri Navchetan | Tea | Premium Tea| 250 Gm Each | Pack of 4 | 1 Kg + 25 Gm Black Papper ,890.0,870.0,,,WAGH BAKRI,250.0,gm,4,Success,JoiMart,20.0,2.25,3480.0
+777, Healthy Panda Multigrain Dry Fruit Malt - 400 g (100g Pack of 4) ,359.0,159.0,,,HEALTHY PANDA,400.0,g,4,Success,JoiMart,200.0,55.71,397.5
+778, Goodricke Chai Leaf Tea 500gm (Pack of 3) ,525.0,499.0,,,GOODRICKE,500.0,gm,3,Success,JoiMart,26.0,4.95,998.0
+779," Monsterr Ultra/Black, 0 Sugar 500 ml JST ",250.0,200.0,,,JST,500.0,ml,1,Success,JoiMart,50.0,20.0,400.0
+780, Shree Royal Strong leaf Assam tea pack of 1Kg| Premium quality|SONI TEA|SONI CHAI ,510.0,370.0,,,SHREE ROYAL,1.0,kg,1,Success,JoiMart,140.0,27.45,370.0
+781, Country Bean Original Coffee 100g - No Added Sugar ,499.0,429.0,,,COUNTRY BEAN,100.0,g,1,Success,JoiMart,70.0,14.03,4290.0
+782, DALMIA GOLD ELAICHI TEA 1 KG POUCH ,350.0,340.0,,,DALMIA GOLD,1.0,kg,1,Success,JoiMart,10.0,2.86,340.0
+783, Mogu Mogu Apple Juice 25% with Nata De Coco 300 ml - Pack of 6 ,420.0,420.0,,,MOGU MOGU,300.0,ml,6,Success,JoiMart,0.0,0.0,1400.0
+784, Cloud 9 Golden Shikanji Lemon Juice 300 ml pack of 24 ,556.0,556.0,,,CLOUD 9,9.0,g,24,Success,JoiMart,0.0,0.0,61777.78
+785, HYDRATE Ionized Alkaline Water with Perfectly Balanced 8.5 pH Essential Minerals Pack of 9(1 Liter) ,1350.0,1148.0,,,HYDRATE,1.0,liter,9,Success,JoiMart,202.0,14.96,1148.0
+786," Jai Guruji Badam Kesar Dry Fruit Syrup Sharbat, Instant Refreshing Drink for Summer 750 ML Pack of 2 ",640.0,630.0,,,GURUJI,750.0,ml,2,Success,JoiMart,10.0,1.56,840.0
+787, Yethai Instant Lemon Tea Premix| Lemon Premix Tea| Flavored Tea 100 gms (Min 25 cups) ,200.0,133.0,,,YETHAI,100.0,gms,1,Success,JoiMart,67.0,33.5,1330.0
+788," Rk Home Made Natural Syrup Jeera Masala Soda Syrup Concentrated Syrups And Squash, 750 Ml ",500.0,199.0,,,RK HOME MADE NATURAL SYRUP,750.0,ml,1,Success,JoiMart,301.0,60.2,265.33
+789," Manna iStrong Women's Health Drink, Chocolate. Anemia Iron Deficiency 200g (Pack of 2) ",498.0,289.0,,,MANNA,200.0,g,2,Success,JoiMart,209.0,41.97,1445.0
+790, Dhopabor Premium Tea -2 KG (8 x 250g Value Offer Packs) |High Quality Assam CTC Chai| ,776.0,666.0,,,DHOPABOR,2.0,kg,1,Success,JoiMart,110.0,14.18,333.0
+791, Karma Kettle Green Tea - Organic Green Tea - 100 Tea Bag box ,400.0,240.0,,,KARMA KETTLE,100.0,tea bag,1,Failed,JoiMart,160.0,40.0,
+792," TE-A-ME Purify Green Tea, 100 Tea Bags | Green Tea Bags 100 pcs | Green Tea ",350.0,277.0,,,TE-A-ME,100.0,tea bags,1,Success,JoiMart,73.0,20.86,2.77
+793, Lazy Cocktails Variety Pack of 6 bottles ,594.0,499.0,,,LAZY COCKTAILS & CO.,,none,6,Failed,JoiMart,95.0,15.99,
+794, MAHALAKSHMI Kadak Chai Premium Assam Black Tea 1kg ,370.0,370.0,,,MAHALAKSHMI TEA POWDERS,1.0,kg,1,Success,JoiMart,0.0,0.0,370.0
+795," Chinnar Dust Tea, Premium Strong Tea, 1KG ",390.0,359.0,,,CHINNAR,1.0,kg,1,Success,JoiMart,31.0,7.95,359.0
+796, Kartin Big Basic Instant Coffee Premix|Coffee|1kg ,750.0,375.0,,,KARTIN TAKE SMALL FEEL BIG,1.0,kg,1,Success,JoiMart,375.0,50.0,375.0
+797, Octavius Gold CTC Tea 750gm | Aromatic Assam Black Tea with 15% Darjeeling Tea | Strong Tea Blended with Long Leaves ,450.0,320.0,,,OCTAVIUS,750.0,gm,1,Success,JoiMart,130.0,28.89,426.67
+798," Christopher Cocoa Dark Chocolate Sprinkles 200g, Rainbow Sprinkles 200g, Dark Chocolate Choco Chips 200g , White Chocolate Choco Chips 200g (Snack, Topping Ice Cream, Cakes, Baking) ",1096.0,297.0,,,CHRISTOPHER COCOA,200.0,g,1,Success,JoiMart,799.0,72.9,1485.0
+799, Shreebari | Real Masala Mix Elaichi Tea - 1Kg | Pack of 4 | Each Pack 250g | 100% Natural Spices | Black Tea | Strong Tea | Cardamom Chai | Natural Care | Kadak Chai Patti | Spiced Tea | Tea 1 Kg ,348.0,313.0,,,SHREEBARI,1.0,kg,4,Success,JoiMart,35.0,10.06,313.0
+800, Amrik Premium tea with Aromatic long leaves | Rich & Strong Chai | 250gram ,215.0,180.0,,,AMRIK,250.0,gram,1,Success,JoiMart,35.0,16.28,720.0
+801, green coffee beans for weight loss 1kg Instant Coffee (1 kg) ,1990.0,799.0,,,VEDARTH,1.0,kg,1,Success,JoiMart,1191.0,59.85,799.0
+802, Octavius | Kadak Masala Tea - 1Kg (Pack Of 2) | 100% Natural Spices | Black Tea | Strong Tea | Masala Chai | Natural Care | Kadak Chai Patti | Spiced Tea | Ayurvedic Herbs | Vedic Tea | Tea 2 Kg ,900.0,725.0,,,OCTAVIUS,1.0,kg,2,Success,JoiMart,175.0,19.44,725.0
+803," Prime Ice Pop, 500 Ml Imported ",1350.0,600.0, Imported ,,IMPORTED,500.0,ml,1,Success,JoiMart,750.0,55.56,1200.0
+804, Hitkary Miracle Pineapple 750 ml ,199.0,169.0,,,HITKARY PHARMACY,750.0,ml,1,Success,JoiMart,30.0,15.08,225.33
+805," Colombian Brew Ice Mint Instant Coffee Powder, No Sugar Vegan, 50g ",199.0,167.0,,,COLOMBIAN BREW,50.0,g,1,Success,JoiMart,32.0,16.08,3340.0
+806," Rk Home Made Natural Syrup Lemon Pudina Syrup, 750 Ml ",500.0,199.0,,,RK HOME MADE NATURAL SYRUP,750.0,ml,1,Success,JoiMart,301.0,60.2,265.33
+807, Raw Pressery Aloe Vera Lemonade 200 ml ,60.0,55.0,,,RAW PRESSERY,200.0,ml,1,Success,JoiMart,5.0,8.33,275.0
+808, Tetley Masala Chai 50 Tea Bags ,300.0,290.0,,,TETLEY,50.0,tea bags,1,Success,JoiMart,10.0,3.33,5.8
+809, Davidoff Fine Aroma Instant Coffee 100 gm ,650.0,650.0,,,DAVIDOFF,100.0,gm,1,Success,JoiMart,0.0,0.0,6500.0
+810," Dr Pepper, 330 Ml Imported ",206.25,174.0, Imported ,,IMPORTED,330.0,ml,1,Success,JoiMart,32.25,15.64,527.27
+811," Farm Hots Kokum Syrup/Sharbat,1000ml Can ",720.0,228.0,,,FARM HOTS,1000.0,ml,1,Success,JoiMart,492.0,68.33,228.0
+812, Orika Jaljeera Lemonade (190 Gm) ,145.0,72.0,,,ORIKA,190.0,gm,1,Success,JoiMart,73.0,50.34,378.95
+813," All In One Lemon Green Tea Sugar Less, 25 Gm ",190.0,189.0,,,ALL IN ONE,25.0,gm,1,Success,JoiMart,1.0,0.53,7560.0
+814," BEVZILLA Instant Coffee Powder - 96 Sachets (French Vanilla)| Hot & Cold Coffee| Makes 96 Cups| 100 % Arabica Coffee| Strong Coffee| Easy To Carry| Best Coffee| Espresso, Latte, Cappuccino| Premium ",599.0,405.0,,,BEVZILLA,96.0,sachets,1,Success,JoiMart,194.0,32.39,4.22
+815," Monster Nitro Super Dry Energy Drink, 500 Mlpack of 2 ",770.0,650.0, Imported ,,MONSTER,500.0,ml,2,Success,JoiMart,120.0,15.58,1300.0
+816, Society Premium Leaf Tea 1Kg Pouch ,600.0,588.0,,,SOCIETY,1.0,kg,1,Success,JoiMart,12.0,2.0,588.0
+817, Continental THIS Creamy 3 in 1 Premix Coffee| 180g ( 18g* 10 Sachets) | Pack of 4 | 708g ,400.0,399.0,,,CONTINENTAL,708.0,g,4,Success,JoiMart,1.0,0.25,563.56
+818," Colombian Brew Assorted Mocha Instant Coffee Powder Box (Strong,Double Chocolate,Mint,Blueberry) (Gift Pack Box Diwali, Rakhi) 80gm ",350.0,189.0,,,COLOMBIAN BREW,80.0,gm,1,Success,JoiMart,161.0,46.0,2362.5
+819," Rk Home Made Natural Syrup Blue Lagoon Syrup Concentrated Syrups And Squash, 750 Ml ",500.0,199.0,,,RK HOME MADE NATURAL SYRUP,750.0,ml,1,Success,JoiMart,301.0,60.2,265.33
+820, Premium Green Tea ,175.0,140.0,,,GREEN KETTLES - LEGACY OF INDIAN QUALITY,,none,1,Failed,JoiMart,35.0,20.0,
+821, Okayti Golden Orange Fannings Darjeeling Black Tea - 500 Gm | 100% Organic Darjeeling Tea for Improved Digestion & Metabolism ,200.0,188.0,,,OKAYTI,500.0,gm,1,Success,JoiMart,12.0,6.0,376.0
+822, Tata Coffee| Refreshing Taste| Super Saver Pack| 5 Packs of 200 Gm Each| 1 Kg ,1195.0,1195.0,,,TATA COFFEE,1.0,kg,1,Success,JoiMart,0.0,0.0,1195.0
+823, JST Goli Soda - Classic Lime Flavor Goli Soda - Pack Of 6 || Low Sugar Lime Flavored Mocktail Drink In Modern Goli Soda Bottle ,420.0,390.0,,,JST,,none,6,Failed,JoiMart,30.0,7.14,
+824, Organic India Tulsi Honey Chamomile Tea Bags 25 pcs ,195.0,97.0,,,ORGANIC INDIA,25.0,pcs,1,Success,JoiMart,98.0,50.26,3.88
+825, Cadbury Bournvita Strength Everyday Drink 1.5 kg ,795.0,545.0,,,BOURNVITA,1.5,kg,1,Success,JoiMart,250.0,31.45,363.33
+826, AKHYA GOLD PREMIUM ASSAM LEAF TEA -500 GRAMS ,300.0,199.0,,,AKHYA,500.0,grams,1,Success,JoiMart,101.0,33.67,398.0
+827, Karma Kettle Tea Masala - Chai Tea Masala - 100 Gm ,200.0,120.0,,,KARMA KETTLE,100.0,gm,1,Success,JoiMart,80.0,40.0,1200.0
+828," COCO HIGH Dark Chocolate Drink, 200 Ml x 24 Cans, Chocolate Milk Shake, High Protein, Ready to Serve ",2376.0,1544.0,,,COCO HIGH,200.0,ml,1,Success,JoiMart,832.0,35.02,7720.0
+829, Bru Gold Coffee 100 g ,520.0,470.0,,,BRU,100.0,g,1,Success,JoiMart,50.0,9.62,4700.0
+830," The Tea Trove- Stinging Nettle Tea Bags Organic for kidney, raising hemoglobin & Joint Health ",325.0,204.0,,,THE TEA TROVE,,none,1,Failed,JoiMart,121.0,37.23,
+831," Lipton SipNDigest Ginger, Tulsi & Rock Salt Green Tea Bags 1.8 g (50 pcs) ",390.0,362.0,,,LIPTON,1.8,g,1,Success,JoiMart,28.0,7.18,201111.11
+832," Cambridge Tea Party Calm 30 Tea Bags, Pure Chamomile Flower, Infusion Tea Tisane ",225.0,199.0,,,CAMBRIDGE TEA PARTY,30.0,tea bags,1,Success,JoiMart,26.0,11.56,6.63
+833," Taj Kacha Mango Sharbat,750 Ml.(Pack of 3) ",426.0,410.0,,,TAJ,750.0,ml,3,Success,JoiMart,16.0,3.76,546.67
+834, SENSO Instant Tea Premix Masala Vegetarian ,140.0,110.0,,,SENSO,,none,1,Failed,JoiMart,30.0,21.43,
+835, MERI CHAI Elaichi Tea Pouch (250 g) Tea Pouch (2 x 250 g) ,240.0,198.0,,,BALAJ AGRO MERI CHAI,250.0,g,1,Success,JoiMart,42.0,17.5,792.0
+836, City Gold Elaichi Chai Cardamom Tea 200g (Pack of 5 x 200 gm Pouch) 1 kg - Kadak Flavoured Tea ,350.0,350.0,,,CITY GOLD,200.0,g,5,Success,JoiMart,0.0,0.0,1750.0
+837, Davidoff Rich Aroma Instant Coffee 100 gm ,650.0,630.0,,,DAVIDOFF,100.0,gm,1,Success,JoiMart,20.0,3.08,6300.0
+838," Nescafe Gold Rich and Smooth Coffee Powder,(Arabica and Robusta beans) 50g Glass Jar ",499.0,474.0,,,NESCAFE,50.0,g,1,Success,JoiMart,25.0,5.01,9480.0
+839, City Gold Premium Tea 1 kg - CTC Tea Premium Chai Patti Black Tea ,490.0,470.0,,,CITY GOLD,1.0,kg,1,Success,JoiMart,20.0,4.08,470.0
+840, Galaxy Drink 750 ML (Fruit Cocktail) Combo Pack of 2 ,800.0,760.0, Imported ,,GALAXY,750.0,ml,2,Success,JoiMart,40.0,5.0,1013.33
+841, MERI CHAI Health Premium Tea | Blend of CTC & Darjeeling Tea Leaves Tea Plastic Bottle (500 g) ,220.0,220.0,,,BALAJ AGRO MERI CHAI,500.0,g,1,Success,JoiMart,0.0,0.0,440.0
+842, Monster Energy Lewis Hamilton Zero Sugar 500ml (Pack OF 4) JST ,1000.0,800.0,,,JST,500.0,ml,4,Success,JoiMart,200.0,20.0,1600.0
+843, Bayar's Special Gold Filter Coffee 200 g ,288.0,288.0,,,BAYAR'S COFFEE,200.0,g,1,Success,JoiMart,0.0,0.0,1440.0
+844," VAHDAM, Vanilla Matcha Green Tea Powder - 100% Certified Japanese Matcha from Uji-Kyoto | Delicious Powerful Superfood - 137x Anti-Oxidants (50 Gram) ",499.0,399.0,,,VAHDAM,50.0,g,1,Success,JoiMart,100.0,20.04,7980.0
+845, Rage Coffee Combo - Instant Coffee with Free Frother | Irish Hazelnut Flavoured Coffee - 50 gms | Make Milky & Frothy Hazelnut Coffee | Made using 100% Arabica Beans ,749.0,399.0,,,RAGE COFFEE,50.0,gms,1,Success,JoiMart,350.0,46.73,7980.0
+846, Continental Freeze Dried 100g Jar | Premium Instant Coffee | 100% Arabica Coffee | Black Coffee ,440.0,399.0,,,CONTINENTAL,100.0,g,1,Success,JoiMart,41.0,9.32,3990.0
+847, Rage Coffee 50 Gms Sparky Orange Flavour - Premium Arabica Instant Coffee ,349.0,149.0,,,RAGE COFFEE,50.0,gms,1,Success,JoiMart,200.0,57.31,2980.0
+848," Colombian Brew 2 in 1 Instant Coffee Powder Premix, 10 Sachets Box ",249.0,239.0,,,COLOMBIANBREWCOFFEE,10.0,sachets,1,Success,JoiMart,10.0,4.02,23.9
+849," Christopher Cocoa Powder, Drinking Chocolate Cocoa, 100g, Super Kids Cocoa Powder Health and Nutrition Drink, No Sugar Vegan, 100g (For Kids and Adults) ",298.0,236.0,,,CHRISTOPHER COCOA,100.0,g,1,Success,JoiMart,62.0,20.81,2360.0
+850," C. SOMABHAI's Uday Gold CTC Dust Tea - 1kg, Unique Blend of Assam and Dooars CTC Black Tea Powder - Kadak, Aromatic & Strong Chai patti ",395.0,379.0,,,C. SOMABHAI (QUALITY TEA),1.0,kg,1,Success,JoiMart,16.0,4.05,379.0
+851, GOODRICKE Samovar Original Tea Kashmiri Noon Tea Leaves 250 g (Pack of 3) ,390.0,370.0,,,GOODRICKE,250.0,g,3,Success,JoiMart,20.0,5.13,1480.0
+852, NutroVally Green Tea With Tulsi For Weight Loss | Loaded with Anti-Oxidants & 100% Natural Leaves | Tulsi Tea 100gm ,299.0,210.0,,,NUTROVALLY,100.0,gm,1,Success,JoiMart,89.0,29.77,2100.0
+853, Bean2Brew Special Blend Filter Coffee Powder (70:30)- 200g ,120.0,119.0,,,BEAN2BREW,200.0,g,1,Success,JoiMart,1.0,0.83,595.0
+854," Sapphire Poko Loko Lychee Flavoured Juice Drink With Nata De Coco, 300 ml ",270.0,269.0, Imported ,,SAPPHIRE,300.0,ml,1,Success,JoiMart,1.0,0.37,896.67
+855, PRISTINE Deccan Gold Pure Filter Coffee Powder (80% Coffee 20% Chicory) 500g - Pack of 2 ,610.0,610.0,,,PRISTINE,500.0,g,2,Success,JoiMart,0.0,0.0,1220.0
+856," Christopher Cocoa Baking Soda All Purpose 1Kg (Bake Cakes, Cookies, Breads, Brownies) ",499.0,137.0,,,CHRISTOPHER COCOA,1.0,kg,1,Success,JoiMart,362.0,72.55,137.0
+857, Country Bean Hazelnut Instant Coffee Blend 100g - No Added Sugar ,275.0,229.0,,,COUNTRY BEAN,100.0,g,1,Success,JoiMart,46.0,16.73,2290.0
+858," Japanese Matcha Green Tea Powder, 50g (50 Servings), Sourced from Shizuoka, Japan ",699.0,429.0,,,HEAPWELL SUPERFOODS,50.0,g,1,Success,JoiMart,270.0,38.63,8580.0
+859, Maharani Green Tea (Honey Lemon) - 25 Tea Bags ,165.0,111.0,,,BANSAL KI MASHHUR MAHARANI,25.0,tea bags,1,Success,JoiMart,54.0,32.73,4.44
+860," Nescafe Matinal Jiva Instant Coffee - 200 Grams, Ground, Glass Bottle (Imported) ",1099.0,685.0, Imported ,,NESCAFE,200.0,grams,1,Success,JoiMart,414.0,37.67,3425.0
+861, Real Fruit Power Vitamin Boost Guava Juice 1 L ,130.0,65.0,,,REAL FRUIT POWER,1.0,l,1,Success,JoiMart,65.0,50.0,65.0
+862, Country Bean Vanilla Instant Coffee Blend 100g - No Added Sugar ,275.0,229.0,,,COUNTRY BEAN,100.0,g,1,Success,JoiMart,46.0,16.73,2290.0
+863, Granules n Beans Ginger Chai Instant Tea Premix - (10 Sachet x 14g = 140g) ,160.0,144.0,,,GRANULES N BEANS,14.0,g,1,Success,JoiMart,16.0,10.0,10285.71
+864," Bevzilla 200 Gram 100% Arabica Instant(choco-Mocha) | Make 100 Cups | Espresso, Latte & Cappucino| Hot & Cold Coffee | Unbreakable Jar ",999.0,365.0,,,BEVZILLA,200.0,gram,1,Success,JoiMart,634.0,63.46,1825.0
+865," Electrorush ORS Orange Flavoured ORS Ready to Drink, Oral Rehydration for Instant Energy, Pack of 6 ",176.0,176.0,,,ELECTRORUSH,,none,6,Failed,JoiMart,0.0,0.0,
+866," Cloudem Zero Blue Magic Champagne Non Alcohlic, 750 Ml Imported ",962.5,775.0, Imported ,,IMPORTED,750.0,ml,1,Success,JoiMart,187.5,19.48,1033.33
+867," TEA VALLEY Gold 100 Percent Assam Tea Rich and Strong Taste Make Masala Tea, Ginger Tea, Cardamom Chai, 1 kg ",620.0,520.0,,,TEA VALLEY,1.0,kg,1,Success,JoiMart,100.0,16.13,520.0
+868, Matero Yerba Mate Traditional Loose Leaf With Filter Mate Straw ,1799.0,1799.0,,,MATERO,,none,1,Failed,JoiMart,0.0,0.0,
+869, Cloud9 Energy Drink Classic 250ml Can - Pack of 24 | Asli Power Asli Energy ,1199.0,1199.0,,,CLOUD 9,250.0,ml,24,Success,JoiMart,0.0,0.0,4796.0
+870, Khadi Kangra Valley Green Tea leaf ,495.0,307.0,,,KHADI KANGRA VALLEY,,none,1,Failed,JoiMart,188.0,37.98,
+871, Groviva Wholesome Child Nutrition for Growth & Development - 750g (2*375g poches in Box) (Chocolate) ,1275.0,1147.0,,,GROVIVA,750.0,g,1,Success,JoiMart,128.0,10.04,1529.33
+872, Sleepy Owl French Vanilla Premium Coffee Sachets | Pack of 30 Instant Coffee Powder Sachets | 100% Arabica Beans | 2gm Each - Vanilla Flavoured Coffee Pouch | Mellow & Sweet | Easy to Use & Carry ,350.0,249.0,,,SLEEPY OWL,2.0,g,30,Success,JoiMart,101.0,28.86,124500.0
+873," ATC Blend of finest hand picked Tea leaves from high hilla of brahmaputra valley, offering rich aroma with strong flavor(500Gm) ",205.0,175.0,,,ATC,500.0,gm,1,Success,JoiMart,30.0,14.63,350.0
+874, Pothigai Natural Nannari Sharbath / Sarasaparilla Drink / Pure and Natural coolant / 100 % Natural - 750 ml ,599.0,251.0,,,POTHIGAI NATURAL,750.0,ml,1,Success,JoiMart,348.0,58.1,334.67
+875, Trika Energy Drink ,594.0,575.0,,,TRIKA ENERGY DRINK,,none,1,Failed,JoiMart,19.0,3.2,
+876," Kanwal Shahi Kashmiri Qawah (Kahwa) Tea, 600 GM (300GMx2) Combo ",750.0,745.0,,,KANWAL,600.0,gm,1,Success,JoiMart,5.0,0.67,1241.67
+877, AATMA HOME MADE Apple Beetroot Carrot Juice - Healthy Drink ,449.0,332.0,,,AATMA HOME MADE PRODUCTS,,none,1,Failed,JoiMart,117.0,26.06,
+878," Orglife Apple Cider Vinegar, 500 ml Each (Pack Of 2) ",998.0,326.0,,,ORGLIFE,500.0,ml,2,Success,JoiMart,672.0,67.33,652.0
+879," Saguna Baug Kokam Agal, 1 L ",399.0,320.0,,,SAGUNA BAUG,1.0,l,1,Success,JoiMart,79.0,19.8,320.0
+880, Rage Coffee 100 Gms Dark Chocolate Flavour ,549.0,349.0,,,RAGE COFFEE,100.0,gms,1,Success,JoiMart,200.0,36.43,3490.0
+881, Prolyte Orange Drink 200 ml ,35.0,23.0,,,PROLYTE,200.0,ml,1,Success,JoiMart,12.0,34.29,115.0
+882, Tea 1989 Sambhav Elaichi Chai 1 Kg ,380.0,306.0,,,TEA1989 SAMBHAV,1.0,kg,1,Success,JoiMart,74.0,19.47,306.0
+883, Pankti Soy Milk Powder 250 g ,400.0,216.0,,,PANKTI,250.0,g,1,Success,JoiMart,184.0,46.0,864.0
+884," Sunnyness, Orange Juice with Real Fruit Pieces, Pack of 6, 240 ml in each Can ",480.0,360.0,,,SUNNYNESS,240.0,ml,6,Success,JoiMart,120.0,25.0,1500.0
+885, VIJAY Elaichi Tea|250 G|Pack of 3 ,345.0,345.0,,,VIJAY,250.0,g,3,Success,JoiMart,0.0,0.0,1380.0
+886, Orika Masala Lemonade (190 Gm) ,145.0,72.0,,,ORIKA,190.0,gm,1,Success,JoiMart,73.0,50.34,378.95
+887, Sarwar Blue Curacoa & Mint Mojito Syrup 750 ML ( Pack or 2 ) ,800.0,595.0,,,SARWAR FOODS,750.0,ml,1,Success,JoiMart,205.0,25.62,793.33
+888," Cloudem Zero Gold Magic Champagne Non Alcohlic, 750 Ml Imported ",962.5,775.0, Imported ,,IMPORTED,750.0,ml,1,Success,JoiMart,187.5,19.48,1033.33
+889, Dhopabor Premium Tea -750g (3 x 250g Value Offer Packs) |High quality Assam CTC Chai| ,291.0,273.0,,,DHOPABOR,750.0,g,1,Success,JoiMart,18.0,6.19,364.0
+890," Navlai Amla, Shikakai ,Reetha Powder For Hair care 300 g ",399.0,199.0,,,NAVLAI,300.0,g,1,Success,JoiMart,200.0,50.13,663.33
+891, ST Goli Soda - Orange Flavor Goli Soda - Pack Of 6 || Low Sugar Orange Flavored Mocktail Drink In Modern Goli Soda Bottle ,420.0,399.0,,,JST,,none,6,Failed,JoiMart,21.0,5.0,
+892," VAHDAM, Organic Turmeric + Ginger Tea | 15 Turmeric Herbal Tea Bags | Powerful Superfoods Blend ",199.0,169.0,,,VAHDAM TEAS PRIVATE LIMITED,,none,1,Failed,JoiMart,30.0,15.08,
+893, Bevzilla Festive Gift Box Instant Coffee Sachets & Cafe Glass Pack With 25 Flavoured Coffee Sachets ,999.0,261.0,,,BEVZILLA,,none,1,Failed,JoiMart,738.0,73.87,
+894, Bayar's Special Gold Filter Coffee 500 g ,360.0,360.0,,,BAYAR'S COFFEE,500.0,g,1,Success,JoiMart,0.0,0.0,720.0
+895," Cambridge Tea Party Assorted Tulsi Green Tea 40 Bags, Detox Kahwa, Slim Orange Rose Hibiscus, Refresh Lemon Ginger Mint, Spa Lime Lemongrass ",300.0,249.0,,,CAMBRIDGE TEA PARTY,,none,1,Failed,JoiMart,51.0,17.0,
+896," Nescafe In Sugar Free Coffee Sticks, 234 Gm ",1700.0,1400.0, Imported ,,NESCAFE,234.0,gm,1,Success,JoiMart,300.0,17.65,5982.91
+897, SENSO Instant Tea Premix Masala Natural (10 sachets) ,140.0,110.0,,,SENSO,10.0,sachets,1,Success,JoiMart,30.0,21.43,11.0
+898, Dhopabor Premium Tea -1.5 KG (3 x 500g Value Offer Packs)| High quality Assam CTC Chai| ,582.0,522.0,,,DHOPABOR,1.5,kg,1,Success,JoiMart,60.0,10.31,348.0
+899, Cloud9 Fruttu Mango Fruit Juice 250 ml pack of 24 ,556.0,556.0,,,CLOUD 9,250.0,ml,24,Success,JoiMart,0.0,0.0,2224.0
+900," Leeford Aqua Slim Green Tea for Weight Loss Pack of 2 (25 Tea Bags Each) - with Antioxidants and Nutrients, Helps to Boost Immunity and Improve Metabolism ",500.0,359.0,,,LEEFORD,25.0,tea bags,2,Success,JoiMart,141.0,28.2,14.36
+901, Hitkary Aam Panna 750 ml ,199.0,169.0,,,HITKARY PHARMACY,750.0,ml,1,Success,JoiMart,30.0,15.08,225.33
+902, 100% Organic Cranberry Juice ,800.0,649.0,,,RUS ORGANIC,,none,1,Failed,JoiMart,151.0,18.88,
+903, Organic Sprouted Ragi Dry fruit Malt 800Gram (400G X 2) - Sugar Free-Health Mix / health drink for kids / health drink for Adults / women health drink / Millets Food / Dryfruit powder ,798.0,479.0,,,HEALTHY PANDA,800.0,gram,1,Success,JoiMart,319.0,39.97,598.75
+904, HYDRATE Ionized Alkaline Water with Perfectly Balanced 8.5 pH & Essential Mineral Pack of 36(500 ml) ,2880.0,2475.0,,,HYDRATE,500.0,ml,36,Success,JoiMart,405.0,14.06,4950.0
+905, NAMASYA Hotel & Tapri Special Assam CTC Dust Tea Blend Pouch | Superior Taste & Aroma (1kg) ,400.0,375.0,,,NAMASYA,1.0,kg,1,Success,JoiMart,25.0,6.25,375.0
+906," BEVZILLA Instant Coffee Powder Mini Combo of Colombian Gold, Turkish Hazelnut, French Vanilla & English Butterscotch | Premium Arabica Instant Coffee | 25 Grams Each ",396.0,315.0,,,BEVZILLA,25.0,grams,1,Success,JoiMart,81.0,20.45,12600.0
+907," C. SOMABHAI's Uday Gold CTC Leaf Tea - 1kg, Unique Blend of Assam and Dooars Black Tea Leaves - Kadak, Aromatic & Strong Chai patti ",400.0,384.0,,,C. SOMABHAI (QUALITY TEA),1.0,kg,1,Success,JoiMart,16.0,4.0,384.0
+908," TEA VALLEY Gold 100 Percent Assam Tea Rich and Strong Taste Make Masala Tea, Ginger Tea, Cardamom Chai, 500 g (pack of 2) ",640.0,520.0,,,TEA VALLEY,500.0,g,2,Success,JoiMart,120.0,18.75,1040.0
+909, Dhopabor Premium Tea -750 g (500g + 250g Value Offer Packs) | High quality Assam CTC Chai| ,291.0,270.0,,,DHOPABOR,750.0,g,1,Success,JoiMart,21.0,7.22,360.0
+910," C. SOMABHAI's No. 11 CTC Premium Dust Tea - 500kg, Assam Tea, Kadak Chai Patti, Strong Regular Black Tea Powder 500 kg Pack ",268.0,250.0,,,C. SOMABHAI (QUALITY TEA),500.0,kg,1,Success,JoiMart,18.0,6.72,0.5
+911, Spearmint Tea ,400.0,201.0,,,NAVVAYD,,none,1,Failed,JoiMart,199.0,49.75,
+912," Pure Tender Coconut Water| No Added Sugar| Natural Energy Drink| Pack of 6, 200 ml each| ",300.0,240.0,,,PURE,200.0,ml,6,Success,JoiMart,60.0,20.0,1200.0
+913," GopaljeeThandai with Badam, Pista, Elaichi 1kg ",525.0,472.0,,,GOPALJEE,1.0,kg,1,Success,JoiMart,53.0,10.1,472.0
+914, Dabur Giloy Neem Tulsi Juice - 1L with Reusable Stainless Steel Straw with Cleaning Brush(Set of 5) ,430.0,429.0,,,DABUR,1.0,l,5,Success,JoiMart,1.0,0.23,429.0
+915, Neuwganic - Tulsi Green Tea | Green Tea | Weight Loss | Immnunity Booster | 100 Gm Pack Of 1 ,500.0,215.0,,,NEUWGANIC,100.0,gm,1,Success,JoiMart,285.0,57.0,2150.0
+916, Granules n Beans Coffee Latte Instant Coffee Premix - (10 Sachet x 14g = 140g) ,160.0,144.0,,,GRANULES N BEANS,14.0,g,1,Success,JoiMart,16.0,10.0,10285.71
+917," Colombian Brew Vanilla Instant Coffee Powder, No Sugar Vegan, 50g ",199.0,197.0,,,COLOMBIAN BREW,50.0,g,1,Success,JoiMart,2.0,1.01,3940.0
+918, Karma Kettle Chamomile - Herbal Tea with Chamomile Flower - 25 Tea Bag Box ,240.0,144.0,,,KARMA KETTLE,25.0,tea bag,1,Failed,JoiMart,96.0,40.0,
+919, Lopchu Golden Orange Pekoe Darjeeling Tea ,600.0,315.0,,,NAVVAYD,,none,1,Failed,JoiMart,285.0,47.5,
+920, Christopher Cocoa Hot Drinking Chocolate Powder with Dark Chocolate Buttons 1Kg ,1199.0,497.0,,,CHRISTOPHER COCOA,1.0,kg,1,Success,JoiMart,702.0,58.55,497.0
+921, Roasted Darjeeling Tea ,400.0,201.0,,,NAVVAYD,,none,1,Failed,JoiMart,199.0,49.75,
+922, Mala's Strawberry Crush 1 L ,240.0,223.0,,,MALA'S,1.0,l,1,Success,JoiMart,17.0,7.08,223.0
+923, Organic Life 100% Natural Apple Cider Vinegar 1500 Ml. ,747.0,430.0,,,ORGANIC LIFE,1500.0,ml,1,Success,JoiMart,317.0,42.44,286.67
+924, Rage Coffee - 100 GMS Original Blend ,499.0,314.0,,,RAGE COFFEE,100.0,gms,1,Success,JoiMart,185.0,37.07,3140.0
+925," Nescafe Gold Altarica Instant Coffee Jar, 100 Gm ",823.62,664.0, Imported ,,NESCAFE,100.0,gm,1,Success,JoiMart,159.62,19.38,6640.0
+926," Rk Home Made Natural Syrup Pan Pasand Syrup Concentrated Syrups And Squash, 750 Ml ",500.0,199.0,,,RK HOME MADE NATURAL SYRUP,750.0,ml,1,Success,JoiMart,301.0,60.2,265.33
+927, KRISHNA Tea - Dust 1kg Pack Leaf 500g | Assam Tea Leaves | Chai Patti | Milk Tea | Combo Pack (1.5kg ) ,599.0,499.0,,,KRISHNA ASSAM TEA,1.0,kg,1,Success,JoiMart,100.0,16.69,499.0
+928, Duncans Finest Hand - Picked Leaf Tea Double Diamond Premium CTC Leaf Tea - 250 Grams - Pack of 3 ,405.0,369.0,,,DUNCANS FINEST HAND - PICKED LEAF TEA,250.0,grams,3,Success,JoiMart,36.0,8.89,1476.0
+929, SPYRAN CTC Assam Chai Patti Leaves Leaf Tea (500 G) ,185.0,172.0,,,SPYRAN,500.0,g,1,Success,JoiMart,13.0,7.03,344.0
+930," Farm Hots Amla Candy/ Awala Candy (Indian Gooseberry) Sweet,100 Grams Pack ",390.0,123.0,,,FARM HOTS,100.0,grams,1,Success,JoiMart,267.0,68.46,1230.0
+931, 1952 Golden Blend South Indian Filter Coffee Powder with Slow-Roasted Perfectly 1000 g Pouch Chicory Filter Coffee ,999.0,560.0,,,1952,1000.0,g,1,Success,JoiMart,439.0,43.94,560.0
+932, Bevzilla 200Gms Dark Wish Dark Roast Instant Coffee Powder| 100% Arabica Strong Coffee | Black Roast Rich & Dark Instant Coffee Powder | Make Upto 100 Cups | Bold & Intense| Premium Coffee | 100% Arabica Coffee ,799.0,399.0,,,BEVZILLA,200.0,gms,1,Success,JoiMart,400.0,50.06,1995.0
+933, Johnnie Walker Refreshing Mixer Non Alcoholic Carbonated Drink 330 ml Pack of 2 ,200.0,140.0,,,JOHNNIE WALKER,330.0,ml,2,Success,JoiMart,60.0,30.0,424.24
+934," Ahnlich Hi5 Smash Energy Drink | Quick Source of Energy | For Gym, Workout, and Sports | Refreshing, and Energizing Drink | Good Source of Vitamin B2, B3, and B6 | 250 ML | Pack of 6 ",540.0,425.0,,,AHNLICH HI5 SMASH,250.0,ml,6,Success,JoiMart,115.0,21.3,1700.0
+935, Manama Green Apple Fruit Syrup for Mocktails and Cocktails (750ML) ,310.0,310.0,,,MANAMA,750.0,ml,1,Success,JoiMart,0.0,0.0,413.33
+936, Spag Herbals Instant Badam Milk Powder With Real Kesar And Almond 400G ,399.0,318.0,,,SPAG HERBALS,400.0,g,1,Success,JoiMart,81.0,20.3,795.0
+937, DiaBliss Herbal Diabetic Friendly Herbal Lemon Tea - Low GI - 30 x 10 Grams Sachet Box ,225.0,225.0,,,DIABLISS,10.0,g,1,Success,JoiMart,0.0,0.0,22500.0
+938, Mapro Litchi Crush 1 L ,252.0,234.0,,,MAPRO,1.0,l,1,Success,JoiMart,18.0,7.14,234.0
+939," Electrorush ORS Apple Flavoured Rehydration Drink for Instant Energy, Pack of 30 (200 ml each) ",882.0,794.0,,,ELECTRORUSH,200.0,ml,30,Success,JoiMart,88.0,9.98,3970.0
+940, Haldiram's Nagpur Shahi Thandai Syrup 750 ml ,380.0,353.0,,,HALDIRAM'S NAGPUR,750.0,ml,1,Success,JoiMart,27.0,7.11,470.67
+941, Shunya Fizz Lime & Lemon | Sugar Free Soft Drink | 0 Calories & No Aspartame | Supercharged with Green Tea & Vitamin C | Pack of 6 (300 ml X 6) ,360.0,342.0,,,SHUNYA,300.0,ml,6,Success,JoiMart,18.0,5.0,1140.0
+942, Superlite Sugarfree Energy Drink | 0 Calories | Tropical Flavour | Max Kick Max Fizz | 6 Pack | Power Packed Energy Blend ,570.0,549.0,,,SUPERLITE,,none,1,Failed,JoiMart,21.0,3.68,
+943," Chai Point Mixed Instant Teas ( Masala, Ginger, Cardamom, Classic ) | No Sugar | Instant Premix tea | Assam Tea | Flavoured tea | Tea Mix ",398.0,300.0,,,CHAIPOINT,,none,1,Failed,JoiMart,98.0,24.62,
+944," Electrorush ORS Plus Apple Flavour Energy Drink Juice with Electrolyte, Nutrients, Vitamins, Minerals, Energy Booster, Pack of 30 (200ml Each) ",1200.0,1020.0,,,ELECTRORUSH,200.0,ml,30,Success,JoiMart,180.0,15.0,5100.0
+945, 9am Lime & Mint Mojito Mocktail Syrup 1000ml ,400.0,315.0,,,9 AM,1000.0,ml,1,Success,JoiMart,85.0,21.25,315.0
+946, KALOUR Nannari Sharbath 700ml (2pcs) ,200.0,125.0,,,KALOUR,700.0,ml,1,Success,JoiMart,75.0,37.5,178.57
+947," Monster Ultra Blue Energy Drink Zero Sugar, 500 Mlpack of 2 ",770.0,653.0, Imported ,,MONSTER,500.0,ml,2,Success,JoiMart,117.0,15.19,1306.0
+948, Amrut Life 250g Classic Strong Dust Tea and 250g Elaichi Special With Adrak Tea Tea Pouch (2 x 250 g) ,180.0,170.0,,,AMRUT LIFE,250.0,g,1,Success,JoiMart,10.0,5.56,680.0
+949, Frut Jus Premium Pomegranate Frut Juice ,100.0,100.0,,,FRUT JUS,,none,1,Failed,JoiMart,0.0,0.0,
+950, Yethai Premium Dust Black Tea| Blend of Multi- Garden Assam and Nilgiris Tea | 100% Natural ,300.0,200.0,,,YETHAI,,none,1,Failed,JoiMart,100.0,33.33,
+951, Online Quality Store Organic Chamomile Flower Tea - 100g | Caffeine Free Herbal Tea| Chamomile Tea| Boost Immunity| Detox Tea| Sleep Tea & Stress Relief | 100% Natural Chamomile Flower Tea Leaves ,300.0,289.0,,,ONLINE QUALITY STORE,100.0,g,1,Success,JoiMart,11.0,3.67,2890.0
+952," Eat Soya...BE SMART EAT SMART SOYA Drink Powder, Chocolate Flavor Plant-Based Vegan Milk Alternative, Non-GMO , Gluten Free, Lactose Free & 23% Protein 200g ",250.0,226.0,,,EAT SOYA...BE SMART EAT SMART,200.0,g,1,Success,JoiMart,24.0,9.6,1130.0
+953, Cloud 9 Kala Khatta | Jamun Juice/Kala Khatta Soft Drink | 300 ml Pack of 24 ,556.0,556.0,,,CLOUD 9,300.0,ml,24,Success,JoiMart,0.0,0.0,1853.33
+954," Manama Pineapple Crush and Strawberry Crush | 750ML Each | Topping for Cakes, Pies and Shakes | Pack of 2 ",380.0,380.0,,,MANAMA,750.0,ml,2,Success,JoiMart,0.0,0.0,506.67
+955, Society Elaichi Adrak Chai | Society Tea | Ginger & Cardamom | Refreshing & Tasteful | 250 g | Pack of 2 ,340.0,330.0,,,SOCIETY,250.0,g,2,Success,JoiMart,10.0,2.94,1320.0
+956," Rage Coffee Flavoured Instant Coffee | Belgian Chocolate Silk Blend 50 GMs | 100% Pure Coffee | Premium, Bold & Smooth ",199.0,179.0,,,RAGE COFFEE,50.0,gms,1,Success,JoiMart,20.0,10.05,3580.0
+957," Taj Mango Hafus Sharbat,750 Ml.(Pack of 3) ",588.0,549.0,,,TAJ,750.0,ml,3,Success,JoiMart,39.0,6.63,732.0
+958, Dhopabor Premium Tea -2.25 KG (4 x 500g+ 250g Value Offer Packs) | High quality Assam CTC Chai| ,873.0,755.0,,,DHOPABOR,2.25,kg,1,Success,JoiMart,118.0,13.52,335.56
+959, Nutrovally Lemon Honey & Chamomile Tea Combo | Premium & Detox Refreshing Tea | Green Tea Bags 25+25 Bag ,498.0,275.0,,,NUTROVALLY,25.0,bag,1,Success,JoiMart,223.0,44.78,11.0
+960, UTTAM KHETI PREMIUM TEA 1kG (1 KG) Rich Taste | Premium Tea ,460.0,430.0,,,UTTAM KHETI,1.0,kg,1,Success,JoiMart,30.0,6.52,430.0
+961, Evocus Black Alkaline Drink | PACK OF 24 (250 ml Each) | 8+ pH | Infused with Essential Minerals ,1440.0,1224.0,,,EVOCUS,250.0,ml,24,Success,JoiMart,216.0,15.0,4896.0
+962, PRAKASH TEA Leaf Special tea-1KG ,360.0,359.0,,,PRAKASH TEA,1.0,kg,1,Success,JoiMart,1.0,0.28,359.0
+963, HERBALIFE NUTRITION Afresh Energy Drink Mix - Peach Flavor For Weight Loss ,999.0,599.0,,,HERBALIFE NUTRITION,,none,1,Failed,JoiMart,400.0,40.04,
+964, GAJANAND Premium CTC Tea Leaf / 500gm / Pack of 1 / Chai Patti with Strong Taste and Refreshing Aroma / 100% Assam CTC Tea Leaves ,260.0,260.0,,,GAJANAND (AAH GAJANAND VAH GAJANAND),500.0,gm,1,Success,JoiMart,0.0,0.0,520.0
+965," BEVZILLA Instant Coffee Powder - 96 Sachets (Butterscotch)| Hot & Cold Coffee| Makes 96 Cups| 100 % Arabica Coffee| Strong Coffee| Easy To Carry| Best Coffee| Espresso, Latte, Cappuccino| Premium ",599.0,405.0,,,BEVZILLA,96.0,sachets,1,Success,JoiMart,194.0,32.39,4.22
+966, Toyo Kombucha - Sparkling Fermented Tea | Pineapple Kombucha | 330ml (Pack of 6) ,570.0,462.0,,,TOYO KOMBUCHA,330.0,ml,6,Success,JoiMart,108.0,18.95,1400.0
+967, Girnar Lemongrass Instant Tea Premix 14 g (10 pcs) ,150.0,139.0,,,GIRNAR,14.0,g,1,Success,JoiMart,11.0,7.33,9928.57
+968, Nescafe Gold Roastery Collection Dark Roast ,962.5,775.0, Imported ,,NESCAFE,,none,1,Failed,JoiMart,187.5,19.48,
+969," Apaizer Very Berry Goli Soda Bottle, 250 Ml (Pack Of 24) ",1440.0,1439.0,,,APAIZER,250.0,ml,24,Success,JoiMart,1.0,0.07,5756.0
+970, Fit Tea| Sugar Free Instant Tea Premix Sachet Adrak-Elaichi 5.5g* 10 single serve sachets ,280.0,189.0,,,FIT TEA - KADAK AND CREAMY,5.5,g,1,Success,JoiMart,91.0,32.5,34363.64
+971, Shree Royal Premium leaf tea| Black Tea| pack of 2kg |Assam leaf tea ,1100.0,770.0,,,SHREE ROYAL,2.0,kg,2,Success,JoiMart,330.0,30.0,385.0
+972, Bayar's 80 Degree Filter Coffee 500 g ,370.0,370.0,,,BAYAR'S COFFEE,500.0,g,1,Success,JoiMart,0.0,0.0,740.0
+973, Booster Water Black Alkaline Drink| 8+ pH Alkaline (500 ML Each Can) Mineral water(Pack of 6) ,540.0,486.0,,,BOOSTER WATER,500.0,ml,6,Success,JoiMart,54.0,10.0,972.0
+974, 9 AM Powder Range Combo Pack of 5 (Custard 135gm+ Baking Soda 100gm+ Baking Powder 100gm+ Cocoa 50gm+ Drinking 100gm) ,250.0,225.0,,,9 AM,135.0,gm,5,Success,JoiMart,25.0,10.0,1666.67
+975, Manama Original Mojito Syrup Mixer for Mocktails and Cocktails (750ML) ,350.0,350.0,,,MANAMA,750.0,ml,1,Success,JoiMart,0.0,0.0,466.67
+976," Cocojal Mango Tender Coconut Water| No Added Flavours| No Added Preservatives| 200ml, Pack of 24 ",1200.0,840.0,,,COCOJAL,200.0,ml,24,Success,JoiMart,360.0,30.0,4200.0
+977, Ez Farmland Spices Herb Tea 100 g (Pack of 1) / Kerala Special tea Mix/Masala Tea /Herbal Tea /Healthy tea Dust /Spices Tea Dust ,199.0,189.0,,,EZ FARMLAND,100.0,g,1,Success,JoiMart,10.0,5.03,1890.0
+978," TE-A-ME Honey Lemon Green Tea, 100 Tea Bags | Honey Lemon Green Tea | Green Tea ",400.0,336.0,,,TE-A-ME,100.0,tea bags,1,Success,JoiMart,64.0,16.0,3.36
+979," Rage Coffee Flavoured Instant Coffee | Vanilla Velvet Silk Blend 50 GMs | 100% Pure Coffee | Premium, Bold & Smooth ",199.0,179.0,,,RAGE COFFEE,50.0,gms,1,Success,JoiMart,20.0,10.05,3580.0
+980," Gusto Foods Yellow Lemon Juice Concentrate, 600 Ml (Pack Of 3) ",267.0,199.0,,,GUSTO FOODS,600.0,ml,3,Success,JoiMart,68.0,25.47,331.67
+981," Teabox Hibiscus Cinnamon Clove Green Tea Bags 25 Pieces | For Healthy Heart | Made with 100% Whole Leaf, Natural Hibiscus, Cinnamon & Clove | 2 Free Samples Included ",252.0,235.0,,,TEABOX,25.0,tea bags,1,Success,JoiMart,17.0,6.75,9.4
+982," Colombian Brew Vanilla Instant Coffee Powder, No Sugar Vegan, 1kg Hotel Pack ",3500.0,1399.0,,,COLOMBIAN BREW,1.0,kg,1,Success,JoiMart,2101.0,60.03,1399.0
+983," Nescafé Coffee Can - Latte, 240 ml, Light Brown JST ",399.0,250.0,,,JST,240.0,ml,1,Success,JoiMart,149.0,37.34,1041.67
+984, Drink Masti Enjoy Masti Masti Rose Syrup for kids and teens| Flavour for various purpose-750ml ,1000.0,220.0,,,DRINK MASTI ENJOY MASTI MASTI,750.0,ml,1,Success,JoiMart,780.0,78.0,293.33
+985," NATURUP Tender Coconut Water Powder Mix (600g) (pack of 50) , Nariyal Pani with No Artificial Colours, Flavours or Preservatives ",1000.0,709.0,,,NATURUP,600.0,g,50,Success,JoiMart,291.0,29.1,1181.67
+986," Jivvij Samaara Jivraj Tea Premium Dust Tea with Goodness of Time-tested Indian Ingredients, Premium Pack of Kadak Desi Chai, Subtle and Rich in Aroma | Refreshing in Taste (1 Kg) ",649.0,649.0,,,JIVVIJ SAMAARA,1.0,kg,1,Success,JoiMart,0.0,0.0,649.0

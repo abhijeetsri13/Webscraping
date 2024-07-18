@@ -1,0 +1,514 @@
+,Sr.No.,Grocery_Name,Brand_Name,MRP_Price,Discount_Price,Total Disc,Percetage Disc,Quantity,strip_qua,Quantity_upd,Converted_Quantity,Price_per_unit(gm/ml/pc)
+0,0,Beaten Caffe Powder,Sunbean  ,150.0,142.5,7.5,5.0,120 g - (10 Sachets x 12 g each),120 g ,120 g ,120.0,1.1875
+1,1,Tea,Red Label,1200.0,1079.0,121.0,10.08,2x1 kg - Multipack,2*1 kg ,2 kg,2000.0,0.5395
+2,2,Tea - Natural Care,Red Label,1200.0,1020.0,180.0,15.0,2x1 kg - Multipack,2*1 kg ,2 kg,2000.0,0.51
+3,3,Mineral Water,Bisleri ,288.0,288.0,0.0,0.0,250 ml - Pack of 48,250 ml ,250 ml ,250.0,1.152
+4,4,Tea,Taj Mahal,1760.0,1566.0,194.0,11.02,2x1 kg - Multipack,2*1 kg ,2 kg,2000.0,0.783
+5,5,"Coffee - Powder, Speciality Blend Of Coffee & Chicory Powder",Cothas Coffee,680.0,612.0,68.0,10.0,2x500 g - Multipack,2*500 g ,1000 g,1000.0,0.612
+6,6,Coffee - Sunrise,Nescafe ,920.0,798.0,122.0,13.26,2x200 g - Multipack,2*200 g ,400 g,400.0,1.995
+7,7,Instant Coffee,BRU,800.0,720.0,80.0,10.0,2x200 g - Multipack,2*200 g ,400 g,400.0,1.8
+8,8,Leaf Tea,Tata Tea Gold,1200.0,936.0,264.0,22.0,2x1 kg - Multipack,2*1 kg ,2 kg,2000.0,0.468
+9,9,Chocolate Health Drink,Cadbury Bournvita,740.0,598.0,142.0,19.19,2x750 g - Multipack,2*750 g ,1500 g,1500.0,0.39866666666666667
+10,10,Filter Coffee - Green Label,BRU,560.0,532.0,28.0,5.0,2x500 g - Multipack,2*500 g ,1000 g,1000.0,0.532
+11,11,Drink Powder - Sports Stars First Choice,Boost,5.0,5.0,0.0,0.0,15 g ,15 g ,15 g ,15.0,0.3333333333333333
+12,12,"Tender Coconut Water - No Added Sugar, Flavours",Fresho,1200.0,888.0,312.0,26.0,24x200 ml - (Multipack),24*200 ml ,4800 ml,4800.0,0.185
+13,13,Health Drink - Original,Horlicks,898.0,898.0,0.0,0.0,2x900 g - Multipack,2*900 g ,1800 g,1800.0,0.4988888888888889
+14,14,Drink - Fresh 'N' Juicy Mango,Frooti,140.0,140.0,0.0,0.0,2x1.2 L - Multipack,2*1.2 L ,2.4 L,2400.0,0.058333333333333334
+15,15,Sparkling Water - Club Soda,Kinley,60.0,60.0,0.0,0.0,2x1.25 L - Multipack,2*1.25 L ,2.5 L,2500.0,0.024
+16,16,Premium Leaf Tea - Strong & Refreshing,Wagh Bakri,510.0,499.0,11.0,2.16,1 kg - Pouch,1 kg ,1 kg ,1000.0,0.499
+17,17,"Nutrition Drink - Health, Energy & Sports",Boost,898.0,738.0,160.0,17.82,2x750 g - Multipack,2*750 g ,1500 g,1500.0,0.492
+18,18,Tea,Tata Tea Kanan Devan,32.0,28.8,3.1999999999999993,10.0,100 g ,100 g ,100 g ,100.0,0.28800000000000003
+19,19,Tea,3 Roses,345.27,340.27,5.0,1.45,500 g - Carton,500 g ,500 g ,500.0,0.6805399999999999
+20,20,Coffee Powder Extra Strong,Cothas Coffee,275.0,275.0,0.0,0.0,500 g - Pouch,500 g ,500 g ,500.0,0.55
+21,21,Mineral Water,Kinley,315.0,315.0,0.0,0.0,2 L - Pack of 9,2 L ,2 L ,2000.0,0.1575
+22,22,Classic 100% Pure Instant Coffee,Nescafe ,2790.0,2622.6,167.4000000000001,6.0,2x500 g - (Multipack),2*500 g ,1000 g,1000.0,2.6226
+23,23,"Soft Drink - Zero Sugar, No Calories",Coca Cola,40.0,32.0,8.0,20.0,750 ml - Pet Bottle,750 ml ,750 ml ,750.0,0.042666666666666665
+24,24,Tea,Tata Tea Premium,705.0,475.0,230.0,32.62,1. 5 kg ,1. 5 kg ,1. 5 kg ,,
+25,25,Badam Drink Mix,MTR,275.0,250.0,25.0,9.09,500 g ,500 g ,500 g ,500.0,0.5
+26,26,Soft Drink,Thums Up,190.0,160.0,30.0,15.79,2x2 L - Multipack,2*2 L ,4 L,4000.0,0.04
+27,27,Coffee - Eighty Degree,Bayars,320.0,320.0,0.0,0.0,500 g ,500 g ,500 g ,500.0,0.64
+28,28,Soft Drink - Original Taste,Coca Cola,960.0,768.0,192.0,20.0,24x750 ml - Multipack,24*750 ml ,18000 ml,18000.0,0.042666666666666665
+29,29,Coffee - Special Gold,Bayars,270.0,270.0,0.0,0.0,500 g ,500 g ,500 g ,500.0,0.54
+30,30,Packaged Drinking Water,Aquafina,315.0,315.0,0.0,0.0,2 L - Pack of 9,2 L ,2 L ,2000.0,0.1575
+31,31,Diet Coke Soft Drink,Coca Cola,240.0,240.0,0.0,0.0,6x300 ml - (Multipack),6*300 ml ,1800 ml,1800.0,0.13333333333333333
+32,32,Natural Care Tea - with 5 Natural Ingredients,3 Roses,100.0,90.0,10.0,10.0,100 g ,100 g ,100 g ,100.0,0.9
+33,33,Coffee Powder Premium Special,Cothas Coffee,252.5,252.5,0.0,0.0,500 g - Pouch,500 g ,500 g ,500.0,0.505
+34,34,Coffee Powder Cothas Blend,Cothas Coffee,270.0,270.0,0.0,0.0,500 g - Pouch,500 g ,500 g ,500.0,0.54
+35,35,"Mango Drink - Original Flavour, Refreshing",Maaza,100.0,80.0,20.0,20.0,150 ml - (Pack of 10),150 ml ,150 ml ,150.0,0.5333333333333333
+36,36,Xtra Coffee Pouch,Continental,95.0,47.5,47.5,50.0,50 g ,50 g ,50 g ,50.0,0.95
+37,37,Grand Filter Coffee,Tata Coffee,280.0,231.0,49.0,17.5,500 g ,500 g ,500 g ,500.0,0.462
+38,38,Goodness Of 5 Natural Flavours,Tata Tea Gold Care,325.0,260.0,65.0,20.0,500 g ,500 g ,500 g ,500.0,0.52
+39,39,"Complete Balanced Nutrition Drink For Adults, Vanilla",Ensure,1300.0,1230.0,70.0,5.38,1 kg ,1 kg ,1 kg ,1000.0,1.23
+40,40,"Black Soft Drink - Max Taste, Zero Sugar(Diet)",Pepsi,210.0,192.0,18.0,8.57,6x250 ml - Multipack,6*250 ml ,1500 ml,1500.0,0.128
+41,41,"Grand Classic Instant Coffee - Flavour Locked Decoction Crystals, Strong Taste & Rich Aroma",Tata Coffee,460.0,349.6,110.39999999999998,24.0,200 g - Pouch,200 g ,200 g ,200.0,1.7480000000000002
+42,42,Health & Nutrition Drink,Horlicks,449.0,374.0,75.0,16.7,750 g - Pouch,750 g ,750 g ,750.0,0.49866666666666665
+43,43,"Women's Plus, Caramel",Womens Horlicks,599.0,545.09,53.90999999999997,9.0,750 g ,750 g ,750 g ,750.0,0.7267866666666667
+44,44,7+ Specialized Nutrition Drink Powder With Oats & Almonds - Chocolate Flavour,Pediasure,1230.0,1150.0,80.0,6.5,2 x 400 g - Multipack,2*400 g ,800 g,800.0,1.4375
+45,45,Indian Tonic Water,Schweppes,360.0,324.0,36.0,10.0,6x300 ml - Multipack,6*300 ml ,1800 ml,1800.0,0.18
+46,46,Soda - Original Ginger Ale,Schweppes,360.0,360.0,0.0,0.0,6x300 ml - Multipack,6*300 ml ,1800 ml,1800.0,0.2
+47,47,"Fruit Juice - Delight, Litchi",Tropicana,246.0,206.0,40.0,16.26,2x1 L - Multipack,2*1 L ,2 L,2000.0,0.103
+48,48,Juice - Classic Apple,Appy,60.0,60.0,0.0,0.0,4x200 ml - Multipack,4*200 ml ,800 ml,800.0,0.075
+49,49,Paper Boat Aamras Mango Fruit Juice (Pack of 4),Paper Boat,80.0,69.92,10.079999999999998,12.6,150 ml - Multipack,150 ml ,150 ml ,150.0,0.46613333333333334
+50,50,Spiced Tea - Blend Of 7 Refreshing Spices,Wagh Bakri,150.0,150.0,0.0,0.0,250 g ,250 g ,250 g ,250.0,0.6
+51,51,Health Drink Chocolate,Pediasure,1420.0,1300.0,120.0,8.45,2 x 400 g - Multipack,2*400 g ,800 g,800.0,1.625
+52,52,"Health Mix - 100% Natural Nutrition, No Added Sugar, Preservative Free",Manna,489.0,366.75,122.25,25.0,1 kg - cartoon,1 kg ,1 kg ,1000.0,0.36675
+53,53,Soft Drink - With Real Lemon Juice,7 Up Nimbooz,90.0,90.0,0.0,0.0,6 x 250 ml - (Multipack),6*250 ml ,1500 ml,1500.0,0.06
+54,54,Cold Extracted Juice - Valencia Orange,Raw Pressery,1050.0,945.0,105.0,10.0,3x1 L - Multipack,3*1 L ,3 L,3000.0,0.315
+55,55,Fruit Juice - Orange Delight,Tropicana,240.0,240.0,0.0,0.0,2x1 L - Multipack,2*1 L ,2 L,2000.0,0.12
+56,56,Green Tea - Honey Lemon,Lipton,1250.0,1125.0,125.0,10.0,2x100 pcs - Multipack,2*100 pcs ,200 pcs,200.0,5.625
+57,57,Health & Nutrition Drink - Chocolate,Horlicks,998.0,708.0,290.0,29.06,2x1 kg - (Multipack),2*1 kg ,2 kg,2000.0,0.354
+58,58,Fruit Drink - Pulpy Orange,Minute Maid ,180.0,162.0,18.0,10.0,2x1 L - Multipack,2*1 L ,2 L,2000.0,0.081
+59,59,Blend Instant Coffee Powder - Rich & Smooth,Nescafe Gold,1100.0,1065.0,35.0,3.18,2 x 95 g - Multipack,2*95 g ,190 g,190.0,5.605263157894737
+60,60,Premium Coffee,LEVISTA,370.0,185.0,185.0,50.0,100 g - Can,100 g ,100 g ,100.0,1.85
+61,61,"Fruit Juice - Cranberry, Rich In Vitamin C",Real,780.0,708.0,72.0,9.23,6 x 1 L - Multipack,6*1 L ,6 L,6000.0,0.118
+62,62,Coffee Powder Pure Filter Nova Therm,Cothas Coffee,345.0,224.25,120.75,35.0,500 g ,500 g ,500 g ,500.0,0.4485
+63,63,"Zesty Pomegranate Juice - Enriched With Vitamin D, No GMOs",Paperboat Swing,120.0,114.0,6.0,5.0,3x600 ml - Multipack,3*600 ml ,1800 ml,1800.0,0.06333333333333334
+64,64,Original Taste Soft Drink - Refreshing,Coca Cola,240.0,222.0,18.0,7.5,6x300 ml - Multipack,6*300 ml ,1800 ml,1800.0,0.12333333333333334
+65,65,Energy Drink,RED BULL ,3000.0,2700.0,300.0,10.0,250 ml - (Pack of 24),250 ml ,250 ml ,250.0,10.8
+66,66,Hommade Lemoneez - Goodness Of 33 Lemons,Dabur,160.0,152.1,7.900000000000006,4.94,2x250 ml - Multipack,2*250 ml ,500 ml,500.0,0.30419999999999997
+67,67,Sunrise Instant Coffee - Chicory Mixture,Nescafe ,770.0,654.5,115.5,15.0,2 x 200 g - Multipack,2*200 g ,400 g,400.0,1.63625
+68,68,"Club Soda - Extra Power, Refreshing Drink",Bisleri ,120.0,120.0,0.0,0.0,6 x 750 ml - (Multipack),6*750 ml ,4500 ml,4500.0,0.02666666666666667
+69,69,"Fruit Juice - Delight, Mango",Tropicana,240.0,240.0,0.0,0.0,12x200 ml - Multipack,12*200 ml ,2400 ml,2400.0,0.1
+70,70,Darjeeling Tea,Lipton,970.0,873.0,97.0,10.0,500 g ,500 g ,500 g ,500.0,1.746
+71,71,"Special Blend Tea - 10% Extra Strong Leaves, Perfect Aroma & Taste",Tata Tea Agni,115.0,115.0,0.0,0.0,500 g - Pack,500 g ,500 g ,500.0,0.23
+72,72,Probiotic Health Drink - Light,Yakult,380.0,380.0,0.0,0.0,4x65 ml - Multipack,4*65 ml ,260 ml,260.0,1.4615384615384615
+73,73,100 % Apple Juice - With No Added Sugar and Preservative,Real Activ,465.0,302.2,162.8,35.01,3x1 L - Multipack,3*1 L ,3 L,3000.0,0.10073333333333333
+74,74,100% Orange Juice,Tropicana,435.0,435.0,0.0,0.0,3x1 L - Multipack,3*1 L ,3 L,3000.0,0.145
+75,75,"Coconut Water - Refreshing Flavour, Vital Electrolytes",Paper Boat,200.0,174.8,25.19999999999999,12.6,4x200 ml - Multipack,4*200 ml ,800 ml,800.0,0.21850000000000003
+76,76,"Green Tea - Lemon & Honey, Rich In Antioxidants",Tetley,625.0,437.5,187.5,30.0,140 g - (100 Bags x 1.4 g each),140 g ,140 g ,140.0,3.125
+77,77,Soft Drink - Lime & Lemon Flavoured,Limca ,40.0,34.0,6.0,15.0,750 ml - PET Bottle,750 ml ,750 ml ,750.0,0.04533333333333334
+78,78,Strong Coffee,LEVISTA,160.0,80.0,80.0,50.0,50 g - Pouch,50 g ,50 g ,50.0,1.6
+79,79,Green Tea - Ginger Mint Lemon,Tetley,510.0,392.7,117.30000000000001,23.0,3x25 Teabags - Multipack,3*25 Teabags ,75 Teabags,75.0,5.236
+80,80,Coconut Water,Raw Pressery,1440.0,1368.0,72.0,5.0,24x200 ml - Multipack,24*200 ml ,4800 ml,4800.0,0.285
+81,81,"Junior - Health Drink, Vanilla - Specialized Nutrition For Kids",Horlicks,570.0,450.0,120.0,21.05,1 Kg ,1 Kg ,1 Kg ,1000.0,0.45
+82,82,100% Tender Coconut Water - No Added Sugar,Storia,298.0,190.72,107.28,36.0,2 x 1 L - (Multipack),2*1 L ,2 L,2000.0,0.09536
+83,83,"Fruit Juice - Delight, Apple",Tropicana,339.0,279.0,60.0,17.7,3x1 L - Multipack,3*1 L ,3 L,3000.0,0.093
+84,84,Premium Tea - Strong Flavour With Long Lasting Taste,Tata Tea Chakra Gold,410.0,369.0,41.0,10.0,500 g ,500 g ,500 g ,500.0,0.738
+85,85,"Nutrition & Health Drink - Improves Concentration & Memory, Chocolate Flavour",Complan,1218.0,1071.84,146.16000000000008,12.0,2x1 Kg - Multipack,2*1 Kg ,2 Kg,2000.0,0.53592
+86,86,"Soda - Fizz, Jeera Masala",Bindu,60.0,60.0,0.0,0.0,1 L - Bottle,1 L ,1 L ,1000.0,0.06
+87,87,Lychee - Litchi Fruit Juice,Paper Boat,80.0,76.0,4.0,5.0,4x150 ml - Multipack,4*150 ml ,600 ml,600.0,0.12666666666666668
+88,88,Women'S Health & Nutrition Drink - Chocolate Flavour,Horlicks,730.0,678.9,51.10000000000002,7.0,2x400 g - Multipack,2*400 g ,800 g,800.0,0.848625
+89,89,"Diabetes Plus - Helps Manage Blood Sugar, Vanilla",Horlicks,790.0,711.0,79.0,10.0,400 g - Cartoon,400 g ,400 g ,400.0,1.7775
+90,90,Women'S Health & Nutrition Drink - Caramel Flavour,Horlicks,710.0,660.3,49.700000000000045,7.0,2x400 g - Multipack,2*400 g ,800 g,800.0,0.825375
+91,91,Fruit Juice - Mixed Fruit Delight,Tropicana,250.0,210.0,40.0,16.0,2x1 L - Multipack,2*1 L ,2 L,2000.0,0.105
+92,92,"Fruit Juice - Delight, Guava",Tropicana,240.0,240.0,0.0,0.0,12x200 ml - Multipack,12*200 ml ,2400 ml,2400.0,0.1
+93,93,Dust Tea,Tata Tea Agni,140.0,140.0,0.0,0.0,500 g ,500 g ,500 g ,500.0,0.28
+94,94,Energy & Nutrition Drink - 3X More Stamina,Boost,599.0,494.0,105.0,17.53,500 g - (Pack of 2),500 g ,500 g ,500.0,0.988
+95,95,Health & Nutrition Drink - Classic Malt,Horlicks,698.0,658.0,40.0,5.73,2 x 450 g - Multipack,2*450 g ,900 g,900.0,0.7311111111111112
+96,96,Chocolate Syrup,Hersheys ,300.0,285.0,15.0,5.0,3x200 g - Multipack,3*200 g ,600 g,600.0,0.475
+97,97,Natural Mineral Water,Himalayan,840.0,756.0,84.0,10.0,12x1 L - Multipack,12*1 L ,12 L,12000.0,0.063
+98,98,Soft Drink,Pepsi,75.0,67.0,8.0,10.67,1.5 L - Bottle,1.5 L ,1.5 L ,1500.0,0.04466666666666667
+99,99,"Mixed Fruit - Rich In Fibre, Vitamin C & E, 100% Indian Fruit & 0% Concentrate",B Natural,390.0,296.4,93.60000000000002,24.0,1 L - (Pack of 3),1 L ,1 L ,1000.0,0.2964
+100,100,Fruit Power Juice - Mixed Fruits,Real,384.0,343.38,40.620000000000005,10.58,3X1 L - Multipack,3*1 L ,3 L,3000.0,0.11445999999999999
+101,101,Hot Chocolate Drink Powder Mix,Cadbury,660.0,561.0,99.0,15.0,3 x 200 g - Multipack,3*200 g ,600 g,600.0,0.935
+102,102,Diabetes Care Specialized Nutrition Drink - Vanilla Delight Flavour,Ensure,1635.0,1565.0,70.0,4.28,1 kg - Box,1 kg ,1 kg ,1000.0,1.565
+103,103,"Nutritional Drink Mix For Adults For Everyday Health With High Protein, To Increase Strength & Energy - Rich Chocolate",Protinex ,1235.0,1085.0,150.0,12.15,750 g - Carton,750 g ,750 g ,750.0,1.4466666666666668
+104,104,Coffee Powder Premium Blended,Cothas Coffee,65.0,65.0,0.0,0.0,100 g - Pouch,100 g ,100 g ,100.0,0.65
+105,105,"Instant Filter Coffee Liquid - Strong, Chicory Blend, No Preservatives",iD,240.0,240.0,0.0,0.0,400 ml - ( 8 Units x Pack of 5(10 ml Each)),400 ml ,400 ml ,400.0,0.6
+106,106,Soft Drink - Lime Flavoured,Sprite,198.0,182.0,16.0,8.08,2 x 2.25 L - (Multipack),2*2.25 L ,4.5 L,4500.0,0.04044444444444444
+107,107,"Soft Drink - Orange Flavoured, Refreshing",Fanta,95.0,84.0,11.0,11.58,2 l - Pet Bottle,2 l ,2 l ,2000.0,0.042
+108,108,Delight Fruit Juice - Pineapple,Tropicana,250.0,250.0,0.0,0.0,2x1 L - Multipack,2*1 L ,2 L,2000.0,0.125
+109,109,"Nutrition Drink - Health, Energy & Sports",Boost,599.0,599.0,0.0,0.0,1 Kg - Carton,1 Kg ,1 Kg ,1000.0,0.599
+110,110,Limonata - Limey Minty Cooler,Bisleri ,80.0,80.0,0.0,0.0,2x600 ml - Multipack,2*600 ml ,1200 ml,1200.0,0.06666666666666667
+111,111,Activ Fiber + Multi Fruit Beverage - No Added Sugars & Preservative,Real,320.0,210.11,109.88999999999999,34.34,2 x 1 L - Multipack,2*1 L ,2 L,2000.0,0.10505500000000001
+112,112,Coconut Water/Nariyal Pani,Real Activ,840.0,721.68,118.32000000000005,14.09,24 x 200 ml - Multipack,24*200 ml ,4800 ml,4800.0,0.15034999999999998
+113,113,"Black Tea - Original, Classic Assam Blend, Staple-Free, Environment Friendly Bags",Tetley,210.0,157.5,52.5,25.0,170 g - (100 bags x 1.7 g each),170 g ,170 g ,170.0,0.9264705882352942
+114,114,Soft Drink - Orange,Mirinda,75.0,67.0,8.0,10.67,1.5 L ,1.5 L ,1.5 L ,1500.0,0.04466666666666667
+115,115,100% Apple Juice,Tropicana,435.0,435.0,0.0,0.0,3x1 L - Multipack,3*1 L ,3 L,3000.0,0.145
+116,116,Malgudi Filter Coffee - 60:40,Continental,90.0,90.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.45
+117,117,Filter Coffee Decoction,iD,250.0,236.9,13.099999999999994,5.24,2 x 150 ml - Multipack,2*150 ml ,300 ml,300.0,0.7896666666666667
+118,118,"Yellow Label Tea - Finest Blend, Rich, Aromatic",Lipton,300.0,300.0,0.0,0.0,250 g ,250 g ,250 g ,250.0,1.2
+119,119,Fruit Power - Coconut Water,Real,340.0,179.93,160.07,47.08,2 x 1 L - Multipack,2*1 L ,2 L,2000.0,0.089965
+120,120,Filter Coffee With Chicory,LEVISTA,340.0,340.0,0.0,0.0,500 g - Pouch,500 g ,500 g ,500.0,0.68
+121,121,Green Tea - Long Leaf,Tetley,740.0,621.6,118.39999999999998,16.0,2x250 g - Multipack,2*250 g ,500 g,500.0,1.2432
+122,122,Chilli Guava Fruit Juice,Paper Boat,210.0,193.2,16.80000000000001,8.0,6x200 ml - Multipack,6*200 ml ,1200 ml,1200.0,0.161
+123,123,Natural Mineral Water,Himalayan,40.0,36.0,4.0,10.0,500 ml - Bottle,500 ml ,500 ml ,500.0,0.072
+124,124,Instant Pure Coffee,BRU,390.0,331.5,58.5,15.0,100 g - Jar,100 g ,100 g ,100.0,3.315
+125,125,Soft Drink - Lemon,7 Up,960.0,888.0,72.0,7.5,24x750 ml - Multipack,24*750 ml ,18000 ml,18000.0,0.04933333333333333
+126,126,Drink Mix - Badam,MTR,80.0,80.0,0.0,0.0,100 g - Pouch,100 g ,100 g ,100.0,0.8
+127,127,Fruit Juice - Guava Delight,Tropicana,230.0,190.0,40.0,17.39,2x1 L - Multipack,2*1 L ,2 L,2000.0,0.095
+128,128,"Juice - Fruit Power, Pomegranate/Anar",Real,120.0,95.2,24.799999999999997,20.67,6x200 ml - Multipack,6*200 ml ,1200 ml,1200.0,0.07933333333333334
+129,129,Top Star Tea,3 Roses,410.0,371.0,39.0,9.51,500 g - Carton,500 g ,500 g ,500.0,0.742
+130,130,Fruit Juice - Orange Drink,Paper Boat,360.0,324.0,36.0,10.0,3 x 1 L - Multipack,3*1 L ,3 L,3000.0,0.108
+131,131,5 Star Magic Health Drink,Cadbury Bournvita,824.0,749.84,74.15999999999997,9.0,2x750 g - Multipack,2*750 g ,1500 g,1500.0,0.49989333333333336
+132,132,100 % Mixed Fruit Juice - With No Added Sugar and Preservative,Real Activ,435.0,363.75,71.25,16.38,3x1 L - Multipack,3*1 L ,3 L,3000.0,0.12125
+133,133,Rich Aroma Instant Coffee,Davidoff,1300.0,1235.0,65.0,5.0,2 x 100 g - Multipack,2*100 g ,200 g,200.0,6.175
+134,134,Soft Drink,Coca Cola,198.0,176.0,22.0,11.11,2 x 2.25 L - (Multipack),2*2.25 L ,4.5 L,4500.0,0.03911111111111111
+135,135,Tender Coconut Water With Pulpy Malai,Fresho,1440.0,936.0,504.0,35.0,24x200 ml - Multipack,24*200 ml ,4800 ml,4800.0,0.195
+136,136,Soft Drink,Thums Up,480.0,444.0,36.0,7.5,12x300 ml - Multipack,12*300 ml ,3600 ml,3600.0,0.12333333333333334
+137,137,Premium Tea With 20% Extra Long Leaf,Emperia,1250.0,838.0,412.0,32.96,2x1 kg - (Multipack),2*1 kg ,2 kg,2000.0,0.419
+138,138,Green Tea  - Pure & Light,Lipton,330.0,303.6,26.399999999999977,8.0,2x25 pcs - Multipack,2*25 pcs ,50 pcs,50.0,6.072
+139,139,Fruit Power Juice - Litchi,Real,375.0,331.74,43.25999999999999,11.54,3x1 L - Multipack,3*1 L ,3 L,3000.0,0.11058
+140,140,Sports Drink - Orange Flavour,Gatorade,150.0,150.0,0.0,0.0,3x500 ml - Multipack,3*500 ml ,1500 ml,1500.0,0.1
+141,141,Health Drink Vanilla Delight,Pediasure,1540.0,1420.0,120.0,7.79,2x400 g - Multipack,2*400 g ,800 g,800.0,1.775
+142,142,Cold Extracted Juice - Pomegranate,Raw Pressery,900.0,837.0,63.0,7.0,2x1 L - Multipack,2*1 L ,2 L,2000.0,0.4185
+143,143,SOFT DRINK,Sprite,0.0,0.0,0.0,,250 ml ,250 ml ,250 ml ,250.0,0.0
+144,144,Premium Leaf Tea,Wagh Bakri,0.0,0.0,0.0,,500 g ,500 g ,500 g ,500.0,0.0
+145,145,"Classic, Pure & Natural From Highest Hills",Tata Tea Kanan Devan,292.0,265.72,26.279999999999973,9.0,1 kg ,1 kg ,1 kg ,1000.0,0.26572
+146,146,Swing Juicier Drink - Mixed Fruit Medley,Paper Boat,60.0,60.0,0.0,0.0,6x150 ml - Multipack,6*150 ml ,900 ml,900.0,0.06666666666666667
+147,147,"7+ Health Drink - With Oats & Almond, Vanilla Flavour",Pediasure,235.0,220.9,14.099999999999994,6.0,200 g - Box,200 g ,200 g ,200.0,1.1045
+148,148,Filter Coffee Liquid Strong,iD,198.0,178.22,19.78,9.99,2 x 150 ml - Multipack,2*150 ml ,300 ml,300.0,0.5940666666666666
+149,149,Mango Juice,Tropicana Slice,198.0,170.0,28.0,14.14,2x1.75 L - Multipack,2*1.75 L ,3.5 L,3500.0,0.04857142857142857
+150,150,Golden Leaf Tea,Tata Tea Kanan Devan,275.0,233.75,41.25,15.0,500 g ,500 g ,500 g ,500.0,0.4675
+151,151,"Mother's Plus, Vanilla",Horlicks,620.0,589.0,31.0,5.0,400 g - Carton,400 g ,400 g ,400.0,1.4725
+152,152,Soft Drink - Lime Flavoured,Sprite,480.0,480.0,0.0,0.0,12x300 ml - Multipack,12*300 ml ,3600 ml,3600.0,0.13333333333333333
+153,153,Fruit Power Juice - Mango/Aam,Real,345.0,296.82,48.18000000000001,13.97,3x1 L - Multipack,3*1 L ,3 L,3000.0,0.09894
+154,154,Cold Brew Coffee - 100% Arabica,Sleepy Owl,575.0,575.0,0.0,0.0,250 g - (Set of 5),250 g ,250 g ,250.0,2.3
+155,155,"Anar/Pomegranate Juice - With Low Sugar, No Added Preservatives",Paper Boat,600.0,510.0,90.0,15.0,200 ml - (Pack of 12),200 ml ,200 ml ,200.0,2.55
+156,156,"Nutritious Milk Drink For Growing Children - Creamy Vanilla Flavour, For 2-6 Yrs",Nestlé NANGROW,610.0,610.0,0.0,0.0,400 g - Carton,400 g ,400 g ,400.0,1.525
+157,157,"Care Flavoured Tea - Brahmi, Ginger, Tulsi, Elaichi & Adhimadhuram",Tata Tea Chakra Gold,240.0,228.0,12.0,5.0,250 g - Carton,250 g ,250 g ,250.0,0.912
+158,158,Fresh Filter Coffee - 80 Degree,Continental Malgudi,310.0,294.5,15.5,5.0,500 g - 1,500 g ,500 g ,500.0,0.589
+159,159,"Organic Tulsi Green Tea - Lemon & Ginger, Stress Relieving",Organic India,215.0,206.4,8.599999999999994,4.0,45 g - (25 Bags x 1.8 g each),45 g ,45 g ,45.0,4.586666666666667
+160,160,Tea,Taj Mahal,80.0,80.0,0.0,0.0,25 pcs ,25 pcs ,25 pcs ,25.0,3.2
+161,161,Fruit Power Juice - Apple,Real,345.0,308.46,36.54000000000002,10.59,3x1 L - Multipack,3*1 L ,3 L,3000.0,0.10282
+162,162,"Cold Extracted Juice - Basics, Sugarcane",Raw Pressery,400.0,380.0,20.0,5.0,5x250 ml - Multipack,5*250 ml ,1250 ml,1250.0,0.304
+163,163,Elaichi Flavoured Tea,Tata Tea Chakra Gold,240.0,144.0,96.0,40.0,250 g ,250 g ,250 g ,250.0,0.576
+164,164,Lite Health & Nutrition Drink - Badam Flavour,Horlicks,349.0,329.0,20.0,5.73,450 g - Carton,450 g ,450 g ,450.0,0.7311111111111112
+165,165,Natural Mountain Water - Vedica,Bisleri ,360.0,360.0,0.0,0.0,6x1 L - Multi Pack,6*1 L ,6 L,6000.0,0.06
+166,166,100% Tender Coconut Water/Nariyal Pani,Real Activ,660.0,552.0,108.0,16.36,12 x 200 ml - Multipack,12*200 ml ,2400 ml,2400.0,0.23
+167,167,"Nutritional Supplement - High Protein, Vanilla Flavour",Protinex ,1350.0,1200.0,150.0,11.11,2x400 g - (Multipack),2*400 g ,800 g,800.0,1.5
+168,168,"Lush Lychee Juice - Enriched With Vitamin D, No GMOs",Paperboat Swing,120.0,114.0,6.0,5.0,3x600 ml - Multipack,3*600 ml ,1800 ml,1800.0,0.06333333333333334
+169,169,"Instant Coffee Powder - Chicory Mix, Shade-Grown, No Preservatives",iD,190.0,150.9,39.099999999999994,20.58,2 x 50 g - Multipack,2*50 g ,100 g,100.0,1.5090000000000001
+170,170,100 % Orange Juice - With No Added Sugar and Preservative,Real Activ,465.0,392.85,72.14999999999998,15.52,3x1 L - Multipack,3*1 L ,3 L,3000.0,0.13095
+171,171,Filter Coffee Decoction Chicory Blend Roasted Ground Smooth No Preservatives 70:30,Cothas Coffee,50.0,47.5,2.5,5.0,100 ml - (Pack of 5),100 ml ,100 ml ,100.0,0.475
+172,172,Fruit Power Juice - Pineapple,Real,240.0,216.0,24.0,10.0,12x 180 ml - Multipack,12*180 ml ,2160 ml,2160.0,0.1
+173,173,Fine Aroma Instant Coffee,Davidoff,1300.0,1235.0,65.0,5.0,2 x 100 g - Multipack,2*100 g ,200 g,200.0,6.175
+174,174,"Valencia Orange Juice - Cold-Pressed, No Added Sugar, Preservative Free",Fresho Signature,469.0,399.0,70.0,14.93,1 L - Pet Bottle,1 L ,1 L ,1000.0,0.399
+175,175,Malgudi Filter Coffee Pouch -  80:20,Continental,140.0,140.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.7
+176,176,"Green Tea - With Plain, Tulsi, Lemon & Honey, Travel Pack",Emperia,40.0,19.0,21.0,52.5,6.7 g - (5 Tea Bags x 1.34 g Each),6.7 g ,6.7 g ,6.7,2.835820895522388
+177,177,"Juice - Fruit Power, Orange/Santra",Real,390.0,334.65,55.35000000000002,14.19,3X1 L - Multipack,3*1 L ,3 L,3000.0,0.11155
+178,178,Sports Drink - Lemon Flavour,Gatorade,300.0,300.0,0.0,0.0,6x500 ml - Multipack,6*500 ml ,3000 ml,3000.0,0.1
+179,179,"Junior - Health Drink, Chocolate - Specialized Nutrition For Kids",Horlicks,315.0,315.0,0.0,0.0,500 g ,500 g ,500 g ,500.0,0.63
+180,180,Coconut Milk,Coco mama,170.0,140.0,30.0,17.65,2 x 250 ml - Multipack,2*250 ml ,500 ml,500.0,0.28
+181,181,Green Tea Honey Lemon,Emperia,170.0,170.0,0.0,0.0,35 g - (25 Bags x 1.4 g Each),35 g ,35 g ,35.0,4.857142857142857
+182,182,Juice - Sparkling Apple,Appy,120.0,120.0,0.0,0.0,2x1 L - Multipack,2*1 L ,2 L,2000.0,0.06
+183,183,Jaljeera Refreshing Summer Drink,Paper Boat,210.0,189.0,21.0,10.0,6x200 ml - Multipack,6*200 ml ,1200 ml,1200.0,0.1575
+184,184,Health Drink - Plus Orange,ORSL,45.0,45.0,0.0,0.0,200 ml ,200 ml ,200 ml ,200.0,0.225
+185,185,"Diabetic Care Formula Mix-Chocolate, Nutrition For Diabetes Management",ENSURE DIABETES CARE,1850.0,1850.0,0.0,0.0,2 x 400 g - Multipack,2*400 g ,800 g,800.0,2.3125
+186,186,Energy Drink,Sting,210.0,210.0,0.0,0.0,6X250 ml - MultiPack,6*250 ml ,1500 ml,1500.0,0.14
+187,187,Coconut Water - Rich In Electrolytes With Vitamin C,Cocomama,1200.0,1200.0,0.0,0.0,24x250 ml - Multipack,24*250 ml ,6000 ml,6000.0,0.2
+188,188,"Millet Chocolate - Rich In Calcium, Protein & Iron",Horlicks,399.0,354.0,45.0,11.28,600 g ,600 g ,600 g ,600.0,0.59
+189,189,Natural Mineral Water,Himalayan,50.0,50.0,0.0,0.0,750 ml ,750 ml ,750 ml ,750.0,0.06666666666666667
+190,190,Mountain Dew,Mountain Dew,75.0,67.0,8.0,10.67,1.5 L ,1.5 L ,1.5 L ,1500.0,0.04466666666666667
+191,191,Kadak Tea,Emperia,1140.0,758.0,382.0,33.51,2x1 kg - (Multipack),2*1 kg ,2 kg,2000.0,0.379
+192,192,Desh Ki Chai,Tata Tea Premium,0.0,0.0,0.0,,250 g ,250 g ,250 g ,250.0,0.0
+193,193,"Masala Tea - Spiced & Flavourful Assam Blend, Staple Free & Environment Friendly Bags",Tetley,310.0,279.0,31.0,10.0,100 g - (50 Bags x 2 g each),100 g ,100 g ,100.0,2.79
+194,194,"Fruit Juice - Delight, Pomegranate",Tropicana,250.0,250.0,0.0,0.0,2x1 L - Multipack,2*1 L ,2 L,2000.0,0.125
+195,195,Chamomile Tea - Tulsi Honey,Organic India,195.0,187.2,7.800000000000011,4.0,43.5 g - (25 Bags x 1.7 g each),43.5 g ,43.5 g ,43.5,4.303448275862069
+196,196,Soft Drink - Lemon,7 Up,840.0,768.0,72.0,8.57,24x250 ml - Multipack,24*250 ml ,6000 ml,6000.0,0.128
+197,197,Tea Blend With Rich Taste Natural Ingredients Improves Immunity Memory,Tata Tea Gold Care,630.0,472.5,157.5,25.0,1 Kg ,1 Kg ,1 Kg ,1000.0,0.4725
+198,198,Health Drink - Choco Caramel,Maltova,280.0,280.0,0.0,0.0,500 g - Carton,500 g ,500 g ,500.0,0.56
+199,199,Health Drink Kesar Badam,Pediasure,450.0,450.0,0.0,0.0,200 g - Carton,200 g ,200 g ,200.0,2.25
+200,200,Coffee - Pure,Narasus,442.0,442.0,0.0,0.0,500 g - Pouch,500 g ,500 g ,500.0,0.884
+201,201,Fruit Juice - Grape,Real,250.0,223.44,26.560000000000002,10.62,2 x 1 L - Multipack,2*1 L ,2 L,2000.0,0.11172
+202,202,Coffee - Brownie Special,Bayars,104.0,104.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.52
+203,203,"Black Roast Instant Coffee - Rich & Dark, 100% Pure, Soluble Powder",Nescafe Classic,740.0,592.0,148.0,20.0,2x90 g - Multipack,2*90 g ,180 g,180.0,3.2888888888888888
+204,204,"Diabetes Care - High In Fibre & Protein, Creamy Vanilla Flavour",Protinex ,740.0,665.0,75.0,10.14,400 g ,400 g ,400 g ,400.0,1.6625
+205,205,Sports Drink - Blue Bolt Flavour,Gatorade,240.0,240.0,0.0,0.0,6x500 ml - (Multipack),6*500 ml ,3000 ml,3000.0,0.08
+206,206,"Coffee - Udhayam, Blend of Coffee & Chicory",Narasus,357.0,357.0,0.0,0.0,500 g - Pouch,500 g ,500 g ,500.0,0.714
+207,207,Aam Panna Mango Drink,Paper Boat,210.0,193.2,16.80000000000001,8.0,6x200 ml - Multipack,6*200 ml ,1200 ml,1200.0,0.161
+208,208,Soft Drink,Mountain Dew,840.0,768.0,72.0,8.57,24x250 ml - Multipack,24*250 ml ,6000 ml,6000.0,0.128
+209,209,Smartwater,Glaceau ,720.0,720.0,0.0,0.0,12x750 ml - Multipack,12*750 ml ,9000 ml,9000.0,0.08
+210,210,"Green Tea - Ginger Mint & Lemon, Rich In Antioxidants",Tetley,7500.0,5250.0,2250.0,30.0,12x140 g - Multipack,12*140 g ,1680 g,1680.0,3.125
+211,211,Club Soda - Evervess,Lehar,20.0,20.0,0.0,0.0,600 ml - Bottle,600 ml ,600 ml ,600.0,0.03333333333333333
+212,212,Cold Pressed Pomegranate Juice,Fresho Signature,469.0,399.0,70.0,14.93,1 L - Pet Bottle,1 L ,1 L ,1000.0,0.399
+213,213,Premium Instant Coffee - 100% Coffee Blend,Tata Coffee Grand,290.0,220.4,69.6,24.0,100 g - Pouch,100 g ,100 g ,100.0,2.204
+214,214,Soft Drink - Orange,Mirinda,840.0,792.0,48.0,5.71,24x250 ml - Multipack,24*250 ml ,6000 ml,6000.0,0.132
+215,215,Exotic Dark Hot Chocolate Drink Powder Mix,Hersheys ,220.0,202.4,17.599999999999994,8.0,250 g ,250 g ,250 g ,250.0,0.8096
+216,216,Alphonso Mango - 100% Natural Cold Pressed Juice,Raw Pressery,750.0,697.5,52.5,7.0,3 x1 L - Multipack,3*1 L ,3 L,3000.0,0.2325
+217,217,"Slurpy Mango Juice - Enriched With Vitamin D, No GMOs",Paperboat Swing,120.0,108.0,12.0,10.0,3x600 ml - Multipack,3*600 ml ,1800 ml,1800.0,0.06
+218,218,Fruit Juice - Masala Pomegranate,Real,280.0,137.2,142.8,51.0,2 x 1 L - Multipack,2*1 L ,2 L,2000.0,0.0686
+219,219,100% Juice - Mixed Fruit,Tropicana,435.0,435.0,0.0,0.0,3x1 L - Multipack,3*1 L ,3 L,3000.0,0.145
+220,220,Fruit Power Juice - Mixed Berries,Real,130.0,107.0,23.0,17.69,1 L ,1 L ,1 L ,1000.0,0.107
+221,221,Green Tea - Lemon & Honey,Twinings,955.0,955.0,0.0,0.0,200 g - (100 Bags x 2 g each),200 g ,200 g ,200.0,4.775
+222,222,Milo Cocoa-Malt Milk Beverage - Grab & Go Pack,Nestle ,270.0,270.0,0.0,0.0,6x180 ml - Multipack,6*180 ml ,1080 ml,1080.0,0.25
+223,223,"Gold - 100% Pure Coffee, Original , Robusta & Arabica Beans Blend",Tata Coffee,520.0,395.2,124.80000000000001,24.0,100 g - Jar,100 g ,100 g ,100.0,3.952
+224,224,"Fruit Juice - Pink Guava, Rich In Vitamin C",Real,250.0,164.15,85.85,34.34,2 x 1 L - Multipack,2*1 L ,2 L,2000.0,0.08207500000000001
+225,225,Instant Tea - Premix With Ginger,Girnar,140.0,140.0,0.0,0.0,10 pcs ,10 pcs ,10 pcs ,10.0,14.0
+226,226,"Zero Lemon Lime Sparkling Water - Carbonated Water, Sugar Free, No Calories",Paper Boat,180.0,162.0,18.0,10.0,3 x 600 ml - (Multipack),3*600 ml ,1800 ml,1800.0,0.09
+227,227,Diabetes Care Specialised Nutrition Drink Vanilla,Ensure,995.0,995.0,0.0,0.0,400 g - Jar,400 g ,400 g ,400.0,2.4875
+228,228,"Instant Iced Tea - Rich In Vitamin C, Light & Refreshing, Lemon Flavour",Nestea,200.0,190.0,10.0,5.0,400 g - Pouch,400 g ,400 g ,400.0,0.475
+229,229,Delight Fruit Juice - Cranberry,Tropicana,270.0,270.0,0.0,0.0,2x1 L - (Multipack),2*1 L ,2 L,2000.0,0.135
+230,230,Copper+,Tata ,20.0,17.6,2.3999999999999986,12.0,1 L - Bottle,1 L ,1 L ,1000.0,0.0176
+231,231,Ale Of Grapefruits - A Traditional Recipe,Gunsberg,520.0,520.0,0.0,0.0,330 ml - (Pack of 6),330 ml ,330 ml ,330.0,1.5757575757575757
+232,232,"Creamy Classic Nutritious Health Drink - Vitamin C & A Supports Kids Immune, Clinically Proven For 2X Faster Growth Formula",Complan,559.0,514.28,44.72000000000003,8.0,1 kg - Carton,1 kg ,1 kg ,1000.0,0.51428
+233,233,Cappuccino,Nescafe ,400.0,400.0,0.0,0.0,2x100 g - Multipack,2*100 g ,200 g,200.0,2.0
+234,234,"Guava Juice - Rich In Fibre, Vit C & E, 100% Fruit Pulp & 0% Concentrate",B Natural,390.0,277.88,112.12,28.75,1 L - (Pack of 3),1 L ,1 L ,1000.0,0.27788
+235,235,Fresh Filter Coffee - 60 Degree,Continental Malgudi,220.0,209.0,11.0,5.0,500 g ,500 g ,500 g ,500.0,0.418
+236,236,"Vedic Tea - Handpicked From Assam, Nilgiri & Darjeeling",Dabur,295.0,221.25,73.75,25.0,500 g ,500 g ,500 g ,500.0,0.4425
+237,237,Tender Coconut Water,Cocojal,50.0,47.0,3.0,6.0,200 ml - Bottle,200 ml ,200 ml ,200.0,0.235
+238,238,French Roast Home Espresso Dark Roasted Arabica Ground Coffee,Blue Tokai,470.0,470.0,0.0,0.0,250 g ,250 g ,250 g ,250.0,1.88
+239,239,"Coffee - Instant, Insta Strong",Narasus,109.0,109.0,0.0,0.0,50 g - Pouch,50 g ,50 g ,50.0,2.18
+240,240,"Coffee - Chikamagalur Aroma Premium Fresh Filter Coffee, Using 100% German Machinery to Roast & Grind",Riseup,159.0,159.0,0.0,0.0,250 g ,250 g ,250 g ,250.0,0.636
+241,241,"High Protein Drink - Chocolate, Protein+",Horlicks,1300.0,1235.0,65.0,5.0,2x400 g - Multipack,2*400 g ,800 g,800.0,1.54375
+242,242,Organic Chamomile Tea - Tulsi Honey,IndiSecrets,199.0,139.0,60.0,30.15,36 g - (20 Bags x 1.8 g each),36 g ,36 g ,36.0,3.861111111111111
+243,243,Infusion Bags - Tulsi Green Tea,Organic India,215.0,206.4,8.599999999999994,4.0,43.5 g - (25 Bags x 1.74 g each),43.5 g ,43.5 g ,43.5,4.744827586206896
+244,244,Rich Masala Tea,Taj Mahal,160.0,160.0,0.0,0.0,25 pcs ,25 pcs ,25 pcs ,25.0,6.4
+245,245,This Cappuccino 3 In 1 Premix Instant Coffee,Continental,125.0,112.5,12.5,10.0,22 g - (Buy 5 Get 1 Free ),22 g ,22 g ,22.0,5.113636363636363
+246,246,Green Tea - Regular,Tetley,1250.0,875.0,375.0,30.0,2x100 Teabags - Multipack,2*100 Teabags ,200 Teabags,200.0,4.375
+247,247,"Fruit Beverage - No Added Sugar, Low Calories, Peach",Paper Boat,180.0,153.0,27.0,15.0,3x600 ml - Multipack,3*600 ml ,1800 ml,1800.0,0.085
+248,248,"Elaichi Tea - Cardamom Flavoured, Assam Blend, Staple-Free, Environment Friendly Bags",Tetley,310.0,279.0,31.0,10.0,100 g - (50 Bags x 2 g each),100 g ,100 g ,100.0,2.79
+249,249,"Health Drink - Chocolate Flavour, Provides Complete Nutrition For Adults",Ensure,1680.0,1680.0,0.0,0.0,2 x 400 g - Multipack,2*400 g ,800 g,800.0,2.1
+250,250,"Fruit Juice - Orange, Rich In Vitamin C",Real,40.0,37.24,2.759999999999998,6.9,2 x 180 ml - Multipack,2*180 ml ,360 ml,360.0,0.10344444444444445
+251,251,Fruit Power Juice - Alphonso Mango Nectar,Real,300.0,196.98,103.02000000000001,34.34,2 x 1 L - Multipack,2*1 L ,2 L,2000.0,0.09849
+252,252,Diabetes Care Specialized Nutrition Drink - Chocolate Flavour,Ensure,540.0,540.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,2.7
+253,253,"Royale Chocolate Nutritious Health Drink - Vitamin C & A Supports Kids Immune, Clinically Proven For 2X Faster Growth Formula",Complan,124.0,93.0,31.0,25.0,200 g - Jar,200 g ,200 g ,200.0,0.465
+254,254,Leaf Tea - Navchetan,Wagh Bakri,200.0,181.0,19.0,9.5,1 Kg ,1 Kg ,1 Kg ,1000.0,0.181
+255,255,Soft Drink - Orange Flavoured,Fanta,240.0,222.0,18.0,7.5,6x300 ml - Multipack,6*300 ml ,1800 ml,1800.0,0.12333333333333334
+256,256,Long Leaf - Lemon Green Tea,Tetley,155.0,142.6,12.400000000000006,8.0,100 g ,100 g ,100 g ,100.0,1.426
+257,257,Swing Juicier Drink - Slurpy Mango,Paper Boat,60.0,60.0,0.0,0.0,6x150 ml - Multipack,6*150 ml ,900 ml,900.0,0.06666666666666667
+258,258,Hot Brew Coffee - Dark Roast (20 Bags x 15 g each),Sleepy Owl,700.0,700.0,0.0,0.0,300 g - Multipack,300 g ,300 g ,300.0,2.3333333333333335
+259,259,"Instant Premix Tea - 3 In 1 Combo Pack With Masala,Ginger & Elaichi",Wagh Bakri,160.0,150.0,10.0,6.25,168 g - (12 Sachets x 14g Each),168 g ,168 g ,168.0,0.8928571428571429
+260,260,Zero Sparkling Water - Cumin,Paper Boat,120.0,114.0,6.0,5.0,2 x 600 ml - Multipack,2*600 ml ,1200 ml,1200.0,0.095
+261,261,"Sparkling Coffee - Dark Roast, Carbonated Drink, Zero Sugar & Zero Calories",Paper Boat,180.0,171.0,9.0,5.0,3 x 600 ml - (Multipack),3*600 ml ,1800 ml,1800.0,0.095
+262,262,High Protein Health Drink Chocolate,Ensure,815.0,815.0,0.0,0.0,400 g - Box,400 g ,400 g ,400.0,2.0375
+263,263,"Soda - Fizz, Jeera Masala",Bindu,95.0,95.0,0.0,0.0,2 L - Bottle,2 L ,2 L ,2000.0,0.0475
+264,264,Wheatgrass Juice - Helps Detoxify The Liver & Cleanses Digestive System,Kapiva,499.0,449.1,49.89999999999998,10.0,1 L ,1 L ,1 L ,1000.0,0.4491
+265,265,Fine Long Leaf Tea,Tata Tea Gold Darjeeling,340.0,299.2,40.80000000000001,12.0,200 g - Box,200 g ,200 g ,200.0,1.496
+266,266,Aam Panna Mango Drink,Paper Boat,80.0,80.0,0.0,0.0,4x150 ml - Multipack,4*150 ml ,600 ml,600.0,0.13333333333333333
+267,267,Long Leaf Original Green Tea - Detoxifies Body,Tetley,500.0,375.0,125.0,25.0,500 g ,500 g ,500 g ,500.0,0.75
+268,268,"Street Chai Of India - Mumbai Cutting Chai, Tasting Notes Of Ginger & Lemongrass",Tata Tea Premium,145.0,116.0,29.0,20.0,250 g ,250 g ,250 g ,250.0,0.464
+269,269,"SipNDigest - With Green Tea, Ginger, Tulsi & Rock Salt, Spiced Green Tea Bags",Lipton,380.0,342.0,38.0,10.0,50 pcs - (50 Bags x 1.8 g Each),50 pcs ,50 pcs ,50.0,6.84
+270,270,Intense Café Ready To Drink Coffee & Milk Beverage - Cappuccino Flavour,Nescafe ,270.0,270.0,0.0,0.0,6x180 ml - Multipack,6*180 ml ,1080 ml,1080.0,0.25
+271,271,Swing Juicier Drink - Tasty Apple,Paper Boat,60.0,60.0,0.0,0.0,6x150 ml - Multipack,6*150 ml ,900 ml,900.0,0.06666666666666667
+272,272,Original Adult Health & Nutritional Drink Mix For Recovery With High Protein,Protinex ,1310.0,1160.0,150.0,11.45,750 g - Carton,750 g ,750 g ,750.0,1.5466666666666666
+273,273,Apple Juice Based Drink,Appy Fizz,90.0,90.0,0.0,0.0,6 x 175 ml - (Multipack),6*175 ml ,1050 ml,1050.0,0.08571428571428572
+274,274,"Sugarcane Juice - Cold-Pressed, No Added Sugar, Preservative Free",Fresho Signature,267.0,223.25,43.75,16.39,3x250 ml - Multipack,3*250 ml ,750 ml,750.0,0.2976666666666667
+275,275,Health & Nutrition Drink - Chocolate,Chocolate Horlicks,199.0,199.0,0.0,0.0,400 g - Pouch,400 g ,400 g ,400.0,0.4975
+276,276,Amla Juice,Kapiva,897.0,807.3,89.70000000000005,10.0,3 x 1 L - Multipack,3*1 L ,3 L,3000.0,0.2691
+277,277,"Pineapple Juice - Cold-Pressed, No Added Sugar, Preservative Free",Fresho Signature,387.0,312.29,74.70999999999998,19.3,3x250 ml - Multipack,3*250 ml ,750 ml,750.0,0.4163866666666667
+278,278,"Fruit Beverage - No Added Sugar, Low Calories, Ginger Lemon",Paper Boat,180.0,162.0,18.0,10.0,3x600 ml - Multipack,3*600 ml ,1800 ml,1800.0,0.09
+279,279,Zero Sucrose Health Drink Vanilla,Pediasure,595.0,595.0,0.0,0.0,400 g - Box,400 g ,400 g ,400.0,1.4875
+280,280,Assam Tea,Twinings,699.0,699.0,0.0,0.0,200 g - (100 Bags x 2 g each),200 g ,200 g ,200.0,3.495
+281,281,"Mixed Fruit Medley Juice - Enriched With Vitamin D, No GMOs",Paperboat Swing,120.0,120.0,0.0,0.0,3x600 ml - Multipack,3*600 ml ,1800 ml,1800.0,0.06666666666666667
+282,282,Fruit Juice - Masala Mixed Fruit,Real,280.0,137.2,142.8,51.0,2 x 1 L - Multipack,2*1 L ,2 L,2000.0,0.0686
+283,283,Masters Blend Tea- Rich Taste,Emperia,1500.0,1118.0,382.0,25.47,2x1 kg - (Multipack),2*1 kg ,2 kg,2000.0,0.559
+284,284,"Ginger Zing Tea - Flavoured, Assam Blend, Staple-Free, Environment Friendly Bags",Tetley,3720.0,3348.0,372.0,10.0,12x100 g - Multipack,12*100 g ,1200 g,1200.0,2.79
+285,285,"Karela Jamun Juice, 1 Litre - Ayurvedic Juice to Help Maintain Healthy Sugar Levels - 100% Natural - No Added Sugar",Sri Sri Tattva,320.0,320.0,0.0,0.0,1 L ,1 L ,1 L ,1000.0,0.32
+286,286,Syrup - Mojito Mint,Monin,895.0,895.0,0.0,0.0,700 ml - Bottle,700 ml ,700 ml ,700.0,1.2785714285714285
+287,287,Aloe Vera and Amla Juice,Kapiva,1000.0,800.0,200.0,20.0,2x 1 L - Multipack,2*1 L ,2 L,2000.0,0.4
+288,288,"Wholesome Child Nutrition For Growth & Development - Mango, High Protein With DHA",Groviva,680.0,680.0,0.0,0.0,400 g ,400 g ,400 g ,400.0,1.7
+289,289,Tulsi Ginger Turmeric Tea - Stress Relieving & Harmonizing,Organic India,195.0,187.2,7.800000000000011,4.0,47.5 g - (25 Teabags x 1.9g each),47.5 g ,47.5 g ,47.5,3.941052631578947
+290,290,"Instant Drink Mix - Orange, Multipack",Tang,500.0,500.0,0.0,0.0,2x750 g - Multipack,2*750 g ,1500 g,1500.0,0.3333333333333333
+291,291,Natural Extracts Refreshing Taste Aroma,Tata Tea Premium Teaveda,285.0,285.0,0.0,0.0,500 g - Box,500 g ,500 g ,500.0,0.57
+292,292,"Yummy Guava Juice - Enriched With Vitamin D, No GMOs",Paperboat Swing,120.0,120.0,0.0,0.0,3x600 ml - Multipack,3*600 ml ,1800 ml,1800.0,0.06666666666666667
+293,293,Instant Energy Health Drink - Regular,Glucon-D,430.0,365.5,64.5,15.0,2 x 1 kg - (Multipack),2*1 kg ,2 kg,2000.0,0.18275
+294,294,Wellnezz Jamun Juice,Real Activ,149.0,129.0,20.0,13.42,1 L ,1 L ,1 L ,1000.0,0.129
+295,295,"Gold Premium Freeze Dried Coffee - 100% Pure, Strong, Intense Aromatic",BRU,520.0,416.0,104.0,20.0,100 g ,100 g ,100 g ,100.0,4.16
+296,296,IQ+ Maternal Nutrition With DHA Health Drink - Vanilla Delight Flavour,SimMom,565.0,565.0,0.0,0.0,400 g ,400 g ,400 g ,400.0,1.4125
+297,297,"Activ Beetroot & Carrot Juice - Helps Gut Health, No Added Sugars & Preservative",Real,320.0,210.11,109.88999999999999,34.34,2 x 1 L - Multipack,2*1 L ,2 L,2000.0,0.10505500000000001
+298,298,Amla Juice,Patanjali,280.0,280.0,0.0,0.0,2x1 L - Multipack,2*1 L ,2 L,2000.0,0.14
+299,299,Instant Energy Health Drink - Tangy Orange,Glucon-D,195.0,179.4,15.599999999999994,8.0,450 g - Refill,450 g ,450 g ,450.0,0.39866666666666667
+300,300,Aamras Mango Fruit Juice,Paper Boat,280.0,231.84,48.16,17.2,2x1 L - Multipack,2*1 L ,2 L,2000.0,0.11592
+301,301,Tea - Spicy Ginger,Taj Mahal,155.0,155.0,0.0,0.0,50 g - (25 Bags x 2 g each),50 g ,50 g ,50.0,3.1
+302,302,Quick Filter,Tata Coffee,195.0,159.9,35.099999999999994,18.0,100 g - Tin,100 g ,100 g ,100.0,1.599
+303,303,Noni Juice,Kapiva,1498.0,1198.4,299.5999999999999,20.0,2x 1 L - Multipack,2*1 L ,2 L,2000.0,0.5992000000000001
+304,304,"Vedic Kadha Herbal Tea - Supports Immune Function, Rich In Vitamin C",Vahdam ,600.0,420.0,180.0,30.0,2 g - (50 Bags x 2 g Each),2 g ,2 g ,2.0,210.0
+305,305,"Wholesome Child Nutrition For Growth & Development - Vanilla, High Protein With DHA",Groviva,1250.0,1250.0,0.0,0.0,750 g - (2 Units x 375 g each),750 g ,750 g ,750.0,1.6666666666666667
+306,306,Cuban Watermelon Mojito Kombucha - Probiotic,Borecha,160.0,160.0,0.0,0.0,330 ml ,330 ml ,330 ml ,330.0,0.48484848484848486
+307,307,"Kesar Badam Nutritious Health Drink - Vitamin C & A Supports Kids Immune, Clinically Proven For 2X Faster Growth Formula",Complan,365.0,350.4,14.600000000000023,4.0,500 g - Jar,500 g ,500 g ,500.0,0.7008
+308,308,Speciale Coffee,Continental,560.0,560.0,0.0,0.0,200 g - Jar,200 g ,200 g ,200.0,2.8
+309,309,Mango Instant Drink Mix,Tang,300.0,300.0,0.0,0.0,2x500 g - Multipack,2*500 g ,1000 g,1000.0,0.3
+310,310,"Badam Almond Drink Mix - Rich In Protein & Vitamins, No Artificial Flavours",Manna,159.0,127.2,31.799999999999997,20.0,200 g - Carton,200 g ,200 g ,200.0,0.636
+311,311,Syrup - Lemon Tea With Natural Extracts,Monin,395.0,395.0,0.0,0.0,250 ml - Bottle,250 ml ,250 ml ,250.0,1.58
+312,312,Organic Green Tea - Divine Tulsi,Eco Valley ,185.0,165.0,20.0,10.81,42.5 g - (25 Bags x 1.7 g),42.5 g ,42.5 g ,42.5,3.8823529411764706
+313,313,"Cold Extracted Juice - Basics, Mango",Raw Pressery,300.0,285.0,15.0,5.0,5x200 ml - Multipack,5*200 ml ,1000 ml,1000.0,0.285
+314,314,Green Tea - Detox / Desi Kahwa,Girnar,330.0,330.0,0.0,0.0,90.7 g - (36 Bags x 2.5 g each),90.7 g ,90.7 g ,90.7,3.6383682469680263
+315,315,Syrup - Strawberry,Monin,895.0,895.0,0.0,0.0,700 ml - Bottle,700 ml ,700 ml ,700.0,1.2785714285714285
+316,316,Get Slim Juice,Kapiva,840.0,840.0,0.0,0.0,2x 1 L - Multipack,2*1 L ,2 L,2000.0,0.42
+317,317,This Hazelnut 3 In 1 Premix Instant Coffee,Continental,125.0,112.5,12.5,10.0,22 g - (Buy 5 Get 1 Free),22 g ,22 g ,22.0,5.113636363636363
+318,318,Non-Alcoholic Beer Bottle - Malt Flavour,Barbican ,99.0,99.0,0.0,0.0,330 ml ,330 ml ,330 ml ,330.0,0.3
+319,319,"Premium Instant Coffee - French Vanilla, Freeze Dried",Sleepy Owl,495.0,495.0,0.0,0.0,100 g ,100 g ,100 g ,100.0,4.95
+320,320,Tea - Tulsi & Ginger,Organic India,225.0,216.0,9.0,4.0,100 g ,100 g ,100 g ,100.0,2.16
+321,321,Instant Coffee Premix,Narasus,15.0,15.0,0.0,0.0,18 g - Pouch,18 g ,18 g ,18.0,0.8333333333333334
+322,322,"Easy Pour Coffee - Nutty & Chocolatey, Medium-Dark Roast, Attikan Estate",Blue Tokai,250.0,250.0,0.0,0.0,55 g - (5 Sachets x 11 g each),55 g ,55 g ,55.0,4.545454545454546
+323,323,"Litchi Juice - Nata De Coco, Natural, Healthy Drink",ALPHA 8,30.0,30.0,0.0,0.0,200 ml ,200 ml ,200 ml ,200.0,0.15
+324,324,Continental Speciale,Continental,200.0,100.0,100.0,50.0,50 g - Pouch,50 g ,50 g ,50.0,2.0
+325,325,"100% Fruit Juice - Nimbu Pani, No Added Sugar",Storia,240.0,192.0,48.0,20.0,6x200 ml - Multipack,6*200 ml ,1200 ml,1200.0,0.16
+326,326,"Premium Leaf Tea, Rich Aroma & Taste, Assam Long Leaf",Tata Tea Chakra Gold,230.0,184.0,46.0,20.0,250 g ,250 g ,250 g ,250.0,0.736
+327,327,"Ragi Malt - Rich In Protein & Calcium, Natural & Healthy",Manna,199.0,179.1,19.900000000000006,10.0,200 g - Carton,200 g ,200 g ,200.0,0.8955
+328,328,Syrup - Milk Booster,Hersheys ,400.0,300.0,100.0,25.0,2x450 g - Multipack,2*450 g ,900 g,900.0,0.3333333333333333
+329,329,Fruit Power Juice - Guava/Amrud,Real,360.0,261.9,98.10000000000002,27.25,3X1 L - Multipack,3*1 L ,3 L,3000.0,0.08729999999999999
+330,330,Assorted Tulsi Infusions With 4 Exotic Flavours,IndiSecrets,199.0,99.0,100.0,50.25,25.5 g ,25.5 g ,25.5 g ,25.5,3.8823529411764706
+331,331,Instant Tea - Premix With Cardamom,Girnar,140.0,140.0,0.0,0.0,10 pcs ,10 pcs ,10 pcs ,10.0,14.0
+332,332,"Orange Juice - Rich In Fibre, Vitamin C & E, 100% Indian Fruit & 0% Concentrate, 1 litre",B Natural,390.0,312.0,78.0,20.0,1 L - (Pack of 3),1 L ,1 L ,1000.0,0.312
+333,333,"Nutrition & Health Drink - Improves Concentration & Memory, Pista Badam Flavour",Complan,700.0,672.0,28.0,4.0,2x500 g - Multipack,2*500 g ,1000 g,1000.0,0.672
+334,334,Tulsi Green Tea Ashwagandha - Stress Relieving & Refreshing,Organic India,215.0,206.4,8.599999999999994,4.0,50 g - (25 Teabags x 2 g Each),50 g ,50 g ,50.0,4.128
+335,335,"Wholesome Child Nutrition For Growth & Development - Strawberry, High Protein With DHA",Groviva,680.0,680.0,0.0,0.0,400 g ,400 g ,400 g ,400.0,1.7
+336,336,Mango Passion Kombucha,Dad's Hack,1194.0,1014.9,179.10000000000002,15.0,330mlx6 - Multipack,330ml*6 ,330ml*6 ,330.0,3.075454545454545
+337,337,Flavoured Black Tea - Earl Grey,Emperia,159.0,79.0,80.0,50.31,20 g - (10 Bags x 2 g Each),20 g ,20 g ,20.0,3.95
+338,338,"Vedic Green Tea - Detox Kahwa, 8 Real Ayurvedic Herbs & Rock Salt, Improves Digestion",Dabur,275.0,206.25,68.75,25.0,62.5 g - (25 Bags x 2.5 g Each),62.5 g ,62.5 g ,62.5,3.3
+339,339,Instant Energy Health Drink - Nimbu Pani,Glucon-D,380.0,304.0,76.0,20.0,1 kg - Refill,1 kg ,1 kg ,1000.0,0.304
+340,340,English Breakfast Tea,Typhoo,195.0,195.0,0.0,0.0,50 g - (25 Bags x 2 g each),50 g ,50 g ,50.0,3.9
+341,341,"Real Activ Fruit + Veggie Orange & Carrot Beverage, With No Added Sugars/Preservative -1L",Real Activ,320.0,284.0,36.0,11.25,2x1 L - Multipack,2*1 L ,2 L,2000.0,0.142
+342,342,Ginger Lime Kombucha,Dad's Hack,1194.0,1014.9,179.10000000000002,15.0,330mlx6 - Multipack,330ml*6 ,330ml*6 ,330.0,3.075454545454545
+343,343,"Cold Extracted Juice - Basics, Guava",Raw Pressery,400.0,380.0,20.0,5.0,5x250 ml - Multipack,5*250 ml ,1250 ml,1250.0,0.304
+344,344,Flavoured Green Tea - Jasmine,Emperia,159.0,79.0,80.0,50.31,20 g - (10 Bags X 2 g Each),20 g ,20 g ,20.0,3.95
+345,345,Pure Peppermint Tea,Twinings,335.0,335.0,0.0,0.0,50 g - (25 Bags x 2 g each),50 g ,50 g ,50.0,6.7
+346,346,Non Alcoholic Beer - Malt,Coolberg,534.0,465.0,69.0,12.92,6x330 ml - Multipack,6*330 ml ,1980 ml,1980.0,0.23484848484848486
+347,347,"High Protein Drink - Vanilla, Protein+",Horlicks,1300.0,1235.0,65.0,5.0,2x400 g - Multipack,2*400 g ,800 g,800.0,1.54375
+348,348,Espresso 57 Intense Instant Coffee,Davidoff,1300.0,1235.0,65.0,5.0,2 x 100 g - Multipack,2*100 g ,200 g,200.0,6.175
+349,349,"Kaju Butterscotch Milkshake - With Zinc, Vitamin A & D Added, Supports Immunity",Cavins,480.0,360.0,120.0,25.0,2x1 L - Multipack,2*1 L ,2 L,2000.0,0.18
+350,350,Organic Tea - Tulsi Ginger & Turmeric,IndiSecrets,199.0,139.0,60.0,30.15,36 g - (20 Bags x 1.8 g each),36 g ,36 g ,36.0,3.861111111111111
+351,351,"Mother's Plus, Kesar",Horlicks,620.0,589.0,31.0,5.0,400 g ,400 g ,400 g ,400.0,1.4725
+352,352,Non Alcoholic Beer - Peach,Coolberg,594.0,519.0,75.0,12.63,6x330 ml - Multipack,6*330 ml ,1980 ml,1980.0,0.26212121212121214
+353,353,Flavoured Tea - Lemon,Twinings,999.0,999.0,0.0,0.0,200 g - (100 Bags x 2 g each),200 g ,200 g ,200.0,4.995
+354,354,"Fruit Juice - Mosambi, Rich In Vitamin C",Real,260.0,227.36,32.639999999999986,12.55,2 x 1 L - Multipack,2*1 L ,2 L,2000.0,0.11368
+355,355,Tea - Kadak Care,Emperia,335.0,249.0,86.0,25.67,500 g ,500 g ,500 g ,500.0,0.498
+356,356,Lemon Juice With Natural Lemons,Keya,470.0,470.0,0.0,0.0,2 x 500 ml - (Multipack),2*500 ml ,1000 ml,1000.0,0.47
+357,357,"Sparkling Water - Green Apple, Carbonated Water, Zero Sugar/Calories",Paper Boat,180.0,171.0,9.0,5.0,3 x 600 ml - (Multipack),3*600 ml ,1800 ml,1800.0,0.095
+358,358,Fruits 'N Bits Drink - Mixed Fruit,B Natural,195.0,165.75,29.25,15.0,3x300 ml - Multipack,3*300 ml ,900 ml,900.0,0.18416666666666667
+359,359,"Instant Spiced Tea Mix - Rich Flavour & Aroma, Add Hot Water",Red Label,480.0,408.0,72.0,15.0,390 g - (30 Sachets x 13 g each),390 g ,390 g ,390.0,1.0461538461538462
+360,360,"Juice - Tomato, Rich In Vitamin C",Real,250.0,207.76,42.24000000000001,16.9,2 x 1 L - Multipack,2*1 L ,2 L,2000.0,0.10388
+361,361,Syrup - Peach Tea,Monin,955.0,955.0,0.0,0.0,700 ml - Bottle,700 ml ,700 ml ,700.0,1.3642857142857143
+362,362,Cranberry Flavoured Cooler - Ready To Serve Beverage,B Natural,130.0,117.0,13.0,10.0,1 L ,1 L ,1 L ,1000.0,0.117
+363,363,"Street Chai Of India - Kolkata Street Chai, Tasting Notes Of Nutmeg, Cardamom & Ginger",Tata Tea Premium,145.0,116.0,29.0,20.0,250 g ,250 g ,250 g ,250.0,0.464
+364,364,"Original Ginger Ale - Naturally Light , Botanical Mixer",Sepoy & Co.,190.0,190.0,0.0,0.0,2x200 ml - Multipack,2*200 ml ,400 ml,400.0,0.475
+365,365,"Ojasvita Chocolate Powder, 1Kg - Drink Mix for Sharp Mind & Healthy Body",Sri Sri Tattva,580.0,580.0,0.0,0.0,1 kg - Tin,1 kg ,1 kg ,1000.0,0.58
+366,366,"Spiced Grapefruit Tonic Water - Natural Quinine,  Balanced Botanical Mixer, Low Calories",Sepoy & Co.,95.0,95.0,0.0,0.0,200 ml ,200 ml ,200 ml ,200.0,0.475
+367,367,Tulsi Tea - Sweet Lemon,Organic India,194.0,186.24,7.759999999999991,4.0,45 g - (25 Bags x 1.8 g each),45 g ,45 g ,45.0,4.1386666666666665
+368,368,Non-Alcoholic Beer,Budweiser 0.0,540.0,540.0,0.0,0.0,6 x 330 ml - Multipack,6*330 ml ,1980 ml,1980.0,0.2727272727272727
+369,369,"Apple Carrot Beetroot Juice - Cold-Pressed, No Added Sugar, Preservative Free",Fresho Signature,450.0,342.72,107.27999999999997,23.84,3x250 ml - Multipack,3*250 ml ,750 ml,750.0,0.45696000000000003
+370,370,Club Soda - From The Makers Of Bailley,Bombay 99,40.0,40.0,0.0,0.0,250 ml - Can,250 ml ,250 ml ,250.0,0.16
+371,371,"Coffee - Insta Strong, Coffee Blended with Chicory",Narasus,251.0,251.0,0.0,0.0,100 g - Bottle,100 g ,100 g ,100.0,2.51
+372,372,"Filter Coffee - Special Ghee Roasted With 30% Chicory Blend, Refreshing, Aromatic",Fresh Coffee ToDay,175.0,157.5,17.5,10.0,250 g - Pouch,250 g ,250 g ,250.0,0.63
+373,373,Non Alcoholic Green Apple Beer - Refreshing Flavour,Budweiser 0.0,90.0,90.0,0.0,0.0,330 ml - Can,330 ml ,330 ml ,330.0,0.2727272727272727
+374,374,Bombay Cutting Chai Premium Chai Tea,TGL Co.,599.0,539.1,59.89999999999998,10.0,200 g - Pouch,200 g ,200 g ,200.0,2.6955
+375,375,Green Tea Light & Delightful,Emperia,170.0,170.0,0.0,0.0,32.5 g - (25 Bags x 1.3 g Each),32.5 g ,32.5 g ,32.5,5.230769230769231
+376,376,Classic Instant Coffee Pouch,LEVISTA,1360.0,816.0,544.0,40.0,2x100 g - Multipack,2*100 g ,200 g,200.0,4.08
+377,377,Green Tea - Tulsi Natura,Lipton,340.0,312.8,27.19999999999999,8.0,2x25 pcs - Multipack,2*25 pcs ,50 pcs,50.0,6.256
+378,378,"Iced Tea - Peach, Refreshing & Flavourful, Instant Drink",Blue Bird,150.0,135.0,15.0,10.0,400 g ,400 g ,400 g ,400.0,0.3375
+379,379,"Deccan Gold - Premium Filter Coffee, 80:20 Blend",PRISTINE,285.0,285.0,0.0,0.0,500 g ,500 g ,500 g ,500.0,0.57
+380,380,"Vedic Suraksha Green Tea - Immunity Booster, With The Goodness Of 5 Ayurvedic Herbs",Dabur,679.0,516.04,162.96000000000004,24.0,150 g - (100 Bags x 1.5 g each),150 g ,150 g ,150.0,3.4402666666666666
+381,381,Syrup - Blue Curacao,Monin,955.0,955.0,0.0,0.0,700 ml - Bottle,700 ml ,700 ml ,700.0,1.3642857142857143
+382,382,English Breakfast Tea,Twinings,899.0,899.0,0.0,0.0,200 g - (100 Bags x 2 g each),200 g ,200 g ,200.0,4.495
+383,383,"Non-Alcoholic Beer Bottle - Malt Beverage, Pomegranate Flavour",Barbican ,120.0,102.0,18.0,15.0,330 ml ,330 ml ,330 ml ,330.0,0.3090909090909091
+384,384,Fruit Juice - Masala Guava,Real,280.0,137.2,142.8,51.0,2 x 1 L - Multipack,2*1 L ,2 L,2000.0,0.0686
+385,385,Instant Coffee - Extra Strong,Narasus,880.0,880.0,0.0,0.0,1 Kg ,1 Kg ,1 Kg ,1000.0,0.88
+386,386,Neem Juice,Kapiva,349.0,300.14,48.860000000000014,14.0,1 L ,1 L ,1 L ,1000.0,0.30013999999999996
+387,387,Sharbat-E-Azam,Dabur,170.0,161.5,8.5,5.0,750 ml ,750 ml ,750 ml ,750.0,0.21533333333333332
+388,388,Non Alcoholic Wine White,Carl Jung,650.0,650.0,0.0,0.0,700 ml ,700 ml ,700 ml ,700.0,0.9285714285714286
+389,389,Gooseberry Unjunked Energy Drink,Open Secret,20.0,20.0,0.0,0.0,250 ml - Bottle,250 ml ,250 ml ,250.0,0.08
+390,390,"Swing Juicer Drink - Lush Lychee, Thick & Flavourful, Ready To Serve",Paperboat Swing,20.0,20.0,0.0,0.0,250 ml - Pouch,250 ml ,250 ml ,250.0,0.08
+391,391,Vegan Protein Powder For Men & Women - Kesar Badam Flavour,Auric,960.0,566.4,393.6,41.0,36 g - (8 Sachets),36 g ,36 g ,36.0,15.733333333333333
+392,392,Mixed Fruit Cold Pressed Juice - 100% Natural,Raw Pressery,500.0,465.0,35.0,7.0,2x1 L - Multipack,2*1 L ,2 L,2000.0,0.2325
+393,393,Syrup - Green Apple,Monin,695.0,695.0,0.0,0.0,700 ml - Bottle,700 ml ,700 ml ,700.0,0.9928571428571429
+394,394,Sicilian Lemon & Lime Kombucha - Probiotic,Borecha,160.0,160.0,0.0,0.0,330 ml ,330 ml ,330 ml ,330.0,0.48484848484848486
+395,395,Ultra Energy Drink - Zero Sugar,Monster,125.0,125.0,0.0,0.0,350 ml ,350 ml ,350 ml ,350.0,0.35714285714285715
+396,396,Pomegranate Mint Kombucha,Dad's Hack,1194.0,1014.9,179.10000000000002,15.0,330mlx6 - Multipack,330ml*6 ,330ml*6 ,330.0,3.075454545454545
+397,397,"Organic Tulsi Green Tea - Jasmine, Stress Relieving",Organic India,215.0,206.4,8.599999999999994,4.0,45 g - (25 Bags x 1.8 g each),45 g ,45 g ,45.0,4.586666666666667
+398,398,Clear & Light Green Tea,Lipton,625.0,562.5,62.5,10.0,1.3 g - (100 Bags x 1.3 g Each),1.3 g ,1.3 g ,1.3,432.6923076923077
+399,399,Aloe Vera Juice,Kapiva,598.0,538.2,59.799999999999955,10.0,2x1 L - Multipack,2*1 L ,2 L,2000.0,0.2691
+400,400,Hot Brew Coffee - Original (20 Bags x 15 g each),Sleepy Owl,700.0,700.0,0.0,0.0,300 g - Multipack,300 g ,300 g ,300.0,2.3333333333333335
+401,401,Royal Cup Tea,Girnar,290.0,290.0,0.0,0.0,500 g ,500 g ,500 g ,500.0,0.58
+402,402,Coconut Water,Mojoco,900.0,900.0,0.0,0.0,6 x 1 L - Multipack,6*1 L ,6 L,6000.0,0.15
+403,403,"Mama Health & Nutritional Drink Mix - For Pregnant & Breastfeeding Mothers, Chocolate Flavour",Protinex ,610.0,550.0,60.0,9.84,400 g - Jar,400 g ,400 g ,400.0,1.375
+404,404,Fruit Power Juice - Peach,Real,220.0,202.0,18.0,8.18,2x1 L - Multipack,2*1 L ,2 L,2000.0,0.101
+405,405,Sri Sri Tattva - Health Drink -  Ojasvita Strawberry PETjar,Sri Sri Tattva,505.0,505.0,0.0,0.0,1 kg - Tin,1 kg ,1 kg ,1000.0,0.505
+406,406,Syrup - Triple Sec,Monin,955.0,955.0,0.0,0.0,700 ml - Bottle,700 ml ,700 ml ,700.0,1.3642857142857143
+407,407,"100% Fruit Juice - Pomegranate/Anar, Rich In Vitamin C, No Added Sugar & No Preservatives",Storia,170.0,120.7,49.3,29.0,750 ml - Pet Bottle,750 ml ,750 ml ,750.0,0.16093333333333334
+408,408,"Black Alkaline Drinking - Hydrating, Rich In Essential Minerals",evocus,60.0,60.0,0.0,0.0,250 ml ,250 ml ,250 ml ,250.0,0.24
+409,409,Water-based Electrolyte Drink,Alkalen,60.0,60.0,0.0,0.0,1000 ml ,1000 ml ,1000 ml ,1000.0,0.06
+410,410,Green Tea & Mint,Twinings,314.0,314.0,0.0,0.0,50 g - (25 Bags x 2 g each),50 g ,50 g ,50.0,6.28
+411,411,"Organic Green Tea - Sunny Lemony, Grown In Nilgiris, Zero Calories, Rich In Antioxidants, Rich In Vitamin C",Eco Valley ,185.0,165.0,20.0,10.81,42.5 g - (25 Bags x 1.7 g),42.5 g ,42.5 g ,42.5,3.8823529411764706
+412,412,Syrup - Strawberry,Hersheys ,480.0,456.0,24.0,5.0,2x623 g - Multipack,2*623 g ,1246 g,1246.0,0.36597110754414125
+413,413,Non Alcoholic Beer - Strawberry,Coolberg,474.0,411.0,63.0,13.29,6x330 ml - Multipack,6*330 ml ,1980 ml,1980.0,0.20757575757575758
+414,414,Rooibos Herbal Tea - Helps To Detox The System,Teamonk,750.0,750.0,0.0,0.0,2 g - (50 Bags x 2 g Each),2 g ,2 g ,2.0,375.0
+415,415,10% Extra Strong Leaves - Special Blend Black Tea,Tata Tea Agni,335.0,335.0,0.0,0.0,1.5 kg - Pouch,1.5 kg ,1.5 kg ,1500.0,0.22333333333333333
+416,416,Silver Oak Medium Roast French Press Arabica Ground Coffee,Blue Tokai,470.0,470.0,0.0,0.0,250 g ,250 g ,250 g ,250.0,1.88
+417,417,Cold Extracted Juice - Grapefruit,Raw Pressery,1000.0,900.0,100.0,10.0,2x1 L - Multipack,2*1 L ,2 L,2000.0,0.45
+418,418,Classic Cold Coffee - Liquid Concentrate,Tata Coffee,500.0,380.0,120.0,24.0,400 ml - (20 Sachets x 20 ml),400 ml ,400 ml ,400.0,0.95
+419,419,Premium Tea - Strong Flavour With Long Lasting Taste,Tata Tea Chakra Gold,730.0,620.5,109.5,15.0,1 kg - Pouch,1 kg ,1 kg ,1000.0,0.6205
+420,420,Sukku Coffee,Narasus,92.0,92.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.46
+421,421,Green Tea - Honey Lemon,WaghBakri,150.0,114.0,36.0,24.0,37.5 g - (25 Bags x 1.5 g each),37.5 g ,37.5 g ,37.5,3.04
+422,422,Aloe Vera Triphala Juice,Sri Sri Tattva,170.0,170.0,0.0,0.0,500 ml ,500 ml ,500 ml ,500.0,0.34
+423,423,First Flush Darjeeling Black Tea - With Intense Fruity Flavour,Dorje,999.0,499.5,499.5,50.0,250 g ,250 g ,250 g ,250.0,1.998
+424,424,FRUTORS - Orange,Real,42.0,39.9,2.1000000000000014,5.0,200 ml ,200 ml ,200 ml ,200.0,0.19949999999999998
+425,425,Assam Dust Tea,Tata Tea Agni,260.0,260.0,0.0,0.0,1 kg ,1 kg ,1 kg ,1000.0,0.26
+426,426,Organic Tea,Phalada Pure & Sure,215.0,215.0,0.0,0.0,250 g ,250 g ,250 g ,250.0,0.86
+427,427,Spiced Tea,WaghBakri,300.0,300.0,0.0,0.0,500 g ,500 g ,500 g ,500.0,0.6
+428,428,Chamomile Mint Citrus Green Tea - Rich In Antioxidants & Helps Boost Immunity,Vahdam ,600.0,420.0,180.0,30.0,2 g - (50 Bags x 2g Each),2 g ,2 g ,2.0,210.0
+429,429,Non Alcoholic Beer - Ginger,Coolberg,534.0,465.0,69.0,12.92,6x330 ml - Multipack,6*330 ml ,1980 ml,1980.0,0.23484848484848486
+430,430,Hibiscus Lime Kombucha,Bombucha,260.0,260.0,0.0,0.0,500 ml - Bottle,500 ml ,500 ml ,500.0,0.52
+431,431,Syrup - Grenadine,Monin,895.0,895.0,0.0,0.0,700 ml - Bottle,700 ml ,700 ml ,700.0,1.2785714285714285
+432,432,Tea - Fresh Lemon,Taj Mahal,160.0,160.0,0.0,0.0,50 g - (25 Bags x 2 g each),50 g ,50 g ,50.0,3.2
+433,433,Infusion Tea - Tulsi Mulethi,Organic India,195.0,187.2,7.800000000000011,4.0,45 g - (25 Bags x 1.8 g each),45 g ,45 g ,45.0,4.16
+434,434,Detox Green Tea With Moroccan Mint & Tulsi,Roshi,220.0,187.0,33.0,15.0,42.5 g - (25 Bags x 1.7 g Each),42.5 g ,42.5 g ,42.5,4.4
+435,435,Tulsi  Green Tea - Classic,Organic India,265.0,254.4,10.599999999999994,4.0,100 g ,100 g ,100 g ,100.0,2.544
+436,436,Orange Juice With Aloe Vera,Alo Frut,120.0,120.0,0.0,0.0,1 L ,1 L ,1 L ,1000.0,0.12
+437,437,Lactogrow Nutritious Milk Drink For Growing Children - Immunity System Functioning & Growth,Nestle ,390.0,390.0,0.0,0.0,400 g - Bag-In-Box,400 g ,400 g ,400.0,0.975
+438,438,South Indian Filter Blend - Medium Dark Roast Ground,Blue Tokai,440.0,440.0,0.0,0.0,250 g ,250 g ,250 g ,250.0,1.76
+439,439,High Protein Health Drink Vanilla,Ensure,880.0,880.0,0.0,0.0,400 g - Box,400 g ,400 g ,400.0,2.2
+440,440,Instant Coffee - Strong,Continental,825.0,783.75,41.25,5.0,1 Kg - Pouch,1 Kg ,1 Kg ,1000.0,0.78375
+441,441,"Premium Sparkling Mixer - Mint Mojito, Carbonated Water",Schweppes,300.0,240.0,60.0,20.0,4x300 ml - Multipack,4*300 ml ,1200 ml,1200.0,0.2
+442,442,Syrup - Peach Tea with Natural Tea Extracts,Monin,395.0,395.0,0.0,0.0,250 ml - Bottle,250 ml ,250 ml ,250.0,1.58
+443,443,"Organic Tulsi Green Tea - Pomegranate, Stress Relieving",Organic India,215.0,206.4,8.599999999999994,4.0,50 g - (25 Bags x 2 g each),50 g ,50 g ,50.0,4.128
+444,444,Drink - Energy,Monster,1500.0,1500.0,0.0,0.0,12x350 ml - Multipack,12*350 ml ,4200 ml,4200.0,0.35714285714285715
+445,445,"Mint Tonic Water - Natural Quinine, Balanced Botanical Mixer, Low Calories",Sepoy & Co.,190.0,190.0,0.0,0.0,2x200 ml - Multipack,2*200 ml ,400 ml,400.0,0.475
+446,446,Kiwi Juice With Aloe Vera,Alo Frut,240.0,240.0,0.0,0.0,2 x 1 L - (Multipack),2*1 L ,2 L,2000.0,0.12
+447,447,"Coffee - Dhivyam Premium, Coarse Ground Filter Coffee",Narasus,264.0,264.0,0.0,0.0,500 g - Pouch,500 g ,500 g ,500.0,0.528
+448,448,"Earthy Hazelnut Bold Instant Coffee - Arabica & Robusta Blend, Strong & Smooth",Country Bean,325.0,325.0,0.0,0.0,50 g - Bottle,50 g ,50 g ,50.0,6.5
+449,449,Swing Juicier Drink - Yummy Guava,Paper Boat,60.0,60.0,0.0,0.0,6x125 ml - Multipack,6*125 ml ,750 ml,750.0,0.08
+450,450,"Wine - Red, De-Alcoholised, Selection",Carl Jung,650.0,650.0,0.0,0.0,750 ml ,750 ml ,750 ml ,750.0,0.8666666666666667
+451,451,Filter Coffee - 80:20 Blend,Vs Mani & Co.,160.0,144.0,16.0,10.0,200 g ,200 g ,200 g ,200.0,0.72
+452,452,Amla Juice - No Added Sugar,Sri Sri Tattva,260.0,260.0,0.0,0.0,1 L ,1 L ,1 L ,1000.0,0.26
+453,453,"Coffee - Chikamagalur Aroma Ribbon Filter Coffee, Using 100% German Machinery to Roast & Grind",Riseup,141.0,141.0,0.0,0.0,250 g ,250 g ,250 g ,250.0,0.564
+454,454,Tulsi Cinnamon Giloy Tea - Stress Relieving & Immunity Enhancing,Organic India,195.0,187.2,7.800000000000011,4.0,80 g - (25 Teabags x 2g each),80 g ,80 g ,80.0,2.34
+455,455,"Organic Health Mix - Rich In Iron, Fibre, Protein, No Sugar, For Kids & Adults",TummyFriendly Foods,499.0,499.0,0.0,0.0,800 g ,800 g ,800 g ,800.0,0.62375
+456,456,Wheat Grass Juice - Daily Fitness Essential,Sri Sri Tattva,320.0,320.0,0.0,0.0,1 L ,1 L ,1 L ,1000.0,0.32
+457,457,Green Tea - Lemon Zest,Lipton,340.0,340.0,0.0,0.0,2x25 pcs - Multipack,2*25 pcs ,50 pcs,50.0,6.8
+458,458,"Go Grains Multigrain Instant Drink Mix - For Growth & Immunity, Chocolate Flavour",Manna,349.0,244.3,104.69999999999999,30.0,400 g ,400 g ,400 g ,400.0,0.61075
+459,459,Green Tea - Honey Lemon,Lipton,155.0,155.0,0.0,0.0,100 g ,100 g ,100 g ,100.0,1.55
+460,460,Aloe Vera Juice,Sri Sri Tattva,280.0,280.0,0.0,0.0,1 L ,1 L ,1 L ,1000.0,0.28
+461,461,Morning Motivation Instant Coffee - 100% Arabica Beans,TGL Co.,539.0,495.88,43.120000000000005,8.0,100 g - Bottle,100 g ,100 g ,100.0,4.9588
+462,462,Orange,Fanta,20.0,20.0,0.0,0.0,250 ml - Bottle,250 ml ,250 ml ,250.0,0.08
+463,463,Advanced Nutrition For Diabetes & Pre-Diabetes - Vanilla,Vidavance,780.0,780.0,0.0,0.0,400 g - Jar,400 g ,400 g ,400.0,1.95
+464,464,Non Alcoholic Beer - Mint,Coolberg,594.0,519.0,75.0,12.63,6x330 ml - Multipack,6*330 ml ,1980 ml,1980.0,0.26212121212121214
+465,465,Non Alcoholic Beer - Cranberry,Coolberg,594.0,519.0,75.0,12.63,6x330 ml - Multipack,6*330 ml ,1980 ml,1980.0,0.26212121212121214
+466,466,Easy Pour Coffee Brew Bags Mixed Bag Light To Dark Roast,Blue Tokai,400.0,400.0,0.0,0.0,110 g - (10 Sachets x 11 g each),110 g ,110 g ,110.0,3.6363636363636362
+467,467,Breakfast Fusion -  Blend of Arabica & Robusta Coffee Beans,TGL Co.,200.0,180.0,20.0,10.0,200 g ,200 g ,200 g ,200.0,0.9
+468,468,"Mixed Veggies Juice - Rich In Calcium & Vitamins, Refreshing Drink",Arka,40.0,40.0,0.0,0.0,200 ml ,200 ml ,200 ml ,200.0,0.2
+469,469,"Renergee Shakti Sugar Free Instant Millet Nutrimix - Gluten Free, Provides Energy",GRAMI SUPERFOODS,25.0,25.0,0.0,0.0,0,0,0,,
+470,470,"Indian Tonic Water -  Natural Quinine, Balanced Botanical Mixer, Low Calories",Sepoy & Co.,95.0,95.0,0.0,0.0,200 ml ,200 ml ,200 ml ,200.0,0.475
+471,471,"Golden Matcha Tea - Gourmet Green Tea, Antioxidant Rich",Sprig,499.0,499.0,0.0,0.0,50 g ,50 g ,50 g ,50.0,9.98
+472,472,Non-Alcoholic Wine - Billabong Red,Patritti,700.0,700.0,0.0,0.0,750 ml - Bottle,750 ml ,750 ml ,750.0,0.9333333333333333
+473,473,Aloe Vera and Garcinia Juice,Kapiva,1198.0,1138.1,59.90000000000009,5.0,2 x 1 L - Multipack,2*1 L ,2 L,2000.0,0.56905
+474,474,"Ginger Mint Herbal Green Tea - Cleans The System, Improves Digestion",Vahdam ,499.0,349.3,149.7,30.0,2 g - (50 Bags x 2 g Each),2 g ,2 g ,2.0,174.65
+475,475,Classic Colada Mocktails - Authentic Rich & Exotic,&Stirred,60.0,60.0,0.0,0.0,250 ml ,250 ml ,250 ml ,250.0,0.24
+476,476,Apple Juice Based Drink,Appy Fizz,35.0,35.0,0.0,0.0,600 ml - Bottle,600 ml ,600 ml ,600.0,0.058333333333333334
+477,477,Ayush Kwath - Immunity Booster,Organic India,184.0,176.64,7.360000000000014,4.0,80 g - (25 Teabags x 3.2g each),80 g ,80 g ,80.0,2.2079999999999997
+478,478,"Organic Japanese Matcha Tea Powder, Ceremonial Grade",TGL Co.,599.0,551.08,47.91999999999996,8.0,25 g - Bottle,25 g ,25 g ,25.0,22.043200000000002
+479,479,Cold Brew Coffee  - Assorted,Sleepy Owl,575.0,575.0,0.0,0.0,250 g - (5 Bags x 50 g each),250 g ,250 g ,250.0,2.3
+480,480,Original Tulsi Tea,Organic India,225.0,216.0,9.0,4.0,100 g ,100 g ,100 g ,100.0,2.16
+481,481,"Autumn Flush Darjeeling Black Tea - With Intense Flavour, Buttery Texture",Dorje,699.0,349.5,349.5,50.0,250 g ,250 g ,250 g ,250.0,1.398
+482,482,Kadak Masala Chai Instant Tea Premix Tea,TGL Co.,399.0,367.08,31.920000000000016,8.0,196 g - (14 Sachets x 14 g each),196 g ,196 g ,196.0,1.8728571428571428
+483,483,Instant Coffee - Speciale,Continental,400.0,400.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,2.0
+484,484,Orange Kombucha - Probiotic,Borecha,160.0,160.0,0.0,0.0,330 ml ,330 ml ,330 ml ,330.0,0.48484848484848486
+485,485,Tea - Camomile,Twinings,335.0,335.0,0.0,0.0,25 g - (25 Bags x 1 g each),25 g ,25 g ,25.0,13.4
+486,486,"Plant Protein Powder - CafÃ© Mocha Flavour, For Women, Gut-Friendly Probiotics",Tata GoFit,3099.0,2324.25,774.75,25.0,1 kg - (40 Serves),1 kg ,1 kg ,1000.0,2.32425
+487,487,Honey Lemon Green Tea Bags,Vahdam ,225.0,202.5,22.5,10.0,30 g - (15 Pyramid Bags x 2 g each),30 g ,30 g ,30.0,6.75
+488,488,"Creamy Vanilla Bold Instant Coffee - 100% Arabica, Rich, Strong & Smooth",Country Bean,325.0,325.0,0.0,0.0,50 g - Bottle,50 g ,50 g ,50.0,6.5
+489,489,"Non Alcoholic Premium Mixer - Long Island Tea, Refreshing Flavour, Taste",Bacardi MIX'R,190.0,161.5,28.5,15.0,500 ml ,500 ml ,500 ml ,500.0,0.323
+490,490,Instant Tea Bag - Premix With Saffron,Girnar,220.0,220.0,0.0,0.0,10 pcs ,10 pcs ,10 pcs ,10.0,22.0
+491,491,Fruit Juice - Aloe Vera Kiwi,Real,240.0,194.0,46.0,19.17,2 x 1 L - (Multipack),2*1 L ,2 L,2000.0,0.097
+492,492,"High Protein Nuts & Turmeric Hearty Milk Mix - No Sugar, With Oats, Organic Jowar, Nut Blend Powder",Timios,400.0,312.0,88.0,22.0,250 g - Box,250 g ,250 g ,250.0,1.248
+493,493,"Instant Coffee Premix - With Chichory - Just Add Hot Water, Ready In 10 Sec",Jawai,399.0,374.0,25.0,6.27,500 g ,500 g ,500 g ,500.0,0.748
+494,494,Black Tea Natural Flavour Rich In Taste,Tata Tea Gold Saffron,200.0,164.0,36.0,18.0,250 g ,250 g ,250 g ,250.0,0.656
+495,495,Earl Grey Tea,Twinings,955.0,955.0,0.0,0.0,200 g - (100 Bags x 2 g each),200 g ,200 g ,200.0,4.775
+496,496,Karela Jamun Juice,Kapiva,798.0,798.0,0.0,0.0,2x 1 L - Multipack,2*1 L ,2 L,2000.0,0.399
+497,497,Kadak Masala Chai Tea Bag,TGL Co.,249.0,229.08,19.919999999999987,8.0,64 g - (16 Bags x 4 g each),64 g ,64 g ,64.0,3.579375
+498,498,"Turmeric Spiced Herbal Tea - Supports Immune Function, Improves Energy",Vahdam ,499.0,349.3,149.7,30.0,2 g - (50 Bags x 2 g Each),2 g ,2 g ,2.0,174.65
+499,499,"Blue Lagoon Iced Tea With Lemongrass, Butterfly Peaflower & Kaffir Lime",Karma Kettle,350.0,350.0,0.0,0.0,40 g - (20 Bags x 2 g each),40 g ,40 g ,40.0,8.75
+500,500,Darjeeling Black Tea Bags,TGL Co.,279.0,256.68,22.319999999999993,8.0,37.5 g - (25 Bags x 1.5 g each),37.5 g ,37.5 g ,37.5,6.8448
+501,501,"Magic Milk Mix - Chocolate Swirl, High In Protein, Fibre & Iron, Sugar-Free",Slurrp Farm,299.0,299.0,0.0,0.0,250 g ,250 g ,250 g ,250.0,1.196
+502,502,"High Protein Berry Full Hearty Milk Mix - No Sugar, With Oats, Organic Jowar, Strawberry Powder",Timios,390.0,304.2,85.80000000000001,22.0,250 g - Box,250 g ,250 g ,250.0,1.2167999999999999
+503,503,"Filter Coffee Bags - Arabica Beans Blend, Antioxidants Rich",Sleepy Owl,350.0,350.0,0.0,0.0,100 g - (Pack of 10),100 g ,100 g ,100.0,3.5
+504,504,"iStrong Women's Health Drink - Fortified With Iron, Caramel Flavour",Manna,249.0,186.75,62.25,25.0,200 g ,200 g ,200 g ,200.0,0.93375
+505,505,Soft Drink,Pepsi,25.0,22.0,3.0,12.0,250 ml - Can,250 ml ,250 ml ,250.0,0.088
+506,506,"Energy Drink - Tropical Flavour, Yellow Edition",RED BULL ,500.0,500.0,0.0,0.0,4x250 ml - Multipack,4*250 ml ,1000 ml,1000.0,0.5
+507,507,Sugar Free Juice - Lemon Squash,Diabetics Dezire,338.0,338.0,0.0,0.0,700 ml ,700 ml ,700 ml ,700.0,0.4828571428571429
+508,508,Tonic Water - From The Makers Of Bailley,Bombay 99,55.0,55.0,0.0,0.0,250 ml - Can,250 ml ,250 ml ,250.0,0.22
+509,509,"Nilgiris Green Tea - Anicca Chamomile, Helps To Feel Relaxed & Calm",Teamonk,750.0,750.0,0.0,0.0,2 g - (50 Bags x 2 g Each),2 g ,2 g ,2.0,375.0
+510,510,"Street Chai Of India - Purani Dilli Ki Mithai Chai, Tasting Notes Of Pista, CardamomÂ & Condensed Milk",Tata Tea Premium,145.0,116.0,29.0,20.0,250 g ,250 g ,250 g ,250.0,0.464
+511,511,Original Chai Tea Powder,Dorje,249.0,186.75,62.25,25.0,250 g ,250 g ,250 g ,250.0,0.747
+512,512,Pomegranate Delight,Tropicana,0.0,0.0,0.0,,500 ml ,500 ml ,500 ml ,500.0,0.0

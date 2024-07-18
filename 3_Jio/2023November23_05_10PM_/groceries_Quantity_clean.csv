@@ -1,0 +1,1007 @@
+Unnamed: 0,Product name,MRP,Selling Price,Tag,PerUnitPrice,Brand,Quantity,Unit,Is Pack of,Discount,Discount Percentage,Price Per Unit(Kg/L)
+0, Priya Fortified With Vitamin A & D Refined Sunflower Oil 1 L ,162.0,99.0,,,PRIYA,1.0,l,False,63.0,38.89,99.0
+1, ORGANIC GREEN MOONG DAL 1KG ,250.0,188.0, sponsored ,,HOUSE OF VEDA,1.0,kg,False,62.0,24.8,188.0
+2, Super Sarvottam Physically Refined Rice Bran Oil 1 L ,199.0,102.0,,,SUPER SARVOTTAM,1.0,l,False,97.0,48.74,102.0
+3, Fortune Sunlite Refined Sunflower Oil 1 L ,140.0,114.0,,,FORTUNE,1.0,l,False,26.0,18.57,114.0
+4, Fortune Refined Soyabean Oil 1 L ,130.0,115.0,,,FORTUNE,1.0,l,False,15.0,11.54,115.0
+5, House of Veda Organic Lobia (Cowpea White) 500g ,117.0,110.0, sponsored ,,HOUSE OF VEDA,500.0,g,False,7.0,5.98,220.0
+6, Tata Iodised Salt 1 kg ,28.0,24.0,,,TATA,1.0,kg,False,4.0,14.29,24.0
+7, Fortune Premium Kachi Ghani Pure Mustard Oil 1 L ,185.0,146.0,,,FORTUNE,1.0,l,False,39.0,21.08,146.0
+8, Chakki Atta 10 kg ,425.0,359.0,,( 35.90/1 kg),PRIVATE LABEL,10.0,kg,False,66.0,15.53,35.9
+9, Tur / Arhar Dal 2 kg ,450.0,355.0,,,PRIVATE LABEL,2.0,kg,False,95.0,21.11,177.5
+10, Good Life Pure Crystal Sugar (M) 5 kg ,275.0,229.0,,,GOOD LIFE,5.0,kg,False,46.0,16.73,45.8
+11, Nutri Binge 200g California Pistachios ,385.0,290.0, sponsored ,,NUTRI BINGE,200.0,g,False,95.0,24.68,1450.0
+12, Good Life Almonds 500 g ,549.0,349.0,,,GOOD LIFE,500.0,g,False,200.0,36.43,698.0
+13, Fortune Premium Kachi Ghani Pure Mustard Oil 1 L (Pouch) ,180.0,145.0,,,FORTUNE,1.0,l,False,35.0,19.44,145.0
+14, Chakki Atta 5 kg ,250.0,185.0,,( 37.00/1 kg),PRIVATE LABEL,5.0,kg,False,65.0,26.0,37.0
+15, Brill 1Kg Premium Whole Cashews (500g x 2pack) ,1840.0,735.0,,,BRILL,1.0,kg,False,1105.0,60.05,735.0
+16, Gemini Refined Sunflower Oil 1 L ,179.0,115.0,,,GEMINI,1.0,l,False,64.0,35.75,115.0
+17, SHREE KALPADRUMA ghee Natural A2 Desi Cow Ghee 5 LTR|Pure Cow Ghee for Better Digestion and Immunity|100% natural and premium quality ,4200.0,2310.0, sponsored ,,SHREE KALPADRUMA,2.0,desi,False,1890.0,45.0,
+18, Nutri Binge 500g California Almonds Vitals ,660.0,369.0,,,NUTRI BINGE,500.0,g,False,291.0,44.09,738.0
+19, Good Life (W320) Cashews 500 g ,499.0,399.0,,,GOOD LIFE,500.0,g,False,100.0,20.04,798.0
+20, Amul Pure Ghee 1 L (Pouch) ,635.0,585.0,,,AMUL,1.0,l,False,50.0,7.87,585.0
+21, DAIRY SAGAR GOPAL Pure Desi Cow Ghee Pure Cow Ghee for Better Digestion and Immunity 1 ltr jar-1 ,680.0,398.0,,,DAIRYSAGAR,1.0,ltr,False,282.0,41.47,398.0
+22, Sugar (M) 2 kg ,100.0,90.0,,,LOOSE,2.0,kg,False,10.0,10.0,45.0
+23," House of Veda Organic Tur (Arhar) Dal - 1kg Pack, Certified Organic | Rich in Protein & Iron | Zero Chemicals, Preservative Free ",275.0,261.0, sponsored ,,HOUSE OF VEDA,1.0,kg,False,14.0,5.09,261.0
+24, Good Life Kachi Ghani Mustard Oil 1 L (Pouch) ,170.0,125.0,,,GOOD LIFE,1.0,l,False,45.0,26.47,125.0
+25, Aashirvaad Superior MP Whole Wheat Atta 10 kg ,568.0,479.0,,( 47.90/1 kg),AASHIRVAAD,10.0,kg,False,89.0,15.67,47.9
+26, Suji / Rawa 1 kg ,106.0,45.0,,,PRIVATE LABEL,1.0,kg,False,61.0,57.55,45.0
+27, Good Life Jeera 100 g ,150.0,89.0,,( 44.50/50 g),GOOD LIFE,100.0,g,False,61.0,40.67,890.0
+28, Good Life Raw Peanuts 500 g ,120.0,101.0,,,GOOD LIFE,500.0,g,False,19.0,15.83,202.0
+29, House of Veda ORGANIC KABULI CHANA 1Kg ,290.0,203.0, sponsored ,,HOUSE OF VEDA,1.0,kg,False,87.0,30.0,203.0
+30, Parry's White Label Sulphur Free Sugar 5 kg ,300.0,229.0,,,PARRY'S,5.0,kg,False,71.0,23.67,45.8
+31, Nutri Binge 500g Whole Cashews ,749.0,379.0,,,NUTRI BINGE,500.0,g,False,370.0,49.4,758.0
+32, Good Life Sugar (M) 1 kg ,55.0,50.0,,,GOOD LIFE,1.0,kg,False,5.0,9.09,50.0
+33, Good Life Yellow Kishmish 500 g ,183.0,129.0,,,GOOD LIFE,500.0,g,False,54.0,29.51,258.0
+34, Coreganic 1kg 100% Natural International Premium Whole Cashews ,1799.0,719.0,,,COREGANIC,1.0,kg,False,1080.0,60.03,719.0
+35, SHREE KALPADRUMA ghee Natural A2 Desi Cow Ghee 1000ML|Pure Cow Ghee for Better Digestion and Immunity|100% natural and premium quality ,799.0,599.0, sponsored ,,SHREE KALPADRUMA,2.0,desi,False,200.0,25.03,
+36, Suji / Rawa 500 g ,53.0,25.0,,,PRIVATE LABEL,500.0,g,False,28.0,52.83,50.0
+37, Nutri Binge 1kg Vitals California Almonds ,1320.0,699.0,,,NUTRI BINGE,1.0,kg,False,621.0,47.05,699.0
+38, Dhara Kachi Ghani Mustard Oil 1 L (Pouch) ,160.0,150.0,,,DHARA,1.0,l,False,10.0,6.25,150.0
+39, Aashirvaad Iodized Salt 1 kg ,28.0,14.0,,,AASHIRVAAD,1.0,kg,False,14.0,50.0,14.0
+40, Fortune Rice Bran Health Physically Refined Rice Bran Oil 5 L ,849.0,629.0,,( 125.80/1 l),FORTUNE,5.0,l,False,220.0,25.91,125.8
+41," VEEDINT RED CHILLI POWDER, TIKHA LAL, 500 GRAM PACK ",495.0,220.0, sponsored ,,VEEDINT,500.0,gram,False,275.0,55.56,440.0
+42," Horaira Nutz Dry Fruits Combo Pack 1Kg Cashews 250g , Figs 250g , Raisins 250g , Almond 250g ",1900.0,720.0,,,HORAIRA NUTZ,1.0,kg,False,1180.0,62.11,720.0
+43, Aashirvaad Superior MP Whole Wheat Atta 5 kg ,294.0,245.0,,( 49.00/1 kg),AASHIRVAAD,5.0,kg,False,49.0,16.67,49.0
+44, Gulab Sungold Refined Sunflower Oil 15 L (Tin) ,3563.0,1589.0,,( 105.93/1 l),GULAB,15.0,l,False,1974.0,55.4,105.93
+45, Good Life Kachi Ghani Mustard Oil 1 L (Bottle) ,175.0,127.0,,,GOOD LIFE,1.0,l,False,48.0,27.43,127.0
+46, Karan's Cashew Whole Cashew Nuts 1 Kg ( 500gX2) / Kaju. ,1400.0,669.0,,,KARANâS CASHEW,1.0,kg,False,731.0,52.21,669.0
+47, SHREE KALPADRUMA ghee Natural A2 Desi Cow Ghee 500ML|Pure Cow Ghee for Better Digestion and Immunity|100% natural and premium quality ,459.0,335.0, sponsored ,,SHREE KALPADRUMA,2.0,desi,False,124.0,27.02,
+48, Gowardhan Pure Cow Ghee 1 L (Pouch) ,725.0,635.0,,,GOWARDHAN,1.0,l,False,90.0,12.41,635.0
+49, Aashirvaad Select Sharbati Whole Wheat Atta 5 kg ,331.0,291.0,,( 58.20/1 kg),AASHIRVAAD,5.0,kg,False,40.0,12.08,58.2
+50, Maida 1 kg ,106.0,42.0,,,PRIVATE LABEL,1.0,kg,False,64.0,60.38,42.0
+51, Good Life Free Flow Iodised Salt 1 kg ,28.0,15.0,,,GOOD LIFE,1.0,kg,False,13.0,46.43,15.0
+52, Good Life Jeera 500 g ,740.0,359.0,,( 35.90/50 g),GOOD LIFE,500.0,g,False,381.0,51.49,718.0
+53, Nutri Binge 1kg Whole Cashews ,1498.0,739.0, sponsored ,,NUTRI BINGE,1.0,kg,False,759.0,50.67,739.0
+54, Patanjali Traditional Chakki Whole Wheat With Bran Atta 10 kg ,450.0,365.0,,( 36.50/1 kg),PATANJALI,10.0,kg,False,85.0,18.89,36.5
+55, Nutri Binge 500g Premium California Almonds ,670.0,429.0,,,NUTRI BINGE,500.0,g,False,241.0,35.97,858.0
+56," GreenFinity Mix Dry Fruits and Nuts, 1kg [Almonds, Walnuts, Cashew, Pumpkin, Cranberry, Black Raisin & Many More] Healthy Gift Hamper for Every Occasion Fresh and Healthy Dry Fruits, Seeds & Nuts. ",1299.0,599.0,,,GREENFINITY,1.0,kg,False,700.0,53.89,599.0
+57, Gemini Refined Sunflower Oil 15 L ,2650.0,1625.0,,( 108.33/1 l),GEMINI,15.0,l,False,1025.0,38.68,108.33
+58, Patanjali Kachi Ghani Mustard Oil 1 L (Bottle) ,145.0,135.0,,,PATANJALI,1.0,l,False,10.0,6.9,135.0
+59, Good Life Value Almond 500 g ,525.0,315.0,,,GOOD LIFE,500.0,g,False,210.0,40.0,630.0
+60, Dhara Kachi Ghani Mustard Oil 1 L (Bottle) ,180.0,152.0,,,DHARA,1.0,l,False,28.0,15.56,152.0
+61, Good Life Tur Dal 1 kg ,266.0,211.0,,,GOOD LIFE,1.0,kg,False,55.0,20.68,211.0
+62, Sunday Refined Sunflower Oil 1 L ,189.0,109.0,,,SUNDAY,1.0,l,False,80.0,42.33,109.0
+63, India Gate Mini Mogra-II Basmati Rice 10 kg ,496.0,429.0,,( 42.90/1 kg),INDIA GATE,10.0,kg,False,67.0,13.51,42.9
+64, Tata Sampann White Poha 500 g ,53.0,35.0,,,TATA SAMPANN,500.0,g,False,18.0,33.96,70.0
+65, Anjeer 100% Natural Anjeer (Dry Figs) 500g ,899.0,399.0,,,ANJANI,500.0,g,False,500.0,55.62,798.0
+66, Gowardhan Pure Cow Ghee 1 L (Jar) ,749.0,665.0,,,GOWARDHAN,1.0,l,False,84.0,11.21,665.0
+67, Gowardhan Cow Ghee 1 L (Pack of 2) Pouch With Lock & Seal Container ,1450.0,1249.0,,,GOWARDHAN,1.0,l,True,201.0,13.86,1249.0
+68, Happilo 1kg Popular Almond California ,1250.0,799.0,,,HAPPILO,1.0,kg,False,451.0,36.08,799.0
+69, Good Life Thick Poha / Aval 1 kg ,75.0,63.0,,,GOOD LIFE,1.0,kg,False,12.0,16.0,63.0
+70, Daawat Rozana Super Basmati Rice 1 kg ,98.0,75.0,,,DAAWAT,1.0,kg,False,23.0,23.47,75.0
+71, Aashirvaad Multigrain Atta 5 kg ,359.0,309.0,,( 61.80/1 kg),AASHIRVAAD,5.0,kg,False,50.0,13.93,61.8
+72, RUNUTZ 500g Cashew Nuts (250g X 2) ,590.0,395.0,,,RUNUTZ,500.0,g,False,195.0,33.05,790.0
+73, Saffola Gold Rice Bran Based Blended Oil 3 L ,690.0,399.0,,( 133.00/1 l),SAFFOLA,3.0,l,False,291.0,42.17,133.0
+74, Fortune Physically Refined Rice Bran Oil 1 L (Pouch) ,165.0,127.0,,,FORTUNE,1.0,l,False,38.0,23.03,127.0
+75, Besan 500 g ,95.0,45.0,,,PRIVATE LABEL,500.0,g,False,50.0,52.63,90.0
+76," Horaira Nutz Natural & Fresh Figs , Anjeer 1kg ( 500g x 2 ) ",1498.0,649.0,,,HORAIRA NUTZ,1.0,kg,False,849.0,56.68,649.0
+77, Gulab Gold Filtered Groundnut Oil 5 L ,1347.0,999.0,,( 199.80/1 l),GULAB,5.0,l,False,348.0,25.84,199.8
+78, Safola Gold Multisource Blended Refined Edible Oil 5 L (Can) + 1 L Free (Pouch) ,945.0,855.0,,( 142.50/1 l),SAFFOLA,5.0,l,False,90.0,9.52,171.0
+79, Moong Dal 2 kg ,340.0,233.0,,,PRIVATE LABEL,2.0,kg,False,107.0,31.47,116.5
+80, Fortune Chakki Fresh Atta 5 kg ,245.0,199.0,,( 39.80/1 kg),FORTUNE,5.0,kg,False,46.0,18.78,39.8
+81, Navjeevan 500g Green Cardamom | Green Elaichi ,2150.0,849.0,,( 169.80/100 g),NAVJEEVAN,500.0,g,False,1301.0,60.51,1698.0
+82, Good Life MP Wheat Chakki Atta 1 kg ,50.0,43.0,,,GOOD LIFE,1.0,kg,False,7.0,14.0,43.0
+83, Fortune Superfine Besan 500 g ,80.0,53.0,,,FORTUNE,500.0,g,False,27.0,33.75,106.0
+84, Good Life Jeera 200 g ,305.0,175.0,,( 43.75/50 g),GOOD LIFE,200.0,g,False,130.0,42.62,875.0
+85, Good Life Kabuli Chana 500 g ,134.0,111.0,,,GOOD LIFE,500.0,g,False,23.0,17.16,222.0
+86, Chana Dal 2 kg ,240.0,172.0,,,PRIVATE LABEL,2.0,kg,False,68.0,28.33,86.0
+87, Maida 500 g ,53.0,25.0,,,PRIVATE LABEL,500.0,g,False,28.0,52.83,50.0
+88, Good Life Moong Dal 500 g ,96.0,73.0,,,GOOD LIFE,500.0,g,False,23.0,23.96,146.0
+89, Besan 1 kg ,190.0,90.0,,,PRIVATE LABEL,1.0,kg,False,100.0,52.63,90.0
+90, Gulab Gold Filtered Groundnut Oil 1 L ,264.0,195.0,,,GULAB,1.0,l,False,69.0,26.14,195.0
+91, Fortune Sunlite Refined Sunflower Oil 15 L (Can) ,2150.0,1675.0,,( 111.67/1 l),FORTUNE,15.0,l,False,475.0,22.09,111.67
+92, Daawat Rozana Super Basmati Rice 5 kg ,486.0,359.0,,,DAAWAT,5.0,kg,False,127.0,26.13,71.8
+93, Good Life Chana Dal 500 g ,70.0,52.0,,,GOOD LIFE,500.0,g,False,18.0,25.71,104.0
+94, Anjani Anjeer 100% Natural Dry Figs/Anjeer 1 kg ,1599.0,749.0,,,ANJANI,1.0,kg,False,850.0,53.16,749.0
+95, Daawat Sonamasoori Rice 10 kg ,816.0,605.0,,( 60.50/1 kg),DAAWAT,10.0,kg,False,211.0,25.86,60.5
+96, Dhara Nourish Vit A E Refined Sunflower Oil 1 L ,150.0,112.0,,,DHARA,1.0,l,False,38.0,25.33,112.0
+97, Fortune Rozana Dubar Basmati Rice 5 kg ,585.0,429.0,,,FORTUNE,5.0,kg,False,156.0,26.67,85.8
+98, Sunrich Refined Sunflower Oil 899 g ,152.0,102.0,,,SUNRICH,899.0,g,False,50.0,32.89,113.46
+99, Nestle EveryDay Ghee 1 L (Carton) ,630.0,579.0,,,NESTLE,1.0,l,False,51.0,8.1,579.0
+100, Good Life Whole Moong 500 g ,95.0,72.0,,,GOOD LIFE,500.0,g,False,23.0,24.21,144.0
+101, Daawat Rozana Gold Basmati Rice 5 kg ,560.0,395.0,,,DAAWAT,5.0,kg,False,165.0,29.46,79.0
+102, 41 foods Almonds Pistachios Cashews Raisins Walnuts Combo Pack | Kaju Pista Badam Akhrot Kishmish (150GM x 5) 750 GM ,2099.0,573.0,,,41 FOODS,41.0,foods,False,1526.0,72.7,
+103, Fortune Suji / Semolina 500 g ,39.0,26.0,,,FORTUNE,500.0,g,False,13.0,33.33,52.0
+104, Freshtige 100% Natural and Premium Healthy Mix Dry Fruits 1kg(500gms*2)|Fresh and Healthy Dry Fruits ,1499.0,599.0,,,FRESHTIGE,1.0,kg,False,900.0,60.04,599.0
+105, Amul Pure Ghee 1 L (Tin) ,650.0,615.0,,,AMUL,1.0,l,False,35.0,5.38,615.0
+106, Good Life Big Mustard 100 g ,25.0,15.0,,( 7.50/50 g),GOOD LIFE,100.0,g,False,10.0,40.0,150.0
+107," Farmley Handpicked Gold Makhana ( Fox Nuts) , 500g (Pack of 2, Each 250g) ",600.0,499.0,,,FARMLEY,500.0,g,True,101.0,16.83,998.0
+108, Regular Value Pack Plain Cashews 500 g ,500.0,355.0,,,PRIVATE LABEL,500.0,g,False,145.0,29.0,710.0
+109, Nutri Binge 500g Pistachios Roasted & Salted California ,920.0,629.0,,,NUTRI BINGE,500.0,g,False,291.0,31.63,1258.0
+110, Maggi Masala Ae Magic 6 g (Pack of 12) ,60.0,55.0,,,MAGGI,6.0,g,True,5.0,8.33,9166.67
+111, India Gate Mogra Basmati Rice 10 kg ,800.0,655.0,,( 65.50/1 kg),INDIA GATE,10.0,kg,False,145.0,18.12,65.5
+112, Nutraj California Walnuts InShell 1 kg (500gm x 2) ,1098.0,529.0,,( 264.50/500 g),NUTRAJ,1.0,kg,False,569.0,51.82,529.0
+113, Tata Sampann Unpolished Toor / Arhar Dal 500 g ,143.0,132.0,,,TATA SAMPANN,500.0,g,False,11.0,7.69,264.0
+114, Mount 84 Rock Salt 1 kg ,99.0,49.0,,,DR. BRAND,84.0,rock,False,50.0,50.51,
+115, Tata Sampann Unpolished Moong Dal 500 g ,105.0,97.0,,,TATA SAMPANN,500.0,g,False,8.0,7.62,194.0
+116, Gulab Sungold Refined Sunflower Oil 15 L (Jar) ,3589.0,1609.0,,( 107.27/1 l),GULAB,15.0,l,False,1980.0,55.17,107.27
+117, Daawat Devaaya Everyday Rice 5 kg ,600.0,300.0,,,DAAWAT,5.0,kg,False,300.0,50.0,60.0
+118," RED ROSE MINI MONGRA BASMATI RICE, 30 KG ",1699.0,1499.0,,( 49.97/1 kg),RED ROSE,30.0,kg,False,200.0,11.77,49.97
+119, Elina Long Grain Rice 1 kg ,195.0,65.0,,,ELINA,1.0,kg,False,130.0,66.67,65.0
+120, 921 CLASSIC BIRYANI SPECIAL BASMATI RICE 5 KG (Long grain 1121 Rice XXXL) ,925.0,649.0,,( 129.80/1 kg),921,5.0,kg,False,276.0,29.84,129.8
+121, Good Life Masoor Dal 500 g ,69.0,57.0,,,GOOD LIFE,500.0,g,False,12.0,17.39,114.0
+122," Horaira Nutz Premium Dry fruits Combo Pack 500g Almond , Cashews ( Pack of 2 _ Each 250g ) ",999.0,513.0,,,HORAIRA NUTZ,500.0,g,True,486.0,48.65,1026.0
+123, Fortune Rozana Basmati Rice 5 kg Bag + Fortune Rice Bran Health Physically Refined Rice Bran Oil 5 L PET Combo ,1425.0,999.0,,,FORTUNE+FORTUNE,5.0,kg,False,426.0,29.89,199.8
+124, GKD's Premium 2 L Pure Coconut Oil Jar ,760.0,599.0,,,GKD'S PREMIUM,2.0,l,False,161.0,21.18,299.5
+125, Amul Pure Ghee 500 ml (Pouch) ,320.0,299.0,,,AMUL,500.0,ml,False,21.0,6.56,598.0
+126, RUNUTZ 1kg Cashew Nuts (250g X 4) ,1180.0,739.0,,,RUNUTZ,1.0,kg,False,441.0,37.37,739.0
+127, Good Life Roasted Chana Dal / Split Bengal Gram 500 g ,80.0,67.0,,,GOOD LIFE,500.0,g,False,13.0,16.25,134.0
+128, Emami Healthy & Tasty Kachi Ghani Mustard Oil 1 L (Pouch) ,210.0,129.0,,,EMAMI,1.0,l,False,81.0,38.57,129.0
+129, Tata Sampann Unpolished Chilka Moong 500 g ,99.0,92.0,,,TATA SAMPANN,500.0,g,False,7.0,7.07,184.0
+130, Gemini Refined Soyabean Oil 1 L ,140.0,103.0,,,GEMINI,1.0,l,False,37.0,26.43,103.0
+131, Amul Cow Ghee 1 L (Pouch) ,650.0,595.0,,,AMUL,1.0,l,False,55.0,8.46,595.0
+132, Good Life Small Brown Chana 500 g ,69.0,53.0,,,GOOD LIFE,500.0,g,False,16.0,23.19,106.0
+133, Wonderland Foods Premium Raisins 500 g ,300.0,109.0,,,WONDERLAND FOODS,500.0,g,False,191.0,63.67,218.0
+134, Go Crackers 2kg Broken Walnuts Kernels Amber without Shell (250g x 8) ,2360.0,857.0,,,GO,2.0,kg,False,1503.0,63.69,428.5
+135, Mother Dairy Cow Ghee 1 L (Pouch) ,685.0,575.0,,,MOTHER DAIRY,1.0,l,False,110.0,16.06,575.0
+136, Good Life Moong Dal 1 kg ,189.0,145.0,,,GOOD LIFE,1.0,kg,False,44.0,23.28,145.0
+137, Fortune Everyday Full Grain Basmati Rice 1 kg ,169.0,99.0,,,FORTUNE,1.0,kg,False,70.0,41.42,99.0
+138, Good Life Green Kishmish 500 g ,183.0,129.0,,,GOOD LIFE,500.0,g,False,54.0,29.51,258.0
+139, Open Secret Kimia Dates 800g Premium Khajur ,500.0,281.0,,,OPEN SECRET,800.0,g,False,219.0,43.8,351.25
+140, Tata Sampann Unpolished Moong Dal 1 kg ,209.0,194.0,,,TATA SAMPANN,1.0,kg,False,15.0,7.18,194.0
+141, Good Life Almonds 1 kg ,1050.0,695.0,,,GOOD LIFE,1.0,kg,False,355.0,33.81,695.0
+142, Wonderland Foods Platinum California Almonds 500 g ,725.0,299.0,,,WONDERLAND FOODS,500.0,g,False,426.0,58.76,598.0
+143, Good Life Urad Dal 500 g ,97.0,80.0,,,GOOD LIFE,500.0,g,False,17.0,17.53,160.0
+144, Aashirvaad Superior MP Whole Wheat Atta 1 kg ,61.0,55.0,,,AASHIRVAAD,1.0,kg,False,6.0,9.84,55.0
+145," Happilo Essentials Popular Whole Cashew W400 1kg, Healthy Snack, Source of Protein, Vitamin & Minerals, No Preservatives ",1350.0,889.0,,,HAPPILO,400.0,1kg,False,461.0,34.15,
+146, Good Life Unpolished Toor Dal 1 kg ,272.0,235.0,,,GOOD LIFE,1.0,kg,False,37.0,13.6,235.0
+147, Broken Wheat / Daliya 500 g ,60.0,25.0,,,PRIVATE LABEL,500.0,g,False,35.0,58.33,50.0
+148, Daawat Super Basmati Rice 1 kg ,220.0,139.0,,,DAAWAT,1.0,kg,False,81.0,36.82,139.0
+149, Nutraj Jumbo California Walnuts in Shell 1 kg ,999.0,619.0,,( 309.50/500 g),NUTRAJ,1.0,kg,False,380.0,38.04,619.0
+150, Amul Cow Ghee 1 L (Tin) ,665.0,618.0,,,AMUL,1.0,l,False,47.0,7.07,618.0
+151, Good Life Chilli Powder 100 g ,50.0,32.0,,,GOOD LIFE,100.0,g,False,18.0,36.0,320.0
+152, Gowardhan Pure Cow Ghee 500 ml (Jar) ,385.0,345.0,,,GOWARDHAN,500.0,ml,False,40.0,10.39,690.0
+153, Good Life Toor Dal 500 g ,134.0,106.0,,,GOOD LIFE,500.0,g,False,28.0,20.9,212.0
+154, Ziofit 1kg Popular Almonds Calfornia ,1250.0,799.0,,,ZIOFIT,1.0,kg,False,451.0,36.08,799.0
+155, Annprash White Sugar - 0.5 kg ,499.0,148.0,,,ANNPRASH,0.5,kg,False,351.0,70.34,296.0
+156, Patanjali Whole Wheat Atta with Bran 5 kg ,230.0,195.0,,( 39.00/1 kg),PATANJALI,5.0,kg,False,35.0,15.22,39.0
+157, 921 CLASSIC BASMATI MOGRA | MUNGRA RICE - 30 KG ,1750.0,1299.0,,( 43.30/1 kg),921,30.0,kg,False,451.0,25.77,43.3
+158, Gulab Sungold Refined Sunflower Oil 1 L ,150.0,97.0,,,GULAB,1.0,l,False,53.0,35.33,97.0
+159, Tata Lite Sodium Curtailed Iodised Salt 1 kg ,50.0,45.0,,,TATA,1.0,kg,False,5.0,10.0,45.0
+160, Fortune Sunlite Refined Sunflower Oil 15 L (Tin) ,2150.0,1625.0,,( 108.33/1 l),FORTUNE,15.0,l,False,525.0,24.42,108.33
+161, Navjeevan Jeera 500g (Cumin) ,750.0,329.0,,( 65.80/100 g),NAVJEEVAN,500.0,g,False,421.0,56.13,658.0
+162, Good Life Chana Dal 1 kg ,138.0,99.0,,,GOOD LIFE,1.0,kg,False,39.0,28.26,99.0
+163, India Gate Rozana Basmati Rice 5 kg ,570.0,429.0,,,INDIA GATE,5.0,kg,False,141.0,24.74,85.8
+164, Jivo Cold Pressed Sunflower Oil 5 Ltr - Chemical free ,1350.0,799.0,,,JIVO,5.0,ltr,False,551.0,40.81,159.8
+165," Farmley Popular California Almonds, 100% Natural, 2 Times Crunchier, 500 g ",899.0,449.0,,,FARMLEY,2.0,times,False,450.0,50.06,
+166, Date Crown Premium Fard Dates 500 g ,257.0,169.0,,,DATE CROWN,500.0,g,False,88.0,34.24,338.0
+167, Suhana Simla Premium 1 Liter Danedar Cow Ghee | Pure Cow Ghee | 1Liter ,775.0,449.0,,,SUHANA SIMLA,1.0,liter,False,326.0,42.06,449.0
+168, Yogabar 500g Cashews W320 | 100% Natural Premium Whole Cashews | Whole Crunchy Cashew | Premium Kaju nuts | Nutritious & Delicious | Gluten Free & Plant based Protein ,600.0,449.0,,,YOGABAR,500.0,g,False,151.0,25.17,898.0
+169, Gulab Classic Refined Cottonseed Oil 5 L ,782.0,555.0,,( 111.00/1 l),GULAB,5.0,l,False,227.0,29.03,111.0
+170, Good Life Compounded Hing Powder 50 g ,95.0,55.0,,,GOOD LIFE,50.0,g,False,40.0,42.11,1100.0
+171, India Gate Mini Mogra Basmati Rice 10 kg ,675.0,535.0,,( 53.50/1 kg),INDIA GATE,10.0,kg,False,140.0,20.74,53.5
+172, Tulsi California Rozana Value Almonds 1 Kg ,1140.0,749.0,,,TULSI,1.0,kg,False,391.0,34.3,749.0
+173, Rice Villa Rozana Basmati Rice 26 Kg ,2600.0,1559.0,,( 59.96/1 kg),"RICE VILLA, DEVICE OF SHIELD, PADDY TREE",26.0,kg,False,1041.0,40.04,59.96
+174, Molsi's 1Kg Kimia Dates (500gX2) ,550.0,345.0,,,MOLSI'S,1.0,kg,False,205.0,37.27,345.0
+175, Good Life Masoor Dal 1 kg ,135.0,113.0,,,GOOD LIFE,1.0,kg,False,22.0,16.3,113.0
+176, Pyramid Traders 1KG Kashmiri Mamra Almonds (Badam Giri) ,4000.0,1070.0,,,PYRAMID TRADERS,1.0,kg,False,2930.0,73.25,1070.0
+177, Good Life Soya Wadi / Chunks 200 g ,55.0,27.0,,,GOOD LIFE,200.0,g,False,28.0,50.91,135.0
+178, Good Life Filtered Groundnut Oil 1 L ,215.0,179.0,,,GOOD LIFE,1.0,l,False,36.0,16.74,179.0
+179, Fortune Soya Health Refined Soyabean Oil 5 L ,680.0,615.0,,( 123.00/1 l),FORTUNE,5.0,l,False,65.0,9.56,123.0
+180, Jubilee Regular Long Grain Rice 1 kg ,190.0,63.0,,,JUBILEE,1.0,kg,False,127.0,66.84,63.0
+181, BLK FOODS Select 500g Cashews Nuts (320 no. Kaju) ,1150.0,369.0,,,BLK FOODS,500.0,g,False,781.0,67.91,738.0
+182, Good Life Thick Poha / Aval 500 g ,38.0,34.0,,,GOOD LIFE,500.0,g,False,4.0,10.53,68.0
+183, Dhara Filtered Groundnut Oil 1 L (Pouch) ,255.0,205.0,,,DHARA,1.0,l,False,50.0,19.61,205.0
+184, Fortune Mogra Basmati Rice 10 kg ,800.0,599.0,,( 59.90/1 kg),FORTUNE,10.0,kg,False,201.0,25.12,59.9
+185, Parth Jaggery 950 g ,90.0,62.0,,,PARTH,950.0,g,False,28.0,31.11,65.26
+186, Fortune Besan 1 kg ,160.0,106.0,,,FORTUNE,1.0,kg,False,54.0,33.75,106.0
+187, Tata Salt 2 kg ,55.0,48.0,,,TATA,2.0,kg,False,7.0,12.73,24.0
+188, Prabhat Cow Ghee 1 L (Pouch) ,725.0,539.0,,,PRABHAT,1.0,l,False,186.0,25.66,539.0
+189, Tata Rock Salt 1 kg ,120.0,99.0,,,TATA,1.0,kg,False,21.0,17.5,99.0
+190, Good Life Whole (W320) Cashews 200 g ,250.0,189.0,,,GOOD LIFE,200.0,g,False,61.0,24.4,945.0
+191, India Gate Regular Choice Basmati Rice 5 kg ,520.0,435.0,,,INDIA GATE,5.0,kg,False,85.0,16.35,87.0
+192, Dhara Kachi Ghani Mustard Oil 5 L ,825.0,749.0,,( 149.80/1 l),DHARA,5.0,l,False,76.0,9.21,149.8
+193, Nutraj Special Round Raisin 1 Kg (500 g X 2) ,598.0,329.0,,( 32.90/100 g),NUTRAJ,1.0,kg,False,269.0,44.98,329.0
+194, DAIRY SAGAR GOPAL Desi Cow Ghee |Made Traditionally from Curd |Pure Cow Ghee for Better Digestion and Immunity | 1Ltr Tetra Pack ,680.0,399.0,,,DAIRYSAGAR,1.0,ltr,False,281.0,41.32,399.0
+195, Good Life Urad Dal 1 kg ,191.0,159.0,,,GOOD LIFE,1.0,kg,False,32.0,16.75,159.0
+196, Broken Wheat / Daliya 1 kg ,120.0,49.0,,,PRIVATE LABEL,1.0,kg,False,71.0,59.17,49.0
+197, Fortune Biryani Special Basmati Rice 1 kg ,210.0,134.0,,,FORTUNE,1.0,kg,False,76.0,36.19,134.0
+198," Farmley 1kg Popular Almonds Californian, 100% Natural, 2 Times Crunchier Badaam ",1799.0,799.0,,,FARMLEY,1.0,kg,False,1000.0,55.59,799.0
+199, Good Life MP Wheat Chakki Atta 10 kg ,500.0,419.0,,( 41.90/1 kg),GOOD LIFE,10.0,kg,False,81.0,16.2,41.9
+200, Wonderland Foods Platinum California Pistachios Roasted & Salted 400 g ,725.0,409.0,,,WONDERLAND FOODS,400.0,g,False,316.0,43.59,1022.5
+201, Good Life Kabuli Chana 1 kg ,266.0,221.0,,,GOOD LIFE,1.0,kg,False,45.0,16.92,221.0
+202, Naturoz 1kg Daily Whole Cashews ,1125.0,795.0,,,NATUROZ,1.0,kg,False,330.0,29.33,795.0
+203, Nutraj California Walnut Kernels 250g ,499.0,319.0,,( 319.00/250 g),NUTRAJ,250.0,g,False,180.0,36.07,1276.0
+204, Tata Sampann Unpolished Kala Chana 500 g ,74.0,68.0,,,TATA SAMPANN,500.0,g,False,6.0,8.11,136.0
+205, Good Life Washed Gota Urad 1 kg ,198.0,161.0,,,GOOD LIFE,1.0,kg,False,37.0,18.69,161.0
+206, Pillsbury Chakki Fresh Atta / Flour 5 kg ,286.0,219.0,,( 43.80/1 kg),PILLSBURY,5.0,kg,False,67.0,23.43,43.8
+207, Nature's Choice Arabian Dates 500 g ,200.0,99.0,,,NATURE'S CHOICE,500.0,g,False,101.0,50.5,198.0
+208, Satvikk 1000 gm Premium Almonds Californian 1 KG ,1400.0,689.0,,,SATVIKK,1000.0,gm,False,711.0,50.79,689.0
+209, Fortune Rozana Basmati Rice 1 kg ,130.0,89.0,,,FORTUNE,1.0,kg,False,41.0,31.54,89.0
+210, Good Life Almonds 200 g ,270.0,175.0,,,GOOD LIFE,200.0,g,False,95.0,35.19,875.0
+211, Gemini Refined Sunflower Oil 5 L ,890.0,625.0,,( 125.00/1 l),GEMINI,5.0,l,False,265.0,29.78,125.0
+212, DailyHerbs Anjeer 1kg - Premium Quality Afghani Anjeer | Naturally Dried Figs | Perfect for a Healthy Lifestyle ,1299.0,539.0,,,DAILYHERBS,1.0,kg,False,760.0,58.51,539.0
+213, India Gate Super Basmati Rice 5 kg ,1080.0,729.0,,,INDIA GATE,5.0,kg,False,351.0,32.5,145.8
+214, AweLiv Pure Olive Oil - 1 Ltr (Imported from Spain) ,1350.0,375.0,,,AWELIV,1.0,ltr,False,975.0,72.22,375.0
+215, GO KITCHEN Afghanistan Afghani Anjeer Figs Big Size Anjir Dried Figs Zero Added Sugar & Preservatives Dry Fruit (Pack of 250 gram) ,359.0,249.0,,,GO KITCHEN,250.0,gram,True,110.0,30.64,996.0
+216," English Nuts Mixed Dry Fruit, Nuts, Seeds, Berries - 1kg Trial Mix| 10+ Varieties | Lowest Price I ",3000.0,519.0,,,ENGLISH NUTS-THE DRY FRUITS HOUSE,1.0,kg,False,2481.0,82.7,519.0
+217, Lali Balaji DAILY NUT California Almond VALUE 1000gm (250gm x pack of 4) ,1240.0,689.0,,,LALI BALAJI,1000.0,gm,True,551.0,44.44,689.0
+218, Good Life Whole Moong 1 kg ,188.0,143.0,,,GOOD LIFE,1.0,kg,False,45.0,23.94,143.0
+219, Anjani Popular Cashews/Kaju 1 kg ,1599.0,799.0,,,ANJANI,1.0,kg,False,800.0,50.03,799.0
+220, Farmley Whole Cashews Natural Raw W400 Kaju 500g ,749.0,399.0,,,FARMLEY,400.0,kaju,False,350.0,46.73,
+221, Good Life California Roasted & Salted Pista 200 g ,299.0,235.0,,,GOOD LIFE,200.0,g,False,64.0,21.4,1175.0
+222, Amul Cow Ghee 500 ml (Pouch) ,325.0,308.0,,,AMUL,500.0,ml,False,17.0,5.23,616.0
+223, GKD's Premium Pure Coconut Oil Jar (1 L) ,380.0,299.0,,,GKD'S PREMIUM,1.0,l,False,81.0,21.32,299.0
+224, Smith & Jones Ginger Garlic Paste 200 g ,50.0,29.0,,( 14.50/100 g),SMITH & JONES,200.0,g,False,21.0,42.0,145.0
+225, Sundrop SuperLite Advanced Refined Sunflower Oil 3 L ,489.0,489.0,,( 163.00/1 l),SUNDROP,3.0,l,False,0.0,0.0,163.0
+226, Good Life Brown Chana 1 kg ,136.0,105.0,,,GOOD LIFE,1.0,kg,False,31.0,22.79,105.0
+227, Puro Healthy Salt 1 kg ,110.0,95.0,,,PURO,1.0,kg,False,15.0,13.64,95.0
+228," RED ROSE ROYAL BASMATI RICE 5KG I XXXL BIRYANI RICE I BEST BASMATI RICE FOR BIRYANI, 5 KG ",1299.0,699.0,,( 139.80/1 kg),RED ROSE,5.0,kg,False,600.0,46.19,139.8
+229, LILA DRY FRUITS 500gms x 2 (1 Kgs) Mason Jar Pack Premium Dried Afghani Anjeer| Dried Figs ,1499.0,659.0,,,LILA DRY FRUITS,500.0,gms,False,840.0,56.04,
+230, Good Life Phool Makhana 250 g ,300.0,249.0,,,GOOD LIFE,250.0,g,False,51.0,17.0,996.0
+231, Nature's Choice Mixed Dry Fruits 400 g ,260.0,199.0,,,NATURE'S CHOICE,400.0,g,False,61.0,23.46,497.5
+232, Tata Sampann Unpolished Tur / Arhar Dal 1 kg ,289.0,259.0,,,TATA SAMPANN,1.0,kg,False,30.0,10.38,259.0
+233, Sharbati Wheat 5 kg ,285.0,199.0,,( 39.80/1 kg),PRIVATE LABEL,5.0,kg,False,86.0,30.18,39.8
+234," GUNJAL SILKY PARMAL RICE, 30 KG ",1699.0,1649.0,,( 54.97/1 kg),GUNJAL,30.0,kg,False,50.0,2.94,54.97
+235, Utkal's KASPER 30 Kg SONA MASURI RAW RICE ,2038.0,1698.0,,( 56.60/1 kg),UTKAL'S KASPER,30.0,kg,False,340.0,16.68,56.6
+236," Pawan Foods ""Paaritosh"" Premium Kacchi Ghani Mustard Oil 2 Litre | Sarso ka Tel Pure | Khusi ke Sath, Bhojan ka Swad | Natural with Healthy | kali Sarso ka Tel ",520.0,425.0,,,PAWAN,2.0,litre,False,95.0,18.27,
+237, BLK Foods 1Kg Indian Kishmish | Big Size Raisins ( 500g x 2) ,1400.0,349.0,,,BLK FOODS,1.0,kg,False,1051.0,75.07,349.0
+238, Foodcan Kismis 1 Kg Black Afghani Raisin Dakh (Kishmis) 1 Kg Saver Pack ,1000.0,329.0,,,FOODCAN,1.0,kg,False,671.0,67.1,329.0
+239, Good Life Dry White Peas 500 g ,67.0,61.0,,,GOOD LIFE,500.0,g,False,6.0,8.96,122.0
+240, Everest Kashmirilal Chilli Powder 100 g ,124.0,105.0,,( 105.00/100 g),EVEREST,100.0,g,False,19.0,15.32,1050.0
+241, Lotus Spices Green Elaichi 10 g ,39.0,28.0,,,LOTUS,10.0,g,False,11.0,28.21,2800.0
+242, Gemini Filtered Groundnut Oil 1 L ,230.0,199.0,,,GEMINI,1.0,l,False,31.0,13.48,199.0
+243, Good Life Mixed Dry Fruits 500 g ,349.0,289.0,,,GOOD LIFE,500.0,g,False,60.0,17.19,578.0
+244," Marwar Red Chili Powder 1 Kg (Lal Mirchi Powder | Red Chilly Powder, Agmark Grade) 1 Kilogram Pack ",560.0,279.0,,,MARWAR,1.0,kg,False,281.0,50.18,279.0
+245, Good Life Black Pepper 50 g ,65.0,55.0,,,GOOD LIFE,50.0,g,False,10.0,15.38,1100.0
+246," Grocery On The Go MIX DRY FRUITS Almonds, Apricots, Cashews, Pistachios, Walnuts, RaisinsÂ 250GM ",578.0,288.0,,,GROCERY ON THE GO,250.0,gm,False,290.0,50.17,1152.0
+247, Happilo 1kg Almonds|100% Natural California Almonds ,1300.0,899.0,,,HAPPILO,1.0,kg,False,401.0,30.85,899.0
+248, Dhara Health Refined Sunflower Oil 5 L ,780.0,599.0,,( 119.80/1 l),DHARA,5.0,l,False,181.0,23.21,119.8
+249, Good Life Chitra Rajma 500 g ,112.0,97.0,,,GOOD LIFE,500.0,g,False,15.0,13.39,194.0
+250, Good Life Unpolished Moong Dal 500 g ,103.0,79.0,,,GOOD LIFE,500.0,g,False,24.0,23.3,158.0
+251, Farmley Handpicked Gold Makhana ( Fox Nuts) 250g ,300.0,269.0,,,FARMLEY,250.0,g,False,31.0,10.33,1076.0
+252, Daawat Devaaya Basmati Rice 5 kg ,720.0,539.0,,,DAAWAT,5.0,kg,False,181.0,25.14,107.8
+253, OM+ Filtered Groundnut Oil Pouch 5 ltr (Pack of 5) ,1500.0,939.0,,,OM+ FILTERED GROUNDNUT OIL,5.0,ltr,True,561.0,37.4,187.8
+254, Good Life Premium Sona Masuri Rice 1 kg ,100.0,57.0,,,GOOD LIFE,1.0,kg,False,43.0,43.0,57.0
+255, Fortune Soya Wadi / Chunks 200 g ,60.0,55.0,,,FORTUNE,200.0,g,False,5.0,8.33,275.0
+256, Good Life Unpolished Moong Dal 1 kg ,202.0,155.0,,,GOOD LIFE,1.0,kg,False,47.0,23.27,155.0
+257, Fortune Thick Poha 500 g ,70.0,35.0,,,FORTUNE,500.0,g,False,35.0,50.0,70.0
+258," BANIYYA SETH Dried Afghani Anjeer / Figs, Rich in Iron, Fibre & Vitamins, Low in calories and Fat Free | Source of Dietary Fiber, 1 KG ",1299.0,549.0,,,BANIYYA SETH,1.0,kg,False,750.0,57.74,549.0
+259, Good Life Jeera 1 kg ,1450.0,715.0,,( 35.75/50 g),GOOD LIFE,1.0,kg,False,735.0,50.69,715.0
+260, Being Vegan Afghani Anjeer Figs Afghanistan Dry Anjir Dried Figs Dry Fruits (500 Grams) ,1679.0,363.0,,,BEING VEGAN,500.0,grams,False,1316.0,78.38,
+261, Pansari Kachi Ghani Mustard oil/Sarso Cooking Oil| Good for Bones & Heart| - 3 Litre ,759.0,519.0,,,PANSARI,3.0,litre,False,240.0,31.62,
+262, Kasturika Mini Mogra Steam Basmati 10 Kg Rice ,930.0,579.0,,( 57.90/1 kg),KASTURIKKA,10.0,kg,False,351.0,37.74,57.9
+263, Ching's Secret Schezwan Fried Rice Masala 20 g ,10.0,9.0,,,CHING'S SECRET,20.0,g,False,1.0,10.0,450.0
+264, ALEMA MOGRA BASMATI RICE 30KG ,4451.0,1499.0,,( 49.97/1 kg),ALEMA,30.0,kg,False,2952.0,66.32,49.97
+265, Good Life Surti Kolam Rice 1 kg ,105.0,68.0,,,GOOD LIFE,1.0,kg,False,37.0,35.24,68.0
+266, Good Life Jeerasar Rice 1 kg ,53.0,53.0,,,GOOD LIFE,1.0,kg,False,0.0,0.0,53.0
+267, Fortune Mini Mogra Basmati Rice 10 kg ,700.0,499.0,,( 49.90/1 kg),FORTUNE,10.0,kg,False,201.0,28.71,49.9
+268, Tata Sampann Unpolished Kabuli Chana 500 g ,160.0,148.0,,,TATA SAMPANN,500.0,g,False,12.0,7.5,296.0
+269, Gowardhan Pure Cow Ghee 500 ml (Pouch) ,385.0,345.0,,,GOWARDHAN,500.0,ml,False,40.0,10.39,690.0
+270, Kitchen Jungle Premium Dry Figs| Anjeer - 1kg FIGS | Dry Anjir (Dried Figs) ,1799.0,599.0,,,KITCHEN JUNGLE,1.0,kg,False,1200.0,66.7,599.0
+271, Nutraj Gold Walnut Kernels 250 grams| Walnut without Shell Kernels| Akhrot Giri Dry Fruit ,435.0,319.0,,( 319.00/250 g),NUTRAJ,250.0,grams,False,116.0,26.67,
+272, 921 CLASSIC BASMATI MOGRA | MUNGRA RICE - 10KG ,625.0,529.0,,( 52.90/1 kg),921,10.0,kg,False,96.0,15.36,52.9
+273, Good Life Phool Makhana 100 g ,150.0,119.0,,,GOOD LIFE,100.0,g,False,31.0,20.67,1190.0
+274," Foodcan Dried Apricots 1 Kg | Khumani Khurbani, Jardalu Dry Fruit Badam Bor| Dry Fruits | 1 Kg Saver Pack ",1500.0,369.0,,,FOODCAN,1.0,kg,False,1131.0,75.4,369.0
+275, Good Life Whole Masoor 500 g ,65.0,55.0,,,GOOD LIFE,500.0,g,False,10.0,15.38,110.0
+276," Eatyumm Indian Poppy Seeds / Khus Khus / Posto Dana,400 Gram ",2000.0,549.0,,,EATYUMM,400.0,gram,False,1451.0,72.55,1372.5
+277, Good Life Idli Rice 1 kg ,95.0,57.0,,,GOOD LIFE,1.0,kg,False,38.0,40.0,57.0
+278, Molsi's 1kg Arabian Black Dates (500gX2) ,480.0,375.0,,,MOLSI'S,1.0,kg,False,105.0,21.88,375.0
+279, Everest Tikhalal Chilli Powder 100 g ,68.0,63.0,,,EVEREST,100.0,g,False,5.0,7.35,630.0
+280, Good Life Walnut Kernels 500 g ,750.0,659.0,,,GOOD LIFE,500.0,g,False,91.0,12.13,1318.0
+281," VEEDINT CUMIN SEEDS, JEERA WHOLE, CUMIN SEED WHOLE, 1 KG PACK ",950.0,785.0,,,VEEDINT,1.0,kg,False,165.0,17.37,785.0
+282, Good Life Wada Kolam Rice 10 kg ,800.0,655.0,,( 65.50/1 kg),GOOD LIFE,10.0,kg,False,145.0,18.12,65.5
+283, BLK Foods 1Kg Cashew ( 200g x 5) ,2450.0,799.0,,,BLK FOODS,1.0,kg,False,1651.0,67.39,799.0
+284, Gulab Filtered Groundnut Oil 15 L ,3862.0,3069.0,,( 204.60/1 l),GULAB,15.0,l,False,793.0,20.53,204.6
+285, Good Life Unpolished Toor Dal 500 g ,137.0,118.0,,,GOOD LIFE,500.0,g,False,19.0,13.87,236.0
+286," GreenFinity: Premium Chia Seeds 300g - Raw Chia Seeds For Eating With Omega 3 & Fibre for Weight Loss management, [Jar Pack of 1]. ",494.0,174.0,,,GREENFINITY,300.0,g,True,320.0,64.78,580.0
+287, Good Life Black Raisin 500 g ,240.0,189.0,,,GOOD LIFE,500.0,g,False,51.0,21.25,378.0
+288, Tata Pink Salt 1 kg ,80.0,59.0,,,TATA SALT,1.0,kg,False,21.0,26.25,59.0
+289, Nutri Binge California Almonds 200g (200g x 2) ,540.0,349.0,,,NUTRI BINGE,200.0,g,False,191.0,35.37,1745.0
+290, Brill Kishmish (Green Raisin) (500g x 2pkt) 1Kg ,700.0,300.0,,,BRILL,500.0,g,False,400.0,57.14,600.0
+291, Anjani Daily California Almond (Badam) 1 Kg ,1319.0,699.0,,,ANJANI,1.0,kg,False,620.0,47.01,699.0
+292, India Gate Dubar Basmati Rice 1 kg ,159.0,132.0,,,INDIA GATE,1.0,kg,False,27.0,16.98,132.0
+293," Pawan Foods ""Paaritosh"" Premium Kacchi Ghani Mustard Oil, 5Ltr | Khushi Ke Saath, Bhojan Ka Swaad (5Ltr) Mustard Oil Tin (5 L) ",2360.0,999.0,,,PAWAN,5.0,ltr,False,1361.0,57.67,199.8
+294, Dhara Filtered Groundnut Oil 5 L ,1300.0,1049.0,,( 209.80/1 l),DHARA,5.0,l,False,251.0,19.31,209.8
+295, Parmatma | Kachi Ghani Pure Mustard Oil | Good for Heart | Cholesterol Free | Fortified with vitamin D | Delicious food | Ideal for cooking food - 500ml ,87.0,87.0,,,PARMATMA,500.0,ml,False,0.0,0.0,174.0
+296, Good Life California Roasted & Salted Pista 500 g ,569.0,569.0,,,GOOD LIFE,500.0,g,False,0.0,0.0,1138.0
+297, Kashmir Exotics Kashmiri Walnut Kernels Light Brown Halves Vacuum Packed 400 G ,749.0,425.0,,,KASHMIR EXOTICS,400.0,g,False,324.0,43.26,1062.5
+298, Good Life Walnut Kernels 200 g ,305.0,275.0,,,GOOD LIFE,200.0,g,False,30.0,9.84,1375.0
+299, Good Life Big Fennel 100 g ,120.0,89.0,,( 44.50/50 g),GOOD LIFE,100.0,g,False,31.0,25.83,890.0
+300, NAVJEEVAN BLACK PEPPER 500g. ,820.0,349.0,,,NAVJEEVAN,500.0,g,False,471.0,57.44,698.0
+301, Good Life HMT Kolam Rice 30 kg ,1750.0,1359.0,,( 45.30/1 kg),GOOD LIFE,30.0,kg,False,391.0,22.34,45.3
+302, Notlih 1Kg Premium Raisins | Indian Green Kishmish | (Pack Of 2 - 500g Each) ,1000.0,348.0,,,NOTLIH,1.0,kg,True,652.0,65.2,348.0
+303, Aashirvaad Superior MP Whole Wheat Atta 2 kg ,122.0,109.0,,( 54.50/1 kg),AASHIRVAAD,2.0,kg,False,13.0,10.66,54.5
+304, Good Life HMT Kolam Rice 10 kg ,600.0,545.0,,( 54.50/1 kg),GOOD LIFE,10.0,kg,False,55.0,9.17,54.5
+305," Horaira Nutz Premium Dry fruits Combo Pack 750gm Cashew , Almond , Raisins (Pack of 3 Each 250gm) ",1300.0,570.0,,,HORAIRA NUTZ,750.0,gm,True,730.0,56.15,760.0
+306," Eatyumm Cardamom Green Whole - Grade - Big Size, 100g(Hari elaichi) - Premium Bold Size ",599.0,299.0,,,EATYUMM,100.0,g,False,300.0,50.08,2990.0
+307, Good Life Whole (W320) Cashews 100 g ,120.0,99.0,,,GOOD LIFE,100.0,g,False,21.0,17.5,990.0
+308, Tata Sampann Unpolished Urad Dal 1 kg ,224.0,208.0,,,TATA SAMPANN,1.0,kg,False,16.0,7.14,208.0
+309, Veganic Unrefined Desi Khand/Khhand | Khandsari Sugar | Sulphur-free Khand | Mishri Powder | Semi Crystal Sugar | Full Of Minerals & Nutrients (900g) ,499.0,215.0,,,VEGANIC,900.0,g,False,284.0,56.91,238.89
+310, Notlih 500g Green Cardamom | Hari Elaichi | Whole Elaichi | Premium Quality ,3000.0,999.0,,,NOTLIH,500.0,g,False,2001.0,66.7,1998.0
+311, Good Life Chilka Urad Dal 500 g ,92.0,76.0,,,GOOD LIFE,500.0,g,False,16.0,17.39,152.0
+312, Happilo 500g Popular Almond California ,625.0,434.0,,,HAPPILO,500.0,g,False,191.0,30.56,868.0
+313, Angur Oily Toor Dal 5Kg ,1500.0,1300.0,,( 260.00/1 kg),ANGUR,5.0,kg,False,200.0,13.33,260.0
+314, ERAVAT Parmal 30kg Rice | Silky Parmal I TAKA TAK RICE ,1800.0,1570.0,,( 52.33/1 kg),ERAVAT RICE,30.0,kg,False,230.0,12.78,52.33
+315, Rentio Premium Deshi Oiled Tur / Arhar Dal 5 kg ,950.0,785.0,,,RENTIO,5.0,kg,False,165.0,17.37,157.0
+316, Guinea Filtered Groundnut Oil 15 L ,3600.0,2990.0,,( 199.33/1 l),GUINEA,15.0,l,False,610.0,16.94,199.33
+317, Marwar Mirchi (Red Chilly powder-500g) + Haldi (Turmeric powder-200g) + Dhania (Coriander powder-200g) Agmark Spices Super Saver Combo Pack of 900g ,388.0,229.0,,,MARWAR,500.0,g,True,159.0,40.98,458.0
+318, Nature's Bliss Calcutta Meetha Paan Mouth Freshner Paan mukhwas Without Supari Jar Packing FD Quality Product (400gm) ,449.0,189.0,,,NATURE'S BLISS,400.0,gm,False,260.0,57.91,472.5
+319, Good Life Unpolished Chana Dal 1 kg ,142.0,115.0,,,GOOD LIFE,1.0,kg,False,27.0,19.01,115.0
+320, BLK Foods Select 1Kg Californian Almond Kernel | American Jumbo size Healthy Badam Giri Nuts (500g x 2packs) ,2300.0,749.0,,,BLK FOODS,1.0,kg,False,1551.0,67.43,749.0
+321, Fortune Everyday Full Grain Basmati Rice 5 kg ,845.0,542.0,,,FORTUNE,5.0,kg,False,303.0,35.86,108.4
+322, Pillsbury Chakki Fresh Atta / Flour 10 kg ,551.0,389.0,,( 38.90/1 kg),PILLSBURY,10.0,kg,False,162.0,29.4,38.9
+323, Daawat Premium Lachkari Wada Kolam Rice 10 kg ,950.0,699.0,,( 69.90/1 kg),DAAWAT,10.0,kg,False,251.0,26.42,69.9
+324, Foodcan Raisins 1 Kg Original Afghani Kismis Dakh Green Long Size (Kishmis) Seedless 1 Kg Supersaver Pack ,1500.0,329.0,,,FOODCAN,1.0,kg,False,1171.0,78.07,329.0
+325, Marwadi Farm Anjeer Figs 1kg ,1400.0,499.0,,( 249.50/500 g),MARWADI FARM,1.0,kg,False,901.0,64.36,499.0
+326, Saffola Tasty Pro Fitness Concious Corn Based Blended Oil 1 L ,150.0,129.0,,,SAFFOLA,1.0,l,False,21.0,14.0,129.0
+327," GO KITCHEN Healthy Dry Fruit Dried Figs Afghani Anjeer|Afghani Anjeer Figs Dry Fruits Anjir (Dried Figs) Dry Fruits Anjeer Big and Soft, 800gm Pack ",2999.0,484.0,,,GO KITCHEN,800.0,gm,False,2515.0,83.86,605.0
+328, Happilo 1kg Cashews | 100% Natural Premium Whole Cashews (Value Pack) ,1498.0,930.0,,,HAPPILO,1.0,kg,False,568.0,37.92,930.0
+329, Figaro Olive Oil 1 L ,1520.0,1299.0,,,FIGARO,1.0,l,False,221.0,14.54,1299.0
+330, Good Life Unpolished Chana Dal 500 g ,72.0,58.0,,,GOOD LIFE,500.0,g,False,14.0,19.44,116.0
+331," Farmley 8 in 1 Tasty Berry Mix Antioxidants Rich, Mix Dried Berries 400g(Pack of 2, Each 200 g) ",698.0,379.0,,,FARMLEY,8.0,in,True,319.0,45.7,
+332, Dr. Brand Rock Salt 1 kg ,99.0,75.0,,,DR. BRAND,1.0,kg,False,24.0,24.24,75.0
+333," ENVELOPE DRYFRUITS - THE WORLD OF FRESHNESS MIX DRYFRUITS TRIAL MIX 1 KG , PACK OF 2 X 500 GRAMS PREMIUM QUALITY ",3000.0,525.0,,,ENVELOPE DRYFRUITS - THE WORLD OF FRESHNESS,1.0,kg,True,2475.0,82.5,525.0
+334, Good Life Soya Wadi / Chunks 500 g ,135.0,67.0,,,GOOD LIFE,500.0,g,False,68.0,50.37,134.0
+335, Vandevi Bandhani No 1 Hing Powder 50 g ,80.0,40.0,,,VANDEVI,1.0,hing,False,40.0,50.0,
+336, Oreal 6L Premium Canola Oil | Healthy Cooking Oil | Rich Natural Anti Oxidants | Preservative Free |5+1 Litres ,2050.0,1154.0,,( 192.33/1 l),OREAL,6.0,l,False,896.0,43.71,192.33
+337, Aashirvaad Chilli Powder 200 g ,144.0,72.0,,,AASHIRVAAD,200.0,g,False,72.0,50.0,360.0
+338, Nutraj California Almonds 500 g ,599.0,349.0,,,NUTRAJ,500.0,g,False,250.0,41.74,698.0
+339, Sonai Rich Aroma Danedaar Ghee 1 L (Pouch) ,610.0,499.0,,,SONAI,1.0,l,False,111.0,18.2,499.0
+340, Good Life Unpolished Masoor Dal 1 kg ,139.0,123.0,,,GOOD LIFE,1.0,kg,False,16.0,11.51,123.0
+341," YUM YUM Dry Fruits Combo Pack 1Kg (Almonds 250g, Cashew 250g, Pista 250g, Kishmish 250g) ",1850.0,879.0,,,YUM YUM,1.0,kg,False,971.0,52.49,879.0
+342, Pyramid Traders 1 KG Brown Plus Kashmiri Walnut Kernels (Without Shell) Akrot Giri ,1999.0,695.0,,,PYRAMID TRADERS,1.0,kg,False,1304.0,65.23,695.0
+343, Nutraj California Roasted & Salted Pistachios 250 g | Crunchy & Healthy | Rich in Vitamin & Minerals ,499.0,369.0,,( 369.00/250 g),NUTRAJ,250.0,g,False,130.0,26.05,1476.0
+344, Fortune Indori Thick Poha 500 g ,75.0,37.0,,,FORTUNE,500.0,g,False,38.0,50.67,74.0
+345, Bharat Super Foods Dry Fruits Combo Pack - California Almonds & Cashew Nuts W320 - 100gm each (200gm) ,488.0,238.0,,,BHARAT SUPER FOODS,32.0,0,False,250.0,51.23,
+346, Organic Tattva Chakki Wheat Flour 5 kg ,375.0,249.0,,( 49.80/1 kg),ORGANIC TATTVA,5.0,kg,False,126.0,33.6,49.8
+347, Dev Bhog Mogra Rice 30 Kg ,3400.0,1499.0,,( 49.97/1 kg),DEV BHOG,30.0,kg,False,1901.0,55.91,49.97
+348, Mirchillion 1Kg Guntur Red Chilli Powder ,399.0,329.0,,( 329.00/1 kg),MIRCHILLION,1.0,kg,False,70.0,17.54,329.0
+349, Bemisal Premium Shahi Pakwan Rice 1 kg ,172.0,62.0,,,BEMISAL,1.0,kg,False,110.0,63.95,62.0
+350, Wonderland Foods Dry Fruits California Almonds 250g & Cashews W320 250g Combo Pack ,949.0,449.0,,,WONDERLAND FOODS,250.0,g,False,500.0,52.69,1796.0
+351, Daawat Super Basmati Rice 5 kg ,1095.0,719.0,,,DAAWAT,5.0,kg,False,376.0,34.34,143.8
+352, Meewa 1 Kg Premium Walnut Quarter Kernels | Akhrot Giri 1000 Grams | Lowest Price | Best Quality | Vaccum Packed | Pack of 2 x 500 Grams | ,3000.0,779.0,,,MEEWA,1.0,kg,True,2221.0,74.03,779.0
+353, Good Life Red Rajma 500 g ,115.0,101.0,,,GOOD LIFE,500.0,g,False,14.0,12.17,202.0
+354, Coreganic Premium Afghani Jumbo Anjeer 1 kg ,1449.0,719.0,,,COREGANIC,1.0,kg,False,730.0,50.38,719.0
+355, Sweekar Refined Sunflower Oil 1 L ,194.0,109.0,,,SWEEKAR,1.0,l,False,85.0,43.81,109.0
+356, Poorvigam Wooden Cold Pressed Groundnut Oil| Peanut Oil| 5 LTR ,3750.0,1399.0,,( 279.80/1 l),POORVIGAM,5.0,ltr,False,2351.0,62.69,279.8
+357, Wheatkart Whole Wheat Atta - 10 KG ,749.0,559.0,,( 55.90/1 kg),WHEATKART,10.0,kg,False,190.0,25.37,55.9
+358, Daawat Sehat Mini Mogra 60 Basmati Rice 10 kg ,650.0,529.0,,( 52.90/1 kg),DAAWAT,60.0,basmati,False,121.0,18.62,
+359, Kinsfolk 1 L Extra Virgin Olive Oil - (Imported Oil from Spain) ,1100.0,499.0,,,KINSFOLK,1.0,l,False,601.0,54.64,499.0
+360, Ziofit 500g Popular Almonds California ,625.0,434.0,,,ZIOFIT,500.0,g,False,191.0,30.56,868.0
+361, Aeroplane Shudh Chakki Atta| 10 Kg ,450.0,419.0,,( 41.90/1 kg),AEROPLANE BRAND,10.0,kg,False,31.0,6.89,41.9
+362, Dynamix Cow Ghee 1 L (Pouch) ,719.0,605.0,,,DYNAMIX,1.0,l,False,114.0,15.86,605.0
+363, Good Life Chilka Moong Dal 500 g ,93.0,69.0,,,GOOD LIFE,500.0,g,False,24.0,25.81,138.0
+364, The Oil Factory 1L Extra Light Olive Oil ,850.0,380.0,,( 380.00/1 l),THE OIL FACTORY,1.0,l,False,470.0,55.29,380.0
+365, Daawat Pulav Basmati Rice 1 kg ,165.0,129.0,,,DAAWAT,1.0,kg,False,36.0,21.82,129.0
+366, EPOK BOLA 1 kg Cashews| Daily Cashews | 1 kg (500gx2) | Value Pack ,1200.0,748.0,,( 397.87/500 g),EPOK,1.0,kg,False,452.0,37.67,748.0
+367, Kohinoor Charminar Everyday Rice 5 kg ,550.0,299.0,,,KOHINOOR,5.0,kg,False,251.0,45.64,59.8
+368," Living Tree Cashews 500 gram (500g Value Pack of 1)| 100% Natural & Premium Whole Organic Cashew Nuts| King Size Crunchy Kaju Nuts| Premium Nuts & Dry Fruits| Rich in Fibre, Vitamin E, K, B6 & Boosts Immunity| Healthy Snacks ",798.0,399.0,,,LIVING TREE,500.0,gram,True,399.0,50.0,798.0
+369, Bioherbs 100% Natural Premium International California Almond 1 kg (Pack of 2) ,3598.0,1399.0,,,BIO HERBS,1.0,kg,True,2199.0,61.12,1399.0
+370, Sunpure Refined Sunflower Oil 15 L ,1950.0,1950.0,,( 130.00/1 l),SUNPURE,15.0,l,False,0.0,0.0,130.0
+371, FRESHTIGE 100% Natural and Premium Healthy Mix Dry Fruits 1KG Nuts | Fresh and Healthy Dry Fruits ,1299.0,664.0,,,FRESHTIGE,1.0,kg,False,635.0,48.88,664.0
+372, Paaritosh Mridang 2 Litre Sesame Oil Can | Premium Cold Pressed Sesame/Gingelly Oil (Til Ka Tel)| ,750.0,599.0,,,PAARITOSH,2.0,litre,False,151.0,20.13,
+373, Good Life Whole Urad 500 g ,91.0,73.0,,,GOOD LIFE,500.0,g,False,18.0,19.78,146.0
+374, Farmley Premium Natural Chia Seeds 200g ,199.0,149.0,,,FARMLEY,200.0,g,False,50.0,25.13,745.0
+375, Aashirvaad Select Sharbati Whole Wheat Atta 1 kg ,68.0,59.0,,,AASHIRVAAD,1.0,kg,False,9.0,13.24,59.0
+376, Natureland Organics Brown Sugar 1 kg combo - Pack of 2 ,314.0,266.0,,,NATURE LAND ORGANICS,1.0,kg,True,48.0,15.29,266.0
+377, Good Life Washed Gota Urad 500 g ,100.0,81.0,,,GOOD LIFE,500.0,g,False,19.0,19.0,162.0
+378, Nutri Binge 600g Premium California Almonds (200g x 3) ,810.0,499.0,,,NUTRI BINGE,600.0,g,False,311.0,38.4,831.67
+379," Farmley Whole Cashews, W400 Raw Kaju (Pack of 2, Each 500g) ",1498.0,849.0,,,FARMLEY,400.0,raw,True,649.0,43.32,
+380, Good Life Fine Besan 500 g ,60.0,44.0,,,GOOD LIFE,500.0,g,False,16.0,26.67,88.0
+381, Dalda Kachi Ghani Mustard Oil 1 L (Bottle) ,165.0,130.0,,,DALDA,1.0,l,False,35.0,21.21,130.0
+382, Eatyumm Afghani Anjeer 1 kg Figs - Afghanistan Dry Anjir (Dried Figs) 1kg Jar Pack| Premium Quality ,899.0,529.0,,,EATYUMM,1.0,kg,False,370.0,41.16,529.0
+383, Lali Balaji Walnut kernel (Akhort Giri) 1000g (250g pack of 4) ,2140.0,893.0,,,LALI BALAJI,1000.0,g,True,1247.0,58.27,893.0
+384, Tata Sampann White Thin Poha 500 g ,57.0,51.0,,,TATA SAMPANN,500.0,g,False,6.0,10.53,102.0
+385," Future life Oats Atta | Whole Grains Oats | With Targeted Minerals of Zinc, Chromium, and Magnesium | Gluten-free | High Fiber and Protein | 100% Healthy & Natural | 1kg Pouch ",220.0,189.0,,,FUTURE LIFE,1.0,kg,False,31.0,14.09,189.0
+386," Aeroplane Rozana Premium Basmati Rice Perfectly Aged Long Grain with Rich Aroma Basmati Rice, 5 Kg ",625.0,449.0,,,AEROPLANE BRAND,5.0,kg,False,176.0,28.16,89.8
+387, Tata Sampann Garam Masala 100 g ,92.0,46.0,,( 46.00/100 g),TATA SAMPANN,100.0,g,False,46.0,50.0,460.0
+388, Good Life Cloves 50 g ,110.0,99.0,,,GOOD LIFE,50.0,g,False,11.0,10.0,1980.0
+389, Good Life (S) Fennel 100 g ,85.0,76.0,,( 38.00/50 g),GOOD LIFE,100.0,g,False,9.0,10.59,760.0
+390, Oreal 5L Premium Kachi Ghani Pure Mustard Oil | Chemical Free | Pure Sarso Cooking Oil -5 Litres ,1350.0,855.0,,( 171.00/1 l),OREAL,5.0,l,False,495.0,36.67,171.0
+391," Foodcan Walnut InShell-1 Kg Dry Fruits American Akhrot with shell, 1Kg ",1500.0,499.0,,,FOODCAN,1.0,kg,False,1001.0,66.73,499.0
+392, Good Life White Till 500 g ,190.0,158.0,,( 15.80/50 g),GOOD LIFE,500.0,g,False,32.0,16.84,316.0
+393," Aryionuts Pistachios/Pista Dry Fruits & Nuts | Rich in Vitamin & Minerals For Healthy,250g Incomplete ",899.0,536.0,,,ARYIONUTS,250.0,g,False,363.0,40.38,2144.0
+394, DAIRYSAGAR DAIRY MAKHAN Pure Desi COW Ghee ||Pure Ghee for Better Digestion and Immunity-1 ltr TetraPack ,680.0,398.0,,,DAIRYSAGAR,1.0,ltr,False,282.0,41.47,398.0
+395," Aeroplane Daily Basmati Biryani Rice, 5 Kg ",825.0,449.0,,( 89.80/1 kg),AEROPLANE,5.0,kg,False,376.0,45.58,89.8
+396, Everest Tikhalal Chilli Powder 500 g ,330.0,280.0,,,EVEREST,500.0,g,False,50.0,15.15,560.0
+397, Nutraj Cashews 500 g ,699.0,399.0,,,NUTRAJ,500.0,g,False,300.0,42.92,798.0
+398, Snacklorry 1 Kg Walnut Without Shell Quarter Kernels | Kashmiri Quarter Akhrot Giri | Walnut Kernels 1000 Grams| Vaccum Packed | Pack Of 4 x 250 Grams| Without Shell 1 Kg Akhrot Giri ,1999.0,687.0,,,SNACK LORRY,1.0,kg,True,1312.0,65.63,687.0
+399, Pansari Rozana Basmati Rice 10 Kg | Royal Taste | Premium Pulao Rice ,900.0,799.0,,,PANSARI,10.0,kg,False,101.0,11.22,79.9
+400, Nesa Broken Raw Cashew -1Kg ,1600.0,629.0,,,NESA,1.0,kg,False,971.0,60.69,629.0
+401, Good Life Popcorn Maize 500 g ,95.0,69.0,,,GOOD LIFE,500.0,g,False,26.0,27.37,138.0
+402, Daawat Devaaya Basmati Rice 1 kg ,145.0,109.0,,,DAAWAT,1.0,kg,False,36.0,24.83,109.0
+403, Satvikk 1000 gm Premium Almonds Californian (500 gmX2) ,1400.0,699.0,,,SATVIKK E,1000.0,gm,False,701.0,50.07,699.0
+404, Catch Kitchen King Masala 100 g ,88.0,44.0,,( 44.00/100 g),CATCH,100.0,g,False,44.0,50.0,440.0
+405," Khari Foods Pure Afghani Saffron / Kesar Threads A+++ Grade / Kumkuma Puvvu / Kungumapoo Original, For Milk, Pregnant Women, Skin (1g) ",499.0,325.0,,,KHARI FOODS,1.0,g,False,174.0,34.87,325000.0
+406, Vijaya Ghee 1 L (Pouch) ,690.0,629.0,,,VIJAYA,1.0,l,False,61.0,8.84,629.0
+407, Savastha Natural Jaggery | Vellam | Natural Chemical Free | Whole Round Shape Gur Jaggery-1 Kg ,225.0,214.0,,,SAVASTHA,1.0,kg,False,11.0,4.89,214.0
+408, GKD's Premium 100% Pure Coconut Oil 500 ML (Pack of 2) ,400.0,310.0,,,GKD'S PREMIUM,500.0,ml,True,90.0,22.5,620.0
+409, Lali Balaji Gold Makhana 200 g ,280.0,226.0,,,LALI BALAJI,200.0,g,False,54.0,19.29,1130.0
+410," Yogabar Cashews 1kg W320 (500g Value Pack of 2)| 100% Natural & Premium Whole Organic Cashew Nuts| King Size Crunchy Kaju Nuts| Premium Nuts & Dry Fruits| Rich in Fibre, Vitamin E, K, B6 & Boosts Immunity| Healthy Snacks ",1200.0,799.0,,,YOGABAR,1.0,kg,True,401.0,33.42,799.0
+411, Pick N Cook Premium Surti Kolam Rice 10 kg ,800.0,595.0,,( 59.50/1 kg),PICK N COOK,10.0,kg,False,205.0,25.62,59.5
+412, Lali Balaji Gold Makhana 100 g (Pack Of 4) ,560.0,369.0,,,LALI BALAJI,100.0,g,True,191.0,34.11,3690.0
+413, Catch Super Garam Masala 200 g ,98.0,49.0,,( 24.50/100 g),CATCH,200.0,g,False,49.0,50.0,245.0
+414, EATYUMM Seeded Dates ( Pin Khajoor) -[ Premium Quality] [ Hygienically Vaccum Packed] ,499.0,189.0,,,EATYUMM,,none,False,310.0,62.12,
+415, Eassy Dairy 1 Liter Desi Ghee | Pure Ghee for Better Digestion | Immunity Booster| Tetra Pack ,620.0,449.0,,,EASSYDAIRY WITH DEVICE OF ED,1.0,liter,False,171.0,27.58,449.0
+416, Tata Sampann Unpolished Urad Dal 500 g ,113.0,105.0,,,TATA SAMPANN,500.0,g,False,8.0,7.08,210.0
+417, TEMPERADO 100% Natural Premium 1000gms Whole Cashews | Whole Crunchy Cashew | Premium Kaju nuts | Nutritious & Delicious | Gluten Free | Source of Minerals & Vitamins | Dry Fruits ,1899.0,699.0,,,TEMPERADO,1000.0,gms,False,1200.0,63.19,
+418, Rice Villa | Divine | 26 kg | Parboiled Rice | Silky Chap ,1690.0,1532.0,,( 58.92/1 kg),"RICE VILLA, DEVICE OF SHIELD, PADDY TREE",26.0,kg,False,158.0,9.35,58.92
+419, Good Life Dosa Rice 1 kg ,65.0,57.0,,,GOOD LIFE,1.0,kg,False,8.0,12.31,57.0
+420," Wonderland Foods -Healthy Roasted Seeds Combo Pack of 4 - Chia 200g, Pumpkin 200g, Sunflower 200g and Flax 200g ",1015.0,394.0,,,WONDERLAND FOODS,200.0,g,True,621.0,61.18,1970.0
+421, Natrixeed Premium Quality Anjeer 1kg - Naturally Dried Figs| Perfect for a Healthy Lifestyle ,1499.0,538.0,,,NATRIXEED,1.0,kg,False,961.0,64.11,538.0
+422, Lali Balaji DAILY NUT California Almond VALUE 500gm (250gm x pack of 2) ,620.0,377.0,,,LALI BALAJI,500.0,gm,True,243.0,39.19,754.0
+423, Snacklorry 1 Kg Premium Walnut Quarter Kernels | Akhrot Giri 1000 Grams | Lowest Price | 4pkts X250g ,2999.0,676.0,,,SNACK LORRY,1.0,kg,False,2323.0,77.46,676.0
+424, Good Life Superfine Thin Poha / Aval 1 kg ,75.0,71.0,,,GOOD LIFE,1.0,kg,False,4.0,5.33,71.0
+425," GreenFinity Raw & Unroasted Pumpkin Seeds - 250g + 250g | Immunity Booster and Fiber Rich Superfood | Rich Source of Omega 3 | Highly Nutritious Snack | Rich in Protein, Dietary Fibre, Zinc & Magnesium - 500g ",994.0,354.0,,,GREENFINITY,250.0,g,False,640.0,64.39,1416.0
+426, Catch Red Chilli Powder 100 g ,67.0,44.0,,,CATCH,100.0,g,False,23.0,34.33,440.0
+427, Nutrela Mini Soya Wadi / Chunks 200 g ,60.0,54.0,,,NUTRELA,200.0,g,False,6.0,10.0,270.0
+428, 24 Mantra Organic Jaggery Powder 500 g ,80.0,55.0,,,24 MANTRA ORGANIC,24.0,mantra,False,25.0,31.25,
+429, Saffola Total Pro Heart Conscious Rice Bran Based Blended Oil 5 L ,1100.0,995.0,,( 199.00/1 l),SAFFOLA,5.0,l,False,105.0,9.55,199.0
+430, Daawat Pulav Basmati Rice 500 g ,85.0,65.0,,,DAAWAT,500.0,g,False,20.0,23.53,130.0
+431, Everest Garam Masala 100 g ,98.0,91.0,,( 91.00/100 g),EVEREST,100.0,g,False,7.0,7.14,910.0
+432, Kohinoor Charminar Select Basmati Rice 1 kg ,135.0,99.0,,,KOHINOOR,1.0,kg,False,36.0,26.67,99.0
+433, Daily Nut California Roasted & Salted Pista (Pistachios) 1000gm (250gm x pack of 4) ,1860.0,1034.0,,,LALI BALAJI,1000.0,gm,True,826.0,44.41,1034.0
+434," Farmley Premium Natural Chia Seeds 400g, Pack of 2- Each 200g ",398.0,249.0,,,FARMLEY,400.0,g,True,149.0,37.44,622.5
+435, Tata Sampann Kitchen King Masala (5x20) 100 g ,94.0,47.0,,( 47.00/100 g),TATA SAMPANN,5.0,x20,False,47.0,50.0,
+436, Saffola Active Pro Weight Watchers Blended Oil 15 L ,2725.0,1679.0,,( 111.93/1 l),SAFFOLA,15.0,l,False,1046.0,38.39,111.93
+437, P Mark Kachi Ghani Mustard Oil 1 L ,265.0,165.0,,,P MARK,1.0,l,False,100.0,37.74,165.0
+438, Good Life Wada Kolam Rice 30 kg ,2300.0,1710.0,,( 57.00/1 kg),GOOD LIFE,30.0,kg,False,590.0,25.65,57.0
+439, Dulhan Classic 5 kg XXXL Biryani basmati rice (Extra long rice/chawal) ,799.0,599.0,,( 119.80/1 kg),DULHAN,5.0,kg,False,200.0,25.03,119.8
+440," Shrego Jumbo Raw Peanut, Desi Singdana, Red Peanuts, 350G (1x350G Vacuum Packed) ",160.0,159.0,,,SHREGO,350.0,g,False,1.0,0.62,454.29
+441," Parityaag Commonly Searched Topics: dal, dal toor, toor dal, dal yellow, dals & pulses, dal pulses 1kg ",398.0,328.0,,,PARITYAAG,1.0,kg,False,70.0,17.59,328.0
+442, Daawat Sehat Mogra 70 Basmati Rice 10 kg ,800.0,625.0,,( 62.50/1 kg),DAAWAT,70.0,basmati,False,175.0,21.88,
+443, Catch Jeera Powder 100 g ,135.0,90.0,,,CATCH,100.0,g,False,45.0,33.33,900.0
+444, Baby Saffron 1g Pack | Premium Kesar | Blister Pack | 100% Pure Mongra Saffron/Kesar ,340.0,299.0,,,BABY,1.0,g,False,41.0,12.06,299000.0
+445, Kohinoor Charminar Select Basmati Rice 5 kg ,649.0,449.0,,,KOHINOOR,5.0,kg,False,200.0,30.82,89.8
+446, Gowardhan Pure Cow Ghee 200 ml (Jar) ,187.0,165.0,,,GOWARDHAN,200.0,ml,False,22.0,11.76,825.0
+447, Good Life In-Shell Walnuts 500 g ,349.0,299.0,,,GOOD LIFE,500.0,g,False,50.0,14.33,598.0
+448, Goshudh Best Quality Peanut -1Kg (Pack Of 1) Moongfali (1000 g) ,599.0,290.0,,,GOSHUDH,1.0,kg,True,309.0,51.59,290.0
+449," 3P Kashmiri 1kg Walnut Kernels Walnuts Without Shell Brown Quarter, Bakery Akhrot Giri (250gm X 4) ",1800.0,680.0,,,3P,1.0,kg,False,1120.0,62.22,680.0
+450, Dr. Brand Mishri Dana 200 g ,24.0,21.0,,,DR. BRAND,200.0,g,False,3.0,12.5,105.0
+451, Emami Healthy & Tasty Refined Sunflower Oil 1 L ,190.0,109.0,,,EMAMI,1.0,l,False,81.0,42.63,109.0
+452, Good Life Black Raisins 100 g ,70.0,45.0,,,GOOD LIFE,100.0,g,False,25.0,35.71,450.0
+453, Good Life Unpolished Masoor Dal 500 g ,71.0,63.0,,,GOOD LIFE,500.0,g,False,8.0,11.27,126.0
+454, Good Life Whole Black Pepper 25 g ,35.0,28.0,,( 56.00/50 g),GOOD LIFE,25.0,g,False,7.0,20.0,1120.0
+455, Organic Tattva Jaggery Powder 500 g ,90.0,59.0,,,ORGANIC TATTVA,500.0,g,False,31.0,34.44,118.0
+456, Good Life Classic Kolam Rice 30 kg ,2000.0,1639.0,,( 546.33/10 kg),GOOD LIFE,30.0,kg,False,361.0,18.05,54.63
+457," NUTRIMIXX Premium Californian Roasted & Salted Pistachios 1 Kg| Pista Dry Fruit, Super Crunchy ",2800.0,1075.0,,,NUTRIMIXX,1.0,kg,False,1725.0,61.61,1075.0
+458, Ziofit Popular Whole Cashews 500g ,549.0,469.0,,,ZIOFIT,500.0,g,False,80.0,14.57,938.0
+459, Dhara Filtered Groundnut Oil 15 L ,3570.0,3099.0,,( 206.60/1 l),DHARA,15.0,l,False,471.0,13.19,206.6
+460, SAPPHIRE California Almonds/Badam (Independent) - Pack of 2 (250gm X 2) ,558.0,338.0,,,SAPPHIRE,,none,True,220.0,39.43,
+461, India Gate Classic Basmati Rice 1 kg ,235.0,195.0,,,INDIA GATE,1.0,kg,False,40.0,17.02,195.0
+462, Molsi's Sayer Dates 1Kg ,320.0,249.0,,,MOLSI'S,1.0,kg,False,71.0,22.19,249.0
+463, Zoff 500gTamarind & 200g Cumin Seeds| Combo Pack of 700g ,590.0,225.0,,,ZOFF,500.0,gtamarind,True,365.0,61.86,
+464, Catch Kashmiri Mirch Powder 100 g ,125.0,83.0,,,CATCH,100.0,g,False,42.0,33.6,830.0
+465, Varalakshmi Sabudana / Sago 500 g ,75.0,52.0,,,VARALAKSHMI,500.0,g,False,23.0,30.67,104.0
+466, Pinkcity 2L Pure Sesame Oil | Til Oil | Gingelly Oil | Wood Pressed | 1Litre Bottle ,800.0,649.0,,,PINKCITY,2.0,l,False,151.0,18.88,324.5
+467, LG Compounded Hing Powder 50 g ,92.0,85.0,,,LG,50.0,g,False,7.0,7.61,1700.0
+468, Catch Chatpata Chat Masala 100 g ,79.0,39.0,,( 39.00/100 g),CATCH,100.0,g,False,40.0,50.63,390.0
+469, The Nature Krafts Anjeer [Dried Figs] - 500gm Big Size Anjeer Afghanistan Anjir ,899.0,289.0,,( 289.00/500 g),THE NATURE KRAFTS,500.0,gm,False,610.0,67.85,578.0
+470, Parivar Premium Sihori Wheat 10 kg ,525.0,455.0,,( 45.50/1 kg),PARIVAR,10.0,kg,False,70.0,13.33,45.5
+471, India Gate Dubar Basmati Rice 5 kg+ 1 kg ,790.0,769.0,,,INDIA GATE,5.0,kg,False,21.0,2.66,153.8
+472, Catch Ginger Garlic Paste 200 g ,50.0,33.0,,( 16.50/100 g),CATCH,200.0,g,False,17.0,34.0,165.0
+473," Havoc Nuts Premium Unsalted Pistachio Kernels Without Shell, Sada Pista Dry Fruit, Shelled Nuts Super Crunchy & Delicious Healthy Snack | Vitamins & Minerals Rich | No Gluten (250 gram) ",999.0,474.0,,,HAVOC NUTS,250.0,gram,False,525.0,52.55,1896.0
+474, Everest Kitchen King Masala 100 g ,88.0,81.0,,( 81.00/100 g),EVEREST,100.0,g,False,7.0,7.95,810.0
+475, Khari Foods 1kg Zahidi Dates | Khajur / Khajoor Dry Fruits | Energy Booster | High Fibre | Soft & Juicy Healthy Snacks ,599.0,270.0,,,KHARI FOODS,1.0,kg,False,329.0,54.92,270.0
+476, Good Life Sharmili Rajma 500 g ,86.0,76.0,,,GOOD LIFE,500.0,g,False,10.0,11.63,152.0
+477, Pansari Super Saver Grocery Combo Package - 7 in 1 ,1073.0,1073.0,,,PANSARI,7.0,in,False,0.0,0.0,
+478, Kohinoor Authentic Basmati Rice 1 kg ,199.0,129.0,,,KOHINOOR,1.0,kg,False,70.0,35.18,129.0
+479, Catch Garam Masala 100 g ,100.0,50.0,,( 50.00/100 g),CATCH,100.0,g,False,50.0,50.0,500.0
+480, Catch Sabzi Masala 100 g ,70.0,35.0,,( 35.00/100 g),CATCH,100.0,g,False,35.0,50.0,350.0
+481, Lali Balaji DAILY NUT California Almond VALUE 750gm (250gm x pack of 3) ,930.0,515.0,,,LALI BALAJI,750.0,gm,True,415.0,44.62,686.67
+482, Catch Turmeric Powder 200 g ,72.0,48.0,,,CATCH,200.0,g,False,24.0,33.33,240.0
+483, Good Life Unpolished White Gota Urad 1 kg ,219.0,171.0,,,GOOD LIFE,1.0,kg,False,48.0,21.92,171.0
+484," Pyramid Traders 1 KG Kashmiri Mamra Almond in Shell, Sabut soft (Kagzi) ",1500.0,515.0,,,PYRAMID TRADERS,1.0,kg,False,985.0,65.67,515.0
+485, STAR 555 Sona Masoori Rice Pouch - 30 Kg | Naturally Aged Rice | Rice For Daily Cooking ,2000.0,1949.0,,( 64.97/1 kg),STAR 555,30.0,kg,False,51.0,2.55,64.97
+486, Raams' Fox Nuts (Phool Makhana) 1Kg | Makhana Healthy Snacks | Lotus Seeds and Fox Nuts | Diet Food | Gluten Free | Organic Indian Food | Rich In Nutrients (Makhana 250gm Pack Of 4) ,1196.0,749.0,,,RRAAMS FOOD INTERNATIONAL,1.0,kg,True,447.0,37.37,749.0
+487, Kohinoor Charminar Brown Rice 1 kg ,119.0,79.0,,,KOHINOOR,1.0,kg,False,40.0,33.61,79.0
+488, Good Life Unpolished Whole Moong 1 kg ,213.0,153.0,,,GOOD LIFE,1.0,kg,False,60.0,28.17,153.0
+489, Daily Herbs Dried Premium Dry Anjeer 500g | Fig | Gluten Free & Sodium Free ,1199.0,349.0,,,DAILYHERBS,500.0,g,False,850.0,70.89,698.0
+490," Aeroplane Everyday Biryani Basmati Rice, 25 Kg ",3325.0,1999.0,,( 79.96/1 kg),AEROPLANE,25.0,kg,False,1326.0,39.88,79.96
+491, The Oil Factory 5.25L Extra Light Olive Oil | Ideal for All Indian Cooking | Imported from Spain ,4900.0,1700.0,,( 323.81/1 l),THE OIL FACTORY,5.25,l,False,3200.0,65.31,323.81
+492, Pick N Cook Wada Kolam Rice 10 kg ,850.0,655.0,,( 65.50/1 kg),PICK N COOK,10.0,kg,False,195.0,22.94,65.5
+493," Organic Sapphire Foods 1kg Premium ( VIP) Brown Dates, Original Brown Dates, Dried Dates |Rich in Iron | Healthy Food | Saudi Arabian Dates Organic Sapphire Foods 1 kg Arabic Dates ",599.0,245.0,,,ORGANIC SAPPHIRE FOODS,1.0,kg,False,354.0,59.1,245.0
+494, Catch Amchur Powder 100 g ,95.0,63.0,,,CATCH,100.0,g,False,32.0,33.68,630.0
+495, Parmatma | Kachi Ghani Pure Mustard Oil | Good for Heart | Cholesterol Free | Fortified with vitamin D | Delicious food | Ideal for cooking food 2 litre ,380.0,330.0,,,PARMATMA,2.0,litre,False,50.0,13.16,
+496, Kesari Amazing Saffron 250 mg ,119.0,59.0,,( 11800.00/50 g),KESARI,250.0,mg,False,60.0,50.42,
+497, Good Life Chilka Urad Dal 1 kg ,182.0,151.0,,,GOOD LIFE,1.0,kg,False,31.0,17.03,151.0
+498, Super Dairy Punjab Rich Desi Danedar Ghee 1 Kg (Carton) ,999.0,435.0,,,SUPER DAIRY PUNJAB,1.0,kg,False,564.0,56.46,435.0
+499, Oleev Active Blended Edible Vegetable Oil 5 L ,1395.0,1295.0,,( 259.00/1 l),OLEEV,5.0,l,False,100.0,7.17,259.0
+500, Khari Foods 500g California Almonds | Badam Dry Fruits | Healthy Snacks ,699.0,339.0,,,KHARI FOODS,500.0,g,False,360.0,51.5,678.0
+501, DILJEET SPICES Cumin Whole/Jeera /Cumin Seeds/Zeera/Caraway(200gms) ,309.0,240.0,,,DILJEET SPICES,200.0,gms,False,69.0,22.33,
+502, Simla Premium 5 Liter Danedar Cow Ghee | Pure Cow Ghee | 5 Liter ,3750.0,2099.0,,,SUHANA SIMLA,5.0,liter,False,1651.0,44.03,419.8
+503," Chastity Dry Fruits Gift Pack of Cashew, Almond, Walnuts 350 gm ",1299.0,379.0,,,CHASTITY,350.0,gm,True,920.0,70.82,1082.86
+504, Kriti Refined Soybean Oil - 5L Square Jar (Pack of 1) ,709.0,699.0,,( 139.80/1 l),KRITI,5.0,l,True,10.0,1.41,139.8
+505, Good Life Bay Leaf 25 g ,25.0,15.0,,,GOOD LIFE,25.0,g,False,10.0,40.0,600.0
+506, Tulsi Premium Indian Kishmish 500 g ,305.0,135.0,,,TULSI,500.0,g,False,170.0,55.74,270.0
+507," Pure Pik Dry Red Chilli Whole, Hand Picked, Red Chilli Whole, Dry Red Chilli Whole, Dried Red Chilli, 100 G ",249.0,185.0,,,PURE PIK,100.0,g,False,64.0,25.7,1850.0
+508, Everest Tikhalal Chilli Powder 200 g ,136.0,126.0,,,EVEREST,200.0,g,False,10.0,7.35,630.0
+509, 921 REHAAN CLASSIC BIRYANI SPECIAL 5KG BASMATI RICE ,850.0,649.0,,( 129.80/1 kg),921,5.0,kg,False,201.0,23.65,129.8
+510, Pillsbury Chakki Fresh Atta / Flour 1 kg ,60.0,52.0,,,PILLSBURY,1.0,kg,False,8.0,13.33,52.0
+511, Leonardo Pomace Olive Oil 5 L ,4099.0,3199.0,,( 639.80/1 l),LEONARDO,5.0,l,False,900.0,21.96,639.8
+512, Good Life (W240) Cashews 100 g ,138.0,90.0,,,GOOD LIFE,100.0,g,False,48.0,34.78,900.0
+513, Good Life Fard Dates 500 g ,225.0,165.0,,,GOOD LIFE,500.0,g,False,60.0,26.67,330.0
+514, Happilo 500g Almonds|100% Natural Californian Almonds (Value Pack) ,675.0,489.0,,,HAPPILO,500.0,g,False,186.0,27.56,978.0
+515, Paras Nandan Cow Ghee 1 L (Pouch) ,675.0,555.0,,,PARAS,1.0,l,False,120.0,17.78,555.0
+516, Mr.Gold Refined Sunflower Oil Can 5L with Iron Dosa Tawa worth Rs.250 ,1625.0,899.0,,,MR. GOLD,5.0,l,False,726.0,44.68,179.8
+517, Maggi Masala Ae Magic 120 g (Pack of 20) ,110.0,102.0,,( 85.00/100 g),MAGGI,120.0,g,True,8.0,7.27,850.0
+518," Jivo Canola Cold Press Oil, 5 Ltr Healthiest Cooking Oil (Pack of 1) ",1650.0,1349.0,,,JIVO,5.0,ltr,True,301.0,18.24,269.8
+519, Good Life Matta Vadi Rice 10 kg ,900.0,749.0,,( 74.90/1 kg),GOOD LIFE,10.0,kg,False,151.0,16.78,74.9
+520," The Oil Factory Extra Virgin Olive Oil, First Cold Pressed,(Imported from Spain) Olive Oil - (5.25 L) ",6300.0,1910.0,,( 363.81/1 l),THE OIL FACTORY,5.25,l,False,4390.0,69.68,363.81
+521, Pick N Cook Thick Poha / Aval 500 g ,60.0,30.0,,,PICK N COOK,500.0,g,False,30.0,50.0,60.0
+522, Everest Chaat Masala 50 g ,44.0,40.0,,,EVEREST,50.0,g,False,4.0,9.09,800.0
+523, Good Life Jeerasar Rice 10 kg ,700.0,539.0,,( 53.90/1 kg),GOOD LIFE,10.0,kg,False,161.0,23.0,53.9
+524, NEXTSTEP ORGANIC Premium Green Cardamom Whole | Hari Elaichi Sabut 25g ,550.0,199.0,,,NEXTSTEP ORGANIC,25.0,g,False,351.0,63.82,7960.0
+525, Good Life Ajwain 200 g ,100.0,90.0,,( 22.50/50 g),GOOD LIFE,200.0,g,False,10.0,10.0,450.0
+526, 921 CHOCO LABEL (DAILY BASMATI RICE) SUPER MOGRA 10KG ,900.0,549.0,,( 54.90/1 kg),921,10.0,kg,False,351.0,39.0,54.9
+527, Value Pack Plain Cashews (4 pcs) 500 g ,450.0,339.0,,,PRIVATE LABEL,4.0,pcs,False,111.0,24.67,
+528, Good Life Tibar Basmati Rice 1 kg ,99.0,79.0,,,GOOD LIFE,1.0,kg,False,20.0,20.2,79.0
+529, Good Life Jawar 1 kg ,63.0,55.0,,,GOOD LIFE,1.0,kg,False,8.0,12.7,55.0
+530, Mangalam 15 liter Ground nut oil | 100% pure | ,3500.0,2800.0,,,MANGALAM,15.0,liter,False,700.0,20.0,186.67
+531, Jivo Cold Pressed Kachi Ghani Pure Mustard Oil 5 Litre ,1250.0,799.0,,,JIVO,5.0,litre,False,451.0,36.08,
+532, Aeroplane Shudh Chakki Atta| 15 Kg(5 Kg*3 nos) ,675.0,639.0,,( 42.60/1 kg),AEROPLANE BRAND,15.0,kg,False,36.0,5.33,42.6
+533, Wonderland Foods Premium Walnut Kernels 200 g ,435.0,209.0,,,WONDERLAND FOODS,200.0,g,False,226.0,51.95,1045.0
+534, Devaaya Weight Watchers Brown Rice 1 kg ,110.0,89.0,,,DEVAAYA,1.0,kg,False,21.0,19.09,89.0
+535, RICE VILLA PURE| GOBINDO BHOG RICE JEERA KASALA 10 KG| ,1570.0,1019.0,,( 101.90/1 kg),"RICE VILLA, DEVICE OF SHIELD, PADDY TREE",10.0,kg,False,551.0,35.1,101.9
+536, Good Life Mixed Dry Fruits 200 g ,150.0,135.0,,,GOOD LIFE,200.0,g,False,15.0,10.0,675.0
+537, SIMAV NATURALLY GOOD COLD PRESSED Groundnut Oil | COLD PRESSED Mungfali Ka Tel | COLD PRESSED Peanut Oil- 5Liter . ,2550.0,1249.0,,,SIMAV NATURALLY GOOD,5.0,liter,False,1301.0,51.02,249.8
+538," ORGANIC BASKET Mix Dry Fruits Almonds,Cashews,Raisins,Pista And Black Raisins , 250 Gram Each (Pack of 6) ",499.0,249.0,,,ORGANIC BASKET (THE BASKET OF PURITY),250.0,gram,True,250.0,50.1,996.0
+539, Catch Turmeric Powder 500 g ,175.0,116.0,,,CATCH,500.0,g,False,59.0,33.71,232.0
+540, Sunny Soya Fit Refined Soyabean Oil 1 L (Pouch) ,155.0,109.0,,,SUNNY,1.0,l,False,46.0,29.68,109.0
+541, Parth Jaggery Powder 500 g ,90.0,59.0,,,PARTH,500.0,g,False,31.0,34.44,118.0
+542," The Nature Krafts Mix Dry Fruits 500gm [ Almonds, Cashews, Walnuts, Raisins and More ] Jar Pack ",999.0,299.0,,,THE NATURE KRAFTS,500.0,gm,False,700.0,70.07,598.0
+543, SURYA 500gm GREEN CARDAMOM (HARI ELAICHI) WHOLE |ELAKULU ,1500.0,999.0,,,SURYA,500.0,gm,False,501.0,33.4,1998.0
+544, True Elements Chia Seeds 500 gm - Non-GMO| Rich in Omega -3 & Fibre| Healthy Snacks for Weight loss ,600.0,299.0,,,TRUE ELEMENTS,500.0,gm,False,301.0,50.17,598.0
+545," Farmley Premium California Whole Dried Cranberries, Handpicked & Fresh 400 g ",520.0,283.0,,,FARMLEY,400.0,g,False,237.0,45.58,707.5
+546," Horaira Nutz 1kg Walnuts Natural Sona White Fresh Walnuts , Akhrot Giri 1kg (4x250g) ",2599.0,749.0,,,HORAIRA NUTZ,1.0,kg,False,1850.0,71.18,749.0
+547, Healthy Land-Beyond Nutrition Premium Broken Cashew (1kg) ,1599.0,589.0,,( 58.90/100 g),HEALTHY LAND - BEYOND NUTRITION,1.0,kg,False,1010.0,63.16,589.0
+548, The Oil Factory 2L Pomace Olive Oil - 1L Pack of 2 ,1500.0,649.0,,( 324.50/1 l),THE OIL FACTORY,2.0,l,True,851.0,56.73,324.5
+549, NAVJEEVAN TAMARIND | IMLI | CHINCH SEEDLESS 1kg (500g X 2) ,340.0,249.0,,( 124.50/500 g),NAVJEEVAN,1.0,kg,False,91.0,26.76,249.0
+550, Kinsfolk 2 L Groundnut Oil (1 L pack of 2) ,1100.0,439.0,,( 219.50/1 l),KINSFOLK,2.0,l,True,661.0,60.09,219.5
+551, Sunrich Refined Sunflower Oil 4.5 L ,835.0,519.0,,( 103.80/1 l),SUNRICH,4.5,l,False,316.0,37.84,115.33
+552, Double Horse Vadi Matta Rice 5 kg ,420.0,399.0,,,DOUBLE HORSE,5.0,kg,False,21.0,5.0,79.8
+553, Suhana Simla Premium 1 Liter Danedar Cow Ghee | Pure Cow Ghee (PACK OF 6) ,4650.0,2349.0,,,SUHANA SIMLA,1.0,liter,True,2301.0,49.48,2349.0
+554, Everest Pav Bhaji Masala 100 g ,88.0,74.0,,( 74.00/100 g),EVEREST,100.0,g,False,14.0,15.91,740.0
+555, Ching's Secret Chowmein Hakka Noodles Masala 20 g ,55.0,51.0,,,CHING'S SECRET,20.0,g,False,4.0,7.27,2550.0
+556, Desi Kitchen Foxtail Millet 500 g ,75.0,55.0,,,DESI KITCHEN,500.0,g,False,20.0,26.67,110.0
+557, SHAAN-E-SHAUKAT 1121 KINKI 26KG EXTRA LONG GRAIN BASMATI RICE. ,2000.0,1249.0,,( 48.04/1 kg),SHAAN-E-SHAUKAT,1121.0,kinki,False,751.0,37.55,
+558, Good Life MP Sharbatti Atta 1 kg ,52.0,45.0,,,GOOD LIFE,1.0,kg,False,7.0,13.46,45.0
+559," Eatyumm Red Peanuts,2 kg Ground Fresh Nuts (Moongfali Sing Dana)Desi Singdana| Jumbo 2kg Pack ",999.0,469.0,,,EATYUMM,2.0,kg,False,530.0,53.05,234.5
+560, Good Life Premium Ponni Boiled Rice 10 kg ,800.0,699.0,,( 69.90/1 kg),GOOD LIFE,10.0,kg,False,101.0,12.62,69.9
+561, Catch Turmeric Powder 100 g ,37.0,24.0,,,CATCH,100.0,g,False,13.0,35.14,240.0
+562, Marwar Spices - 1.5 Kg (Red Chilly Mirchi Powder+ Coriander (Dhania) + Turmeric (Haldi) Powder) Saver Pack ,635.0,329.0,,( 21.93/100 g),MARWAR,1.5,kg,False,306.0,48.19,219.33
+563, Bharvi Dates With Seeds - 1kg - Premium Dates|Khajoor|Khajur|Cholesterol Free| Soft Dates| ,599.0,251.0,,,BHARVI,1.0,kg,False,348.0,58.1,251.0
+564, Catch Coriander Powder 100 g ,40.0,26.0,,,CATCH,100.0,g,False,14.0,35.0,260.0
+565, Good Life Cloves / Laung 15 g ,35.0,28.0,,( 93.33/50 g),GOOD LIFE,15.0,g,False,7.0,20.0,1866.67
+566, Good Life Premium Ponni Boiled Rice 1 kg ,85.0,73.0,,,GOOD LIFE,1.0,kg,False,12.0,14.12,73.0
+567, Good Life Miniket Rice 10 kg ,700.0,625.0,,( 62.50/1 kg),GOOD LIFE,10.0,kg,False,75.0,10.71,62.5
+568, Lali Balaji Atul Anjeer 500gm (250gm x pack of 2) ,660.0,453.0,,,LALI BALAJI,500.0,gm,True,207.0,31.36,906.0
+569, Foodcan Figs 1 Kg Dry Fruits (Afghani Anjeer| Dried Figs| Medium Size) 1Kg ,1600.0,649.0,,,FOODCAN,1.0,kg,False,951.0,59.44,649.0
+570, Everest Hingraj Powder 50 g ,143.0,132.0,,,EVEREST,50.0,g,False,11.0,7.69,2640.0
+571, Fortune Mini Soya Chunks 200 g ,60.0,55.0,,,FORTUNE,200.0,g,False,5.0,8.33,275.0
+572, Borges Olive Oil for Indian Cooking 2L ,2600.0,2149.0,,,BORGES,2.0,l,False,451.0,17.35,1074.5
+573, Clever Stevia Sugar 500gm low calorie Diabetic friendly Sugar ( Pack of 2 ) ,320.0,318.0,,,CLEVER,500.0,gm,True,2.0,0.62,636.0
+574, Varalakshmi Premium Sabudana / Sago 1 kg ,140.0,108.0,,,VARALAKSHMI,1.0,kg,False,32.0,22.86,108.0
+575, Jivo Pomace Cooking Olive Oil 5 Litre Tin Healthy Cooking Oil (Pack of 1) ,4999.0,2200.0,,,JIVO,5.0,litre,True,2799.0,55.99,
+576, Yogabar 500g Almonds | 100% Natural Premium California Almonds 500g | Premium High Quality Almonds| High in Fiber & Boost Immunity | Real Nuts | Whole Natural Badam ,575.0,449.0,,,YOGABAR,500.0,g,False,126.0,21.91,898.0
+577, Daawat Brown Basmati Rice 1 kg ,190.0,149.0,,,DAAWAT,1.0,kg,False,41.0,21.58,149.0
+578, OREE Premium Pure Natural Fresh Desi Jaggery Soft Block No Sugar Added Gud/ Jaggery Cube(100g) ,199.0,149.0,,,OREE,100.0,g,False,50.0,25.13,1490.0
+579, Snacklorry 1 Kg Walnut Without Shell Quarter Kernels | Kashmiri Quarter Akhrot Giri | Walnut Kernel ,1150.0,674.0,,,SNACK LORRY,1.0,kg,False,476.0,41.39,674.0
+580, RRO Primio Gold Filtered Groundnut Oil 1 L ,255.0,183.0,,,RRO,1.0,l,False,72.0,28.24,183.0
+581, Jivo Cold-Pressed Canola Oil 5L + 1L ,2025.0,1549.0,,,JIVO,5.0,l,False,476.0,23.51,309.8
+582, Aashirvaad Turmeric Powder 500 g ,180.0,90.0,,,AASHIRVAAD,500.0,g,False,90.0,50.0,180.0
+583, 10X SHAKTI CHAKKI FRESH ATTA 10 Kg ,598.0,565.0,,,10X SHAKTI,10.0,kg,False,33.0,5.52,56.5
+584, 41 Foods Dry fruits combo pack of Cashews Almonds Raisins | Kismis Kaju Badam ( 250GM x 3) 750 GM ,1999.0,596.0,,,41 FOODS,41.0,foods,True,1403.0,70.19,
+585, True Elements Chia Seeds 250g - Non-GMO| Rich in Omega -3 & Fibre| Healthy Snacks for Weight loss Pu ,350.0,189.0,,,TRUE ELEMENTS,250.0,g,False,161.0,46.0,756.0
+586, Gemini Refined Soyabean Oil 5 L ,1050.0,604.0,,( 120.80/1 l),GEMINI,5.0,l,False,446.0,42.48,120.8
+587," Nut Toppers Arabian Dates, 800 g (400g x 2) ",500.0,236.0,,,NUT TOPPERS,800.0,g,False,264.0,52.8,295.0
+588, Borges Extra Light Olive Oil 2 L ,2600.0,2199.0,,( 1099.50/1 l),BORGES,2.0,l,False,401.0,15.42,1099.5
+589, BLK Foods Select 1KG Mamra Almonds Big | Original Iranian 1000g (5 X 200g) ,6000.0,2146.0,,,BLK FOODS,1.0,kg,False,3854.0,64.23,2146.0
+590," Living Tree Cashews 1000 gram (250g Value Pack of 4)| 100% Natural & Premium Whole Organic Cashew Nuts| King Size Crunchy Kaju Nuts| Premium Nuts & Dry Fruits| Rich in Fibre, Vitamin E, K, B6 & Boosts Immunity| Healthy Snacks ",1596.0,729.0,,,LIVING TREE,1000.0,gram,True,867.0,54.32,729.0
+591, Foodcan Chilgoza Neja Dry Fruits Lebanon Pine Nuts With Shell 50g ,800.0,349.0,,,FOODCAN,50.0,g,False,451.0,56.38,6980.0
+592, KLF Coconad Coconut Oil 1 L ,300.0,245.0,,,KLF COCONAD,1.0,l,False,55.0,18.33,245.0
+593, India Gate Super Basmati Rice 1 kg ,230.0,219.0,,,INDIA GATE,1.0,kg,False,11.0,4.78,219.0
+594, Good Life Chironji 100 g ,195.0,165.0,,,GOOD LIFE,100.0,g,False,30.0,15.38,1650.0
+595, NUTRIMIXX 100% Natural Premium Crunchy Cashews 1 Kg| Nuts Dry Fruit| Gluten Free ,1799.0,630.0,,,NUTRIMIXX,1.0,kg,False,1169.0,64.98,630.0
+596, Good Life Moth Bean 500 g ,73.0,65.0,,,GOOD LIFE,500.0,g,False,8.0,10.96,130.0
+597, Good Life In-Shell Walnuts 1 kg ,699.0,599.0,,,GOOD LIFE,1.0,kg,False,100.0,14.31,599.0
+598, Everest Sambhar Masala 100 g ,78.0,72.0,,( 72.00/100 g),EVEREST,100.0,g,False,6.0,7.69,720.0
+599, Good Life Premium Ponni Raw Rice 1 kg ,85.0,57.0,,,GOOD LIFE,1.0,kg,False,28.0,32.94,57.0
+600, NAVJEEVAN JEERA WHOLE 1kg. ,1300.0,749.0,,,NAVJEEVAN,1.0,kg,False,551.0,42.38,749.0
+601, Priya Refined Sunflower Oil 15 L (Tin) ,2340.0,1545.0,,( 103.00/1 l),PRIYA,15.0,l,False,795.0,33.97,103.0
+602," Wonderland Foods -Healthy Nuts Dry Fruits Combo Pack of 8 Pistachios 100g, Almond 100g, Cashew 100g, Black & Golden Raisins 100g, Anjeer 100g, Walnut Kernel 100g, Dried Apricot 100g ",1300.0,671.0,,,WONDERLAND FOODS,8.0,pistachios,True,629.0,48.38,
+603, Organic Tattva Raw Peanuts / Groundnuts 500 g ,165.0,129.0,,,ORGANIC TATTVA,500.0,g,False,36.0,21.82,258.0
+604, Pick N Cook Brazil Big Chawli 500 g ,70.0,63.0,,,PICK N COOK,500.0,g,False,7.0,10.0,126.0
+605, Subhog Parimal Rice 10 kg ,560.0,389.0,,( 38.90/1 kg),SUBHOG,10.0,kg,False,171.0,30.54,38.9
+606, Kinsfolk 1 L Extra Light Olive Oil - (Imported Oil from Spain) ,1399.0,344.0,,,KINSFOLK,1.0,l,False,1055.0,75.41,344.0
+607, Pyramid Traders 1 KG Kashmiri Hard Shell Mamra Almond with shell ,1500.0,399.0,,,PYRAMID TRADERS,1.0,kg,False,1101.0,73.4,399.0
+608, LG Compounded Hing 100 g ,182.0,169.0,,,LG,100.0,g,False,13.0,7.14,1690.0
+609, Daawat Devaaya Biryani Basmati Rice 1 kg ,250.0,135.0,,,DAAWAT,1.0,kg,False,115.0,46.0,135.0
+610, Farmley Prasadam Makhana 200g ,240.0,225.0,,,FARMLEY,200.0,g,False,15.0,6.25,1125.0
+611," Dry Mart Kashmiri Walnuts 1KG Without Shell/Premium Fresh Walnut Kernels/Akhrot Giri, Healthy & Delightful, Used for Snacking, Ingredient for Recipes, Cuisines & Desserts, Vaccum Pack (250GM*4) ",1200.0,649.0,,,DRY MART,1.0,kg,False,551.0,45.92,649.0
+612, Kohinoor Charminar Rozana Rice 1 kg ,118.0,75.0,,,KOHINOOR,1.0,kg,False,43.0,36.44,75.0
+613, Pinkcity Wellness 5L Pure Sesame Oil | Til Oil | Gingelly Oil | Wood Pressed | 1 Litre Bottle ,2000.0,1449.0,,,PINKCITY,5.0,l,False,551.0,27.55,289.8
+614, Tata Sampann Meat Masala 100 g ,88.0,44.0,,( 44.00/100 g),TATA SAMPANN,100.0,g,False,44.0,50.0,440.0
+615, Good Life Malka Masoor 500 g ,66.0,58.0,,,GOOD LIFE,500.0,g,False,8.0,12.12,116.0
+616, Good Life Gobindbhog Atap Rice 1 kg ,150.0,114.0,,,GOOD LIFE,1.0,kg,False,36.0,24.0,114.0
+617, VELEE Brand Dryfruits Combo Fruit & Nuts Diwali Gift Fancy Box Hamper P4 200 gram Almond Cashew Raisins Pistachio ,500.0,379.0,,,VELEE,4.0,200,False,121.0,24.2,
+618, Clever Stevia Sugar 500gm caloriefree Diabetic friendly Sugar ,160.0,159.0,,,CLEVER,500.0,gm,False,1.0,0.62,318.0
+619, Pyramid Traders 1 KG Broken Kashmiri Walnut Kernels ,2000.0,630.0,,,PYRAMID TRADERS,1.0,kg,False,1370.0,68.5,630.0
+620, Kasturika Mini Mogra Steam Basmati 30 Kg Rice ,1860.0,1359.0,,( 45.30/1 kg),KASTURIKKA,30.0,kg,False,501.0,26.94,45.3
+621, Shree Tulsi Pure Sesame Oil 1L| Til Oil| Wood Pressed|For Puja use | 1 Litre Bottle ,449.0,269.0,,,SHREE TULSI,1.0,l,False,180.0,40.09,269.0
+622, Sundrop SuperLite Advanced Refined Sunflower Oil 1 L (Pouch) ,265.0,245.0,,,SUNDROP,1.0,l,False,20.0,7.55,245.0
+623, Parivar Premium Lokwan Wheat 10 kg ,515.0,449.0,,( 44.90/1 kg),PARIVAR,10.0,kg,False,66.0,12.82,44.9
+624, GROCERY VILLA anjeer 1kg ,1199.0,549.0,,,GROCERY VILLA,1.0,kg,False,650.0,54.21,549.0
+625, Pink Delight Unpolished Dry Arhar Dal | Toor Daal | Tur Dal | Sambhar Dal | 500 Gm ,280.0,225.0,,,PINK DELIGHT,500.0,gm,False,55.0,19.64,450.0
+626, Suhana Chicken Biryani Spice Mix 50 g ,45.0,36.0,,,SUHANA,50.0,g,False,9.0,20.0,720.0
+627, Fortune Xpert Pro Sugar Conscious Blended Vegetable Oil 5 L ,900.0,699.0,,( 139.80/1 l),FORTUNE,5.0,l,False,201.0,22.33,139.8
+628," Farmley Premium W240 Cashews, 100% Natural, Handpicked Kaju, 250 g ",399.0,349.0,,,FARMLEY,240.0,cashews,False,50.0,12.53,
+629, Nutrela Soya Wadi 200 g ,60.0,54.0,,,NUTRELA,200.0,g,False,6.0,10.0,270.0
+630," GreenFinity 100% Iranian Pistachios Roasted & Salted, 500g [Jar Pack]. ",999.0,599.0,,,GREENFINITY,500.0,g,False,400.0,40.04,1198.0
+631," Farmley Premium Long Raisin (Kishmish) , Freshly Farm Picked, Healthy & Juicy 500 g ",239.0,215.0,,,FARMLEY,500.0,g,False,24.0,10.04,430.0
+632, GIRIRAJ PRODUCTS PURE & NATURAL ANJEER 1KG [FIGS 1KG] ,1499.0,549.0,,,GIRIRAJ PRODUCTS PURE & NATURAL,1.0,kg,False,950.0,63.38,549.0
+633," GreenFinity 100% Iranian Pistachios Roasted & Salted, 500g + 500g [Jar Pack]. ",1999.0,1154.0,,,GREENFINITY,500.0,g,False,845.0,42.27,2308.0
+634," Vganic Peanuts/Moongfali Dana, Unpolished Peanuts Rich in Protein & Essential Nutrients, 250 gm ",165.0,156.0,,,VGANIC,250.0,gm,False,9.0,5.45,624.0
+635, Everest Chicken Masala 100 g ,92.0,85.0,,( 85.00/100 g),EVEREST,100.0,g,False,7.0,7.61,850.0
+636, Sundrop Heart Blended Edible Vegetable Oil 3 L ,429.0,429.0,,( 143.00/1 l),SUNDROP,3.0,l,False,0.0,0.0,143.0
+637, Dhara Nourish Vit A E Refined Sunflower Oil 15 L ,2480.0,1799.0,,( 119.93/1 l),DHARA,15.0,l,False,681.0,27.46,119.93
+638," Mix Berry Dried without Sugar |Organic, 100% Natural, 0% Preservatives, Vegan, Sugar Free Imported Berries - 50g ",399.0,199.0,,,THE BERRY PEOPLE - FINEST BERRIES FOR FINEST PEOPLE,50.0,g,False,200.0,50.13,3980.0
+639, Bansuri gold Pure Sesame Oil 1L| Til Oil| Wood Pressed|For Puja use | 1 Litre Bottle-1 ,449.0,279.0,,,BANSURIGOLD,1.0,l,False,170.0,37.86,279.0
+640, Good Life Fine Mustard 100 g ,25.0,17.0,,( 8.50/50 g),GOOD LIFE,100.0,g,False,8.0,32.0,170.0
+641, GKD's Premium 100% Pure Coconut Oil Jar 1L ,380.0,299.0,,,GKD'S PREMIUM,1.0,l,False,81.0,21.32,299.0
+642, Coreganic 1kg 100% Natural International Popular Whole Cashews ,1599.0,719.0,,,COREGANIC,1.0,kg,False,880.0,55.03,719.0
+643, Pansari Kachi Ghani Mustard Oil 5L Jar | Pure Sarso Cooking Oil | Good for Bones & Heart | Improve functioning of Organs | Suitable for all Ages ,1230.0,839.0,,,PANSARI,5.0,l,False,391.0,31.79,167.8
+644, Good Life Rozana Dubar Basmati Rice 1 kg ,89.0,75.0,,,GOOD LIFE,1.0,kg,False,14.0,15.73,75.0
+645, Freshtige Premium Dried Afghani Anjeer 1KG Pouch Pack| Dried Figs| Non-GMO Dried Figs ,1499.0,610.0,,,FRESHTIGE,1.0,kg,False,889.0,59.31,610.0
+646, Desi Kitchen Kodo Millet 500 g ,75.0,55.0,,,DESI KITCHEN,500.0,g,False,20.0,26.67,110.0
+647, Rice Villa YUVRAJ Sona Masuri (Sambha) Steam Rice 26kg ,2210.0,1758.0,,( 67.62/1 kg),"RICE VILLA, DEVICE OF SHIELD, PADDY TREE",26.0,kg,False,452.0,20.45,67.62
+648, Naturoz Daily Whole Cashews 500 g ,625.0,429.0,,,NATUROZ,500.0,g,False,196.0,31.36,858.0
+649, Maharani Premium Mongra | Mungra | Tini Mongra Daily basmatiÂ riceÂ 30Â kg ,1680.0,1599.0,,( 53.30/1 kg),MAHARANI,30.0,â,False,81.0,4.82,
+650, SURYA 400gm RED CHILLI (LAL MIRCHI) WHOLE WITH STEM (Pack of 2; 200gm x 2) | Dried Whole Spices ,290.0,159.0,,,SURYA,400.0,gm,True,131.0,45.17,397.5
+651, Veganic Indian Sweet Dry Agra Petha | Famous Agra Sweets | Aagra Ka Pethha | Mithai/Meethai (400g) ,299.0,199.0,,,VEGANIC,400.0,g,False,100.0,33.44,497.5
+652," Pure Pik Byadgi Chilli Whole, Stemless, Red Chilli Whole, Dry Red Chilli, Lal Mirch Sabut, 100 G ",299.0,209.0,,,PURE PIK,100.0,g,False,90.0,30.1,2090.0
+653, Good Life Bajra 1 kg ,59.0,49.0,,,GOOD LIFE,1.0,kg,False,10.0,16.95,49.0
+654, Farmley Premium Pumpkin Seeds 200g ,229.0,189.0,,,FARMLEY,200.0,g,False,40.0,17.47,945.0
+655, PINK DELIGHT DAAL COMBO | ARHAR | CHANA | MOONG DHULI | MOONG CHILKA | URAD DHULI | 1 KG EACH ,1500.0,1069.0,,,PINK DELIGHT,1.0,kg,False,431.0,28.73,1069.0
+656," Foodcan Natural Pista Pistachios (Roasted & Salted, in Shell- Super Quality Big Size) 500g ",1200.0,549.0,,,FOODCAN,500.0,g,False,651.0,54.25,1098.0
+657, Catch Peri Peri Masala Sprinkler 90 g ,99.0,49.0,,,CATCH,90.0,g,False,50.0,50.51,544.44
+658, Appu Red Chilli Powder 1KG | Lal Mirchi Powder |Red Chilly Powder ,320.0,279.0,,,APPU,1.0,kg,False,41.0,12.81,279.0
+659, Catch Chat Masala Sprinklers 100 g ,85.0,76.0,,( 76.00/100 g),CATCH,100.0,g,False,9.0,10.59,760.0
+660, KEYA Oregano -10 g and Red Chilli Flakes -40 g Combo ,208.0,176.0,,,KEYA,10.0,g,False,32.0,15.38,17600.0
+661," Farmbean Millets 5Kg Combo Pack of 10 | Foxtail, Kodo, Little, Barnyard, Browntop Millet| Low GI | Nutrient Powerhouse, High Protein & More Fibre than Rice ",2499.0,1099.0,,,FARMBEAN,5.0,kg,True,1400.0,56.02,219.8
+662, BANIYA SETH Handpicked Lotus Seeds / Fox Nuts Big Size Phool Makhana (Pop / Gorgon Nut Puffed Kernels ) (100g) ,399.0,249.0,,,BANIYYA SETH,100.0,g,False,150.0,37.59,2490.0
+663, RENTIO Oiled Toor Dal 2 kg | Premium Desi oiled Tur/Arhar Dal | 2 Packs of 1 kg each ,620.0,559.0,,,RENTIO,2.0,kg,False,61.0,9.84,279.5
+664, Everest Chicken Masala 50 g ,47.0,43.0,,( 86.00/100 g),EVEREST,50.0,g,False,4.0,8.51,860.0
+665, Tata Sampann Unpolished Whole Urad 500 g ,113.0,105.0,,,TATA SAMPANN,500.0,g,False,8.0,7.08,210.0
+666, Rishi Pure Kimia Dates Gold Premium Dried Dates 600gm ,699.0,329.0,,,RISHI PURE,600.0,gm,False,370.0,52.93,548.33
+667, KAUL's 100% Natural Premium 1Kg (500 gms Pack of 2) Whole Cashews| Nutritious & Delicious Big Size Kaju ,1999.0,699.0,,,KAUL'S,1.0,kg,True,1300.0,65.03,699.0
+668, Organic Tattva Tur / Arhar Dal 1 kg ,295.0,232.0,,,ORGANIC TATTVA,1.0,kg,False,63.0,21.36,232.0
+669, Fortune Biryani Special Basmati Rice 5 kg ,1050.0,789.0,,,FORTUNE,5.0,kg,False,261.0,24.86,157.8
+670, Saffola Tasty Pro Fitness Concious Corn Based Blended Edible Vegetable Oil 5 L ,805.0,649.0,,( 129.80/1 l),SAFFOLA,5.0,l,False,156.0,19.38,129.8
+671, Pink Delight Seedless Tamarind| Sabut Imli| Bina Beej Imli | 1 Kg ,480.0,260.0,,,PINK DELIGHT,1.0,kg,False,220.0,45.83,260.0
+672, Trinetra Sugar 5 kg ,1999.0,499.0,,,TRINETRA,5.0,kg,False,1500.0,75.04,99.8
+673, Suhana Paneer Butter Masala Mix 50 g ,45.0,36.0,,,SUHANA,50.0,g,False,9.0,20.0,720.0
+674, Pillsbury Multigrain Atta 5 kg ,352.0,264.0,,( 48.00/1 kg),PILLSBURY,5.0,kg,False,88.0,25.0,52.8
+675, Kimia Dates | Original Kimia Dates | 500 Gm Each | Pack of 2 | 1 Kg ,550.0,480.0,,,KIMIA DATES,500.0,gm,True,70.0,12.73,960.0
+676, Shreeja Premium Makhana 1 kg Phool Makhana | Lotus Seeds (Makhana) ,999.0,638.0,,,SHREEJA,1.0,kg,False,361.0,36.14,638.0
+677, Eco Herbs Coconut Dried Copra 1 kg ,399.0,289.0,,,ECO HERBS,1.0,kg,False,110.0,27.57,289.0
+678, Farmley 200g Broken Walnuts Kernels Premium ,360.0,239.0,,,FARMLEY,200.0,g,False,121.0,33.61,1195.0
+679," Sangamam Rice, Sastha Sona Masoori Rice (26 Kg) , Broken Rice, Premium Sona Masoori Rice ",1799.0,1479.0,,( 56.88/1 kg),SANGAMAM RICE,26.0,kg,False,320.0,17.79,56.88
+680, HAYYAN Own Farm Chemical free Sun dried Half Cut Coconuts ( Copra) - 400 gm ,350.0,170.0,,,HAYYAN,400.0,gm,False,180.0,51.43,425.0
+681, Ching's Secret Schezwan Fried Rice Masala 100 g (5 Sachets) ,60.0,49.0,,( 49.00/100 g),CHING'S SECRET,100.0,g,False,11.0,18.33,490.0
+682, Ching's Secret Veg Manchurian Masala 20 g ,10.0,9.0,,,CHING'S SECRET,20.0,g,False,1.0,10.0,450.0
+683, Catch Coriander Powder 500 g ,205.0,137.0,,( 27.40/100 g),CATCH,500.0,g,False,68.0,33.17,274.0
+684," Yogabar Almonds 1 kg (500g Pack of 2)| 100% Premium California Dried Almonds |Badam Giri Nuts & Dry Fruits| Rich in Fiber, vitamin E, Magnesium, Calcium & Boost Immunity| Healthy Badami Snacks ",1150.0,799.0,,,YOGABAR,1.0,kg,True,351.0,30.52,799.0
+685, Pink Delight Triple Refined Bura | Handmade | Sugar Powder | Kand | 500 Gm Pack ,200.0,149.0,,,PINK DELIGHT,500.0,gm,False,51.0,25.5,298.0
+686, Daawat Biryani Basmati Rice 1 kg ,235.0,195.0,,,DAAWAT,1.0,kg,False,40.0,17.02,195.0
+687, Nature's Choice Royale Fard Dates 500 g ,250.0,165.0,,,NATURE'S CHOICE,500.0,g,False,85.0,34.0,330.0
+688, Tulsi California Inshell Walnuts 1 kg ,775.0,499.0,,,TULSI,1.0,kg,False,276.0,35.61,499.0
+689, Aashirvaad Kashmiri Mirch Powder 100 g ,140.0,70.0,,,AASHIRVAAD,100.0,g,False,70.0,50.0,700.0
+690, Molsi's 400g Dry Roasted and Salted Pistachios (200gX2) ,750.0,485.0,,,MOLSI'S,400.0,g,False,265.0,35.33,1212.5
+691, Pink Delight Natural Organic Jaggery Cubes | Purest Jaggery | No Preservatives/Chemicals| 500 Gm Jar ,300.0,198.0,,,PINK DELIGHT,500.0,gm,False,102.0,34.0,396.0
+692, Khari Foods 1kg Almonds | California Badam Dry Fruit | Healthy Snacks ,1599.0,689.0,,,KHARI FOODS,1.0,kg,False,910.0,56.91,689.0
+693, Nuts About You WALNUT Inshell 1 kg ,900.0,520.0,,,NUTS ABOUT YOU,1.0,kg,False,380.0,42.22,520.0
+694, GKD's Premium 100% Pure Coconut Oil Jar 1L (Pack of 2) ,760.0,599.0,,,GKD'S PREMIUM,1.0,l,True,161.0,21.18,599.0
+695, Tata Sampann Turmeric Powder 100 g ,41.0,32.0,,,TATA SAMPANN,100.0,g,False,9.0,21.95,320.0
+696," Blueberry Dried without Sugar |Organic, 100% Natural, 0% Preservatives, Vegan, Sugar Free Imported Berries ",499.0,265.0,,,THE BERRY PEOPLE - FINEST BERRIES FOR FINEST PEOPLE,,none,False,234.0,46.89,
+697, Jivo Gold Refined Oil Blend of Rice Bran oil & Sunflower oil 5 litre ,1049.0,749.0,,,JIVO,5.0,litre,False,300.0,28.6,
+698, The Oil Factory Cold Pressed Organic Sesame Oil - 500 Ml ,360.0,180.0,,( 360.00/1 l),THE OIL FACTORY,500.0,ml,False,180.0,50.0,360.0
+699, Double Horse Palakkadan Matta Rice 5 kg ,380.0,365.0,,,DOUBLE HORSE,5.0,kg,False,15.0,3.95,73.0
+700, Pyramid Traders 1 KG Kashmiri Walnuts ,1500.0,450.0,,( 225.00/500 g),PYRAMID TRADERS,1.0,kg,False,1050.0,70.0,450.0
+701, Long Live Extra Virgin Olive Oil (( Cold Pressed)) - 1 Ltr ,1100.0,449.0,,( 449.00/1 l),LONG LIVE,1.0,ltr,False,651.0,59.18,449.0
+702, Haldiram's Nagpur Fancy Dry Fruits Gift Box (WW) ,375.0,375.0,,,HALDIRAM'S NAGPUR,,none,False,0.0,0.0,
+703, JD NUTS Dry Fig Afghani Anjeer Figs Afghanistan Dry Anjir Dried Anjeer Dry Fruits Pouch Pack 1 Kg ,1299.0,484.0,,,JD NUTS,1.0,kg,False,815.0,62.74,484.0
+704, SHAAN-E-SHAUKAT 1121 MONGRA 30 KG BASMATI RICE - BEST MONGRA ,2800.0,1699.0,,( 56.63/1 kg),SHAAN-E-SHAUKAT,1121.0,mongra,False,1101.0,39.32,
+705, Tata Sampann Chilli Powder 100 g ,73.0,58.0,,,TATA SAMPANN,100.0,g,False,15.0,20.55,580.0
+706," Sri Sri Tattva Chana Dal - Split Bengal Gram, 1kg x Pack of 2 ",250.0,212.0,,,SRI SRI TATTVA,1.0,kg,True,38.0,15.2,212.0
+707, Smith & Jones Pasta Masala 98 g ,70.0,55.0,,( 56.12/100 g),SMITH & JONES,98.0,g,False,15.0,21.43,561.22
+708, Nutrela Soya Granules 200 g ,60.0,54.0,,,NUTRELA,200.0,g,False,6.0,10.0,270.0
+709," Wheatkart Kitchen Basket ( Atta,Maida,Sooji,Besan) ",1396.0,699.0,,( 60.78/1 kg),WHEATKART,,none,False,697.0,49.93,
+710, Tata Sampann Turmeric Powder 200 g ,76.0,60.0,,,TATA SAMPANN,200.0,g,False,16.0,21.05,300.0
+711, Molimor Unrefined Ground nut oil/100% PURE/15 KG ,3800.0,3750.0,,( 237.34/1 kg),MOLIMOR,15.0,kg,False,50.0,1.32,250.0
+712, Dr. Brand Sakariya / Prasad Sugar 150 g ,16.0,14.0,,,DR. BRAND,150.0,g,False,2.0,12.5,93.33
+713, Eatyumm Cumin Seeds (Jeera) 1kg|Kitchen Spice|Organic Farm Jeera Cumin Seeds jeera ,1499.0,799.0,,,EATYUMM,1.0,kg,False,700.0,46.7,799.0
+714, Tata Sampann Chaat Masala 100 g ,80.0,40.0,,( 40.00/100 g),TATA SAMPANN,100.0,g,False,40.0,50.0,400.0
+715, GKD's Premium 100% Pure Coconut Oil Pouch 1 L ,330.0,269.0,,,GKD'S PREMIUM,1.0,l,False,61.0,18.48,269.0
+716, Good Life Big Brown Chana 1 kg ,185.0,145.0,,,GOOD LIFE,1.0,kg,False,40.0,21.62,145.0
+717, Nature Aahar's Premium 1kg Anjeer - Delicious and Nutritious Dry Figs ,1999.0,499.0,,( 249.50/500 g),NATUREAAHAR,1.0,kg,False,1500.0,75.04,499.0
+718, Catch Red Chilli Powder 500 g ,300.0,200.0,,,CATCH,500.0,g,False,100.0,33.33,400.0
+719, BLK Foods Select 1.0Kg Jumbo Super Crunchy Almonds Californian ,2250.0,897.0,,,BLK FOODS,1.0,kg,False,1353.0,60.13,897.0
+720, Marwar Combo Pack of | Pumpkin Seeds + Sunflower Seeds | 250 Gms Each | Pack of 2 ,800.0,299.0,,,MARWAR,250.0,gms,True,501.0,62.62,
+721, Nutrela Soya Chunks / Wadi 1 kg ,210.0,149.0,,,NUTRELA,1.0,kg,False,61.0,29.05,149.0
+722," Dhampur Green 800g Organic Jaggery Powder | 100% Organic, 100% Pure & 100% Chemical Free | Jaggery Powder For Tea and Coffee , Milk, Mithai Sweets ",199.0,197.0,,( 246.25/1 kg),DHAMPUR GREEN,800.0,g,False,2.0,1.01,246.25
+723," RRAAMS Healthy Phool Makhana (Fox nuts/Lotus Seeds) , Total 750 gms (Pack of 3 x 250 gms) ",897.0,499.0,,,RRAAMS FOOD INTERNATIONAL,750.0,gms,True,398.0,44.37,
+724, India Gate Classic Basmati Rice 5 kg ,1170.0,899.0,,,INDIA GATE,5.0,kg,False,271.0,23.16,179.8
+725," YUM YUM 1 kg California Almonds, 100% Natural Badam Giri Dry Fruits ",1850.0,799.0,,,YUM YUM,1.0,kg,False,1051.0,56.81,799.0
+726, Kanaiya Murmura 500 g ,60.0,45.0,,,KANAIYA,500.0,g,False,15.0,25.0,90.0
+727, Snapin Pizza Seasoning Combo 42 g ,60.0,49.0,,( 11.67/10 g),SNAPIN,42.0,g,False,11.0,18.33,1166.67
+728, Kriti Refined Sunflower Oil - 5L Square Jar (Pack of 1) ,749.0,649.0,,( 129.80/1 l),KRITI,5.0,l,True,100.0,13.35,129.8
+729, India Gate Weight Watchers Special Brown Rice 1 kg ,152.0,132.0,,,INDIA GATE,1.0,kg,False,20.0,13.16,132.0
+730, SURYA 200gm CINNAMON STICKS (DALCHINNI) | WHOLE SPICES| HERBS ,175.0,169.0,,( 84.50/100 g),SURYA,200.0,gm,False,6.0,3.43,845.0
+731, Everest Sabji Masala 100 g ,72.0,66.0,,( 66.00/100 g),EVEREST,100.0,g,False,6.0,8.33,660.0
+732, Good Life Lokwan Wheat 10 kg ,600.0,369.0,,( 36.90/1 kg),GOOD LIFE,10.0,kg,False,231.0,38.5,36.9
+733," GreenFinity Mix Dry Fruits and Nuts, 500g [Almonds, Pistachios, Walnuts, Cashew, Pumpkin, Cranberry, Black Raisin] Healthy Gift Hamper for Every Occasion Fresh and Healthy Dry Fruits, Seeds & Nuts. ",994.0,399.0,,,GREENFINITY,500.0,g,False,595.0,59.86,798.0
+734," Farmley Premium California Roasted & Salted Pistachios 400g, Pack of 2 Each- 200g ",738.0,549.0,,,FARMLEY,400.0,g,True,189.0,25.61,1372.5
+735, Good Life Kalimunch Raw Rice 1 kg ,65.0,65.0,,,GOOD LIFE,1.0,kg,False,0.0,0.0,65.0
+736, Everest Turmeric Powder 500 g ,180.0,153.0,,,EVEREST,500.0,g,False,27.0,15.0,306.0
+737," GreenFinity Raw Chia Seeds, Flax Seeds, Pumpkin Seed, Sunflower Seed, Watermelon Seeds & Muskmelon Seeds Combo(950g, Pack of 6) ",699.0,545.0,,,GREENFINITY,950.0,g,True,154.0,22.03,573.68
+738, Nature Fresh Sampoorna Chakki Whole Wheat Atta 5 kg ,240.0,215.0,,( 43.00/1 kg),NATURE FRESH,5.0,kg,False,25.0,10.42,43.0
+739, Catch Chicken Masala 100 g ,90.0,45.0,,( 45.00/100 g),CATCH,100.0,g,False,45.0,50.0,450.0
+740," Farmley Dry Fruit Seed Mix 400g Chia seeds, Pumpkin seeds, Flax Seed & More Seed, Roasted seeds ",399.0,249.0,,,FARMLEY,400.0,g,False,150.0,37.59,622.5
+741," Khari Foods Organic Pure Jaggery Powder 2kgs, Natural Sweetener, No Adulteration ",799.0,349.0,,,KHARI FOODS,2.0,kgs,False,450.0,56.32,
+742, Organic Tattva Ragi Millet Flour 500 g ,70.0,46.0,,,ORGANIC TATTVA,500.0,g,False,24.0,34.29,92.0
+743, Nature's Bridge Seedless Black Raisins | Dried Kishmish Without Seeds | Raisins- 250 Gm Jar ,399.0,199.0,,,NATURE'S BRIDGE,250.0,gm,False,200.0,50.13,796.0
+744, GreenFinity Cardamom Green Whole - 50gm + 50gm Sabut Elaichi Grade - Big Size (Buy 1 Get 1 Free). ,794.0,264.0,,,GREENFINITY,50.0,gm,False,530.0,66.75,5280.0
+745, The Oil Factory 5.25L Pomace Olive Oil | Ideal for All Indian Cooking | Imported from Spain ,4500.0,1600.0,,( 304.76/1 l),THE OIL FACTORY,5.25,l,False,2900.0,64.44,304.76
+746, ANMOL RICH 26 Kg Raw Sona Masoori Rice ,1999.0,1699.0,,( 65.35/1 kg),ANMOL,26.0,kg,False,300.0,15.01,65.35
+747, Fortune Dubar Basmati Rice 1 kg ,149.0,116.0,,,FORTUNE,1.0,kg,False,33.0,22.15,116.0
+748, Nutraj Recipe Ready Walnut Kernels 500g (250g X 2) | Akhort Giri 500g | Walnut without Shell ,898.0,519.0,,( 260.49/250 g),NUTRAJ,500.0,g,False,379.0,42.2,1038.0
+749, FreshoCartz Dried Figs Premium Quality Afghani Anjir 1 kg ,1599.0,569.0,,,FRESHOCARTZ,1.0,kg,False,1030.0,64.42,569.0
+750, Kinsfolk 2 L Pure Coconut Oil (1L pack of 2) ,1500.0,439.0,,( 219.50/1 l),KINSFOLK,2.0,l,True,1061.0,70.73,219.5
+751, Navjeevan No.1 Hing Powder 500g. ,700.0,420.0,,,NAVJEEVAN,1.0,hing,False,280.0,40.0,
+752, Horaira Nutz Raisins Almonds Cashews Pistachios Combo Pack 1kg(250gm Pack of 4) ,1999.0,859.0,,,HORAIRA NUTZ,1.0,kg,True,1140.0,57.03,859.0
+753, FarmNuts-Seedless Green Raisins |kismis| |Dry Grapes| |kishmish| Significantly Lower Blood Pressure (100 gm) ,220.0,149.0,,,FARMNUTS,100.0,gm,False,71.0,32.27,1490.0
+754, Good Life Idli Rawa 500 g ,25.0,23.0,,,GOOD LIFE,500.0,g,False,2.0,8.0,46.0
+755, Brij gwala Wawa Desi Cow Ghee| Pure Cow Ghee for Better Digestion and Immunity| 1Ltr Tetra-1 ,580.0,399.0,,,BRIJ GWALA,1.0,ltr,False,181.0,31.21,399.0
+756," RRAAMS Healthy Phool Makhana (Fox nuts/Lotus Seeds) , Total 250 gms (Pack of 1 x 250 gms) ",299.0,199.0,,,RRAAMS FOOD INTERNATIONAL,250.0,gms,True,100.0,33.44,
+757, Kinsfolk 5.25 L Cold Pressed Groundnut Oil Plastic Bottle ,1999.0,1333.0,,( 253.90/1 l),KINSFOLK,5.25,l,False,666.0,33.32,253.9
+758, DS AGRO - Whole Raw Broken Cashews - 1 KG | 1/2 Pieces | 500 gm x 2 | Pack of 2 | Pet jar | W320 Grade ,1099.0,649.0,,,DS AGRO,1.0,kg,True,450.0,40.95,649.0
+759, The Nature Krafts Jumbo Handpicked Lotus Seeds /Fox Nuts Big Size Phool Makhana 1kg (Pop / Gorgon Nut Puffed Kernels ) ,1599.0,999.0,,,THE NATURE KRAFTS,1.0,kg,False,600.0,37.52,999.0
+760, Brij Gwala Desi Cow Ghee |Made Traditionally from Curd |Pure Cow Ghee for Better Digestion and Immunity | 1Ltr Tetra Pack ,580.0,398.0,,,BRIJ GWALA,1.0,ltr,False,182.0,31.38,398.0
+761," Angur Chana Dal | 100% Vegan, Unpolished and Gluten Free Dal - 5Kg ",950.0,599.0,,,ANGUR,5.0,kg,False,351.0,36.95,119.8
+762," Dry Fruit Hub - Kesar Saffron Original 1gm | Daily Nuts kumkumapuvvu, A+ + Grade Kashmiri Kesar ",449.0,320.0,,,DRY FRUIT HUB,1.0,gm,False,129.0,28.73,320000.0
+763," Mr.Gold Refined Sunflower Oil Can, 3L ",870.0,500.0,,,MR. GOLD,3.0,l,False,370.0,42.53,166.67
+764, Good Life (W240) Cashews 200 g ,260.0,180.0,,,GOOD LIFE,200.0,g,False,80.0,30.77,900.0
+765, Mirchillion 1Kg Kashmiri Chilli Powder Saver Pack ,799.0,639.0,,( 639.00/1 kg),MIRCHILLION,1.0,kg,False,160.0,20.03,639.0
+766, NUTRIMIXX Premium Kashmiri Mamra Almonds| 1 Kg | A+ grade Badam| High Protein & Vit E Content ,2899.0,1300.0,,,NUTRIMIXX,1.0,kg,False,1599.0,55.16,1300.0
+767, Pick N Cook Matki 500 g ,85.0,77.0,,,PICK N COOK,500.0,g,False,8.0,9.41,154.0
+768, Wonderland Foods Premium Roasted & Salted Pistachios 200 g ,390.0,209.0,,,WONDERLAND FOODS,200.0,g,False,181.0,46.41,1045.0
+769, Lali Balaji Atul Anjeer 1000gm (250gm x pack of 4) ,1320.0,833.0,,,LALI BALAJI,1000.0,gm,True,487.0,36.89,833.0
+770, Wonderland Foods Premium Munch The Healthy Crunch Value Pack Almonds 500 g ,725.0,349.0,,,WONDERLAND FOODS,500.0,g,False,376.0,51.86,698.0
+771, Sundrop Lite Sunflower Refined Oil 1 L ,190.0,159.0,,,SUNDROP,1.0,l,False,31.0,16.32,159.0
+772, Tilsona Gold Til Oil 1 L ,415.0,375.0,,,TILSONA,1.0,l,False,40.0,9.64,375.0
+773, Pinkcity Wellness Cold Pressed Yellow Mustard Oil 4 L | Wood Pressed| 4x 1 Litre Bottle ,1600.0,799.0,,,PINKCITY,4.0,l,False,801.0,50.06,199.75
+774, Snapin Pizza Mix 45 g ,99.0,92.0,,( 20.44/10 g),SNAPIN,45.0,g,False,7.0,7.07,2044.44
+775, Organic Tattva Kabuli Chana 500 g ,175.0,117.0,,,ORGANIC TATTVA,500.0,g,False,58.0,33.14,234.0
+776, Chandan Special Mukhwas 100 g ,45.0,22.0,,( 11.00/50 g),CHANDAN,100.0,g,False,23.0,51.11,220.0
+777, La Casa Original Lacha Kashmiri Saffron Kesar 2 Gm (1gx2) ,999.0,349.0,,,LA CASA,2.0,gm,False,650.0,65.07,174500.0
+778, Everest Garam Masala 50 g ,52.0,48.0,,( 96.00/100 g),EVEREST,50.0,g,False,4.0,7.69,960.0
+779, Ahaar Chana Brown 1Kg /Kala Chana whole ,236.0,236.0,,,AHAAR,1.0,kg,False,0.0,0.0,236.0
+780, Goldiee Kashmiri Mirch Powder 100 g ,116.0,58.0,,,GOLDIEE,100.0,g,False,58.0,50.0,580.0
+781, RENTIO 5 Kg Oiled Toor Dal | Fresh Premium Desi Oily Tur/Arhar Dal ,1550.0,1319.0,,,RENTIO,5.0,kg,False,231.0,14.9,263.8
+782, Everest Turmeric Powder 200 g ,70.0,65.0,,,EVEREST,200.0,g,False,5.0,7.14,325.0
+783, Magik Cook Besan Premium Quality 100% Chana Dal Gram Flour (Pack of 500 Gram) ,75.0,75.0,,,MAGIK COOK,500.0,gram,True,0.0,0.0,150.0
+784, Sagar Pure Ghee 1 L (Tin) ,650.0,610.0,,,SAGAR,1.0,l,False,40.0,6.15,610.0
+785, Good Life Arwa Katarni Rice 10 kg ,700.0,559.0,,( 55.90/1 kg),GOOD LIFE,10.0,kg,False,141.0,20.14,55.9
+786," GreenFinity Healthy & Tasty Jumbo Pumpkin, Jumbo Sunflower - 250g, Flax Seeds, Chia Seeds - 300g Jar ",899.0,414.0,,,GREENFINITY,250.0,g,False,485.0,53.95,1656.0
+787, Gemini Vanaspati 1 L ,150.0,118.0,,,GEMINI,1.0,l,False,32.0,21.33,118.0
+788, Ponkathir White Puttu Podi 1Kg x 2 Pkts(2 Kg) | Soft Puttu| Rice Powder| Export Quality (2Kg) ,244.0,244.0,,,PONKATHIR,1.0,kg,False,0.0,0.0,244.0
+789, Tata Sampann Kasuri Methi 25 g ,30.0,15.0,,,TATA SAMPANN,25.0,g,False,15.0,50.0,600.0
+790, ANDRAMART- Solitaire Whole Cashew - 1 kg | kaju | Best Quality Cashews from PALASA ,1200.0,649.0,,,ANDRAMART,1.0,kg,False,551.0,45.92,649.0
+791," RED ROSE DAILY BASMATI RICE, SUPER MONGRA, RICH AROMA, PERFECT FOR EVERYDAY USE, 10 KG ",999.0,799.0,,( 79.90/1 kg),RED ROSE,10.0,kg,False,200.0,20.02,79.9
+792," Happilo Essentials Popular Whole Cashew W400 500g, Healthy Snack, Source of Protein ",675.0,469.0,,,HAPPILO,400.0,500g,False,206.0,30.52,
+793, Wonderland Foods Dry Fruits California Almonds 1Kg & Raw Cashew (Kaju) 1Kg W320 Grade Combo Pack ,3400.0,1625.0,,,WONDERLAND FOODS,1.0,kg,False,1775.0,52.21,1625.0
+794, Jivo Cold Pressed Canola Oil 1 L (Buy 1 & Get 1 free) ,650.0,469.0,,,JIVO,1.0,l,False,181.0,27.85,469.0
+795, DAIRY GOPAL DAIRY MAKHAN 1 Litre Desi Cow Ghee|Immunity Booster and 100% Pure Cow Ghee|Made Traditionally from Curd |Pure Ghee for Better Digestion and Immunity Pure Ghee (Pack of 1) ,680.0,399.0,,,DAIRY GOPAL,1.0,litre,True,281.0,41.32,
+796, Khari Foods 1kg Black Kimia Dates | Premium Dates | Healthy Snacks ,699.0,349.0,,,KHARI FOODS,1.0,kg,False,350.0,50.07,349.0
+797," Freshtige Dried Premium Afghani Apricots (Khurbani)1000g(1Kgs) Pouch Pack | Vegan,Sun Dried Apricots ",799.0,391.0,,,FRESHTIGE,1000.0,g,False,408.0,51.06,391.0
+798," GreenFinity Raw Pumpkin, Sunflower Seeds for Eating Protein and Fibre Rich Food For Immunity Booster Diet Food Pack of 2 - 250g (JAR Pack) ",998.0,354.0,,,GREENFINITY,250.0,g,True,644.0,64.53,1416.0
+799, Catch Amchur Powder 50 g ,47.0,31.0,,,CATCH,50.0,g,False,16.0,34.04,620.0
+800, Nature Prime Premium Plain Unsalted Pistachio Kernels Without Shell 250G ,1000.0,329.0,,,NATURE PRIME,250.0,g,False,671.0,67.1,1316.0
+801, Catch Red Chilli Powder 200 g ,133.0,88.0,,,CATCH,200.0,g,False,45.0,33.83,440.0
+802," Dhanush Baan Premium Afghani Black Raisins, Kali Kishmish 500 g - Jar (2 x 250 g) Kismis Dry Fruits ",550.0,261.0,,,DHANUSH BAN,500.0,g,False,289.0,52.55,522.0
+803," Dry Fruit Hub Pumpkin Seeds 1Kg - AAA Grade, Raw Pumpkin Seed, Super Diet Food ",1050.0,649.0,,,DRY FRUIT HUB,1.0,kg,False,401.0,38.19,649.0
+804, Emperor Seedless Dates 500 g ,280.0,199.0,,,EMPEROR,500.0,g,False,81.0,28.93,398.0
+805, Everest Chaat Masala 100 g ,85.0,79.0,,( 79.00/100 g),EVEREST,100.0,g,False,6.0,7.06,790.0
+806, SIMAV NATURALLY GOOD Groundnut Oil | Mungfali Ka Tel | Peanut Oil- 15Liter. ,4499.0,3149.0,,( 209.93/1 l),SIMAV NATURALLY GOOD,15.0,liter,False,1350.0,30.01,209.93
+807, Jivo Cold Pressed Canola Oil 5 L and Get 1 L Olive Oil Free ,1650.0,1399.0,,( 233.17/1 l),JIVO,5.0,l,False,251.0,15.21,279.8
+808, 24 Mantra Organic Ragi Flour 500 g ,65.0,60.0,,,24 MANTRA ORGANIC,24.0,mantra,False,5.0,7.69,
+809, Priya Kachi Ghani Mustard Oil 1 L ,189.0,129.0,,,PRIYA,1.0,l,False,60.0,31.75,129.0
+810, Gulab Gold Filtered Groundnut Oil 15 L ,3647.0,3069.0,,( 204.60/1 l),GULAB,15.0,l,False,578.0,15.85,204.6
+811, 24 Mantra Organic Unpolished Kabuli Chana/White Chickpeas/Chole - 500Gm | Pack of 1 | Chemical Free & Pesticides Free | Adds Variety to Your menu | Goodness Intact ,195.0,195.0,,,24 MANTRA,24.0,mantra,True,0.0,0.0,
+812, Good Life Green Raisins/ Kishmish 100 g ,39.0,37.0,,,GOOD LIFE,100.0,g,False,2.0,5.13,370.0
+813," Sri Sri Tattva Toor Dal - Split Pigeon Pea, 1kg ",230.0,195.0,,,SRI SRI TATTVA,1.0,kg,False,35.0,15.22,195.0
+814, Good Life Apricots 100 g ,80.0,76.0,,,GOOD LIFE,100.0,g,False,4.0,5.0,760.0
+815, Dr. Brand Black Salt 200 g ,23.0,21.0,,,DR. BRAND,200.0,g,False,2.0,8.7,105.0
+816, Organic Tattva Suji 500 g ,65.0,43.0,,,ORGANIC TATTVA,500.0,g,False,22.0,33.85,86.0
+817, THE PRAKRITI FOODS BY KHATIRDAARI Mamra Almond from Fram Fresh 100G ,445.0,222.0,,,THE PRAKRITI FOODS BY KHATIRDAARI,100.0,g,False,223.0,50.11,2220.0
+818, Daily Nut Raisin Value 1000gm (250gm x pack of 4) ,480.0,328.0,,,LALI BALAJI,1000.0,gm,True,152.0,31.67,328.0
+819, Being Vegan Premium Afghani Farm Dry Dates | Sukha Khajoor | kharak | Chuara Pack of 900 gm Yellow ,799.0,369.0,,,BEING VEGAN,900.0,gm,True,430.0,53.82,410.0
+820, Chandan 5 in 1 Mix Mouth Fresheners 200 g ,280.0,140.0,,( 35.00/50 g),CHANDAN,5.0,in,False,140.0,50.0,
+821, Nutraj Gold Arabian Dates 500g (Pack of 2) ,398.0,319.0,,,NUTRAJ,500.0,g,True,79.0,19.85,638.0
+822, DAIRYSAGAR SHRI NAND KESARI Desi Cow Ghee| Premium Cow Desi Ghee| Pure Cow Ghee for better Digestion and Immunity|| 1ltr JAR (pack of 1) ,680.0,399.0,,,DAIRYSAGAR,1.0,ltr,True,281.0,41.32,399.0
+823, Dhara Filtered Groundnut Oil 1 L (Carton) ,245.0,209.0,,,DHARA,1.0,l,False,36.0,14.69,209.0
+824, Borges Extra Virgin Olive Oil 1 L ,1400.0,1199.0,,,BORGES,1.0,l,False,201.0,14.36,1199.0
+825, SSKE Gift Pack 300 g(Cashew /Almond /Yellow Raisins /Pistachio/Caramel Crunch/Dark Chocolate 15 PCS) ,1050.0,325.0,,,SSKE,300.0,g,False,725.0,69.05,1083.33
+826," Farmley Prasadam Raisins Kishmish 400g, Pack of 2 Each- 200g ",398.0,189.0,,,FARMLEY,400.0,g,True,209.0,52.51,472.5
+827, TilSona Gold Til Oil 500 ml ,220.0,205.0,,,TILSONA,500.0,ml,False,15.0,6.82,410.0
+828, True Elements 7 in 1 Super Seeds Mix 125g - Mix Seeds| Diet Snacks| Roasted Seeds for Eating ,149.0,149.0,,,TRUE ELEMENTS,7.0,in,False,0.0,0.0,
+829, Good Life Matta Vada Rice 1 kg ,100.0,75.0,,,GOOD LIFE,1.0,kg,False,25.0,25.0,75.0
+830, Wheatkart Whole Wheat Atta - 5 KG ,449.0,319.0,,( 63.80/1 kg),WHEATKART,5.0,kg,False,130.0,28.95,63.8
+831, Double Horse Roasted Appam Powder | Roasted Rice Flour | Rice Flour | 500 Grams ,55.0,55.0,,,DOUBLE HORSE,500.0,grams,False,0.0,0.0,
+832, Emperor Seeded Dates 500 g (Pack of 2) ,250.0,189.0,,,EMPEROR,500.0,g,True,61.0,24.4,378.0
+833, King's Physically Refined Rice Bran Oil 900 g ,185.0,103.0,,,KINGS,900.0,g,False,82.0,44.32,114.44
+834, Kinsfolk Extra Virgin Olive Oil (( Imported Olive Oil from Spain) ) -250ml ,310.0,161.0,,,KINSFOLK,250.0,ml,False,149.0,48.06,644.0
+835, EATYUMM Green Cardamom Powder 100 Grams| Ilaichi Powder| Elaichi Powder| Aromatic ,499.0,199.0,,,EATYUMM,100.0,grams,False,300.0,60.12,
+836, 24 Mantra Organic (S) Mustard 100 g ,35.0,22.0,,( 11.00/50 g),24 MANTRA ORGANIC,24.0,mantra,False,13.0,37.14,
+837, Rice Villa | Pure | 26 kg | Gobindo Bhog | Jeera Kasala | Kaima rice ,3640.0,2419.0,,( 93.04/1 kg),"RICE VILLA, DEVICE OF SHIELD, PADDY TREE",26.0,kg,False,1221.0,33.54,93.04
+838, Organic Tattva Brown Sugar 1 kg ,160.0,107.0,,,ORGANIC TATTVA,1.0,kg,False,53.0,33.12,107.0
+839, Farmley Flax Seeds 200g Alsi Seeds Fibre Rich Flax Seeds for Hair Growth Seeds for Eating ,330.0,109.0,,,FARMLEY,200.0,g,False,221.0,66.97,545.0
+840, The Berry People Afghan Black raisin sugarfree | Good for heart | High dietary fibre | Fresh breakfast items | Superfood by The Berry People -50gms ,299.0,111.0,,,THE BERRY PEOPLE - FINEST BERRIES FOR FINEST PEOPLE,50.0,gms,False,188.0,62.88,
+841, GKD's Premium 100% Pure Coconut Oil PET Bottle (1L) ,380.0,279.0,,,GKD'S PREMIUM,1.0,l,False,101.0,26.58,279.0
+842, Nutraj W450 Cashew Nuts 800g (Pack of 2 x 400g) ,1198.0,669.0,,( 83.63/100 g),NUTRAJ,450.0,cashew,True,529.0,44.16,
+843, Desi Kitchen Little Millet 500 g ,75.0,72.0,,,DESI KITCHEN,500.0,g,False,3.0,4.0,144.0
+844, Nutraj Munakka Raisin (Abjosh) 400g (200g X 2) ,498.0,369.0,,( 92.25/100 g),NUTRAJ,400.0,g,False,129.0,25.9,922.5
+845, Pinkcity Wellness Pure Sesame Oil 1L| Til Oil| Gingelly Oil| Wood Pressed | 1 Litre Bottle ,400.0,375.0,,( 375.00/1 l),PINKCITY,1.0,l,False,25.0,6.25,375.0
+846," CHATOKDE Anjeer Figs - Afghanistan Dry Anjir (Dried Figs) Dry Fruits, Increases Immunity & Purify the Blood 1KG ",2000.0,549.0,,,CHATOKDE,1.0,kg,False,1451.0,72.55,549.0
+847, MTR Sambar Powder 100 g ,86.0,77.0,,( 77.00/100 g),MTR,100.0,g,False,9.0,10.47,770.0
+848, Desi Label Organic Desi Khand khandsari Natural & Unprocessed Raw Sugar | Organic & Unrefined | Unprocessed & Natural | Free from chemicals and preservatives | Substitute to refined white sugar | Immunity booster (Pack Of 2(2 Kg)) ,560.0,357.0,,,DESILABEL,,none,False,203.0,36.25,
+849, Suhana Simla Premium 1 Liter Danedar Buffalo Ghee | Pure Buffalo Ghee | 1Liter ,775.0,449.0,,,SUHANA SIMLA,1.0,liter,False,326.0,42.06,449.0
+850, Gemini Physically Refined Ricebran Oil 1 L (Pouch) ,180.0,129.0,,,GEMINI,1.0,l,False,51.0,28.33,129.0
+851, Good Life Surti Kolam Rice 30 kg ,2400.0,1680.0,,( 56.00/1 kg),GOOD LIFE,30.0,kg,False,720.0,30.0,56.0
+852, Suhana Mutter Paneer Spice Mix 50 g ,45.0,36.0,,,SUHANA,50.0,g,False,9.0,20.0,720.0
+853, Everest Turmeric Powder 100 g ,38.0,35.0,,,EVEREST,100.0,g,False,3.0,7.89,350.0
+854, Everest Black Pepper Powder 50 g ,78.0,72.0,,( 144.00/100 g),EVEREST,50.0,g,False,6.0,7.69,1440.0
+855, Pansari Mahak Mogra Basmati Rice 26 kg ,1700.0,1532.0,,,PANSARI,26.0,kg,False,168.0,9.88,58.92
+856, Everest Pav Bhaji Masala 50 g ,46.0,42.0,,,EVEREST,50.0,g,False,4.0,8.7,840.0
+857, India Gate Jeera Rice 1 kg ,135.0,105.0,,,INDIA GATE,1.0,kg,False,30.0,22.22,105.0
+858, Good Life Pulses Mix For Sprout 500 g ,78.0,67.0,,,GOOD LIFE,500.0,g,False,11.0,14.1,134.0
+859, Good Life Surekha Rice 10 kg ,650.0,609.0,,( 60.90/1 kg),GOOD LIFE,10.0,kg,False,41.0,6.31,60.9
+860, Good Life Soya Granules 200 g ,60.0,30.0,,,GOOD LIFE,200.0,g,False,30.0,50.0,150.0
+861," Sri Sri Tattva Rock Salt - Premium Quality 2kg, 1kg x Pack of 2 ",240.0,216.0,,,SRI SRI TATTVA,2.0,kg,True,24.0,10.0,108.0
+862," SHIOSC SUN PARUVAR- Refined Sunflower Oil Pouch, 1L ( Pack of 5) ",1150.0,739.0,,,SHIIOSC SUN PARIVAR,1.0,l,True,411.0,35.74,739.0
+863, Wondernut Heathy Testy Super Food (Mix nut and Seeds) 500gm Pack of 2 in 250gm ,899.0,345.0,,,WONDERNUT,500.0,gm,True,554.0,61.62,690.0
+864, Nupsila Parmal Raw Rice - 25 kg ,2500.0,1390.0,,,NUPSILA,25.0,kg,False,1110.0,44.4,55.6
+865, Borges Extra Virgin Olive Oil 2 ltr ,2700.0,2199.0,,,BORGES,2.0,ltr,False,501.0,18.56,1099.5
+866, Good Life Ambemohar Raw Rice 1 kg ,150.0,115.0,,,GOOD LIFE,1.0,kg,False,35.0,23.33,115.0
+867, NEXTSTEP ORGANIC Caraway Seeds | Shah Jeera | Shahi Jeera | Black Cumin Seeds 100g ,600.0,209.0,,,NEXTSTEP ORGANIC,100.0,g,False,391.0,65.17,2090.0
+868, Marwar Kashmiri Red chili Powder (Kashmiri Lal Mirch Powder) 400g ,500.0,299.0,,,MARWAR,400.0,g,False,201.0,40.2,747.5
+869, Pitaamah Surti Kolam Rice - 5kg - Lashkari Kollam - Unpolished Rice - Aromatic Rice ,999.0,599.0,,,PITAAMAH,5.0,kg,False,400.0,40.04,119.8
+870, Lotus Phool Makhana 100 g ,149.0,129.0,,,LOTUS,100.0,g,False,20.0,13.42,1290.0
+871, Pinkcity 5L Pure GroundNut Oil | Natural | Chemical Free | 1Ltr x 5 Bottles ,2000.0,1150.0,,,PINKCITY,5.0,l,False,850.0,42.5,230.0
+872, Coreganic 1kg 100% Natural International Premium Broken Cashews ,1499.0,649.0,,,COREGANIC,1.0,kg,False,850.0,56.7,649.0
+873, Laxmi Daily Feast 5 kg Toor Dal Oily | Arhar Dal | Tur Dal Coated with Oil Also Used as Pigeon Pea ,1899.0,1399.0,,( 279.80/1 kg),LAXMI,5.0,kg,False,500.0,26.33,279.8
+874, Satvikk Phool Makhana 400 Gms foxnuts/popped lotus seeds ( 100 Gm X Pack of 4) ,480.0,399.0,,,SATVIKK,400.0,gms,True,81.0,16.88,
+875, Everest Hingraj 100 g ,275.0,255.0,,,EVEREST,100.0,g,False,20.0,7.27,2550.0
+876, Farmley Roasted Cashew Chatpata Flavoured Cashews Standee Pouch 200g ,379.0,269.0,,,FARMLEY,200.0,g,False,110.0,29.02,1345.0
+877, Coreganic 1kg 100% Natural International Premium California Almonds ,1799.0,719.0,,,COREGANIC,1.0,kg,False,1080.0,60.03,719.0
+878, VEER BRAND ROYAL - Extra Long Grain XXXL 5 Kg Biryani Basmati Rice ,999.0,699.0,,( 139.80/1 kg),VEER BRAND,5.0,kg,False,300.0,30.03,139.8
+879, RUDRAKSH Sharbati Wheat 30kg Premium Quality ( Narmada Chandausi) ,2100.0,1549.0,,( 51.63/1 kg),RUDRAKSH BRAND,30.0,kg,False,551.0,26.24,51.63
+880, MADHURI Cold Pressed Groundnut Oil | Cold Pressed Mungfali Ka Tel | Cold Pressed Peanut Oil- 15Liter ,4115.0,3340.0,,,MADHURI,15.0,liter,False,775.0,18.83,222.67
+881," Shrego Radhe Roasted Chana, Bhuna Chana (Desi Chickpeas) , Healthy Snacks & Namkeen, 360G (1X360G) ",200.0,179.0,,,SHREGO,360.0,g,False,21.0,10.5,497.22
+882, BLK Foods Daily 300gms Fresh phool Makhana (Foxnuts / lotus seeds) 300g (3 X 100g) ,750.0,299.0,,,BLK FOODS,300.0,gms,False,451.0,60.13,
+883, India Gate Regular Choice Basmati Rice 10 kg ,945.0,799.0,,( 79.90/1 kg),INDIA GATE,10.0,kg,False,146.0,15.45,79.9
+884, Double Horse Puttu Podi 1kg ,120.0,120.0,,,DOUBLE HORSE,1.0,kg,False,0.0,0.0,120.0
+885," Spellfry 100% Pure Kachi Ghani Mustard Oil, 15 KG, Tin ",5600.0,2790.0,,,SPELLFRY,15.0,kg,False,2810.0,50.18,186.0
+886, JIVO Pomace Cooking Olive Oil 2L Olive Oil Plastic Bottle (2 L) ,1449.0,849.0,,,JIVO,2.0,l,False,600.0,41.41,424.5
+887, Catch Coriander Powder 200 g ,78.0,52.0,,,CATCH,200.0,g,False,26.0,33.33,260.0
+888, CHATOKDE 100% Natural and Premium Healthy Mix Dry Fruits and Nuts Healthy for Every Occasion Fresh and Healthy Dry Fruits (1kg) ,2000.0,569.0,,,CHATOKDE,1.0,kg,False,1431.0,71.55,569.0
+889, Bambino Red Chilli Powder Each 500 Gms X Pack of 2 (1kg) ,560.0,349.0,,,BAMBINO,500.0,gms,True,211.0,37.68,
+890, Standard Pulav Rice 2 kg ,139.0,139.0,,,PRIVATE LABEL,2.0,kg,False,0.0,0.0,69.5
+891," Farmley Roasted Cashew Black Pepper Flavored Cashew Standee Pouch Pack of 2, each 200 gm ",758.0,469.0,,,FARMLEY,200.0,gm,True,289.0,38.13,2345.0
+892," Kinsfolk 1L(500mlx2) Sesame Oil Cold Pressed (Virgin, Chekku/Ghani) - 500ML Pack of 2 ",698.0,353.0,,( 353.00/1 l),KINSFOLK,1.0,l,True,345.0,49.43,353.0
+893, Daawat Rozana Gold Basmati Rice 1 kg ,115.0,89.0,,,DAAWAT,1.0,kg,False,26.0,22.61,89.0
+894, Good Life Unpolished White Gota Urad 500 g ,111.0,86.0,,,GOOD LIFE,500.0,g,False,25.0,22.52,172.0
+895, Good Life Broken (2 pcs) Cashews 500 g ,499.0,399.0,,,GOOD LIFE,2.0,pcs,False,100.0,20.04,
+896, Marwar Jeera Whole Cumin Seeds (Machine Clean JIRA Big Bold Size) 400g ,800.0,489.0,,,MARWAR,400.0,g,False,311.0,38.88,1222.5
+897, BLUE HIMALAYAS KASHMIRI PREMIUM WALLNUT KERNELS ONE TREE WALLNUTS HIGH QUALITY ,999.0,949.0,,,BLUE HIMALAYAS,,none,False,50.0,5.01,
+898, Samrat Chana Besan 1 kg ,150.0,105.0,,,SAMRAT,1.0,kg,False,45.0,30.0,105.0
+899, Guinea Filtered Pure Groundnut Oil 5 L ,1275.0,1139.0,,( 227.80/1 l),GUINEA,5.0,l,False,136.0,10.67,227.8
+900, Ramdev Chilli Powder 500 g ,355.0,301.0,,,RAMDEV,500.0,g,False,54.0,15.21,602.0
+901," The Nature Krafts Mix Dry Fruits 1kg [ Almonds, Cashews, Walnuts, Raisins and More] Jar Pack ",1699.0,499.0,,,THE NATURE KRAFTS,1.0,kg,False,1200.0,70.63,499.0
+902, Madam Rawa 500 g ,42.0,40.0,,,MADAM,500.0,g,False,2.0,4.76,80.0
+903," Farmbean Premium Whole Spices Combo Pack of 2 -500Gms (Cumin 250g, Fenugreek Seeds 250g) ",999.0,399.0,,,FARMBEAN,500.0,gms,True,600.0,60.06,
+904, HealthFields Organic Black Pepper Whole / Kali Mirch - 100 Gm ,140.0,140.0,,,HEALTH FIELD,100.0,gm,False,0.0,0.0,1400.0
+905, BHUMI-KA-AH Cardamom Elaichi ilaichi Green Grade A 100 GM ,496.0,219.0,,( 219.00/100 g),BHUMI-KA-AH,100.0,gm,False,277.0,55.85,2190.0
+906, Daawat Rozana Super Basmati Rice 10 kg ,963.0,699.0,,( 69.90/1 kg),DAAWAT,10.0,kg,False,264.0,27.41,69.9
+907, Farmley Trail Mix 400g Mixes of Nuts Dried fruits Dried Berries Seeds 400g (Pack of 2 each 200g) ,698.0,349.0,,,FARMLEY,400.0,g,True,349.0,50.0,872.5
+908, Triangle Walnut Kernels 1 Kg Quarter Kashmiri Premium Akhrot Giri Vaccum Pack Without Shell Lowest Price ,3000.0,670.0,,,TRIANGLE,1.0,kg,False,2330.0,77.67,670.0
+909, Desi Kitchen Proso Millet 500 g ,75.0,59.0,,,DESI KITCHEN,500.0,g,False,16.0,21.33,118.0
+910, Wonderland Foods Raw Cashews 500 g ,770.0,399.0,,,WONDERLAND FOODS,500.0,g,False,371.0,48.18,798.0
+911, Annprash Desi Khand - 1 kg (Pack of 2) ,998.0,220.0,,,ANNPRASH,1.0,kg,True,778.0,77.96,220.0
+912, Manna Millets Combo pack of 3 | Unpolished Millets| Siridhanya| Foxtail| Kodo| Little ,390.0,385.0,,,MANNA,,none,True,5.0,1.28,
+913, Freshtige Rosemary Dried Leaves - For Hair Growth | Rosemary Herb Tea | Organic | Natural (100 Gram) ,499.0,199.0,,,FRESHTIGE,100.0,gram,False,300.0,60.12,1990.0
+914, Indrayani Rice 2 kg ,125.0,125.0,,,PRIVATE LABEL,2.0,kg,False,0.0,0.0,62.5
+915," Marwar Coriander Powder, (Agmark Grade Dhania Powder) 1 Kg Pack ",300.0,219.0,,,MARWAR,1.0,kg,False,81.0,27.0,219.0
+916, Smith & Jones Peri Peri Masala 72 g ,70.0,55.0,,,SMITH & JONES,72.0,g,False,15.0,21.43,763.89
+917," RED ROSE ROYAL XXXL BASMATI RICE, EXTRA LONG GRAIN, BEST BASMATI RICE FOR BIRYANI, 10 KG ",2499.0,1499.0,,( 149.90/1 kg),RED ROSE,10.0,kg,False,1000.0,40.02,149.9
+918, APLENTY Unrefined Desi Khand/Khhand | Khandsari Sugar | Sulphur-free Khand | Mishri Powder | Semi Crystal Sugar | Full Of Minerals & Nutrients (200g) ,299.0,169.0,,,APLENTY,200.0,g,False,130.0,43.48,845.0
+919, Pro Nature Organic Unpolished Tur / Arhar Dal 1 kg ,279.0,271.0,,,PRO NATURE,1.0,kg,False,8.0,2.87,271.0
+920, Daawat Brown Basmati Rice 5 kg ,830.0,679.0,,,DAAWAT,5.0,kg,False,151.0,18.19,135.8
+921," Khari Foods Everyday Cashews 500g, Whole Kaju Dry Fruits, No Adulteration ",799.0,365.0,,,KHARI FOODS,500.0,g,False,434.0,54.32,730.0
+922, Good Life Popcorn Maize 200 g ,29.0,29.0,,,GOOD LIFE,200.0,g,False,0.0,0.0,145.0
+923," Farmley Mix Dry Fruit -Panchmeva Combo of Almond, Cashew, Dates, Black Raisin, Green Raisin - 450 g ",519.0,399.0,,,FARMLEY,450.0,g,False,120.0,23.12,886.67
+924, Pink Delight Double Refined Sulphurfree Sugar | 5 Kg Pack ,700.0,560.0,,,PINK DELIGHT,5.0,kg,False,140.0,20.0,112.0
+925, Surya 1 kg Ginger Garlic Paste| Adrak Lahsun Paste| Ready to Use Cooking Paste ,560.0,239.0,,,SURYA,1.0,kg,False,321.0,57.32,239.0
+926, Molsi's 200 g Dry Roasted and Salted Pistachios ,375.0,275.0,,,MOLSI'S,200.0,g,False,100.0,26.67,1375.0
+927," Sri Sri Tattva Shuddhta ka naam Organic Brown Sugar, 1kg x Pack of 2 ",320.0,288.0,,,SRI SRI TATTVA SHUDDHTA KA NAAM,1.0,kg,True,32.0,10.0,288.0
+928, Foodcan Afghan Abjosh Munakka (Big Aabjosh Raisins | A Grade | with Seeds) 400g ,800.0,299.0,,,FOODCAN,400.0,g,False,501.0,62.62,747.5
+929," Marwar GurJaggery 1 Kg (Gud Cubes, Chemical Free, Organic, No Preservatives Added), Whole Gur Cube Pack (1KG) ",300.0,199.0,,,MARWAR,1.0,kg,False,101.0,33.67,199.0
+930, Nutraj Raisins / Kishmish 500 g ,299.0,155.0,,,NUTRAJ,500.0,g,False,144.0,48.16,310.0
+931, Kitchen Jungle Seedless Dates ( Pin Khajoor) -[ Premium Quality] [ Hygienically Vaccum Packed] ,299.0,199.0,,,KITCHEN JUNGLE,,none,False,100.0,33.44,
+932, BLK Foods Select Seedless Tamarind (Imli without beej) 500g (2 blocks in 1 pack) ,350.0,183.0,,,BLK FOODS,500.0,g,False,167.0,47.71,366.0
+933, natural n Tasty Afghani Anjeer Figs Afghanistan Dry Anjir Dried Figs Dry Fruits (500 Grams) ,1679.0,499.0,,,NATURAL N TASTY,500.0,grams,False,1180.0,70.28,
+934, Pitambari Ruchiyana Jaggery Powder 500 gm - pack of 2 ,170.0,150.0,,,PITAMBARI,500.0,gm,True,20.0,11.76,300.0
+935, NEXTSTEP ORGANIC Best Quality Raw Peanut | Mungfali dana (Whole) 100g ,350.0,129.0,,,NEXTSTEP ORGANIC,100.0,g,False,221.0,63.14,1290.0
+936, Special Choice Cashew Combo Crunch (Cashew Roasted n Salted & Cashew Tingy Tangy Masala) 100g x 2 ,540.0,275.0,,,SPECIAL CHOICE,100.0,g,False,265.0,49.07,2750.0
+937, Aeroplane 10kg Sulphurless Sugar (5kgx2) ,700.0,499.0,,( 49.90/1 kg),AEROPLANE BRAND,10.0,kg,False,201.0,28.71,49.9
+938, BLK Foods Select Seedless Tamarind (Imli without beej) 1Kg (4 Wrapped blocks in 1 pack) ,600.0,272.0,,,BLK FOODS,1.0,kg,False,328.0,54.67,272.0
+939, Dr. Brand Jaggery Powder 500 g ,70.0,59.0,,,DR. BRAND,500.0,g,False,11.0,15.71,118.0
+940, Ching's Secret Chowmein Hakka Noodles Masala 100 g ,60.0,49.0,,( 49.00/100 g),CHING'S SECRET,100.0,g,False,11.0,18.33,490.0
+941, ANMOL ROYAL 26 Kg Premium Steam Sona Masoori Rice ,1560.0,1560.0,,( 60.00/1 kg),ANMOL,26.0,kg,False,0.0,0.0,60.0
+942, Kinsfolk Extra Virgin Olive Oil - 5 Ltr PET ,4999.0,1793.0,,,KINSFOLK,5.0,ltr,False,3206.0,64.13,358.6
+943, Catch Meat Masala 100 g ,90.0,45.0,,( 45.00/100 g),CATCH,100.0,g,False,45.0,50.0,450.0
+944," Elephant Brand Hathi Mustard Oil - Ideal for cooking food, pickles, massages | 1L x 16 Bulk Pack ",5200.0,5200.0,,( 325.00/1 l),HATHI BRAND,1.0,l,False,0.0,0.0,5200.0
+945, Suhana Paneer Makhanwala Spice Mix 50 g ,45.0,36.0,,,SUHANA,50.0,g,False,9.0,20.0,720.0
+946, Pyramid Traders 1KG White Broken Walnut Kernels ,2000.0,745.0,,,PYRAMID TRADERS,1.0,kg,False,1255.0,62.75,745.0
+947, Anjali Gingelly/Sesame Oil 5 Litre Can With 1 Litre Free ,2750.0,2200.0,,,ANJALI,5.0,litre,False,550.0,20.0,
+948," Mr.Nuttz Dry Fruits Combo Pack-Almonds, Pistachios & Raisins 150g (Badam, Pista & Kishmish) 50g each ",305.0,195.0,,,MR.NUTTZ,150.0,g,False,110.0,36.07,1300.0
+949, Pusht Organic Mix Dal - 1Kg ,256.0,164.0,,,PUSHT ORGANIC,1.0,kg,False,92.0,35.94,164.0
+950, MEEWA 1 KG PREMIUM WALNUT KASHMIRI AKHROT GIRI | QUARTER KERNELS | BEST QUALITY| VACCUM PACKED ,3000.0,675.0,,,MEEWA,1.0,kg,False,2325.0,77.5,675.0
+951," GO KITCHEN Premium California Walnuts Without Shell, Akhrot Giri Walnut Kernels High in Protein & Iron|Low Calorie Walnut, 200gm ",1126.0,591.0,,,GO KITCHEN,200.0,gm,False,535.0,47.51,2955.0
+952, Brij gwala Bihari ji Pure Desi Ghee| | Pure Ghee for Better Digestion and Immunity-1 ltr tetra-1 ,580.0,399.0,,,BRIJ GWALA,1.0,ltr,False,181.0,31.21,399.0
+953, Chef Urbano Himalayan Pink Salt 2 X 1 kg ,450.0,350.0,,,CHEF URBANO,2.0,x,False,100.0,22.22,
+954, VOC Mart Premium Imported Black Dates 1 Kg | Pind Khajoor | Lowest Price | Best Quality ,599.0,399.0,,,VOC MART,1.0,kg,False,200.0,33.39,399.0
+955," CROWN RICE, Daily Basmati Rice, Broken Rice, Double Polished 100% Natural Basmati Rice , 5 KG ",575.0,575.0,,,CROWN RICE,5.0,kg,False,0.0,0.0,115.0
+956, BA Dryfruits and Spices Premium Dry Afghani Anjeer/Figs 250 g Jar ,525.0,225.0,,,BA DRYFRUITS AND SPICES,250.0,g,False,300.0,57.14,900.0
+957, Kesari Saffron Threads 0.5 g ,209.0,104.0,,,KESARI,0.5,g,False,105.0,50.24,208000.0
+958, Qualinut | Diwali Gift Box | Elegant Red | Premium Quality ,750.0,697.0,,,QUALINUT GOURMET,,none,False,53.0,7.07,
+959, Nutrovally Chia Seeds For Eating | High In Fiber & Calcium Rich | Premium & Authentic Diet Superfood | Gluten Free Chia Seeds 125gm ,149.0,149.0,,,NUTROVALLY,125.0,gm,False,0.0,0.0,1192.0
+960, Saffola Total Pro Heart Concious RiceBran Based Blended Oil 1 L ,200.0,185.0,,,SAFFOLA,1.0,l,False,15.0,7.5,185.0
+961, Everest Kasuri Methi 25 g ,30.0,27.0,,,EVEREST,25.0,g,False,3.0,10.0,1080.0
+962, RENTIO Super Desi Toor Dal 5kg | Fresh Tur/Arhar Dal ,1550.0,1239.0,,,RENTIO,5.0,kg,False,311.0,20.06,247.8
+963, Rajbhog Plain Makhana 250 g ,300.0,249.0,,,RAJBHOG,250.0,g,False,51.0,17.0,996.0
+964, Tata Sampann Poha| High In Fibre| Flattened Rice| Healthy Breakfast| 1 Kg Each | Pack of 2 | 2 Kg ,349.0,349.0,,,TATA SAMPANN,1.0,kg,True,0.0,0.0,349.0
+965," FARMUP Toor Dal Unpolished, High Protein Sortex Clean, (Arhar Dal, 400g Pack of 1) ",449.0,239.0,,,FARMUP,400.0,g,True,210.0,46.77,597.5
+966, Guinea Filtered Pure Groundnut Oil 1 L ,255.0,219.0,,,GUINEA,1.0,l,False,36.0,14.12,219.0
+967, BLK Foods Daily 1Kg Munnaka / Munakka / Abjosh / Golden Raisin (with seed) 1000g (5 X 200g) ,1750.0,569.0,,,BLK FOODS,1.0,kg,False,1181.0,67.49,569.0
+968, RRO Primio Refined Groundnut Oil 5 L ,1250.0,1109.0,,( 221.80/1 l),RRO,5.0,l,False,141.0,11.28,221.8
+969, Samrat Refined MP Wheat Flour / Maida 1 kg ,76.0,48.0,,,SAMRAT,1.0,kg,False,28.0,36.84,48.0
+970, Suhana Ambari Kanda Lasun Masala 200 g ,73.0,65.0,,( 32.50/100 g),SUHANA,200.0,g,False,8.0,10.96,325.0
+971," House of Veda Organic Mustard Oil 1l , Cold Pressed Mustard Oil for Cooking , Healthy Mustard Oil, No Trans Fats ",399.0,284.0,,,HOUSE OF VEDA,1.0,l,False,115.0,28.82,284.0
+972, Heaven's purity Premium quality anjeer 500 gram ,425.0,298.0,,,HEAVEN'S PURITY,500.0,gram,False,127.0,29.88,596.0
+973, Double Horse Palakkadan Matta Rice | Single Boiled Rice | Traditional Matta Rice | (5kg) ,599.0,582.0,,,DOUBLE HORSE,5.0,kg,False,17.0,2.84,116.4
+974, Pink Delight Pure & Natural Jaggery | Organic Gur| Purest Form Of Gur| Brown Gur| 900 Gm Pack ,400.0,249.0,,,PINK DELIGHT,900.0,gm,False,151.0,37.75,276.67
+975," DailyHerbs 100% Natural Mix Dry Fruits 500gm with Almonds| Cashew| Black Raisins| Apricot | Healthy Gift Hamper for Every Occasion Fresh and Healthy Dry Fruits, Seeds & Nuts. ",799.0,329.0,,,DAILYHERBS,500.0,gm,False,470.0,58.82,658.0
+976, Kashmir Exotics Organic Kashmiri Mamra Almond Kernels 400 G ,925.0,589.0,,,KASHMIR EXOTICS,400.0,g,False,336.0,36.32,1472.5
+977," FARMUP Moong Dal Unpolished, High Protein Sortex Clean, (Mung Bean, 400g Pack of 1) ",399.0,199.0,,,FARMUP,400.0,g,True,200.0,50.13,497.5
+978, NAVJEEVAN CINNAMON STICKS 400g (200g X 2) ,280.0,159.0,,,NAVJEEVAN,400.0,g,False,121.0,43.21,397.5
+979, Gemini Vanaspati 500 ml ,108.0,63.0,,,GEMINI,500.0,ml,False,45.0,41.67,126.0
+980, Catch Black Salt Sprinkler 200 g ,45.0,43.0,,,CATCH,200.0,g,False,2.0,4.44,215.0
+981, Rajabhogam Ponni Boiled Rice 5Kg ,1100.0,467.0,,,RAMAJEYAM PREMIUM RICE,5.0,kg,False,633.0,57.55,93.4
+982, Pansari Great Taste and Pure Aroma | Long Grain Basmati Rice - 10 KG ,2600.0,1549.0,,,PANSARI,10.0,kg,False,1051.0,40.42,154.9
+983, Mr. Nuttz 100% Natural Premium California Almonds Badam 500 g ,950.0,449.0,,,MR.NUTTZ,500.0,g,False,501.0,52.74,898.0
+984, Marwar Watermelon Seeds (Magaj| Melon Kernels| Tarboj Beej Magaj Machine Cleaned) 400g ,800.0,449.0,,,MARWAR,400.0,g,False,351.0,43.88,1122.5
+985," Jumbo Dried Apricots Organic (Khumani, Khurmani, Khurbani, Jardalu, Prunu) High Quality (Grade - Big Size) 1 kg ",999.0,391.0,,,FRESHOCARTZ,1.0,kg,False,608.0,60.86,391.0
+986, Gulab Kolhapuri Premium Jaggery 900gm ,349.0,285.0,,,GULAB,900.0,gm,False,64.0,18.34,316.67
+987, Madhav's 1 Kg Plain Cashew Nuts (500 gmX2)Kaju ,1100.0,639.0,,,MADHAV'S,1.0,kg,False,461.0,41.91,639.0
+988," Nut Toppers Premium Arabian Dates, 400 g ",250.0,148.0,,,NUT TOPPERS,400.0,g,False,102.0,40.8,370.0
+989, Natureland Organics Toor Dal 1 Kg - Pack of 2 ,590.0,501.0,,,NATURELAND ORGANICS,1.0,kg,True,89.0,15.08,501.0
+990, Sundrop Heart Ricebran Based Blended Oil 1 L ,200.0,185.0,,,SUNDROP,1.0,l,False,15.0,7.5,185.0
+991, Mirchillion 500gm Guntur Red Chilli Whole with stem - Saver Pack ,375.0,355.0,,( 710.00/1 kg),MIRCHILLION,500.0,gm,False,20.0,5.33,710.0
+992, AL-ZAMEENDAR - Premium Whole Cashew | 1 KG |Whole Kaju ,1058.0,688.0,,,AL-ZAMEENDAR,1.0,kg,False,370.0,34.97,688.0
+993, BLK Foods Select Gond Katira Tragacanth Gum Crystals (Edible Gum) 250g ,400.0,173.0,,,BLK FOODS,250.0,g,False,227.0,56.75,692.0
+994, Daily Nut Raisin Value 500gm (250gm x pack of 2) ,240.0,202.0,,,LALI BALAJI,500.0,gm,True,38.0,15.83,404.0
+995, Marwar Spices 3 kg Combo Red Chilly (Lal Mirch) Powder + Coriander (Dhania)+ Turmeric (Haldi) Powder 1 kg Pack (Super Saver Spices Combo) Agmark Certified Total 3 Kgs ,1200.0,649.0,,,MARWAR,3.0,kg,False,551.0,45.92,216.33
+996," Vale Of Kashmir Walnuts Without Shell Brown Kernels 1 Kg (500 x2), Akhrot Kernels Giri ",1499.0,779.0,,,VALE OF KASHMIR,1.0,kg,False,720.0,48.03,779.0
+997," Havoc Nuts Premium Unsalted Pistachio Kernels Crunchy Pista Kernals Without Shell Sada Pista Dry Fruit, Shelled Nuts Super Crunchy & Delicious Healthy Snack | Vitamins & Minerals Rich (Jar Pack 500 gm) ",1799.0,854.0,,,HAVOC NUTS,500.0,gm,False,945.0,52.53,1708.0
+998," Hanumakkhya Mix (DryFruits Seeds&Berries) 1kg Cashews, Raisins, Almonds, Pistachios, Cranberries ",799.0,480.0,,,HANUMAKKHYA DRY FRUITS,1.0,kg,False,319.0,39.92,480.0
+999, Yoagbar 500g Green Raisins | Premium Seedless Green Raisins | Kishmish | Nutritious| Rich in Iron ,375.0,249.0,,,YOGABAR,500.0,g,False,126.0,33.6,498.0
+1000, Goshudh Desi Khand 500 g Sugar ,399.0,150.0,,,GOSHUDH,500.0,g,False,249.0,62.41,300.0
+1001, Pick N Cook Regular Kabuli Chana 500 g ,147.0,135.0,,,PICK N COOK,500.0,g,False,12.0,8.16,270.0
+1002, Nutri Binge 500g Vitals Whole Cashews W320 ,775.0,395.0,,,NUTRI BINGE,500.0,g,False,380.0,49.03,790.0
+1003, Good Life Sharmili Rajma 1 kg ,108.0,108.0,,,GOOD LIFE,1.0,kg,False,0.0,0.0,108.0
+1004, 41 foods Dry fruits combo pack of Pistachios Almonds Cashews | Kaju Badam Pista ( 150GM X 3 ) 450 GM ,1599.0,516.0,,,41 FOODS,41.0,foods,True,1083.0,67.73,
+1005, Suhana Sambar Masala 100 g ,79.0,39.0,,( 39.00/100 g),SUHANA,100.0,g,False,40.0,50.63,390.0

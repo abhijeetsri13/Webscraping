@@ -1,0 +1,902 @@
+,Grocery_Name,Brand_Name,Rating,Discount_Price,MRP_Price,Quantity
+0,Gulab Jamun Dessert Mix,Tata Sampann,3.5,₹133.4,₹145,175 g - (Buy 1 Get 1 Free)
+1,2-Min Masala Instant Noodles,MAGGI,4.1,₹160,₹168,840 g - (12 Packs x 70 g)
+2,"Chocolate Muesli - With 57% Multigrain, Fruit, Nut & Seeds",Kelloggs,4,₹310,₹360,450 g
+3,"Marie Gold Biscuit - Crunchy, Light, Zero Trans Fat, Ready To Eat",Britannia,4,₹120,₹140,950 g
+4,Gluco Biscuits - Parle-G,Parle,4.2,₹108,₹120,12x130 g - Multipack
+5,Frozen Green Peas,Fresho,3.9,₹198,₹270,2x500 g - (Multipack)
+6,"Coconut Almond Ball With Peanut Butter Filling - Gluten-Free, No Refined Sugar Added",Wild Date,0,₹315,₹315,135 g
+7,"Digestive High Fibre Biscuits,",Britannia NutriChoice,4.2,₹114,₹120,12x 41.7 g - Multipack
+8,Treat - Jim Jam Biscuits,Britannia,4.3,₹66.5,₹70,2x138 g - Multipack
+9,"Choco Date Ball With Hazelnut Butter Filling - Gluten-Free, No Refined Sugar Added",Wild Date,4,₹315,₹315,135 g
+10,Idly & Dosa Batter,iD Fresho,3.9,₹106.95,₹115,2 kg
+11,Little Hearts Biscuits,Britannia,4.2,₹28.5,₹30,75 g
+12,Instant Bhel,Haldiram's,4.2,₹60,₹60,6x44 g - Multipack
+13,Potato Chips - Calm Cream & Onion Flavour,Lays,4.1,₹60,₹60,6x30 g - Multipack
+14,Olive Oil Pickle - Carrot,ADF Soul,0,₹319.2,₹399,265 g
+15,Bourbon Cream Biscuit - Chocolate Flavor,Britannia,4.2,₹76,₹80,2x150 g - Multipack
+16,Chocolate Health Drink,Cadbury Bournvita,4.3,₹592.02,₹740,2x750 g - Multipack
+17,"Potato Chips - Hot & Sweet Chilli Flavour, Best Quality",Lays,4.2,₹60,₹60,6x24 g - Multipack
+18,Biscuits - Milk Bikis,Britannia,4.1,₹85.5,₹90,3x160 g - Multipack
+19,Namkeen - Bhujia Sev,Haldiram's,4.1,₹178,₹180,2x350 g - Multipack
+20,Namkeen - Moong Dal,Haldiram's,4.2,₹148.5,₹165,3x150 g - Multipack
+21,"Digestive High Fibre Biscuits,",Britannia NutriChoice,4.1,₹120.96,₹140,2x 250 g - Multipack
+22,Digestive Zero (No Maida & Zero Added Sugar),Britannia NutriChoice,4.1,₹89.78,₹105,3x 100 g - Multipack
+23,Vanilla Flavour Creme Sandwich Biscuit,Cadbury Oreo,4.1,₹240,₹300,918.75 g - (7 Packs x 131.25 g Each)
+24,Frozen - Green Peas,Safal,3.8,₹192,₹240,1 kg - Pouch
+25,Mixed Fruit Jam - Delicious & Flavourful,Kissan,4.2,₹295,₹300,1 kg
+26,Hide & Seek - Chocolate,Parle,4.2,₹90,₹120,2x200 g - Multipack
+27,50-50 Maska Chaska,Britannia,4.1,₹82.8,₹90,300 g
+28,Dark Fantasy Bourbon Biscuits,Sunfeast,4.2,₹17.89,₹35,120 g
+29,Corn Flakes,Kelloggs,4.2,₹96,₹120,6x60 g - Multipack
+30,Namkeen - Aloo Bhujia,Haldiram's,4.2,₹220,₹220,1 kg - Pouch
+31,"Treat Croissant - Cocoa Creme Filling, 100% Veg, Soft",Britannia,4.1,₹60.8,₹80,4x45 g - Multipack
+32,Soan Papdi,Haldiram's,4.1,₹1680,₹1680,24x250 g - Multipack
+33,"Yumitos Potato Chips - Original Style, Chilli",Bingo,4.2,₹110.4,₹120,12x21 g - (Multipack)
+34,"Nutri-Licious Masala Veg Atta Noodles - Herbs & Spice Blend, Iron & Fibre Rich",MAGGI,4.1,₹150,₹168,435 g - (Pack of 6)
+35,Potato Chips - Indias Magic Masala,Lays,4.1,₹75.2,₹100,2 x 90 g - Multipack
+36,NutriChoice Sugar Free Cream Cracker,Britannia,4.1,₹91.2,₹100,2x300 g - Multipack
+37,Cheese Balls,PEPPY,4,₹90,₹180,3x60 g - Multipack
+38,Namkeen - Salted Peanut,Haldiram's,4.1,₹60,₹60,6x45 g - Multipack
+39,Namkeen - Masala Peanut,Haldiram's,4.1,₹60,₹60,6x50 g - Multipack
+40,"Oats - Natural Wholegrain, Nutritious Breakfast Cereals, Dalia Porridge, Easy To Cook",Quaker,4.3,₹72,₹79,400 g - Pouch
+41,"Hot N Sour Veggie Overload Quikie Soup - Multigrain, No Maida",Rasna,3.7,₹120,₹120,12 x 15g - Multipack
+42,Chocolate Flavour Creme Sandwich Biscuit,Cadbury Oreo,4.2,₹130.38,₹159,481.25 g - (5 Packs x 96.25 g Each)
+43,Dark Fantasy - Choco Fills,Sunfeast,4.2,₹279,₹420,3x300 g - (Multipack)
+44,Bounce Biscuits - Orange Creme Cookies,Sunfeast,4.2,₹57,₹60,6x58 g - Multipack
+45,Breakfast Mix - Rava Idli,MTR,4.2,₹185,₹215,1 kg - Pouch
+46,Marie Gold Biscuits,Britannia,4.1,₹114,₹120,6x120 g - Multipack
+47,Krackjack,Parle,4.1,₹90,₹120,700 g
+48,Good Day Butter Cookies,Britannia,4.2,₹100,₹125,600 g
+49,"Muesli Breakfast Cereal - With Multigrain & 21% Fruit, Nut & Seeds",Kelloggs,4.2,₹440,₹490,750 g
+50,Vermicelli,Anil,4.1,₹51,₹51,450 g - Pouch
+51,"Chikki, Peanut Bar",Paper Boat,4.1,₹102.06,₹126,3x96g - Multipack
+52,Kitkat Coated Wafer Bar - Share Bag,Nestle,4.2,₹120,₹120,138.6 g - (9 pcs x 15.4 g Each)
+53,Chocolate Bar,Cadbury Dairy Milk,4.2,₹114.4,₹130,134 g - Family Pack
+54,Vermicelli,MTR,4.1,₹74,₹87,850 g - Pouch
+55,"Treat Croissant - Vanilla Creme Filling, 100% Veg, Soft",Britannia,4,₹92.16,₹120,6x45 g - Multipack
+56,"Honey Squeezy - 100% Pure, Rich In Nutrients, No Sugar, Boosts Immunity",Dabur,4.2,₹437.5,₹625,700 g - (Buy 1 Get 1 Free)
+57,YiPPee! Magic Masala Noodles,Sunfeast,4.2,₹95.2,₹112,2 x 240 g - (Pack of 2)
+58,Hommade - Coconut Milk,Dabur,4.2,₹203.06,₹225,3x200 ml - Multipack
+59,Hazelnut Spread with Cocoa,Nutella,4.4,₹5092.2,₹5535,15x350 g - Multipack
+60,Potato Chips - Classic Salted,Lays,4.1,₹75.2,₹100,2 x 90 g - Multipack
+61,"Milkybar - Choo, Rich, Strawberry Flavour",Nestle,4.2,₹5,₹5,10 g - Pouch
+62,Nice Time - Sugar Showered Coconut Biscuits,Britannia,4.1,₹135.38,₹150,6x143 g - Multipack
+63,Premium Bake Rusk,Britannia,4.1,₹85.5,₹100,2x273 g - Multipack
+64,Classic Tomato Chilli,Piknik,4.1,₹62.4,₹120,2 X 60 g - Multipack
+65,Minis Chocolate Home Treats Pack,Cadbury Dairy Milk,4.2,₹396.9,₹447,3 x 119 g - Multipack
+66,"Fresh Tomato Ketchup - Tasty, Yummy & Healthy",Kissan,4.1,₹139,₹150,1.1 kg - Pouch
+67,Monaco Classic,Parle,4.1,₹90,₹120,700 g
+68,"Tomato Veggie Overload Quikie Soup - Multigrain, No Maida",Rasna,3.6,₹120,₹120,12 x 18g - Multipack
+69,ChocLayered Cakes,Cadbury Chocobakes,4.1,₹173.88,₹210,3x114 g - Multipack
+70,Rice Vermicelli,Anil,4,₹80,₹80,500 g - Pouch
+71,Frozen Sweet Corn,Fresho,3.9,₹139,₹200,1 kg - Pouch
+72,Mom's Magic - Rich Cashew & Almond Cookies,Sunfeast,4.2,₹96.98,₹130,584 g - Pouch
+73,Potato Chips Original Style - Salt Sprinkled,Bingo,4.1,₹55.2,₹60,6x21 g - Multipack
+74,Mad Angles Achaari Masti - Mango Pickle Flavour Crunchy Triangle Chips Pack,Bingo,4.1,₹76.5,₹100,2x117 g - Multipack
+75,Corn Flakes With Real Almond & Honey,Kelloggs,4.2,₹656,₹820,2x650 g - Multipack
+76,Dark Fantasy Sandwich Creme Biscuits - Dark Crunch With Choco Creme,Sunfeast,4.2,₹37,₹75,277.5 g - (3 pcs x 92.5 g)
+77,Kaju Katli / Kaju Barfi Premium Mithai / Sweet,Tasties,4.3,₹135,₹249,200 g
+78,Treat - Orange Biscuits,Britannia,4.1,₹114,₹120,12x50 g - Multipack
+79,Biscuits - Milk Bikis Milk Sandwich,Britannia,4.2,₹85.5,₹90,3x100 g - Multi Pack
+80,Roast Almond Chocolate Bar,Cadbury Dairy Milk,4.2,₹335.16,₹360,8 x 36 g - Multipack
+81,Original Rava Idli Ready Mix,MTR,4.2,₹115,₹130,500 g - Pouch
+82,Dark Fantasy Sandwich Creme Biscuits - Vanilla,Sunfeast,4.2,₹50,₹100,277.5 g - (3 pcs x 92.5 g)
+83,Chocos - Moons & Stars,Kelloggs,4.1,₹432,₹720,1.2 Kg
+84,Namkeen - Lite Chiwda,Haldiram's,4.2,₹160,₹160,4x150 g - Multipack
+85,Fruit & Nut Chocolate Bar,Cadbury Dairy Milk Silk,4.2,₹484.51,₹555,3 x 137 g - Multipack
+86,"Honey - 100% Pure, No Sugar Adulteration",Dabur,4.1,₹454.45,₹610,1.3 kg - Pet Bottle
+87,French - Fries,McCain,4.1,₹315,₹315,1.25 kg
+88,Hot & Sweet - Tomato Chilli Sauce / Ketchup,MAGGI,4.3,₹165,₹165,1 kg - Bottle
+89,"Tomato Ketchup - Classic Blend, Rich & Thick Condiment",Del Monte,4.1,₹95.2,₹125,900 g - Spout Pouch
+90,Namkeen - Mixture,Haldiram's,4,₹45,₹45,200 g - Pouch
+91,Rich Cocoa 70% Dark Chocolate Bar,Cadbury Bournville,4.1,₹297.53,₹330,3 x 80 g - Multipack
+92,Madras Mixture,Townbus,4.1,₹55,₹55,135 g
+93,"Nutri Choice Seed Biscuits -  0% Maida, High In Fibre",Britannia,4.1,₹127.5,₹150,6 x 75 g - Multipack
+94,Soya Sticks,Haldiram's,4.1,₹45,₹45,200 g - Pouch
+95,"Whole Wheat Lachha/Paratha, 5 pcs",iD Fresho,3.8,₹169.1,₹190,2x400 g - Multipack
+96,50-50 Sweet & Salty Biscuits,Britannia,4.1,₹114,₹120,12x69 g - Multipack
+97,Malabar Parota,iD Fresho,4,₹160,₹180,2x400 g - Multipack
+98,Namkeen - Tasty Nuts,Haldiram's,4.1,₹80,₹80,400 g - Pouch
+99,Instant Popcorn - Classic Salted,ACT II,4.2,₹30,₹30,3x30 g - Multipack
+100,Potato Chips Wafer Style - Sundried Chilli Flavour,Lays,4.2,₹54,₹60,3 x 40 g - Multipack
+101,Original Style Potato Chips - Chilli Sprinkled,Bingo,4.1,₹80.75,₹100,2x90 g - Multipack
+102,Marie Light Vita Orange Biscuits - Tea Time Partner,Sunfeast,4.2,₹15,₹15,100 g - Pouch
+103,Chocolate Coated Wafer Home Treats,Cadbury Perk,4.2,₹221.62,₹297,3 x 126 g - Multipack
+104,Chocolate Shots,Cadbury Dairy Milk,4.2,₹10,₹10,18 g - Pouch
+105,Tomato Discs,PEPPY,4.1,₹90,₹180,3x60 g - Multipack
+106,Nutrichoice Thin Arrowroot Biscuits,Britannia,4.2,₹40,₹40,300 g
+107,Vanilla Flavour Creme Sandwich Biscuit,Cadbury Oreo,4.2,₹270,₹270,2 x 481.25 g - Multipack
+108,Vanilla Flavour Creme Sandwich Biscuit,Cadbury Oreo,4.2,₹198,₹198,3 x 288.75 g - Multipack
+109,Good Day Chocochip Cookies,Britannia,4.2,₹93.34,₹140,400 g
+110,Cup Noodles Mazedaar Masala,Nissin Food,4.1,₹133.86,₹150,3x70 g - Multipack
+111,Potato Chips - Spanish Tomato Tango,Lays,4,₹75.2,₹100,2 x 90 g - Multipack
+112,Namkeen - Kodubale,Townbus,4,₹55,₹55,135 g
+113,No Rulz Masala Curlz Corn Puffs,Bingo,4.1,₹99.75,₹150,3x80 g - Multipack
+114,"Kerala Banana Chips - Original Style, Thin & Crispy, Delicious",Beyond Snack,4.1,₹85.5,₹95,125 g
+115,Hide & Seek Chocolate,Parle,4.2,₹60,₹60,6x33 g - Multi Pack
+116,Rich Tomato Ketchup - Made With Real Tomatoes,MAGGI,4.2,₹134,₹150,970 g - Bottle
+117,"Choco Pie - Original, With Rich Marshmallow, No Preservatives",Lotte,4.1,₹126,₹150,25 g - (Pack of 12)
+118,Marie Light Biscuits - Active,Sunfeast,4.2,₹55.2,₹60,6x75 g - Multipack
+119,Hakka Noodles - Veg,Desi,4,₹150,₹150,800 g
+120,Tiger Biscuits - Glucose,Britannia,4.1,₹47.5,₹50,5x 85.3 g - Multipack
+121,"Milkybar - Choo, Classic",Nestle,4.2,₹5,₹5,10 g
+122,"Schezwan Pasta - Chinese Style, Fusilli, With Zingy Sauce Maker & Extra Spicy Sprinkler",Keya,4.6,₹39.5,₹79,95.5 g - Pouch
+123,Frozen - Sweet Corn,Safal,4,₹144,₹180,1 kg - Pouch
+124,"Rolled Oats - Gluten Free, High Protein & Fibre",True Elements,4.3,₹656,₹800,2x1 kg - Multipack
+125,"Namkeen - Chilli Chatka, Spicy, Unique Taste",Kurkure,4.2,₹175,₹175,75 g
+126,Vermicelli,Bambino,3.9,₹65.5,₹85,850 g - Pouch
+127,Moms Magic - Fruit & Milk,Sunfeast,4.2,₹46,₹50,5x51.1 g - Multipack
+128,Hide & Seek Caffe Mocha Cookies,Parle,4.2,₹90,₹120,4 x 100 g - Multipack
+129,"Oats Breakfast Cereal - Rich In Protein, Dietary Fibre, Nutritious, Easy To Cook",Quaker,4.3,₹368,₹398,2x1 Kg - Multipack
+130,Motichur Laddoo,Lal,4.1,₹99,₹99,200 g
+131,Durum Wheat Pasta - Penne Rigate,BORGES,4.1,₹309.46,₹598,2x500 g - Multipack
+132,Yummiez Green Peas,Godrej Yummiez,3.7,₹182,₹280,1 kg - Pouch
+133,"50-50 Potazos - Masti Masala, Spicy Flavoured Crips, Teatime Snack (Pack Of 3)",Britannia,4.2,₹63.75,₹75,3 x71.5 g - Multipack
+134,"Mac & Cheese Pasta - American Style, Macaroni, With Creamy Sauce Maker & Extra Herby Sprinkler",Keya,4.4,₹39.5,₹79,95.5 g - Pouch
+135,"Idly Dosa Batter - Mildly Salted, Perfect Breakfast, Ready To Cook",Asal,3.8,₹140,₹140,2 kg
+136,G Gold Biscuits,Parle,4.2,₹115,₹140,1 Kg
+137,Chocolate Home Treats Bar,Cadbury 5 Star,4.3,₹403.02,₹447,3x191.9 g - Multipack
+138,Curry Instant Noodles,Top Ramen,4.2,₹194,₹200,8 x 70 g - Multipack
+139,Hakka Noodles - Veg,Chings,4.1,₹120,₹125,5x150 g - Multipack
+140,Dark Chocolate- 55% Rich In Cocoa,Amul,4.3,₹110,₹110,150 g - Carton
+141,Hommade - Tomato Puree,Dabur,4.2,₹77,₹81,3x200 g - Multipack
+142,"Oats - Natural Wholegrain, Nutritious Breakfast Cereals, Poha, Easy To Cook",BB Royal,4.2,₹278,₹398,2x1 kg - Multipack
+143,"50 50 Time Pass Biscuits - Simply Salted,",Britannia,4.1,₹57,₹60,6x69g - Multipack
+144,Potato Chips - American Style Cream & Onion Flavour,Lays,4.1,₹75.2,₹100,2 x 90 g - Multipack
+145,Tiger Krunch Biscuits,Britannia,4.1,₹70,₹140,400 g
+146,NutriChoice 5 Grain Digestive Multigrain Biscuits - High Fibre,Britannia,4.2,₹114.24,₹140,2 x 200 g - Multipack
+147,Butter Murukku,Townbus,4,₹55,₹55,135 g
+148,Instant Sweet Corn Cup-A-Soup,Knorr,4.2,₹100,₹100,10x10 g - Multipack
+149,Papad - Punjabi Masala,Lijjat,4.1,₹422,₹422,1 kg - Pouch
+150,"Nachos Sweet Chilli Crunchy, Nachos Chips, Snacks, Party Pack",Doritos,4.1,₹67.5,₹100,2x82.5 g - Multipack
+151,Tedhe Medhe Masala Tadka,Bingo,4.1,₹35.68,₹40,2 x 85 g - Multipack
+152,"Dark Fantasy Combi Pack - Choco Fills, Original Filled Cookies",Sunfeast,4.2,₹147.2,₹160,75 g - (Buy 4 get 1 Free)
+153,ChocFilled Cookies,Cadbury Chocobakes,4.2,₹423.94,₹480,6x150 g - Multipack
+154,Jimjam Cream Biscuits,Britannia,4.2,₹10,₹10,57 g
+155,"Honey - 100% Pure, With No Sugar Adulteration",BB Royal,0,₹550,₹950,2 x 1 kg - Multipack
+156,Namkeen - Mini Bhakarwadi,Haldiram's,4.1,₹130,₹130,2x200 g - Multipack
+157,Milk Bikis Biscuits,Britannia,4.2,₹82.8,₹90,500 g
+158,Chocos Corn Flakes,Kelloggs,4.1,₹96,₹120,6x58 g - Multipack
+159,Chutney - Schezwan,Chings,4.2,₹263.93,₹270,3x250 g - Multipack
+160,Cheese Flavoured Cracker Biscuits - Family Pack,Malkist,4.2,₹300,₹300,720 g - (144 g x 5 N)
+161,Frozen Green Peas - Ready To Cook,Farmland,3.9,₹172.4,₹260,1 kg
+162,Instant Popcorn - Golden Sizzle,ACT II,4.2,₹64.8,₹72,3x60 g - Multipack
+163,"Cashews - Whole, 100% Natural Premium",Happilo,4.1,₹502.5,₹670,2x200 g - Multipack
+164,Muesli - With 0% Added Sugar,Kelloggs,4.2,₹694,₹740,2x500 g - Multipack
+165,Masala Balls,Cheetos,4.2,₹46,₹50,5x28 g - Multipack
+166,Pazzta Cheese Macaroni - Made With 100% Suji/Rawa,MAGGI,4.2,₹46,₹54,"150 g - Family Saver Pack, Pouch"
+167,Tiger Kreemz Sandwich Biscuits - Choco,Britannia,4.1,₹10,₹10,86 g - Pouch
+168,"Cookies - Assorted Flavours, Tasty Teatime Snack",UNIBIC,4.2,₹225,₹300,75 g - (Pack of 10)
+169,Chaat Papdi - Crispy,Tasties Origins,4.1,₹123,₹218,2x150 g - Multipack
+170,Biscuits - Googly,Bisk Farm,4.1,₹60,₹60,2x200 g - Multipack
+171,Bengaluru Special Mixture,Sowbhagya foods,4.2,₹165,₹330,2 x 500 g - Multipack
+172,Ready To Eat Veg Masala Noodles,Wai Wai,4.1,₹42.75,₹45,3 x 70 g - Multipack
+173,"Marie Light Biscuits - With Oats & Wheat Fibre, Tea Time Partner",Sunfeast,4.2,₹9.4,₹10,65 g
+174,Digestive Wholewheat Biscuits,McVitie's,4.2,₹185.51,₹225,253.3 g - (Multipack) (Pack of 3)
+175,Strawberry Flavour Creme Sandwich Biscuit,Cadbury Oreo,4.2,₹86.94,₹105,3 x 113.75 g - Multipack
+176,3 Minute Breakfast - Poha,MTR,4.1,₹69,₹81,3 x 60 g - Multipack
+177,Cheez Puffs,Cheetos,4.1,₹46,₹50,5x28 g - Multipack
+178,YiPPee! Mood Masala Instant Noodles,Sunfeast,4.2,₹91.2,₹120,2x260 g - (Pack of 2)
+179,Vermicelli - Rice Sevai,MTR,4,₹50,₹50,400 g - Pouch
+180,Bounce Creme Biscuits - Orange,Sunfeast,4.2,0,0,41 g
+181,Maxx Macho Chilli,Lays,4.1,₹50.4,₹60,2 x 56  g - Multipack
+182,2-Minute Instant Noodles - Special Masala,MAGGI,4.2,₹216,₹240,840 g - (Pack of 12)
+183,Papad - Jeera,Lijjat,4.1,₹72,₹72,200 g - Pouch
+184,HiFi Cashew Butter Cookies,Sunfeast,4.2,₹5,₹5,35 g - pouch
+185,"Peanut Butter - Crunchy, Rich In Protein, Spreads",Sundrop,4.2,₹225,₹250,924 g
+186,"Waffy Wafers - Orange Flavoured, Creamy & Crunchy",Dukes,4.2,₹25,₹50,60 g - Pouch
+187,Khara Boondi,Townbus,4.1,₹55,₹55,135 g
+188,"Tiger Kreemz - Elaichi Cream Biscuits, Teatime Snack",Britannia,4.1,₹5,₹5,33.4 g
+189,"Biscuits - Marie, Sugar Free",Bisk Farm,4.2,₹50,₹50,300 g - Packet
+190,Kaju Katri,Amul,4,₹435,₹435,500 g
+191,Funfoods Veg Mayonnaise - Original,Dr. Oetker,4.2,₹142,₹178,2 x 250 g - Multipack
+192,Salted Peanut,Haldiram's,4.1,₹265,₹265,1 Kg
+193,Dark Soy Sauce,Ching's Secret,4.2,₹163.8,₹180,3x200 g - Multipack
+194,Chocolate Pack,Cadbury Nutties,4.2,₹360,₹360,8 x 30 g - Multipack
+195,Cup-A-Soup - Manchow Veg,Knorr,4.2,₹100,₹100,10x12 g - Multipack
+196,"Masala Oats - Tasty Evening Snack, Fibre Rich, Veggie Twist",Saffola,4.2,₹368.18,₹449,1 kg
+197,Smiles Crispy - Happy Potatoes,McCain,4.1,₹370,₹370,1.25 kg
+198,Mithai Shankarpali Sweet - Crispy,Tasties Origins,4,₹65,₹109,150 g
+199,"Oats - Tasty Evening Snack, Fibre Rich, Masala & Coriander",Saffola,4.2,₹171.6,₹195,500 g
+200,Namkeen - All in One,Haldiram's,4.1,₹100,₹100,400 g - Pouch
+201,Cup-A-Soup - Hot & Sour Veg,Knorr,4.2,₹100,₹100,10x11 g - Multipack
+202,Besan Laddoo,Daadi's,3.5,₹120,₹240,2x200 g - Multipack
+203,Farmlite Biscuit - Oats & Almonds,Sunfeast,4.2,₹152.49,₹195,3x150 g - (Multipack)
+204,Besan Laddoo Mithai / Sweet,Tasties,3.6,₹85,₹160,200 g
+205,"Nachos - Cheese Flavour, With Free Dip",Bingo,4,₹76.5,₹100,2 x 100 g - Multipack
+206,Frozen - Mixed Vegetables,Safal,4.1,₹127.5,₹150,1 Kg - Pouch
+207,Muesli Breakfast Cereal - With Multigrain & 21% Fruit & Nut,BB Royal,3.9,₹419,₹720,2x500 g - Multipack
+208,"Milkybar Bar - Rich Taste, Creamy",Nestle,4.2,₹10,₹10,12.5 g
+209,Vermicelli - Made From Wheat,Aashirvaad,4,₹89,₹89,850 g
+210,"2 Minute Instant Noodles - Veggie Masala, Made With Quality Spices, Rich In Fibre",MAGGI,4.1,₹60,₹60,248 g - Pouch
+211,Namkeen - Mixture,Haldiram's,4.1,₹60,₹60,6x55 g - Multipack
+212,Nissin Geki - Hot & Spicy Korean Veg Flavour,Nissin,4.2,₹220.5,₹294,80 g - (Pack of 6)
+213,Potato Chips - American Style Cream & Onion Flavour,Lays,4.2,₹57,₹60,3x52 g - Multipack
+214,Minis Chocolate Home Treats Pack,Cadbury Dairy Milk Silk,4.2,₹541.44,₹600,3 x 153 g - Multipack
+215,"Muesli - 20% Nuts Delight, Multigrain Breakfast Cereal, High In Iron & Fibre, Naturally Cholesterol Free",Kelloggs,4.1,₹529,₹790,1 kg
+216,Durum Wheat Pasta - Fusilli,BORGES,4.2,₹309.46,₹598,2x500 g - Multipack
+217,Green Chilly Sauce,Ching's Secret,4.2,₹163.8,₹180,3x190 g - Multipack
+218,Gulab Jamun,Haldiram's,4,₹675,₹675,3 x 1 kg - Multipack
+219,Marie Light Active - Original Biscuits,Sunfeast,4.1,₹81,₹90,3x186 g
+220,Masala Rava Idli Ready Mix,MTR,4.3,₹120,₹130,500 g - Pouch
+221,Jim Jam Pops Biscuit,Britannia,4.5,₹85,₹100,350 g
+222,Treat - Crazy Pineapple Cream Biscuits,Britannia,4.1,₹114,₹120,12x64 g - Multipack
+223,Veggi Manchow Instant Cup Noodles,Nissin,4.1,₹116.4,₹120,3x70 g - Multipack
+224,Cranberry Dark Chocolate Bar,Cadbury Bournville,4.2,₹297.53,₹330,3 x 80 g - Multipack
+225,Namkeen - All In One Mixture,Tasties,3.9,₹199.02,₹294,6x150 g - Multipack
+226,"Banana Chocochip Pancake Mix - No Maida, Eggless Instant Healthy Breakfast",Slurrp Farm,4.2,₹415.71,₹447,3x150 g - Multipack
+227,Chocos,Kelloggs,4.2,₹515,₹515,1.15 Kg
+228,"Minute Fresh Dosa Batter - No Added Preservatives, Soda, Colours Or Flavours, Authentic Taste",MTR FOODS,3.9,₹71,₹85,850 g
+229,Polo - The Mint With The Hole,Nestle,4.3,₹5,₹5,12 g - Pouch
+230,"Daily Pasta - Made From Durum Wheat, Elbow",Bambino,4.2,₹75,₹150,500 g
+231,Fatafat Bhel,Haldiram's,4.2,₹270,₹270,6x65 g - Multipack
+232,3 Minute Breakfast Vegetable Upma,MTR,4,₹69,₹81,3 x 60 g - Multipack
+233,Crispello Chocolate Bar,Cadbury Dairy Milk,4.2,₹96.73,₹105,3x35 g - Multipack
+234,"Bites - Almond, Roasted & Chocolate Coated",Cadbury Dairy Milk,4.1,₹190.35,₹225,3 x 40 g - Multipack
+235,Mixed Vegetable Cup A Soup - No Added Preservatives,Knorr,4.2,₹10,₹10,9.5 g
+236,Roasted Vermicelli,BB Royal,4,₹74,₹130,2x400 g - Multipack
+237,Crackle Chocolate Bar,Cadbury Dairy Milk,4.2,₹335.16,₹360,8 x 36 g - Multipack
+238,Coconut Barfi Mithai / Sweet - Made With Desi Ghee,Tasties,4.1,₹85,₹199,200 g
+239,Miniatures Chocolate,Snickers,4.3,₹169.15,₹199,180 g - Pouch
+240,Happy Happy Choco-Chip Cookies,Parle,4.2,₹70,₹140,396 g
+241,"Chocolate Bar - Bar One, Nougat & Caramel Filled",Nestle,4.2,₹20,₹20,38 g
+242,Namkeen - Tasty Nut Masala Coated,Tasties,3.9,₹159,₹294,6x150 g - Multipack
+243,Fruit & Nut Chocolate Bar,Cadbury Dairy Milk,4.2,₹502.74,₹540,6 x 80 g - Multipack
+244,Peanut Filled Chocolate Bar,Snickers,4.4,₹9792,₹11520,288x45 g - Multipack
+245,Candy - Melody Chocolaty,Parle,4.3,₹100,₹100,391 g - Pouch
+246,Murukku,Haldiram's,4.1,₹65,₹65,200 g - Pouch
+247,Waffy Wafers - Chocolate Flavoured Creamy & Crunchy,Dukes,4.1,₹25,₹50,60 g - Pouch
+248,Chocolate,Cadbury Dairy Milk,4.2,₹276.36,₹300,6x55 g - Multipack
+249,"Chocos - Variety Pack, With Protein & Fibre",Kelloggs,4.2,₹186,₹210,3x175 g - Multipack
+250,"Khova - Unsweetened, Creamy Texture, Milky Aroma",Milky Mist,3.8,₹95,₹95,200 g - Pouch
+251,Spiced Chicken Instant Cup Noodles,Nissin,4.1,₹133.86,₹150,3x70 g - Multipack
+252,Baking Soda,Weikfield,4.2,₹32,₹32,100 g - Jar
+253,Marie Biscuits,Parle,4.1,₹87.5,₹175,800 g
+254,Happala,Anil,4,₹80,₹80,200 g - Pouch
+255,Badam Laddoo - Made In Pure Ghee,Daadi's,3.4,₹190,₹380,2x200 g - Multipack
+256,Durum Wheat Pasta - Spaghetti,HappyChef,4.3,₹182.36,₹350,2x500 g - Multipack
+257,Namkeen - All in One,Haldiram's,4.2,₹10,₹10,38 g - Pouch
+258,Power Up Instant Atta Noodles,Sunfeast YiPPee!,4.1,₹89.6,₹112,280 g - (Pack of 4)
+259,"Oats Multigrain Rolled Oats Wholegrain - High Protein & Fibre For Weight Loss, Dalia Porridge",Quaker,4.4,₹280,₹350,2 x 600 g - Multipack
+260,Potato Chips Original Style - Salt Sprinkled,Bingo,4.2,₹54,₹60,3x45 g - Multipack
+261,"Wheat Chapathi - Soft, Tasty & Highly Nutritious, Just Heat",Asal,4,₹40,₹40,200 g
+262,Microwave Popcorn - Butter Lovers Flavor,ACT II,4.2,₹426,₹450,6x99 g - Multipack
+263,Makka Popcorn - Corn Kernels,4700BC,4.1,₹38,₹40,200 g
+264,"Essentials Oats Cookies (No Added Sugar & Diabetic Friendly),",Britannia NutriChoice,4.2,₹118.27,₹140,2x 150 g - Multipack
+265,"Peanut Chikki - Made With jaggery, Healthy Snack, Protein Rich",SDA,3.9,₹85,₹85,200 g - POUCH
+266,Appalam - No 6,Ambika,3.8,₹60,₹60,100 g
+267,Elbow Macaroni,BB Royal,4,₹74,₹120,2x400 g - Multipack
+268,Choco Pie - Chocolate Coated Soft Biscuit,Orion,4.2,₹244.8,₹340,336 g - (Pack of 2)
+269,Mast Masala Soupy Noodles,Knorr,4.2,₹60,₹60,3x70 g - Multipack
+270,"Oats - Tasty Evening Snack, Fibre Rich, Classic Masala",Saffola,4.2,₹368.18,₹449,1 kg - Pouch
+271,Potato Chips - Sizzlin Hot,Lays,4.3,₹20,₹20,40 g
+272,"Multigrain Energy Bar - Chocolate Chunk Nut, Healthy, High In Protein & Fibre",Yoga Bar,4.1,₹35,₹40,38 g
+273,Papad - Urad,Lijjat,4.1,₹366,₹366,1 kg - Pouch
+274,Namkeen - Masala Kaju,Haldiram's,4.1,₹100,₹100,2x35 g - Multipack
+275,Dharwad Peda,Lal sweets Pvt Ltd,3.8,₹130,₹130,200 g - Carton
+276,Treat Strawberry Wafers,Britannia Treat,4.2,₹50,₹100,2 x 55 g - (Multipack)
+277,Mysore Pak Prem,Lal,4.2,₹250,₹250,400 g
+278,"Natural Peanut Butter - Crunchy, Unsweetened",Pintola,4,₹384,₹425,1 kg
+279,Farmlite 5 Grain Digestive Biscuit - High Fibre,Sunfeast,4.2,₹120.12,₹240,800 g
+280,"Waffy Wafers - Vanilla Flavoured, Creamy & Crunchy",Dukes,4.2,₹25,₹50,60 g - Pouch
+281,"0% Added Sugar Millet Muesli, High Protein, Rich In Fibre",Tata Soulfull,4,₹343.85,₹529,700 g
+282,Rice Sevai,Manna,4.3,₹71.2,₹89,200 g - Pouch
+283,Bounce Biscuits - Elaichi Creme Cookies,Sunfeast,4.1,₹57,₹60,6x58 gm - Multipack
+284,Farmlite Biscuit - Oats And Chocolate,Sunfeast,4.3,₹103.87,₹130,2x150 g - Multipack
+285,Chocolate Syrup,Hersheys,4.3,₹285,₹300,3x200 g - Multipack
+286,Namkeen Green Chutney Style,Kurkure,4.1,₹10,₹10,36 g
+287,Good Day Chunkies Chocolate Cookies,Britannia,4.2,₹60,₹80,120 g
+288,Yummiez Nuggets - Chicken,Godrej Yummiez,4,₹325,₹350,500 g - Pouch
+289,"Dinamita Tortilla Chips - Fiery Crunchy, Nachos, Snacks, Lime & Chilli Flavour",Doritos,4,₹72,₹90,3 x 56g - Multipack
+290,Namkeen - Corn Flakes Mixture,Townbus,4,₹10,₹10,30 g
+291,Motichoor Laddu Mithai / Sweet - Made With Desi Ghee,Tasties,4.1,₹125,₹199,200 g
+292,"Minute Fresh Idli Batter - ConviPack, No Added Soda, Preservatives, Flavours Or Colours, Authentic Taste",MTR FOODS,3.6,₹71,₹85,750 g
+293,Bourbon - The Original Biscuits,Britannia,4.1,₹72,₹75,3x100 g - Multi Pack
+294,Durum Wheat Pasta - Mini Penne Rigate,BORGES,4.3,₹165.6,₹320,2x350 g - Multipack
+295,"Masala Oats - Tasty Evening Snack, Fibre Rich, Curry & Pepper",Saffola,4.2,₹182.16,₹207,500 g
+296,Roasted Peanuts - Classic Salted,JABSONS,4.1,₹70,₹70,160 g - Pouch
+297,Chocolate Gift Pack,Cadbury Celebrations,4,₹900,₹1200,59.8 g - Pack of 24
+298,Premium Laddoo - Besan,Lal,3.9,₹250,₹250,400 g
+299,Cheese Licks,Bisk Farm,4.2,₹35,₹35,150 g - Pouch
+300,"American Pistachios - Roasted & Salted, 100% Natural, Premium, No Additives",Grocery Farm,4.3,₹279.3,₹399,200 g
+301,Cocoa Powder,HappyChef,4.2,₹58.5,₹65,50 g
+302,Classic Chocolate,Nestle,4.2,₹20,₹20,34 g - Pouch
+303,Red Chilli Sauce,Ching's Secret,4.2,₹163.8,₹180,3x200 g - Multipack
+304,Chicken Instant Noodles,MAGGI,4.2,₹72,₹72,284 g - Pouch
+305,Crunchy Granola Almonds & Cranberries,Kelloggs,4.3,₹350,₹380,460 g
+306,"Butter Murukku - Fresh, Crunchy, South Indian Snack",Modern Kitchens,3.9,₹51,₹60,150 g
+307,"Honey Active - From Sundarban Forest, 100% Pure, No Sugar Adulteration",Saffola,4,₹370.5,₹475,1 kg - Jar
+308,Ready Mix - Vermicelli Payasam,MTR,4.3,₹75,₹75,180 g - Pouch
+309,Glucose Biscuits,Sunfeast,4.1,₹47.5,₹50,5x96 g - Multipack
+310,Namkeen - Ratlami Sev,Haldiram's,4.1,₹141,₹141,3x150 g - Multipack
+311,Chocolate Wafers,Britannia Treat,4.2,₹50,₹100,2x60 g - Multipack
+312,Mayonnaise - Eggless Spout,Del Monte,4.2,₹298.02,₹438,2x900 g - Multipack
+313,Classic Corn Flakes,BB Royal,4.2,₹189,₹340,900 g
+314,Soan Papdi - Real Cardamom,GRB,4.2,₹70,₹70,200 g - Pouch
+315,Pickle - Mango,Mother's Recipe,4.1,₹108.77,₹149,500 g - Pouch
+316,Soan Papdi,Haldiram's,4.2,₹1560,₹1560,12x500 g - Multipack
+317,Instant Popcorn - Tomato Chilli,ACT II,4.2,₹198,₹198,6x59 g - Multipack
+318,Durum Wheat Pasta - Spaghetti,BORGES,4.3,₹154.73,₹299,500 g - Pouch
+319,French Fries,Amul Happy Treats,3.9,₹180,₹180,2x425 g - Multipack
+320,Peanut & Caramel Filled Chocolate Bar,Cadbury Fuse,4.2,₹288.51,₹320,8x45 g - Multipack
+321,Milkybar White Chocolate,Nestle,4.1,₹32,₹40,42 g - Box
+322,Chocolate Bar,Cadbury Dairy Milk Silk,4.1,₹514.5,₹525,3x150 g - Multipack
+323,Original Potato Chips - Classic Salted Flavoured,Pringles,4.2,₹207,₹230,2x107 g - Multipack
+324,"Real Mayonnaise - Eggless Extra Creamy, World's No. 1 Brand",Hellmanns,4.3,₹82.8,₹90,250 g
+325,Fruit & Nut Dark Chocolate Bar,Cadbury Bournville,4.2,₹270.48,₹300,3 x 80 g - Multipack
+326,Nissin Geki - Hot & Spicy Korean Chicken Flavour,Nissin,4.2,₹220.5,₹294,80 g - (Pack of 6)
+327,Instant Popcorn - Magic Butter Flavour,ACT II,4.1,₹10,₹10,30 g
+328,Assorted Choco Treats,Lindberg,4.1,₹375,₹549,200 g - (18 pcs)
+329,Phalhari Chiwda Namkeen - Sweet & Salty,Haldiram's,4.2,₹47,₹47,200 g - Pouch
+330,Namkeen - Phalhari Chiwda,Haldiram's,4.1,₹10,₹10,45 g - Pouch
+331,"Waffy Wafers - Strawberry Flavoured, Creamy & Crunchy",Dukes,4.2,₹25,₹50,60 g - Pouch
+332,Samosa Patti,Switz,4.2,₹82,₹100,2x25 Sheets - Multipack
+333,"Fruit N Nut, Dark Chocolate- 55% Rich In Cocoa",Amul,4.3,₹110,₹110,150 g - Carton
+334,Masala - Chutney Powder,MTR,4.1,₹145,₹155,200 g - Pouch
+335,"Veggie Fingers - Veggie Delight With Corn, Carrot & Peas",McCain,4.1,₹155,₹155,400 g
+336,Namkeen - Bhel Puri,Haldiram's,4.2,₹94,₹100,300 g - Pouch
+337,"Little Millet Noodles - No Maida, Not Fried",Slurrp Farm,3.9,₹387,₹387,3x192 g - Multipack
+338,Rice Papad - Jeera,Mother's Recipe,4.1,₹25,₹25,75 g
+339,"Essentials Ragi Cookies - No Added Sugar & Diabetic Friendly, High Dietary Fibre",Britannia NutriChoice,4.1,₹61.6,₹70,150 g
+340,Pazzta Masala Penne - Made With 100% Suji/Rawa,MAGGI,4.2,₹46,₹54,"139 g - Family Saver Pack, Pouch"
+341,"Badam Drink Mix - Real Badam, Elaichi & Kesar",MTR,4.2,₹220,₹260,450 g
+342,"Oats Cookies Milk Almond,",Britannia NutriChoice,4.1,₹60.56,₹75,3x 75 g - Multipack
+343,Super Snack - Cream & Onion,MR. MAKHANA,4,₹46.55,₹49,27.5 g
+344,Chocolate Gift Pack,Cadbury Celebrations,4,₹1099.91,₹1194,178.8 g - Pack of 6
+345,Namkeen - Green Chutney Rajasthani Style,Kurkure,4.1,₹60,₹60,3x90 g - Multipack
+346,"Sugar Free Biscuits - Cream Cracker, Crunchy, Teatime Snack",Bisk Farm,4.2,₹45,₹45,300 g - Pouch
+347,Veggie Stix - Sour Cream & Onion,Too Yumm!,4.2,₹55.2,₹60,3x45 g - Multipack
+348,Ultra Thin Banana Wafers - Classic Salt,A-1 Chips,4.2,₹110,₹110,180 g
+349,Gulab Jamun,MTR,4,₹230,₹270,1 kg - Tin
+350,"Biscuits - Rich Marie, Light & Crunchy, Teatime Snack",Bisk Farm,4.2,₹37.6,₹40,300 g - Pouch
+351,Rich Dry Fruit Collection Chocolate Gift Pack,Cadbury Celebrations,4,₹971.52,₹1100,177 g - Pack of 2
+352,Caramel Cookie Chocolate Bar,Twix,4.2,₹189,₹210,3x50 g - Multipack
+353,Farmlite Biscuit - Oats & Raisins,Sunfeast,4.2,₹152.49,₹195,3x150 g
+354,Organic - Apple Cider Vinegar,Bragg,4.2,₹2108,₹2480,2x946 ml - Multipack
+355,Golden Wheat Crisps - Methi Khakhra,Daadi's,4.1,₹80,₹80,180 g - Pouch
+356,Cocoa Powder Mix,Cadbury,4.2,₹423.47,₹530,2x150 g - Multipack
+357,Bagrry`S Crunchy Muesli With Almonds  Raisins & Honey - 40 750 g Pouch,Bagrrys,4.2,₹357.7,₹490,750 g - Pouch
+358,"Dark Fantasy - Yumfills, Rich Chocolate Pie Cake",Sunfeast,4.2,₹85.06,₹170,242 g
+359,Potato Chips - Sour Cream & Onion Flavoured,Pringles,4.2,₹207,₹230,2x107 g - Multipack
+360,"Waffy Wafers - Pineapple Flavoured, Creamy & Crunchy",Dukes,4.2,₹25,₹50,60 g
+361,Appalam,Mother's Recipe,4.1,₹45,₹50,100 g - Pouch
+362,"Hashtags - Spicy Masala, Unique Flavour, Crispy",Bingo,4.2,₹28.33,₹30,58 g - Pouch
+363,Pickle - Mango Sliced,MTR,4.1,₹149,₹149,500 g - Jar
+364,Namkeen - Salted Banana Chips,Tasties,4.1,₹516,₹594,6x150 g - (Multipack)
+365,Gulab Jamun Instant Mix,Aashirvaad,4,₹154,₹280,500 g - Pouch
+366,"Oats - Low In Sodium, Soluble Fibre, Reduce Cholesterol",Kelloggs,4.3,₹146,₹180,900 g
+367,Milano Cookies - Centre Filled With Mixed Berries,Parle,4.3,₹90,₹120,3x75 g - Multipack
+368,"All Rounder - Thin, Light & Crunchy Potato Biscuit With Chatpata Masala Flavour",Sunfeast,4.1,₹71.25,₹75,75 g - (Pack of 3)
+369,"Minute Fresh Signature Dosa Batter - Made From Red Rice, No Added Preservatives, Soda",MTR FOODS,3.9,₹81,₹90,850 g
+370,Ragi Sticks - Achari Masala,GoodDiet,3.7,₹69.25,₹125,5x30 g - (Multipack)
+371,Roasted Vermicelli - Made From Wheat,Aashirvaad,4.2,₹55.46,₹59,400 g
+372,"Cuppa Noodles - Masala, 70 g, Pack of 3",MAGGI,4,₹150,₹150,3x70 g - Multipack
+373,Nice - Sugar Sprinkled Biscuits,Sunfeast,4.1,₹71.25,₹75,3x142.8 g - (Multipack)
+374,Cookies - Hide N Seek Milano,Parle,4.2,₹180,₹240,6x75 g - (Multipack)
+375,Instant Gojjavalakki Mix,Sanketi Adukale,4.4,₹109,₹109,250 g
+376,"Original Special K - Low Fat, High In B Group Vitamins, Source Of Protein & Fibre, Breakfast Cereals",Kelloggs,4.2,₹447.25,₹470,935 g
+377,Sliced Black Olives,Del Monte,4.1,₹300.3,₹330,450 g - Jar
+378,"Tata Sampann Dry Fruits & Nuts Mix (Contains Almonds, Black Raisins, Cashews, Cranberries, Green raisins, and Pistachio kernels), 100% Premium Hand-picked Dry Fruits & Nuts, up to 20 Quality Parameters Tested",Tata Sampann,4.3,₹234.61,₹285,200 g
+379,Chef'S Special - Tomato Ketchup,VEEBA,4.1,₹84.15,₹99,900 g
+380,"Playz Puffcorn - Yummy Cheese, Namkeen",Kurkure,3.9,₹63.75,₹100,2 x 80 g - Multipack
+381,Chocos Crunchy Bites,Kelloggs,4.2,₹382.5,₹410,2x 375 g - Multipack
+382,Good Day Cookies - Rich Butter,Britannia,4.1,₹142.5,₹150,6x120 g - Multipack
+383,Ragi Idli & Dosa Batter,Batter Box,4,₹100,₹100,1 Kg
+384,Signature Minute Fresh Akki Rotti - Heat & Eat,MTR,3.4,₹90,₹95,420 g
+385,"Peanut Chikki Nice - Made With jaggery, Healthy Snack, Protein Rich",SDA,3.9,₹85,₹85,200 g - POUCH
+386,"Masala Oats - Karara Crunch, Classic Masala, Tasty Recipe",Saffola,4.1,₹169.6,₹212,500 g
+387,Quinoa Puffs - Onion Masala,GoodDiet,3.9,₹69.25,₹125,5x30 g - (Multipack)
+388,Oreo Chocolate Bar,Cadbury Dairy Milk Silk,4.2,₹499.06,₹525,3 x 130 g - Multipack
+389,Wild Honey,24 Mantra Organic,4,₹452.4,₹580,2x500 g - Multipack
+390,"Khatta Meetha - Premium Quality, Guilt-free Snack, Authentic Taste",Haldiram's,3.9,₹180,₹200,1 kg - Pouch
+391,"Dark Chocolate - Single Origin, India",Amul,4.2,₹80,₹160,125 g
+392,"Choco Ragi Puff - Healthy Snacks For Kids, School Tiffin & Travel Friendly",Slurrp Farm,3.9,₹190,₹200,8x20 g - Multipack
+393,"Aam Papad -  Fruit Bar, No Added Preservatives & Colours",Paper Boat,4.1,₹202.5,₹225,270 g - (Pack of 3)
+394,Yummiez Pepper & Herb Chicken Sausages,Godrej Yummiez,4,₹170,₹180,250 g - Pouch
+395,Jack Fruit Chips,A-1 Chips,4,₹130,₹130,200 g
+396,Organic Wild Honey,BB Royal,3.9,₹450,₹798,2x500 g - Multipack
+397,Expressions Gift Box - Assorted Chocolate Truffles,Lindberg,4.2,₹299,₹499,185 g - (16 Pcs)
+398,Sugar Free Cashew Cookies,UNIBIC,4.1,₹324,₹360,6x75 g - Multipack
+399,Namkeen - Handmade Bhujia Sev,Tasties,4,₹193.02,₹294,6x150 g - Multipack
+400,Sugar Free Dark Chocolate,Amul,4.2,₹140,₹140,150 g
+401,Pastalicious Penne - 100% Durum Wheat Semolina,Disano,3.9,₹119,₹260,2x400 g - Multipack
+402,Super Snack - Piri Piri Paradise,MR. MAKHANA,4,₹46.55,₹49,27.5 g
+403,"Thenkuzhal Muruku - Namkeen Snack, No Transfats Or Cholesterol, Evening Snack",Townbus,4.4,₹65,₹65,170 g - Stand Pouch
+404,"Pancake Mix - Chocolate Flavour, Makes Soft & Fluffy Pancakes",Pillsbury,4.1,₹26.5,₹53,80 g
+405,Quinoa Puffs - Spicy Garlic,GoodDiet,3.8,₹61.97,₹125,5x30 g - (Multipack)
+406,Honey - Zero Adulteration,BB Royal,0,₹149,₹365,500 g - Squeezy Bottle
+407,"Bars Choco Almond 10 g Daily Protein Bar With Real Almond, Sugar Free Healthy Protein Snacks",RiteBite Max Protein,4.2,₹427.5,₹450,50 g - (Pack of 6)
+408,"Poppins Candy - Fruit Flavoured Rolls, Tangy & Crunchy",Parle,4.2,₹22.5,₹30,100 g
+409,Chewy Fruit Candies - Original,Skittles,4.2,₹10,₹10,9 g
+410,Instant Khatta Meetha Poha With Millets,Aashirvaad,3.9,₹81,₹108,4X60 g - Multipack
+411,Namkeen - Moong Dal,Haldiram's,4.1,₹190,₹210,2x350 g - Multipack
+412,No-Onion No-Garlic Tomato Sauce,Kissan,4,₹118,₹130,850 g - Doy Pack
+413,Pazzta Cheesy Tomato Twist - Made With 100% Suji/Rawa,MAGGI,4.1,₹32,₹32,68.5 g
+414,Banana Chips,A-1 Chips,4,₹133,₹140,250 g
+415,Khara Groundnuts,Sanjay,3.8,₹75,₹75,200 g
+416,Flavored Center Chocolate - Blueberry & Acai,Brookside,4.1,₹294.4,₹320,2x100 g - Multipack
+417,Tamarind Date Chutney,Mother's Recipe,4.2,₹108,₹120,2 x 200 g - Multipack
+418,"Tortilla Wrap - For Rolls, Wraps & Tacos",Habanero,4,₹555,₹555,3x330 g - Multipack
+419,Vermicelli - Roasted,Azad,4.2,₹52,₹52,200 g - Pouch
+420,Ribbon Pakoda,Townbus,4.1,₹55,₹55,135 g
+421,Corn Flakes With Real Strawberry Puree,Kelloggs,4.2,₹325,₹325,575 g
+422,Almond Treat Premium Chocolate Bar,Cadbury Temptations,4.3,₹297.53,₹330,3 x 72 g - Multipack
+423,"Sprouted Ragi Powder, 100% Natural Ragi/Nachni, No Sugar, No Salt, No Milk",Slurrp Farm,4,₹837,₹900,3x250 g - Multipack
+424,Namkeen - Navratan Mix,Haldiram's,4.3,₹60,₹60,200 g - Pouch
+425,"Muesli - Fruits, Nuts & Seeds, Healthy, Rich In Protein, Breakfast Cereal",Yoga Bar,4.3,₹299.01,₹359,400 g
+426,Kerala Banana Chips - Made In Coconut Oil,Tasties Origins,4.1,₹90,₹125,150 g - Pouch
+427,Pickle - Lime,MTR,4.1,₹155,₹155,500 g - Jar
+428,ChocoChip Cookies,Cadbury Chocobakes,4.1,₹144.26,₹160,2x167 g - Multipack
+429,Hifi Cookies - Biscuits - Butter,Sunfeast,4.3,₹5,₹5,35 g - pouch
+430,Butter Popcorn,ACT II,4.1,₹40,₹50,2 x 50 g - Multipack
+431,Original Rava Dosa Ready Mix,MTR,4.1,₹140,₹140,500 g - Pouch
+432,"Veg Hakka Noodles - Zero Fat, Free From Additives",Ramyeon,4,₹200,₹200,1 kg
+433,"Crunchy Chicken Nuggets, Non-Veg Snack, Ready To Cook",ITC Master Chef,3.9,₹487.5,₹650,1 kg - (55 pcs)
+434,Roasted High Protein - Mixture,GoodDiet,3.7,₹76,₹100,4x30 g - (Multipack)
+435,Munch Maha Choco Taste - Wafer Chocolate,Nestle,4,₹5,₹5,8.9 g
+436,"Choco Deck - Mini Delights, Assorted, Home Pack",Fabelle,4.2,₹296.98,₹600,3 x 140 g - Multipack
+437,"International Cream Of Broccoli Soup - With Real Vegetables, No Preservatives",Knorr,4,₹64.4,₹70,50 g
+438,"Gourmet Potato Chips - Thai Sweet Chilli, Crispy",Lays,4.1,₹72,₹100,2x80 g - Multipack
+439,Funfoods Pasta Pizza Sauce,Dr. Oetker,4.1,₹148,₹198,2 x 315 g - Multipack
+440,Bounce Biscuits - Pineapple Creme Cookies,Sunfeast,4.2,₹57,₹60,6x76 g - Multipack
+441,Biscuits,Cadbury Bournvita,4.2,₹94.75,₹105,3 x 120 g - Multipack
+442,Kerala Pappadam - Handmade,Jimmy's,3.8,₹32,₹32,50 g
+443,Groundnut - Broken,Sanjay,4.1,₹79,₹79,200 g
+444,Breakfast Mix - Multigrain Dosa,MTR,4.2,₹170,₹170,500 g - Pouch
+445,Coconut Ghee Burfi,Daadi's,4.1,₹150,₹150,200 g
+446,Mars Caramel Miniatures Chocolate Pack - 130 GM,Mars,4.2,₹143.65,₹169,130 g - Pouch
+447,Heinz Tomato Ketchup,Heinz,4.3,₹156.75,₹165,900 g
+448,Peanut Chikki With Jaggery,IndiSecrets,3.7,₹45,₹75,100 g - (4 x 25 g each)
+449,Biscuit - Spicy,Bisk Farm,4,₹70,₹70,2x200 g - Multipack
+450,Chocos Fills,Kelloggs,4.2,₹390,₹410,2x250 g - (Multipack)
+451,Pancake Mix - Original,Betty Crocker,4.2,₹382.5,₹450,1 kg - Carton
+452,Monaco Cheeslings - Classic,Parle,4.1,₹113.96,₹140,2 x 150 g - Multipack
+453,"Chocolate Pancake Mix - No Maida, Eggless Instant Healthy Breakfast",Slurrp Farm,4.1,₹415.71,₹447,3x150 g - Multipack
+454,"Nutricrunch Digestive Cookies - Rich In Antioxidants, Fibre & Iron, Crispy, Crunchy",Parle Platina,4.1,₹135,₹270,1 kg
+455,Top Biscuits - Butter Munch,Bisk Farm,4.1,₹30,₹30,150 g - Pouch
+456,"Pancake Mix - Butterscotch Flavour, Makes Soft & Fluffy Pancakes",Pillsbury,4,₹26.5,₹53,80 g
+457,Sesame Chikki Bar,24 Mantra Organic,4.1,₹60,₹60,3 x 33 g - Multipack
+458,Appalam No 4,Atish Papad,3.9,₹51,₹51,150 g
+459,Roasted Almond Barks - Snacking Chocolate,Lindberg,4.3,₹179,₹215,75 g
+460,Millet Idly & Dosa Batter,Batter Box,4.1,₹105,₹105,1 Kg
+461,Froot Loops - Crunchy Multigrain Cereal,Kelloggs,4,₹348,₹398,2x285 g - Multipack
+462,3 Minute Breakfast - Khatta Meetha Poha,MTR,4.1,₹69,₹81,3 x 60 g - Multipack
+463,Dry Fruit Chikki,Paper Boat,4,₹27,₹30,25 g
+464,Beanz - Baked Beans In Tomato Sauce,Heinz,4.3,₹150,₹150,415 g
+465,Pizza & Pasta Sauce,Knorr,4.1,₹60,₹60,200 g
+466,Chana Jor Garam,Haldiram's,4.1,₹40,₹40,200 g - Pouch
+467,Namkeen - Aloo Bhujia,Tasties,4,₹211.02,₹294,6x150 g - Multipack
+468,Appalam - No 2,Ambika,3.9,₹140,₹140,285 g - Pouch
+469,Frozen Rasmalai,Amul,3.6,₹230,₹230,500 g
+470,"Almond Cookies - Chocolate & Badam. Healthy biscuits- no added maida, 18 cookies",Open Secret,4.1,₹277.2,₹315,3x75 g - Multipack
+471,"Multigrain Variety Energy Bar - Chocolate, Vanilla Almonds, Cashew Orange & Nuts & Seeds",Yoga Bar,4.1,₹368,₹400,38 g - (Pack of 10)
+472,"Chocos Fills - Double Chocolaty, Multigrain, High In Protein & B Vitamins, 0% Maida, Anytime Snack",Kelloggs,4.2,₹94,₹99,160 g
+473,Biscuits,Cadbury Bournvita Biscuits,4.3,₹192.06,₹225,3x250 g - Multipack
+474,"Multigrain Energy Bar - Nuts & Seeds, Healthy Snack, High In Protein & Fibre",Yoga Bar,4,₹35,₹40,38 g
+475,Papad - Potato,Mother's Recipe,4,₹102,₹102,3x75 g - (Multipack)
+476,Potato Chips - Masala,Sanjay,3.5,₹50,₹50,90 g
+477,Spread - Cocoa with Almond,Hersheys,4.1,₹498.75,₹525,3x135 g - Multipack
+478,"Ragi Bites Choco Fills - No Maida, Calcium & Protein From Dal",Tata Soulfull,4.1,₹488.6,₹698,2 x 500g - Multipack
+479,Khatta Meetha,Tasties,4.1,₹11,₹15,60 g
+480,Chocolate - Lindor Assorted,Lindt,3.1,₹720,₹800,200 g
+481,Potato Cheese Shotz - Crunchy Nuggets Of Potatoes & Cheese,McCain,3.8,₹240,₹240,400 g
+482,Dessert Mix - Gulab Jamun,Gits,4.3,₹192,₹240,3 x 100 g - Multipack
+483,Multigrain Chips - Sour Cream & Onion,GoodDiet,3.8,₹69.25,₹125,5x30 g - (Multipack)
+484,Rich Tomato Sauce - No Onion & No Garlic,MAGGI,4.2,₹175,₹175,970 g - Bottle
+485,Pazzta Mushroom Penne - Made With 100% Suji/Rawa,MAGGI,4.1,₹32,₹32,68.5 g
+486,"Valentine Special Gift Pack, Heart Pop",Cadbury Dairy Milk Silk,4.4,₹870,₹870,3x250 g - Multipack
+487,Namkeen - Bikaneri Bhujia,Bikaji,4.1,₹288,₹320,1 kg - Pouch
+488,Nacho Crisps - Cheese And Herbs,Cornitos,4.2,₹165.6,₹180,2x150 g - Multipack
+489,Kisses - Almonds Chocolate,Hersheys,4.2,₹244.72,₹280,2 x 100 g - Multipack
+490,Veggie Burger Patty,McCain,3.9,₹135,₹135,360 g - Pouch
+491,"Munchiez Ragi Chips - Masala Twist, Cone Shaped, High In Calcium",Saffola,4.2,₹51,₹60,80 g
+492,Fruit Biscuits - Pure Vegetarian,Karachi Bakery,3.9,₹161.5,₹170,400 g - Carton
+493,Dry Yeast,HappyChef,4,₹39,₹45,25 g
+494,Yummiez Chicken Burger Patty,Godrej Yummiez,4.2,₹175,₹200,300 g
+495,"Large Prawns - Soft & Juicy, Super Safe Frozen Prawns",ITC Master Chef,4.1,₹253,₹275,200 g
+496,Fiery Chilli Instant Noodles,Top Ramen,4.1,₹60,₹60,240 g - Pouch
+497,"All Rounder - Thin, Light & Crunchy Potato Biscuit With Cream & Herb Flavour",Sunfeast,4.1,₹135,₹150,75 g - (Pack of 6)
+498,Cookies - Daily Digestive Oatmeal,UNIBIC,4,₹50,₹50,150 g - (Buy 1 Get 1 Extra)
+499,"Atta Hakka Noodles - Whole Wheat, Zero Fat, Free From Additives",Ramyeon,4,₹210,₹210,1 kg
+500,Super Snack - Pudina Party,MR. MAKHANA,4,₹49,₹49,25 g
+501,"Osmania Biscuits - Healthy, Crispy, No Preservatives",Karachi Bakery,3.9,₹152,₹160,400 g
+502,Whipping Cream,Amul,4,₹258,₹258,1 L - Carton
+503,Potato Chips - Kashmiri Chilli,Too Yumm!,4.2,₹54,₹60,3x52 g - Multipack
+504,"Cappuccino Coffee Candy - Worlds No 1 Coffee Candy, Party Pack",KOPIKO,4.3,₹100,₹100,297.5 g - (85 pcs x 3.5 g each)
+505,Badam Halwa,Haldiram's,3.8,₹50,₹50,200 g - Pouch
+506,Rava Idli Instant Mix - Easy To Make In 3 Steps,Aashirvaad,3.9,₹162,₹300,1 kg - Pouch
+507,Chocolate Flavoured Cracker Biscuits - Family Pack,Malkist,4.4,₹300,₹300,720 g - (144 g x 5 N)
+508,Desi Popz Tangy Imli Candy,Go Desi,4,₹150,₹150,3 x 10pcs - Multipack
+509,Cocoa Powder - Rich & Decadent Pure Cocoa Powder,Weikfield,4.2,₹170,₹180,150 g - Jar
+510,Doodh Peda Mithai / Sweet - Made With Desi Ghee,Tasties,4,₹149,₹199,200 g
+511,Breakfast Mix - Rice Idli,MTR,4.2,₹105,₹120,500 g - Pouch
+512,"Custard Powder - Vanilla Flavour, Makes Smooth & Creamy Custard, Contains Quality Ingredients, Best For Fruit Salads & Puddings",Weikfield,4.2,₹32,₹35,100 g - Carton
+513,Nutri-Licious Masala Veg Atta Noodles With Spinach - Rich In Iron & Fibre,MAGGI,4.1,₹112,₹112,290 g - (4 N x 72.5 g each)
+514,"Corn Flakes - Real Almond Honey, Breakfast Cereals, High In Vitamin B1, B2, B3, B6 & C, Iron, Trial Pack",Kelloggs,4.2,₹99,₹99,170 g - Pouch
+515,Breakfast Mix - Khaman Dhokla,MTR,4.1,₹65,₹65,160 g - Pouch
+516,"Foxtail Millet Noodles - No Maida, Not Fried",Slurrp Farm,3.8,₹359.91,₹387,3x192 g - Multipack
+517,"Chocolate - Rich & Creamy, Natoons, Suprise Toy Inside",Kinder Joy,4.2,₹104,₹130,59 g - (Pack of 3)
+518,Strawberry Conserve,HappyChef,4.3,₹129,₹209,330 g
+519,Truffle Treats Gift Box - Assorted Chocolates,Lindberg,4.2,₹279,₹459,168 g - (14 Pcs)
+520,Mast Jeera - The Spicy Jeera Biscuits,Bisk Farm,4.3,₹50,₹50,200 g - Bottle
+521,Ready To Eat - Vegetable Pulao,MTR,3.9,₹130,₹130,250 g - Carton
+522,"Nachos Sizzlin' Hot Crunchy Chips - Snacks, Party Pack",Doritos,4,₹72,₹100,2 x 78 g - Multipack
+523,100% Pure Afghani Black Raisins Seedless | Kali Kishmish | Kali Draksh | Dry Fruits | Flavourful & Delicious Snack | Source of Potassium & Dietary Fibre,Tata Sampann,4.2,₹144.06,₹175,200 g
+524,Muesli With 20% Nuts Delight,Kelloggs,4.2,₹310.5,₹345,500 g - Pouch
+525,Snack Mix - Khaman Dhokla,Gits,4.2,₹61.6,₹70,180 g - Carton
+526,Secret Chilli Vinegar,Chings,4.3,₹50,₹50,170 ml - Bottle
+527,Mithai Sweet Gavvalu Shells - Crispy,Tasties Origins,4,₹65,₹109,150 g - Pouch
+528,Secret Hot Garlic Instant Noodles,Chings,4.1,₹75.2,₹80,240 g - Pouch
+529,Sugar Free Chewing Gum - Spearmint,Orbit,4.1,₹180,₹200,4x22 g - Multipack
+530,"Gluten Free Steel Cut Oats - Rich In Iron & Fibre, 100% Wholegrain",True Elements,4.2,₹492,₹600,1.5 kg - Pouch
+531,"Cornflakes Mixture - Namkeen, No Transfats Or Cholesterol, Evening Teatime Snack",Townbus,4.4,₹55,₹55,135 g - Pouch
+532,Cup Noodles Italiano,Nissin Food,4.1,₹133.86,₹150,3x70 g - Multipack
+533,"Chicken Seekh Kebab - Non-Veg Frozen Snack, Ready To Cook",ITC Master Chef,4,₹288.75,₹350,500 g
+534,Mixture - Panchratan,Haldiram's,4.2,₹160,₹160,2x150 g - Multipack
+535,Pure Honey - No Added Sugar,ZANDU,4.1,₹351.5,₹475,1 kg
+536,Max Choco Coated Crunchy Wafer - Sweet,NESTLE MUNCH,4.3,₹18,₹20,42 g
+537,Filo Pastry Sheets - Thin,Switz,4,₹405,₹450,450 g
+538,"Hashtags - Potato Chips, Cream & Onion, Unique Flavour, Crispy",Bingo,4,₹28.33,₹30,58 g - Pouch
+539,"Soan Cake - Regular, Traditional Delicacy/Sweets, Dessert, For Celebrations, Special Ocassions",GRB,3.8,₹50,₹50,100 g - Box
+540,Tropical Orange - Dark Chocolate Infused With Orange Extracts From Netherlands,Amul,4.3,₹1400,₹1400,10x150 g - Multipack
+541,"Chocolate Muesli - With 57% Multigrain, Fruit, Nut & Seeds",Kelloggs,4,₹310,₹360,450 g
+542,Eggless Mayonnaise Chef's Special,VEEBA,4.3,₹189.2,₹215,875 g - Standy Pouch
+543,Snack Bar - Almond & Oats,UNIBIC,4.1,₹180,₹240,6X30 g - Multipack
+544,Spring Rolls Sheets - 8x8,Switz,4,₹190,₹220,2x20 pcs - Multipack
+545,Fruit & Nut Cookies - Zero Cholesterol & No Trans Fat,UNIBIC,4.1,₹150,₹300,2 x 300 g - (Multipack)
+546,Chilli Tomato Sauce,Kissan,4.2,₹115,₹115,500 g - Bottle
+547,Cookies - Pista Badam,UNIBIC,4.2,₹135,₹150,6X75 g - Multipack
+548,Bagrry`S White Oats - With 100% Whole Grains 500 g Carton,Bagrrys,4.2,₹78.75,₹105,500 g - Carton
+549,Nacho Crisps - Peri Peri,Cornitos,4.1,₹156.4,₹170,2x150 g - Multipack
+550,Puff Sheet Squares,UNROLL,4.2,₹286,₹286,550 g
+551,Party Snack,Tong Garden,4.4,₹665,₹700,2x500 g - Multipack
+552,Chewing Gum - Peppermint,Doublemint,4.2,₹10,₹10,13 g - Sticks
+553,Bagrry`S Crunchy Muesli 30% Fruit & Nut With Cranberries - 750 g Pouch,Bagrrys,3.9,₹410.4,₹540,750 g - Pouch
+554,Magic Masala Instant Noodles,Sunfeast YiPPee!,4.2,₹98.56,₹112,480 g - (Pack Of 8)
+555,Special Silk Selects Gift Pack,Cadbury Celebrations,4.1,₹927.36,₹1050,233 g - Pack of 3
+556,Puliogare Powder,GRB,4.2,₹70,₹70,100 g - Pouch
+557,Appalam - No 3,Ambika,4.2,₹130,₹130,225 g - Pouch
+558,Mixture,Haldiram's,4.1,₹176,₹176,2x350 g - Multipack
+559,"YiPPee! Pasta Treat - Cheesy & Soft Suji/Rawa Pasta, Cheese",Sunfeast,4.1,₹44.95,₹56,2x65 g - Multipack
+560,"Geki Cheese - Hot & Spicy, Korean Cheese Flavour",Nissin,4.2,₹209.47,₹294,80 g - (Pack of 6)
+561,"Rolled Oats - High Fibre, Protein Rich Breakfast Cereal, Wholegrain Breakfast",Bagrrys,4.1,₹289,₹490,1.2 kg - Jar
+562,Cookies - Chocolate Chip,UNIBIC,4.1,₹297,₹330,6X150 g - Multipack
+563,"Bars Choco Berry, 10 g Protein Bar - Sugar Free Healthy Protein Snacks",RiteBite Max Protein,4.2,₹342,₹360,50 g - (Pack of 6)
+564,Tapioca Chips Chilly,A-1 Chips,3.9,₹38,₹40,80 g
+565,Vermicelli,BB Royal,4,₹65,₹100,2x400 g - Multipack
+566,Kimchi,Bombucha,3.9,₹450,₹450,450 g
+567,Namkeen - Tasty Nuts,Haldiram's,4.2,₹150,₹150,3x150 g - Multipack
+568,"Ready To Eat Noodles - Instant, Chicken Flavour",Wai Wai,4.4,₹83.7,₹90,420 g - Single
+569,Instant Veggie Upma With Vegetables,Aashirvaad,3.5,₹81,₹108,4X60 g - Multipack
+570,Cornflakes With Real Almond & Honey,BB Royal,4,₹249,₹410,650 g
+571,Rice Papad - Ajwain,Mother's Recipe,4.2,₹25,₹25,75 g - Pouch
+572,Onion Sandige Papad,SDA PAPPADS,3.8,₹48,₹48,100 g
+573,No Added Sugar Muesli With Real Fruits & Nuts - High Protein Breakfast,True Elements,4.1,₹590.75,₹695,1 kg - Bottle
+574,Premium Selections Chocolates Gift Pack,Cadbury Celebrations,3.9,₹618.24,₹700,268 g - Pack of 2
+575,"Nutrichoice Herbs Biscuits - 0% Maida, Rich In Vitamins & Minerals",Britannia,4.1,₹63.75,₹75,3x100g - Multipack
+576,Wheat Chapati,iD,3.8,₹75,₹75,350 g
+577,Shell Pasta,Keya,4.3,₹243,₹300,2x400 g - Multipack
+578,Bounce Biscuits - Choco Creme Cookies,Sunfeast,4.1,₹28.5,₹30,6x30 g - Multipack
+579,Wafers Potato Chips - Piri Piri,Parle,3.9,₹36.15,₹60,110 g
+580,Sugar Free Oatmeal Cookies,UNIBIC,4.1,₹324,₹360,6x75 g - Multipack
+581,Kesar Peda,Lal sweets Pvt Ltd,3.2,₹135,₹135,200 g - Carton
+582,Namkeen - Dal Biji,Haldiram's,4,₹100,₹100,2x150 g - Multipack
+583,Juzt Jelly - Strawberry Flavour,ALPENLIEBE,4.3,₹200,₹200,4x148 g - Multipack
+584,Namkeen - All In One,Haldiram's,4.1,₹150,₹150,3x150 g - Multipack
+585,Papad - Pani Puri,Atish,4.1,₹55,₹55,200 g - Pouch
+586,Instant Soup Noodles - Chicken Flavour,Indomie,4.2,₹60.8,₹64,2x70 g - Multipack
+587,Original Bajji Bonda Snack Mix,MTR,4.2,₹65,₹65,200 g - Pouch
+588,Chana Plain Namkeen,Kiara Foods,3.6,₹60,₹60,250 g
+589,Penne Pasta,Keya,4.2,₹243,₹300,2x400 g - Multipack
+590,Pure Bee Honey,Hintz,5,₹775,₹775,500 g - Bottle
+591,Fancy Papad,SDA PAPPADS,4,₹48,₹48,200 g
+592,American Style Cream & Onion Potato Chips - 40% Less,Too Yumm!,4.2,₹46.9,₹70,90 g
+593,"Townbus Thatai Nippattu - Namkeen Savoury Snack, No Transfats Or Cholesterol, Evening Snack",Townbus,3.6,₹65,₹65,170 g - Stand Pouch
+594,"Cheesy Peezy - Popped Lotus Seeds, Roasted In Olive Oil, Super Snack",MR. MAKHANA,4.1,₹114,₹120,75 g - Pouch
+595,Multigrain Chips - Dahi Papdi Chaat,Too Yumm!,4.1,₹28,₹35,75 g (65+10) - Get 10 gm Free
+596,"Corn Mixture - Enriched With Dry Fruits, Fresh, Crispy, No Preservatives",Modern Kitchens,4.2,₹59.5,₹70,170 g
+597,Besan Laddoo Mithai / Sweet - Made With Dry Fruits & Desi Ghee,Tasties,3.7,₹115,₹220,200 g
+598,Krackjack Butter Masala Biscuits,Parle,4.1,₹65,₹130,307.8 g
+599,Super Snack - Lime & Chilli,MR. MAKHANA,4,₹46.55,₹49,27.5 g
+600,Roast Almond Chocolate Bar,Cadbury Dairy Milk Silk,4.2,₹527.58,₹555,3 x 143 g - Multipack
+601,Aralu Sandige Homemade Appalams/Papad - Fry & Eat,SDA PAPPADS,3.7,₹58,₹58,100 g - Pouch
+602,3 Minute Breakfast Seviyan Upma,MTR,4.1,₹65,₹65,160 g
+603,Taco Shells - 10 cm,Cornitos,3.5,₹108,₹120,12 pcs
+604,"Choco Crunch Breakfast Cereal-Ragi Stars & Moons, Healthy Millet,No Maida/Sugar",Slurrp Farm,4.3,₹568.1,₹598,2x400 g - Multipack
+605,"Ragi Bites Combo Pack - Choco Fills, Vanilla Fills & Strawberry Fills",Tata Soulfull,4.2,₹94.05,₹99,140 g - (28 g x 5)
+606,"Thinz - Almond, Light & Crispy, Teatime Snack",Bisk Farm,4.2,₹10,₹10,50 g - Pouch
+607,Chatpata Dal Namkeen,Haldiram's,4.1,₹47,₹47,200 g - Pouch
+608,Ready To Eat - Jeera Rice,MTR,3.8,₹110,₹110,250 g - Carton
+609,Coffy Bite Classic,Lotte,4.3,₹5,₹5,23 g
+610,Vermicelli Roasted,Bambino,4.1,₹25,₹25,180g - Roasted
+611,Treat Wafers Coconut,Britannia Treat,4.2,₹50,₹100,55 g - (Pack of 2)
+612,Minute Pepper Rasam,MTR,4.2,₹40,₹40,60 g - (Pack of 4)
+613,Palada Payasam Mix,Double Horse,4,₹68,₹85,300 g - Box
+614,"Variety Pack - Chilli Garlic Potato, Smiles and Masala Fries",McCain,4.1,₹150,₹150,550 g - Pouch
+615,Funfoods Veg Mayonnaise Classic,Dr. Oetker,4.1,₹142,₹178,2 x 245 g - Multipack
+616,Sugar Free Chewing Gum - Mixed Fruit,Orbit,4.2,₹190,₹200,4x22 g - Multipack
+617,Honey,Patanjali,4.2,₹350,₹350,1 kg
+618,Whole Wheat Khakhra Methi,Tasties,3.9,₹75,₹80,180 g
+619,Sago Papad,Dnv,4.3,₹47.5,₹50,100 g
+620,"Popz - Chocolatey Crunch, Choco Fills, Multigrain Munchies",Sundrop,4.2,₹56,₹60,140 g
+621,Pasta Treat - Masala,Sunfeast,4.1,₹119,₹140,5x65 g - Multipack
+622,"Harmony Biscuit - Crunchy, Zero Trans Fat, Ready To Eat",Britannia Good Day,4.2,₹25.5,₹30,110 g - Pouch
+623,"Cheese & Herbs Puff - Healthy Snacks For Kids, School Tiffin & Travel Friendly",Slurrp Farm,3.6,₹176,₹200,8x20 g - Multipack
+624,Rusk - Suji & Elaichi,Tasties,3.7,₹74.1,₹110,2x200 g - Multipack
+625,"Kerala Banana Chips - Peri Peri Flavour, Thin & Crispy, Zero Cholesterol",Beyond Snack,4,₹85.5,₹95,125 g
+626,Handmade Papad - Urad Punjabi Masala,Tasties,4.1,₹45,₹85,200 g
+627,Papad - Curd Chilly,Balaji foods,3.7,₹40,₹40,100 g
+628,Creamfills - Butter Toffee,ALPENLIEBE,4.3,₹150,₹150,3x152 g - Multipack
+629,Potato Chips - Indian Masala,Too Yumm!,4.2,₹80,₹100,2x130 g - Multipack
+630,Hand Murukku Special,A-1 Chips,3.9,₹120,₹120,250 g
+631,"Namkeen - Ompudi/ Nylon Sev, Authentic, Traditional, Flavours, Savoury Snack",Tasties Origins,3.9,₹207,₹315,3x150 g - (Multipack)
+632,Soan Papdi - Coconut,Haldiram's,4.2,₹75,₹75,250 g - Pouch
+633,"Masala Oats - Tasty Evening Snack, Fibre Rich, Peppy Tomato",Saffola,4.2,₹189.2,₹215,500 g
+634,Nutty Tuxedo Chocolate Gourmet Popcorn,4700BC,4.3,₹202.5,₹225,150 g - Tin
+635,"Breath Mint - With The Hole, Refreshing",Polo,4.3,₹10,₹10,24 g - Pouch
+636,Instant Rava Idli Mix,Bambino,4.1,₹120,₹120,500 g - Pouch
+637,Kaju - Salted,Haldiram's,4.1,₹50,₹50,35 g - Pouch
+638,Onion Ring Papad,SDA PAPPADS,4.2,₹50,₹50,200 g
+639,Premium Pumpkin Seeds - All Natural,Happilo,4.3,₹467.5,₹550,2x200 g - Multipack
+640,"Biscotti - Almond, Gluten free",GoodDiet,3.5,₹175,₹225,150 g
+641,Karare - Noodle Masala,Too Yumm!,4.2,₹57,₹60,3x80 g - Multipack
+642,Chilli Cheesy Nuggets,McCain,4,₹240,₹240,400 g
+643,Hide & Seek Chocolate & Almonds,Parle,4.1,₹22.5,₹30,100 g
+644,Green Olives - Sliced,BORGES,4.1,₹222.5,₹250,450 g
+645,Chicken - Jumbo Hot Dog,Meatzza,4.3,₹328.5,₹365,500 g
+646,"Choco Fills - Double Chocolaty, Multigrain, Anytime Snack",BB Royal,4.1,₹229,₹410,2x250 g - Multipack
+647,Masala Oats Noodles - Source Of Fibre & Iron,MAGGI,4.1,₹118,₹118,294 g - Pouch
+648,Corn Flakes With Real Honey,Kelloggs,4.3,₹345,₹345,630 g
+649,"Gourmet Kettle Chips - Vintage Cheese & Paprika Flavour, Premium Slow-Cooked Potato Chips",Lays,4,₹72,₹100,2 x 80 g - Multipack
+650,Mix - Chicken Biryani,Mother's Recipe,4.3,₹135,₹165,3x100 g - (Multipack)
+651,Sesame Chikki With Jaggery,IndiSecrets,3.7,₹49,₹75,100 g - (4 x 25 g each)
+652,Hide & Seek Black Bourbon Creme Sandwich - Choco,Parle Platina,4.3,₹75,₹150,300 g
+653,Chutney Podi - Groundnut,Farmveda,4,₹60,₹60,100 g
+654,Pickle - Cut Mango (With Garlic),Priya,3.8,₹110,₹110,300 g - Bottle
+655,Elaichi Shrikhand,Amul,4.1,₹208,₹208,4x200 g - Multipack
+656,Oats - Rolled,By Nature,4.3,₹380,₹380,2x500 g - Multipack
+657,Mad Angles Very Peri Peri - Spicy & Crunchy Corn Based Triangle Chips Pack For Snacks,Bingo,4.1,₹18,₹20,66 g
+658,Namkeen - Mini Samosa,Haldiram's,3.9,₹130,₹130,2x200 g - Multipack
+659,Cookies- Shortbread Scotch finger,UNIBIC,4.1,₹324,₹360,6X100 g - Multipack
+660,"Super Muesli - No Added Sugar, Rich In Protein & Fibre, No Preservatives",Yoga Bar,4.4,₹270.69,₹325,400 g
+661,"Blueberry Pancake Mix - No Maida, Eggless Instant Healthy Breakfast",Slurrp Farm,4.1,₹555.21,₹597,3x150 g - Multipack
+662,"Tandoori Naan - Ready To Cook, No Added Preservatives, Easy To Prepare Delicious Frozen",Aashirvaad,4.4,₹135,₹150,400 g - (5 pcs)
+663,"Multi Millet Muesli - With Fruits, Nuts & Berries",GoodDiet,4.2,₹269,₹349,350 g
+664,Instant Soup - Sweet Corn Veg,Chings,4,₹100,₹100,10x15 g - Multipack
+665,Pickle - Mango Avakaya Without Garlic,Priya,4.2,₹110,₹110,300 g - bottle
+666,"Classic Gulkand - Promotes Healthy Skin, Natural Cooling Property, Made From Damask Roses",Food Circle,4.4,₹360,₹360,300 g - Bottle
+667,Papad - Tomato Rice,Atish,4,₹33,₹33,100 g - Pouch
+668,"Cheese Makhanas - Roasted, Vegan & Gluten Free",Tasties,3.8,₹40,₹50,25 g
+669,Macaroni - Elbow,MTR,4.1,₹115,₹115,850 g - Pouch
+670,Sugar Free Chewing Gum - Sweetmint,Orbit,4.1,₹15,₹15,8.8 g - Sleeve
+671,Bombay Mixture,Balaji foods,3.6,₹55,₹55,200 g
+672,Pancake Mix - Original,Betty Crocker,4.1,₹119,₹140,250 g
+673,Instant Soup Noodles - Special Chicken Flavour,Indomie,4.2,₹60.8,₹64,2x75 g - Multipack
+674,Gorgon Nut Roasted Makhana - Salted,Pravin Mixbox,4.1,₹60,₹60,35 g
+675,Chips - West Indies Hot N Sweet Chili,Lays,4.3,₹5,₹5,12 g
+676,100% Natural Nut Powder - No Added Sugar Or Preservatives,Slurrp Farm,4.1,₹499,₹499,100 g
+677,Pickle - Gongura With Garlic,Priya,4.2,₹110,₹110,300 g - Bottle
+678,Pickle - Mango,Swastiks,3.9,₹80,₹80,500 g
+679,Salted Popcorn,ACT II,4.2,₹40,₹50,2 x 50 g - Multipack
+680,"6 Grain Khichdi Mix - Instant Ready To Cook, Rich In Fibre & Protein",Tata Sampann,4.1,₹63.75,₹75,200 g
+681,"Masala Peanuts - Namkeen, No Transfats Or Cholesterol, Evening Teatime Snack",Townbus,4.2,₹55,₹55,135 g - Pouch
+682,Malai Peda,Amul,4.1,₹90,₹90,200g
+683,Wafers Potato Chips - Cream N Onion,Parle,3.8,₹80,₹160,4 x 60 g - Multipack
+684,Luxury Delights Gift Box - Assorted Chocolate Truffles,Lindberg,4,₹99,₹165,46 g - (4 pcs)
+685,Namkeen - Butter Murukku,Tasties Origins,0,₹65,₹105,150 g
+686,Vermicelli Payasam Sweet Mix,MTR,4.2,₹48,₹48,100 g - Pouch
+687,"Oodles Ring Noodles - Yummy Masala, No Maida, Ready In 5 Mins",Saffola,4.1,₹160,₹200,2x212 g - Multipack
+688,Soya Sauce,Tasties,4.2,₹139.5,₹180,3x210 g - (Multipack)
+689,Pastalicious Elbow - 100% Durum Wheat Semolina,Disano,4.1,₹119,₹260,2x400 g - Multipack
+690,Schezwan Sauce,Knorr,4.1,₹70,₹70,200 g
+691,Hara Bhara Veg Kebab,Safal,3.9,₹68,₹80,200 g
+692,"Natural Peanut Butter - Creamy, Unsweetened",Pintola,4.1,₹408,₹449,1 kg
+693,Ready To Eat - Pongal,MTR,3.8,₹115,₹115,300 g - Carton
+694,"Peanut Chikki Ball - Made With jaggery, Healthy Snack, Protein Rich",SDA,3.9,₹90,₹90,200 g - POUCH
+695,Pickle - Mix Vegetable,MTR,4,₹149,₹149,500 g - Jar
+696,Chocolush - Extra Crunchy Biscuit With Gooey Choco-Filling,Britannia,4.1,₹301.36,₹510,3 x 300 g - (Multipack)
+697,Rishtey Meethe Pal Gift Pack,Bikaji,4.8,₹284.75,₹335,1.27 kg
+698,Sauce - Oyster,Lee Kum Kee,4.4,₹275,₹275,510 g - Bottle
+699,Ultra Dark Chocolate Bar - 70% Cocoa,Lindberg,4,₹149,₹175,100 g
+700,Treat - Funky Choco Biscuits,Britannia,4.1,₹114,₹120,12x60 g - Multipack
+701,Orange Marmalade Jam,Kissan,4.3,₹190,₹190,500 g
+702,Original Dosa Ready Mix,MTR,3.9,₹120,₹135,500 g - Pouch
+703,Pickle - Mango Thokku Without Garlic,Priya,4.2,₹110,₹110,300 g - Bottle
+704,Pickle - Lime With Garlic,Priya,4.1,₹330,₹330,1 Kg - Jar
+705,Soup - Italian Mushroom,Knorr,4.2,₹193.2,₹210,3x41 g - Multipack
+706,Original Sauerkraut,Bombucha,4.4,₹340,₹340,450 g
+707,Corn Papad,SDA PAPPADS,3.9,₹45,₹45,100 g
+708,"D'lite Dark Chocolate Bar - Hazelnut & Roasted Almonds, 50% Cocoa",Sugar Free,3.7,₹296.35,₹378,2 x 80 g - Multipack
+709,Ready to Cook & Serve - Cheese Onion Paratha,Amul Happy Treats,4.1,₹240,₹240,500 g
+710,"Rolled Oats - Rich In Protein, Nutritious, Easy To Cook",Quaker,4.3,₹368,₹368,2 Kg
+711,Momos - Vegetable,Prasuma,3.8,₹525.9,₹590,2 x 24 pcs - Multipack
+712,Breakfast Mix - Upma,MTR,4.1,₹96,₹110,2x160 g - Multipack
+713,Custard Powder - Vanilla Flavour,Brown & Polson,4.3,₹136,₹136,500 g
+714,Mad Angles Chips Pizza - Aah,Bingo,4,₹76,₹100,2x130 g - Multipack
+715,Organic Himalayan Kashmir Honey,BB Royal,4,₹448,₹858,2x500 g - Multipack
+716,Bhelpuri Chutney,Mother's Recipe,4.2,₹51.3,₹57,200 g
+717,Gold - Caramel Toffee,ALPENLIEBE,4.3,₹1260,₹1260,12x351 g - Multipack
+718,"Eclairs Plus Birthday Pack - Rich Choco Center, Caramel Chewy Toffee",ALPENLIEBE,4.2,₹300,₹300,2x425 g - (125 pcs) Multipack
+719,Super Snack - Butter Tomato,MR. MAKHANA,4,₹46.55,₹49,27.5 g
+720,Masala Fries - Hot & Spicy,McCain,4.1,₹150,₹150,420 g
+721,Pickle - Lime,Mother's Recipe,4.1,₹47.32,₹52,200 g - Pouch
+722,Caramel Chocolate Coated Wafer,Nestle,4.2,₹70,₹70,50 g
+723,"Mint - Sugarfree, Peppermint Flavour, 15 Pcs (Pack Of 5)",Center Fresh,4.3,₹50,₹50,5 x 4.5 g - Multipack
+724,Chocolate Chips,Ask Foods,4,₹80,₹80,100 g
+725,Ready To Eat - Dal Makhani,MTR,3.9,₹125,₹125,300 g - Carton
+726,Soan Treat - Orange,Haldiram's,4.1,₹70,₹70,250 g - Pouch
+727,Dhania Pudina Chutney,Mother's Recipe,3.9,₹51.3,₹57,200 g - Pouch
+728,Amaranth Muesli,Nourish Organics,3.8,₹485,₹485,280 g
+729,2-Minute Spicy Garlic Noodles,MAGGI,3.9,₹70,₹80,248 g
+730,"Funfoods Veg Mayonnaise - Original, Rich, Creamy",DR.OETKER,4.2,₹25,₹25,60 g - Pouch
+731,Chilli Chilli Chilli Super Hot Instant Cup Noodles,Nissin,4,₹133.86,₹150,70 g - (Pack of 3)
+732,Jelly - Mixed Fruit Flavour,Cocon,4.3,₹90,₹90,20 pcs
+733,Durum Wheat Pasta - Mini Fusilli,BORGES,4.3,₹82.8,₹160,350 g - Pouch
+734,"0% Added Sugar Millet Muesli, High Protein, Rich in Fibre",Tata Soulfull,4,₹379.05,₹399,500 g - Pouch
+735,Masala Oats+ Tasty Snack With Millets - Desi Veggie,Tata Soulfull,3.9,₹215.1,₹239,500 g - Pouch
+736,Khari - Maska,Tasties,3.6,₹180.5,₹258,2x200 g - Multipack
+737,Oreo Chocolate Bar,Cadbury 5 Star,4.3,₹40,₹40,42 g
+738,"Potato Chips - Pizza Flavour, Crunchy & Crispy",Pringles,4.1,₹207,₹230,2x107 g - Multipack
+739,Breakfast Sausages,Keventer,4.3,₹255,₹300,500 g
+740,Fulvada Gathia Namkeen,Balaji foods,3.6,₹60,₹60,200 g
+741,"50-50 Potazos - Mint Magic Minty Flavoured Crisp, Teatime Snack",Britannia,4.1,₹42.5,₹50,2 x71.5 g - Multipack
+742,"Chicken - Momos, Spicy",Prasuma,4.3,₹578.5,₹650,2 x 24 pcs - Multipack
+743,"Crunchy Granola - Honey, Almonds, Strawberries & Pumpkin Seeds",Kelloggs,4.4,₹380,₹380,450 g - Pouch
+744,Coco Malai Biscuit,Bisk Farm,4.2,₹30,₹30,200 g - Pouch
+745,Qubz Wafer Cubes - Belgian Chocolate Sandwich Biscuit,UNIBIC,4.3,₹150,₹300,2 x 150 g - (Multipack)
+746,Honey - Coorg Natural,Goldrops,4,₹395,₹395,1 kg - Jar
+747,"Crunchy Bites - Source Of Fibre, Calcium, High In Protein, 10 Essential Vitamins & Minerals, Breakfast Cereals",Kelloggs,4.1,₹10,₹10,23 g
+748,Rich Chocolate Coated Wafer,Nestle,4.1,₹170,₹170,150 g
+749,Instant Soup - Manchow,Chings,4.1,₹100,₹100,10x15 g - Multipack
+750,Classic Chicken Delite Soup,Knorr,4.2,₹257.6,₹280,4x44 g - Multipack
+751,Potato Chips - Salt,A-1 Chips,3.5,₹50,₹50,80 g
+752,"Homemade Appalams/Papad - Gold Finger, Fry & Eat",SDA PAPPADS,3.9,₹48,₹48,200 g - Pouch
+753,"Pancake Mix - Classic Flavour, Makes Soft & Fluffy Pancakes",Pillsbury,4.1,₹24.5,₹49,80 g
+754,Multigrain Balls - Chilli Chataka,GoodDiet,3.8,₹54.67,₹95,5x30 g - (Multipack)
+755,Bakarwadi,Tasties Origins,3.6,₹99,₹125,250 g - Pouch
+756,Namkeen - Cornflakes Mixture,Tasties Origins,3.9,₹150,₹315,3x150 g - (Multipack)
+757,Dark Fantasy Desserts Choco Nut Dipped Filled Cookie,Sunfeast,4.3,₹104.88,₹120,2 x 100 g - Multipack
+758,"Peanut Butter - Creamy, Rich In Protein, Spreads",Sundrop,4.2,₹237,₹240,924 g
+759,"Rice Paper - Round, 16 cm",REAL THAI,4.3,₹185,₹185,100 g - Carton
+760,Multigrain Cookies - Sugar Free,Tasties,4,₹45,₹49,75 g
+761,Rol.A.Cola Candy,Parle,4.3,₹22.5,₹30,100 g
+762,"Juicyfills - Orange & Mango Flavour, Assorted Candy",ALPENLIEBE,4.2,₹210,₹210,2x342 g - (90 pcs) Multipack
+763,Sixer Biscuits - Salted,Parle,4.1,₹70,₹70,200 g - Jar
+764,Slurrp Farm Instant Millet Noodles- Mild Masala,Slurrp Farm,2.8,₹140,₹140,228 gm - (Pack of 57g X 4)
+765,Funfoods Veg Mayonnaise De'lite,Dr. Oetker,4.1,₹258,₹358,2 x 750 g - Multipack
+766,"O'Rice Cracker - Light & Tasty, Baked Not Fried",Orion,4.5,₹297,₹330,151.2 g - (Pack of 2)
+767,Banana Chips - Classic Salt,A-1 Chips,4.1,₹104.5,₹110,180 g
+768,Apple Cider Vinegar With Mother,Disano,4.2,₹176.43,₹495,500 ml - Bottle
+769,Popcorn - Caramel Bliss,ACT II,4,₹168,₹195,3x70 g - Multipack
+770,Yummiez Chicken Kabab - Lucknow Seekh,Godrej Yummiez,3.9,₹275,₹300,400 g - Pouch
+771,Southwest Chipotle Dressing,VEEBA,4.2,₹175,₹175,300 g - Bottle
+772,Milkybar Moosha - Caramel & Nougat Bar,Nestle,4.3,₹16,₹20,38 g
+773,"Strawberry Cereal - No Sugar, Instant Healthy Cereal With Ragi, Rice & Milk",Slurrp Farm,4.3,₹349,₹349,200 g
+774,Crunchy Granola - Chocolate & Almonds,Kelloggs,4.2,₹350,₹380,450 g - Pouch
+775,Hobnobs Oat Cookies With Chocochips,McVitie's,4,₹185.51,₹225,3 x 153.85 g - (3x pack of 5 ) Multipack
+776,Multi Grain Idli Dosa Batter,Rishta,4,₹132,₹150,800 g - Pouch
+777,Premium Cashews Toasted & Salted,Happilo,3.8,₹549.06,₹790,2x200 g - Multipack
+778,Kitkat Chunky Milk Chocolate Bar,Nestle,4,₹130,₹140,2 x 40 g - Multipack
+779,"Kachcha Aam Candy - With Tangy Twist, Hard-Boiled",Pulse,4.3,₹95.04,₹120,2 x 190 g - Multipack
+780,Dairy Milk Silk Mousse - Chocolate Bar,Cadbury Dairy Milk Silk,4.3,₹499.06,₹525,3x116 g - Multipack
+781,Chocomini,Amul,4.3,₹140,₹140,250 g
+782,"Tangy Tomato Puff - Healthy Snacks For Kids, School Tiffin & Travel Friendly",Slurrp Farm,3.8,₹190,₹200,8x20 g - Multipack
+783,Original Recipe - Pizza & Pasta Sauce,Wingreens Farms,4.3,₹262.24,₹298,2x450 g - Multipack
+784,"Egg Hakka Noodles - Zero Fat, Free From Additives",Ramyeon,4.1,₹165.75,₹195,1 kg
+785,Chocolate - Lindor Dark,Lindt,3.2,₹1050,₹1050,200 g
+786,Milk Bikis Classic Biscuits - Zero Trans Fat,Britannia,4.2,₹50,₹50,288 g
+787,Yippee Tricolor Pasta - Masala,Sunfeast,4.1,₹71.4,₹84,3x70 g - Multipack
+788,Misal Farsan/All In One Mixture - Crispy,Tasties Origins,3.8,₹131,₹218,2x150 g - Multipack
+789,Jelly Crystals - Strawberry Flavour,Weikfield,4.2,₹52,₹55,90 g - Carton
+790,Quinoa Brown Rice Chips - Sour Cream & Onion,GoodDiet,3.6,₹89.25,₹105,3x30 g - (Multipack)
+791,"Peanut Butter Crunchy - 25% Protein, India’s Finest Quality Peanuts",Kissan,4.1,₹381.8,₹415,920 g
+792,Pasta Treat - Tomato Cheese,Sunfeast,4,₹47.6,₹56,2x65 g
+793,Pickle - Amla Without Garlic,Priya,3.9,₹110,₹110,300 g - Bottle
+794,Sugar Free Petit Beurre - The Taste Of France,Bisk Farm,4,₹40,₹40,250 g - Pouch
+795,"Ragi Vermicelli - Source Of Calcium, Protein & Iron",Aashirvaad,3,₹64,₹64,450 g - Pouch
+796,Yummiez American Sweet Corn,Godrej Yummiez,3.9,₹80,₹90,400 g - Pouch
+797,D'lite Dark Chocolate Bar - Rich Cocoa,Sugar Free,4.2,₹287.28,₹378,2 x 80 g - Multipack
+798,"Ragi Bites Strawberry Fills - No Maida, Calcium & Dal Protein",Tata Soulfull,4.3,₹208.05,₹219,250 g - Carton
+799,Kesar Shrikhand,Amul,4,₹130,₹130,500 g - Cup
+800,"Chewy Candy Stick - Mint Flavour, 14 Pcs (Pack Of 3)",Mentos,4.2,₹60,₹60,3 x 36.4 g - Multipack
+801,"Dry Fruit Combo - Walnuts, Cashews, Almonds, Raisins, Pistachios, Boosts Energy",Zoff,3,₹1191.58,₹3855,1.250 kg
+802,Crackers - Roasted Onion,GoodDiet,4,₹175,₹225,150 g - Pouch
+803,"Potato Chips - Original Style, Cream & Onion",Bingo,4,₹110.4,₹120,6x52 g - Multipack
+804,Potato Chips,Sanjay,3.5,₹50,₹50,90 g
+805,For Boys - With Surprise,Kinder Joy,4.2,₹349.2,₹360,8x20 g - Multipack
+806,Lightly Salted Roasted Cashews,Cornitos,4,₹47.5,₹50,25 g - Pouch
+807,"Millet Muesli - Crunchy, 80% Whole Grains, Almonds & Raisins",Tata Soulfull,4.2,₹304.85,₹469,700 g
+808,Khakhra - Methi,JABSONS,4.2,₹80,₹80,180 g - Pouch
+809,Cashew Biscuits,Karachi Bakery,4,₹171,₹180,400 g
+810,Light Meat Tuna Flakes In Sunflower Oil,Tasty Nibbles,4.6,₹160,₹160,185 g - Canned light meat tuna flakes with sunflower oil as base
+811,"Papad - Sabudana With Rock Salt, Crispy & Flavourful",Mother's Recipe,3.8,₹32,₹32,70 g - Pouch
+812,Gold Candy,Cadbury Choclairs,4.1,₹180,₹200,520 g - (100 Candies)
+813,Hazelnut Chocolate Bar,Cadbury Dairy Milk Silk,4.2,₹355.35,₹370,2 x 143 g - Multipack
+814,Instant Popcorn - Barbeque,4700BC,4,₹28.5,₹30,60 g
+815,Pineapple Jam,Kissan,4.1,₹190,₹190,500 g
+816,"Chocos - Chhota Laddoo, With Whole Grain, Source Of Fibre, High In Calcium & Protein, Breakfast Cereals",Kelloggs,4.2,₹210,₹210,340 g
+817,Organic Unfiltered Apple Cider Vinegar with Mother,BORGES,4.3,₹377,₹400,355 ml
+818,"Potato Chips - Desi Masala Tadka Flavour, Crunchy & Crispy",Pringles,4.1,₹207,₹230,2x107 g - Multipack
+819,Instant Soup - Tomato,Chings,4.1,₹100,₹100,10x15 g - Multipack
+820,"Fox Nuts Black Salt - Delicious Teatime Snack, Popped Lotus Seeds, Roasted In Olive Oil",MR. MAKHANA,3.8,₹123.5,₹130,75 g
+821,"Cashew Cookies - Chocolate & Kaju. Healthy biscuits- no added maida, 18 cookies",Open Secret,4,₹277.2,₹315,3x75 g - Multipack
+822,Citric Acid,Blue Bird,4.1,₹36,₹36,50 g - Box
+823,Bread Crumbs,HappyChef,4,₹95,₹119,400 g
+824,Kellogg`s Pro Muesli - With 100% Plant Protein  High Prote 500 g Pouch,Kelloggs,4.8,₹340,₹380,500 g - Pouch
+825,Aloo Paratha,Tasty Fresh,3.8,₹125,₹125,400 g
+826,"Snappers Potato Crackers - Cream & Onion, Light, Crispy Snack",UNIBIC,4.1,₹135,₹150,6x75 g - Multipack
+827,Thatta Murukku - Masala,A-1 Chips,3.8,₹114,₹120,250 g
+828,Secret Schezwan Stir FryÂ Sauce,Chings,4.1,₹87.97,₹90,250 g - Jar
+829,Red Chilli Papad,SDA PAPPADS,4.3,₹45,₹45,100 g
+830,Funfoods Peanut Butter Crunchy,Dr. Oetker,4.2,₹238,₹278,2 x 400 g - Multipack
+831,Pickle - Red Stuffed Chilli,Mother's Recipe,4,₹68.25,₹75,200 g - Pouch
+832,Instant Avalakki Bisi Bele Bhath,Sanketi Adukale,4.2,₹115,₹115,250 g
+833,Chocolate Chip Cookies,Milano,4.3,₹120,₹240,2x120 g - Multipack
+834,Dark Fantasy Desserts Choco Chunks Filled Cookie,Sunfeast,4.1,₹96.9,₹120,2 x 75 g - Multipack
+835,Ready To Eat - Rajma Masala,MTR,3.9,₹125,₹125,300 g
+836,Golden Wheat Crisps - Jeera Khakhra,Daadi's,4.1,₹80,₹80,180 g - Pouch
+837,"Mini Makhana - Salt & Pepper, High In Protein & Calcium, Gluten Free Snack",Protyze,5,₹80,₹80,60 g - Pouch
+838,Instant Rava Pongal Mix,Sanketi Adukale,4,₹120,₹120,250 g
+839,Bhakri Baked Mathri - Methi,Tasties,4,₹50,₹120,180 g
+840,Platina- Nutricrunch Lite Cracker,Parle,4.1,₹30,₹30,200 g - Pouch
+841,Almondo - Roasted Almonds Coated With Milk Chocolate,Amul,4.4,₹210,₹210,200 g
+842,Frozen Aloo-Tikki,Safal,4,₹76.5,₹90,400 g
+843,Pickle - Mango Tender,MTR,3.9,₹145,₹145,300 g - Jar
+844,"Crunchy Chicken Nuggets - Non-Veg Frozen Snack, Ready To Cook",ITC Master Chef,4.1,₹267.75,₹315,450 g
+845,Waffy Strawberry Flavoured Rolls - Creamy,Dukes,4.2,₹150,₹300,300 g - Jar
+846,Halwa - Karachi,Lal,4.1,₹99,₹99,200 g
+847,For Girls - With Surprise,Kinder Joy,4.1,₹349.2,₹360,8x20 g - Multipack
+848,Instant Popcorn - Butter Delite,ACT II,4.2,₹99,₹99,3x77 g - Multipack
+849,Instant Popcorn - Butter,4700BC,3.9,₹27,₹30,90 g
+850,Sweet Chili Sauce,REAL THAI,4.2,₹350,₹350,720 ml - Pet Bottle
+851,Nacho Crisps - Sea Salt,Cornitos,4.2,₹165.6,₹180,2x150 g - Multipack
+852,"Chocos - Duet, With Whole Grain, Source Of Fibre, High In Calcium & Protein, Breakfast Cereals",Kelloggs,4,₹10,₹10,22 g - Pouch
+853,"Lindor White Chocolate - Smooth, Creamy, Rich Flavour",Lindt,4.2,₹807.5,₹950,200 g
+854,Papad - Triangle,Balaji foods,3.9,₹35,₹35,200 g
+855,Mango Pickle/Aam Ka Achaar - Home Made,DIVINE BITE,3.9,₹260,₹260,300 g
+856,"Snack Bar - Fruit & Nut, Choco",UNIBIC,4.1,₹180,₹240,6X30 g - Multipack
+857,Premium California Pistachio - Roasted & Salted,ProV,2.5,₹307,₹549,250 g
+858,"Classic Pancake Mix - No Maida, Eggless Instant Healthy Breakfast",Slurrp Farm,4,₹415.71,₹447,3x150 g - Multipack
+859,Premium Wafer Bites - Strawberry,Tasties,3.8,₹85,₹85,100 g
+860,Zero Sugar Dark Chocolate Bar - 55% Cocoa,Lindberg,4.2,₹149,₹175,100 g
+861,Roasted Peanuts - Nimboo Pudina,JABSONS,4.1,₹70,₹70,140 g - Pouch
+862,Breakfast Mix - Vada,MTR,4.1,₹200,₹200,500 g
+863,"Nutrition Energy Bar - Fig, Flax & Pumpkin Seeds",GoodDiet,3.9,₹350.1,₹520,10x40 g - (Multipack)
+864,Digestive High Fibre Biscuits - Goodness Of Wholewheat,McVitie's,3.9,₹22.5,₹25,100 g - Pouch
+865,Minute Garlic Rasam,MTR,4.1,₹40,₹40,60 g
+866,Ready to Mix - Rava Idly,Swastiks,3.7,₹130,₹130,500 g
+867,Syrup - Pancake,American Garden,4.3,₹1520,₹1520,2x709 ml - Multipack
+868,"Choco Chip Cookie With No Maida - Healthy Biscuit, 7 Grains Protein Snacks",RiteBite Max Protein,4.2,₹600,₹600,660 g - (Pack of 12)
+869,Vanilla Wafers,Britannia Treat,4.1,₹50,₹100,2x60 g - Multipack
+870,Healthy Khakhra Pearl Millet Methi Bajra Methi,Tasties,3.9,₹50,₹80,180 g
+871,Pickle - Mix Vegetable,Swastiks,3.9,₹80,₹80,500 g
+872,Rice Vermicelli,REAL THAI,4.2,₹240,₹240,375 g - Carton
+873,Oats Idli,GoodDiet,4.1,₹292.04,₹298,2x400 g - Multipack
+874,No Added Sugar Muesli With Real Fruits & Nuts - High Protein,True Elements,4.4,₹676.35,₹835,1.2 kg
+875,Chick Peas - Classic,American Garden,4.3,₹149,₹149,400 g - CUP
+876,Honey Oats Cookies,Tasties,4,₹95.04,₹120,4x75 g - (Multipack)
+877,Papad - Moong,Mother's Recipe,3.8,₹64.4,₹70,180 g
+878,Ready To Eat - Chana Masala,MTR,4,₹120,₹120,300 g - Pouch
+879,"Veda Marie Light Biscuits - With 5 Natural Ingredients, Tea Time Partner",Sunfeast,4.3,₹40,₹40,250 g
+880,Spicy Crispy Murukku,Sowbhagya foods,4.2,₹70,₹70,200 g
+881,Garlic Mixture,Sowbhagya foods,0,₹165,₹330,2 x 500 g - Multipack
+882,"Cuppa Noodles - Chilli Chow, 70 g, Pack Of 3",MAGGI,4,₹150,₹150,3x70 g - Multipack
+883,Bagrry`S Crunchy Diet Muesli With No Added Sugar - High Fibre  1 1 kg,Bagrrys,4.2,₹595,₹625,1 kg
+884,Dairy Milk Silk Bubbly Chocolate Bar - With Cocoa Butter,Cadbury Dairy Milk Silk,4.3,₹484.51,₹555,3x120 g - Multipack
+885,Dark Fantasy Choco Nut Fills Cookies,Sunfeast,4.3,₹40,₹40,75 g
+886,2-Minute Spicy Manchurian Noodles,MAGGI,3.4,₹20,₹20,61 g
+887,Sour Belt Mixed Fruit Flavour Soft & Chewy Toffee,Chupa Chups,4.3,₹90,₹90,3x57.6 g - Multipack (8 pcs)
+888,Collection Pralines,Ferrero Rocher,0,₹775.03,₹799,172.2 g - (15 pcs)
+889,Sweet - Classic Petha,Bansiwala,3.8,₹170.1,₹189,350 g
+890,Sugar Free Multigrain Cookies,UNIBIC,4,₹324,₹360,6x75 g - Multipack
+891,"Belgian Milk Chocolate, Velvety & Smooth",Amul,4.2,₹160,₹160,125 g
+892,"Roasted Makhana - Himalayan Salted, Rich In Protein, Calcium, Yummy Snacking",Farmley,4.3,₹695,₹745,5x90 g - Multipack
+893,Pasta & Pizza Sauce Herby Tomato| Red Pasta Sauce Herb,VEEBA,4,₹143.1,₹159,525 g
+894,"Kerala Banana Chips - Salt & Pepper, Savoury & Crispy, Zero Cholesterol",Beyond Snack,3.9,₹85.5,₹95,125 g
+895,Popped Lotus Seeds - Himalaya Salt & Pepper,MR. MAKHANA,4.1,₹114,₹120,75 g
+896,Roasted Peanuts - Lemon & Chilli,JABSONS,4,₹70,₹70,140 g
+897,"Oats - Dark Chocolate, Healthy, High In Fibre, Breakfast Cereal, Gluten Free",Yoga Bar,4.3,₹15,₹25,40 g
+898,"Oats -Whole Grain, Breakfast Cereal, Rich In Fibre & Calcium, Good For Heart",Quaker,4.3,₹119,₹119,600 g - Pouch
+899,"Snack Bar - Multigrain, Choco",UNIBIC,4.1,₹180,₹240,6X30 g - Multipack
+900,Playz Puffs Masala Munch Namkeen,Kurkure,3.7,₹18,₹20,55 g

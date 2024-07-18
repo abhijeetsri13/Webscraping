@@ -1,0 +1,534 @@
+,Grocery_Name,Discount_Price,MRP_Price,Brand_Name,Quantity
+0,Premium Leaf Tea,₹184,₹230,Tata Tea Chakra Gold,250 g 
+1,Tea,₹1079,₹1200,Red Label,2x1 kg - Multipack
+2,Premium Leaf Tea,₹340,₹425,Tata Tea Chakra Gold,500 g 
+3,Tea - Natural Care,₹1079,₹1200,Red Label,2x1 kg - Multipack
+4,Mineral Water,₹288,₹288,Bisleri ,250 ml - Pack of 48
+5,Tea,₹1582,₹1760,Taj Mahal,2x1 kg - Multipack
+6,Beaten Caffe Strong,₹288,₹320,Sunbean  ,250 g - Jar
+7,"Coffee - Powder, Speciality Blend Of Coffee & Chicory Powder",₹612,₹680,Cothas Coffee,2x500 g - Multipack
+8,Instant Coffee,₹344,₹400,BRU,2x100 g - Multipack
+9,Beaten Caffe Powder,₹105,₹150,Sunbean  ,120 g - (10 Sachets x 12 g each)
+10,Tea,₹651,₹930,Tata Tea Gold,1.5 Kg 
+11,Chocolate Health Drink,₹548.46,₹740,Cadbury Bournvita,2x750 g - Multipack
+12,Filter Coffee - Green Label,₹456,₹480,BRU,2x500 g - Multipack
+13,"Coffee - Powder, Speciality Blend Of Coffee & Chicory Powder",₹264,₹276,Cothas Coffee,2x200 g - Multipack
+14,"Immuno Chai Loose Leaf Flavoured Black Tea - Haldi, Ashwagandha & Black Pepper",₹160,₹200,Tetley,200 g 
+15,"Tender Coconut Water - No Added Sugar, Flavours",₹888,₹1200,Fresho,24x200 ml - (Multipack)
+16,Drink - Fresh 'N' Juicy Mango,₹140,₹140,Frooti,2x1.2 L - Multipack
+17,Health Drink - Original,₹898,₹898,Horlicks,2x900 g - Multipack
+18,"Nutrition Drink - Health, Energy & Sports",₹728,₹898,Boost,2x750 g - Multipack
+19,Premium Leaf Tea - Strong & Refreshing,₹499,₹510,Wagh Bakri,1 kg - Pouch
+20,Drink Powder - Sports Stars First Choice,₹5,₹5,Boost,15 g 
+21,Tea,₹335.27,₹345.27,3 Roses,500 g - Carton
+22,Tea,₹28.8,₹32,Tata Tea Kanan Devan,100 g 
+23,Club Soda,₹36,₹40,Kinley,2x750 ml - Multipack
+24,Mineral Water,₹315,₹315,Kinley,2 L - Pack of 9
+25,"Coffee - Powder, Extra Strong",₹275,₹275,Cothas Coffee,500 g - Pouch
+26,Coffee - Special Gold,₹270,₹270,Bayars,500 g 
+27,Coffee - Eighty Degree,₹320,₹320,Bayars,500 g 
+28,Tea,₹483,₹705,Tata Tea Premium,1. 5 kg 
+29,"Mango Drink - Original Flavour, Refreshing",₹80,₹100,Maaza,150 ml - (Pack of 10)
+30,"Soft Drink - Zero Sugar, No Calories",₹30,₹40,Coca Cola,750 ml - Pet Bottle
+31,Soft Drink,₹168,₹190,Coca Cola,2x2 L - Multipack
+32,Badam Drink Mix,₹250,₹275,MTR,500 g 
+33,Soft Drink,₹146,₹190,Thums Up,2x2 L - Multipack
+34,"Complete Balanced Nutrition Drink For Adults, Vanilla",₹1200,₹1300,Ensure,1 kg 
+35,Diet Coke Soft Drink,₹240,₹240,Coca Cola,6x300 ml - (Multipack)
+36,"Coffee - Powder, Premium Special",₹252.5,₹252.5,Cothas Coffee,500 g - Pouch
+37,Xtra Coffee Pouch,₹70,₹140,Continental,50 g 
+38,Packaged Drinking Water,₹315,₹315,Aquafina,2 L - Pack of 9
+39,Natural Care Tea - with 5 Natural Ingredients,₹460,₹460,3 Roses,500 g 
+40,Goodness Of 5 Natural Flavours,₹260,₹325,Tata Tea Gold Care,500 g 
+41,Grand Filter Coffee,₹231,₹280,Tata Coffee,500 g 
+42,"Grand Classic Instant Coffee - Flavour Locked Decoction Crystals, Strong Taste & Rich Aroma",₹315,₹420,Tata Coffee,200 g - Pouch
+43,Health & Nutrition Drink,₹364,₹449,Horlicks,750 g - Pouch
+44,Coconut Water - Packed With Electrolytes & Boosts Hydration,₹307.8,₹360,Raw Pressery,6x200 ml - Multipack
+45,Blend Instant Coffee Powder - Rich & Smooth,₹990,₹1100,Nescafe Gold,2 x 95 g - Multipack
+46,"Black Roast Instant Coffee - Rich & Dark, 100% Pure, Soluble Powder",₹592,₹740,Nescafe Classic,2x90 g - Multipack
+47,"Fruit Juice - Delight, Litchi",₹206,₹246,Tropicana,2x1 L - Multipack
+48,7+ Specialized Nutrition Drink Powder With Oats & Almonds - Chocolate Flavour,₹1110,₹1230,Pediasure,2 x 400 g - Multipack
+49,"Black Soft Drink - Max Taste, Zero Sugar(Diet)",₹192,₹210,Pepsi,6x250 ml - Multipack
+50,Soda - Original Ginger Ale,₹360,₹360,Schweppes,6x300 ml - Multipack
+51,Fruit Juice - Orange Delight,₹240,₹240,Tropicana,2x1 L - Multipack
+52,"Women's Plus, Caramel",₹539.1,₹599,Womens Horlicks,750 g 
+53,Health Drink Chocolate,₹1420,₹1540,Pediasure,2 x 400 g - Multipack
+54,Health & Nutrition Drink - Chocolate,₹698,₹998,Horlicks,2x1 kg - (Multipack)
+55,Soft Drink - With Real Lemon Juice,₹90,₹90,7 Up Nimbooz,6 x 250 ml - (Multipack)
+56,"Health Mix - 100% Natural Nutrition, No Added Sugar, Preservative Free",₹356.25,₹475,Manna,1 kg - cartoon
+57,"Coffee - Powder, Pure Filter, Nova Therm",₹224.25,₹345,Cothas Coffee,500 g 
+58,Indian Tonic Water,₹300,₹300,Schweppes,6x300 ml - Multipack
+59,Cold Extracted Juice - Valencia Orange,₹846.45,₹990,Raw Pressery,3x1 L - Multipack
+60,Spiced Tea - Blend Of 7 Refreshing Spices,₹165,₹165,Wagh Bakri,250 g 
+61,Green Tea - Honey Lemon,₹299.2,₹340,Lipton,2x25 pcs - Multipack
+62,Aamras Mango Fruit Juice,₹420,₹420,Paper Boat,12x200 ml - Multipack
+63,"Fruit Juice - Cranberry, Rich In Vitamin C",₹708,₹780,Real,6 x 1 L - Multipack
+64,"Diabetes Plus - Helps Manage Blood Sugar, Vanilla",₹671.5,₹790,Horlicks,400 g - Cartoon
+65,Fruit Drink - Pulpy Orange,₹162,₹180,Minute Maid ,2x1 L - Multipack
+66,100% Tender Coconut Water - No Added Sugar,₹217.6,₹340,Storia,2 x 1 L - (Multipack)
+67,Premium Tea - Strong Flavour With Long Lasting Taste,₹369,₹410,Tata Tea Chakra Gold,500 g 
+68,"Green Tea - Lemon & Honey, Rich In Antioxidants",₹437.5,₹625,Tetley,140 g - (100 Bags x 1.4 g each)
+69,Juice - Classic Apple,₹60,₹60,Appy,4x200 ml - Multipack
+70,Natural Mineral Water,₹756,₹840,Himalayan,12x1 L - Multipack
+71,"Fruit Juice - Delight, Apple",₹279,₹339,Tropicana,3x1 L - Multipack
+72,Premium Coffee,₹185,₹370,LEVISTA,100 g - Can
+73,"Coconut Water - Refreshing Flavour, Vital Electrolytes",₹600,₹600,Paper Boat,12x200 ml - Multipack
+74,Coffee - Sunrise,₹830,₹920,Nescafe ,2x200 g - Multipack
+75,"Junior - Health Drink, Vanilla - Specialized Nutrition For Kids",₹445,₹575,Horlicks,1 Kg 
+76,Energy Drink,₹2650,₹3000,RED BULL ,250 ml - (Pack of 24)
+77,Soft Drink - Lime & Lemon Flavoured,₹84,₹95,Limca ,2 L - PET Bottle
+78,Darjeeling Tea,₹853.6,₹970,Lipton,500 g 
+79,100% Orange Juice,₹435,₹435,Tropicana,3x1 L - Multipack
+80,"Zesty Pomegranate Juice - Enriched With Vitamin D, No GMOs",₹120,₹120,Paperboat Swing,3x600 ml - Multipack
+81,Probiotic Health Drink - Light,₹380,₹380,Yakult,4x65 ml - Multipack
+82,Women'S Health & Nutrition Drink - Caramel Flavour,₹653.2,₹710,Horlicks,2x400 g - Multipack
+83,"Fruit Juice - Delight, Mango",₹240,₹240,Tropicana,12x200 ml - Multipack
+84,Soft Drink,₹67,₹75,Pepsi,1.5 L - Bottle
+85,"Mixed Fruit - Rich In Fibre, Vitamin C & E, 100% Indian Fruit & 0% Concentrate",₹240.82,₹390,B Natural,1 L - (Pack of 3)
+86,Lychee - Litchi Fruit Juice,₹240,₹240,Paper Boat,12x150 ml - Multipack
+87,"Club Soda - Extra Power, Refreshing Drink",₹120,₹120,Bisleri ,6 x 750 ml - (Multipack)
+88,100 % Apple Juice - With No Added Sugar and Preservative,₹272.96,₹420,Real Activ,3x1 L - Multipack
+89,Original Taste Soft Drink - Refreshing,₹222,₹240,Coca Cola,6x300 ml - Multipack
+90,Strong Coffee,₹55,₹110,LEVISTA,50 g - Pouch
+91,Diabetes Care Specialized Nutrition Drink - Vanilla Delight Flavour,₹1515,₹1635,Ensure,1 kg - Box
+92,Coconut Water/Nariyal Pani,₹721.68,₹840,Real Activ,24 x 200 ml - Multipack
+93,Hommade Lemoneez - Goodness Of 33 Lemons,₹152.1,₹160,Dabur,2x250 ml - Multipack
+94,"Fruit Juice - Delight, Guava",₹240,₹240,Tropicana,12x200 ml - Multipack
+95,Hot Chocolate Drink Powder Mix,₹527.34,₹660,Cadbury,3 x 200 g - Multipack
+96,"Nutrition & Health Drink - Improves Concentration & Memory, Chocolate Flavour",₹978.78,₹1218,Complan,2x1 Kg - Multipack
+97,Women'S Health & Nutrition Drink - Chocolate Flavour,₹671.6,₹730,Horlicks,2x400 g - Multipack
+98,Energy & Nutrition Drink - 3X More Stamina,₹489,₹599,Boost,500 g - (Pack of 2)
+99,Health & Nutrition Drink - Classic Malt,₹648,₹698,Horlicks,2 x 450 g - Multipack
+100,Activ Fiber + Multi Fruit Beverage - No Added Sugars & Preservative,₹210.11,₹320,Real,2 x 1 L - Multipack
+101,Chocolate Syrup,₹541.2,₹660,Hersheys ,3x623 g - Multipack
+102,Malgudi Filter Coffee - 60:40,₹112.8,₹120,Continental,200 g 
+103,Dust Tea,₹140,₹140,Tata Tea Agni,500 g 
+104,Fruit Juice - Mixed Fruit Delight,₹210,₹250,Tropicana,2x1 L - Multipack
+105,Natural Mineral Water,₹36,₹40,Himalayan,500 ml - Bottle
+106,"Special Blend Tea - 10% Extra Strong Leaves, Perfect Aroma & Taste",₹115,₹115,Tata Tea Agni,500 g - Pack
+107,"Nutritional Drink Mix For Adults For Everyday Health With High Protein, To Increase Strength & Energy - Rich Chocolate",₹1085,₹1235,Protinex ,750 g - Carton
+108,5 Star Magic Health Drink,₹742.34,₹824,Cadbury Bournvita,2x750 g - Multipack
+109,100% Apple Juice,₹435,₹435,Tropicana,3x1 L - Multipack
+110,Green Tea - Ginger Mint Lemon,₹392.7,₹510,Tetley,3x25 Teabags - Multipack
+111,"Soda - Fizz, Jeera Masala",₹60,₹60,Bindu,1 L - Bottle
+112,Green Tea - Long Leaf,₹621.6,₹740,Tetley,2x250 g - Multipack
+113,"Coffee - Powder, Premium Blended",₹270,₹270,Cothas Coffee,500 g - Pouch
+114,Filter Coffee With Chicory,₹340,₹340,LEVISTA,500 g - Pouch
+115,Fruit Power - Coconut Water,₹179.93,₹340,Real,2 x 1 L - Multipack
+116,100 % Mixed Fruit Juice - With No Added Sugar and Preservative,₹363.75,₹435,Real Activ,3x1 L - Multipack
+117,Fruit Juice - Orange Drink,₹360,₹360,Paper Boat,3 x 1 L - Multipack
+118,"Soft Drink - Orange Flavoured, Refreshing",₹84,₹95,Fanta,2 l - Pet Bottle
+119,"Black Tea - Original, Classic Assam Blend, Staple-Free, Environment Friendly Bags",₹157.5,₹210,Tetley,200 g - (100 bags x 1.7 g each)
+120,Fruit Juice - Guava Delight,₹190,₹230,Tropicana,2x1 L - Multipack
+121,Green Tea  - Pure & Light,₹340,₹340,Lipton,2x25 pcs - Multipack
+122,Natural Mineral Water,₹50,₹50,Himalayan,750 ml 
+123,"Nutrition Drink - Health, Energy & Sports",₹599,₹599,Boost,1 Kg - Carton
+124,Cold Extracted Juice - Pomegranate,₹770.04,₹900,Raw Pressery,2x1 L - Multipack
+125,"Care Flavoured Tea - Brahmi, Ginger, Tulsi, Elaichi & Adhimadhuram",₹228,₹240,Tata Tea Chakra Gold,250 g - Carton
+126,Delight Fruit Juice - Pineapple,₹220,₹220,Tropicana,2x1 L - Multipack
+127,Soft Drink - Orange,₹67,₹75,Mirinda,1.5 L 
+128,"Yellow Label Tea - Finest Blend, Rich, Aromatic",₹300,₹300,Lipton,250 g 
+129,Soft Drink - Lime Flavoured,₹480,₹480,Sprite,12x300 ml - Multipack
+130,"7+ Health Drink - With Oats & Almond, Vanilla Flavour",₹565,₹615,Pediasure,400 g - Box
+131,"Mother's Plus, Vanilla",₹589,₹620,Horlicks,400 g - Carton
+132,Soft Drink,₹444,₹480,Thums Up,12x300 ml - Multipack
+133,Filter Coffee Decoction,₹236.9,₹250,iD,2 x 150 ml - Multipack
+134,Drink Mix - Badam,₹80,₹80,MTR,100 g - Pouch
+135,Filter Coffee Liquid Strong,₹178.22,₹198,iD,2 x 150 ml - Multipack
+136,Limonata - Limey Minty Cooler,₹80,₹80,Bisleri ,2x600 ml - Multipack
+137,Instant Pure Coffee,₹287,₹350,BRU,100 g - Jar
+138,Health Drink Vanilla Delight,₹1420,₹1540,Pediasure,2x400 g - Multipack
+139,Malgudi Filter Coffee Pouch -  80:20,₹140,₹140,Continental,200 g 
+140,Soft Drink,₹176,₹198,Coca Cola,2 x 2.25 L - (Multipack)
+141,"Instant Coffee Powder - Chicory Mix, Shade-Grown, No Preservatives",₹157.7,₹198,iD,2 x 50 g - Multipack
+142,Soft Drink - Lemon,₹888,₹960,7 Up,24x750 ml - Multipack
+143,Tender Coconut Water With Pulpy Malai,₹936,₹1440,Fresho,24x200 ml - Multipack
+144,Fruit Power Juice - Litchi,₹331.74,₹375,Real,3x1 L - Multipack
+145,Top Star Tea,₹373,₹410,3 Roses,500 g - Carton
+146,"Organic Tulsi Green Tea - Lemon & Ginger, Stress Relieving",₹206.4,₹215,Organic India,45 g - (25 Bags x 1.8 g each)
+147,SOFT DRINK,0,0,Sprite,250 ml 
+148,Premium Leaf Tea,0,0,Wagh Bakri,500 g 
+149,"Juice - Fruit Power, Pomegranate/Anar",₹100.8,₹120,Real,6x200 ml - Multipack
+150,Health Drink Kesar Badam,₹450,₹450,Pediasure,200 g - Carton
+151,Lite Health & Nutrition Drink - Badam Flavour,₹324,₹349,Horlicks,450 g - Carton
+152,"Valencia Orange Juice - Cold-Pressed, No Added Sugar, Preservative Free",₹475,₹645,Fresho Signature,5x250 ml - Multipack
+153,Fruit Power Juice - Mixed Fruits,₹343.38,₹384,Real,3X1 L - Multipack
+154,Rich Aroma Instant Coffee,₹1235,₹1300,Davidoff,2 x 100 g - Multipack
+155,100 % Orange Juice - With No Added Sugar and Preservative,₹392.85,₹465,Real Activ,3x1 L - Multipack
+156,Chilli Guava Fruit Juice,₹197.4,₹210,Paper Boat,6x200 ml - Multipack
+157,Fruit Power Juice - Mango/Aam,₹296.82,₹345,Real,3x1 L - Multipack
+158,Sports Drink - Orange Flavour,₹150,₹150,Gatorade,3x500 ml - Multipack
+159,"Classic, Pure & Natural From Highest Hills",₹265.72,₹292,Tata Tea Kanan Devan,1 kg 
+160,Kimchi,₹450,₹450,Bombucha,450 g 
+161,Smartwater,₹720,₹720,Glaceau ,12x750 ml - Multipack
+162,"Nutritious Milk Drink For Growing Children - Creamy Vanilla Flavour, For 2-6 Yrs",₹610,₹610,Nestlé NANGROW,400 g - Carton
+163,Natural Mountain Water - Vedica,₹360,₹360,Bisleri ,6x1 L - Multi Pack
+164,"Instant Filter Coffee Liquid - Strong, Chicory Blend, No Preservatives",₹240,₹240,iD,400 ml - ( 8 Units x Pack of 5(10 ml Each))
+165,"Vedic Tea - Handpicked From Assam, Nilgiri & Darjeeling",₹221.25,₹295,Dabur,500 g 
+166,Copper+,₹17.6,₹20,Tata ,1 L - Bottle
+167,"Nutritional Supplement - High Protein, Vanilla Flavour",₹1200,₹1350,Protinex ,2x400 g - (Multipack)
+168,Kadak Tea,₹758,₹1140,Emperia,2x1 kg - (Multipack)
+169,100% Tender Coconut Water/Nariyal Pani,₹552,₹660,Real Activ,12 x 200 ml - Multipack
+170,Premium Tea With 20% Extra Long Leaf,₹838,₹1250,Emperia,2x1 kg - (Multipack)
+171,"Millet Chocolate - Rich In Calcium, Protein & Iron",₹354,₹399,Horlicks,600 g 
+172,Natural Extracts Refreshing Taste Aroma,₹285,₹285,Tata Tea Premium Teaveda,500 g - Box
+173,Golden Leaf Tea,₹233.75,₹275,Tata Tea Kanan Devan,500 g 
+174,Coffee - Pure,₹442,₹442,Narasus,500 g - Pouch
+175,Health Drink - Choco Caramel,₹280,₹280,Maltova,500 g - Carton
+176,Fruit Juice - Grape,₹211.68,₹250,Real,2 x 1 L - Multipack
+177,Fresh Filter Coffee - 80 Degree,₹294.5,₹310,Continental Malgudi,500 g - 1
+178,Tea,₹80,₹80,Taj Mahal,25 pcs 
+179,"Lush Lychee Juice - Enriched With Vitamin D, No GMOs",₹120,₹120,Paperboat Swing,3x600 ml - Multipack
+180,"Gold - 100% Pure Coffee, Original , Robusta & Arabica Beans Blend",₹390,₹520,Tata Coffee,100 g - Jar
+181,Elaichi Flavoured Tea,₹144,₹240,Tata Tea Chakra Gold,250 g 
+182,"Green Tea - Ginger Mint & Lemon, Rich In Antioxidants",₹5250,₹7500,Tetley,12x140 g - Multipack
+183,Club Soda - Evervess,₹20,₹20,Lehar,600 ml - Bottle
+184,Mountain Dew,₹67,₹75,Mountain Dew,1.5 L 
+185,100% Juice - Mixed Fruit,₹435,₹435,Tropicana,3x1 L - Multipack
+186,Diabetes Care Specialised Nutrition Drink Vanilla,₹995,₹995,Ensure,400 g - Jar
+187,Green Tea - Lemon & Honey,₹955,₹955,Twinings,200 g - (100 Bags x 2 g each)
+188,"Fruit Juice - Delight, Pomegranate",₹250,₹250,Tropicana,2x1 L - Multipack
+189,Mango Juice,₹170,₹198,Tropicana Slice,2x1.75 L - Multipack
+190,100% Natural Cold Pressed Juice - Mango,₹427.8,₹500,Raw Pressery,2x1 L - Multipack
+191,"Masala Tea - Spiced & Flavourful Assam Blend, Staple Free & Environment Friendly Bags",₹279,₹310,Tetley,100 g - (50 Bags x 2 g each)
+192,Soft Drink,₹768,₹840,Mountain Dew,24x250 ml - Multipack
+193,Sports Drink - Lemon Flavour,₹300,₹300,Gatorade,6x500 ml - Multipack
+194,Chamomile Tea - Tulsi Honey,₹187.2,₹195,Organic India,43.5 g - (25 Bags x 1.7 g each)
+195,"Juice - Fruit Power, Orange/Santra",₹349.2,₹390,Real,3X1 L - Multipack
+196,Desh Ki Chai,0,0,Tata Tea Premium,250 g 
+197,Energy Drink,₹180,₹180,Sting,6X250 ml - Multipack
+198,Swing Juicier Drink - Mixed Fruit Medley,₹60,₹60,Paper Boat,6x150 ml - Multipack
+199,"Guava Juice - Rich In Fibre, Vit C & E, 100% Fruit Pulp & 0% Concentrate",₹240.82,₹390,B Natural,1 L - (Pack of 3)
+200,Long Leaf - Lemon Green Tea,₹142.6,₹155,Tetley,100 g 
+201,Milo Cocoa-Malt Milk Beverage - Grab & Go Pack,₹202.5,₹270,Nestle ,6x180 ml - Multipack
+202,Instant Coffee Premix,₹15,₹15,Narasus,18 g - Pouch
+203,Mango Instant Drink Mix,₹300,₹300,Tang,2x500 g - Multipack
+204,Fruit Power Juice - Pineapple,₹216,₹240,Real,12x 180 ml - Multipack
+205,Cold Brew Coffee - 100% Arabica,₹575,₹575,Sleepy Owl,250 g - (Set of 5)
+206,"Green Tea - Immune Tulsi, With Added Vitamin C, Natural Flavour",₹98.6,₹170,Tetley,30 g - (25 Bags x 1.2 g Each)
+207,Fruit Power Juice - Apple,₹308.46,₹345,Real,3x1 L - Multipack
+208,"Anar/Pomegranate Juice - With Low Sugar, No Added Preservatives",₹600,₹600,Paper Boat,200 ml - (Pack of 12)
+209,"Junior - Health Drink, Chocolate - Specialized Nutrition For Kids",₹330,₹330,Horlicks,500 g 
+210,"High Protein Drink - Chocolate, Protein+",₹1196,₹1300,Horlicks,2x400 g - Multipack
+211,Syrup - Mojito Mint,₹895,₹895,Monin,700 ml - Bottle
+212,Fine Long Leaf Tea,₹299.2,₹340,Tata Tea Gold Darjeeling,200 g - Box
+213,Assam Tea,₹699,₹699,Twinings,200 g - (100 Bags x 2 g each)
+214,Coconut Water - Rich In Electrolytes With Vitamin C,₹1200,₹1200,Cocomama,24x250 ml - Multipack
+215,Coconut Milk,₹140,₹170,Coco mama,2 x 250 ml - Multipack
+216,French Roast Home Espresso Dark Roasted Arabica Ground Coffee,₹470,₹470,Blue Tokai,250 g 
+217,"Slurpy Mango Juice - Enriched With Vitamin D, No GMOs",₹120,₹120,Paperboat Swing,3x600 ml - Multipack
+218,"Filter Coffee Decoction - Blended With Chicory, Roasted & Ground, No Added Preservatives, Artificial Flavours",₹80,₹80,Cothas Coffee,200 ml - Pouch
+219,Cucumber Spinach Juice With No Added Sugar & No Added Preservatives,₹122,₹140,Real Activ,1 L 
+220,Leaf Tea - Navchetan,₹181,₹200,Wagh Bakri,1 Kg 
+221,Exotic Dark Hot Chocolate Drink Powder Mix,₹171.6,₹220,Hersheys ,250 g 
+222,Green Tea Honey Lemon,₹170,₹170,Emperia,35 g - (25 Bags x 1.4 g Each)
+223,Health Drink - Plus Orange,₹45,₹45,ORSL,200 ml 
+224,"Soda - Fizz, Jeera Masala",₹95,₹95,Bindu,2 L - Bottle
+225,Energy Drink - Sugar Free,₹2650,₹3000,RED BULL ,250 ml - (Pack of 24)
+226,Sports Drink - Blue Bolt Flavour,₹300,₹300,Gatorade,6x500 ml - (Multipack)
+227,"Gold Premium Freeze Dried Coffee - 100% Pure, Strong, Intense Aromatic",₹405.6,₹520,BRU,100 g 
+228,"Green Tea - With Plain, Tulsi, Lemon & Honey, Travel Pack",₹19,₹40,Emperia,6.7 g - (5 Tea Bags x 1.34 g Each)
+229,Apple Juice Based Drink,₹140,₹140,Appy Fizz,4x250 ml - Multipack
+230,"Sparkling Coffee - Dark Roast, Carbonated Drink, Zero Sugar & Zero Calories",₹180,₹180,Paper Boat,3 x 600 ml - (Multipack)
+231,"Instant Coffee Chicory Decoction - Ready To Use, Strong, Flavourful",₹165,₹200,BRU,200 ml 
+232,Instant Tea Bag - Premix With Masala,₹150,₹150,Girnar,10 pcs 
+233,Green Tea - Pure & Light,₹155,₹155,Lipton,100 g 
+234,Infusion Bags - Tulsi Green Tea,₹206.4,₹215,Organic India,43.5 g - (25 Bags x 1.7 g each)
+235,Green Tea - Detox / Desi Kahwa,₹330,₹330,Girnar,90.7 g - (36 Bags x 2.5 g each)
+236,Green Tea - Regular,₹875,₹1250,Tetley,2x100 Teabags - Multipack
+237,"Health Drink - Chocolate Flavour, Provides Complete Nutrition For Adults",₹1680,₹1680,Ensure,2 x 400 g - Multipack
+238,Organic Chamomile Tea - Tulsi Honey,₹139,₹199,IndiSecrets,36 g - (20 Bags x 1.8 g each)
+239,Original Adult Health & Nutritional Drink Mix For Recovery With High Protein,₹1160,₹1310,Protinex ,750 g - Carton
+240,"Diabetic Care Formula Mix-Chocolate, Nutrition For Diabetes Management",₹1850,₹1850,ENSURE DIABETES CARE,2 x 400 g - Multipack
+241,Coffee - Brownie Special,₹104,₹104,Bayars,200 g 
+242,"Sugarcane Juice - Cold-Pressed, No Added Sugar, Preservative Free",₹325,₹445,Fresho Signature,5x250 ml - Multipack
+243,Fruit Power Juice - Mixed Berries,₹107,₹130,Real,1 L 
+244,"Diabetes Care - High In Fibre & Protein, Creamy Vanilla Flavour",₹665,₹740,Protinex ,400 g 
+245,Tender Coconut Water,₹47,₹50,Cocojal,200 ml - Bottle
+246,"Fruit Beverage - No Added Sugar, Low Calories, Peach",₹180,₹180,Paper Boat,3x600 ml - Multipack
+247,Cappuccino,₹400,₹400,Nescafe ,2x100 g - Multipack
+248,Syrup - Peach Tea,₹955,₹955,Monin,700 ml - Bottle
+249,Cold Extracted Juice - Mango,₹216.6,₹240,Raw Pressery,4x200 ml - Multipack
+250,Tea Blend With Rich Taste Natural Ingredients Improves Immunity Memory,₹472.5,₹630,Tata Tea Gold Care,1 Kg 
+251,Premium Instant Coffee - 100% Coffee Blend,₹217.5,₹290,Tata Coffee Grand,100 g - Pouch
+252,"SipNDigest - With Green Tea, Ginger, Tulsi & Rock Salt, Spiced Green Tea Bags",₹331.5,₹390,Lipton,50 pcs - (50 Bags x 1.8 g Each)
+253,Zero Sparkling Water - Cumin,₹120,₹120,Paper Boat,2 x 600 ml - Multipack
+254,High Protein Health Drink Chocolate,₹755,₹755,Ensure,400 g - Box
+255,Tea - Tulsi & Ginger,₹216,₹225,Organic India,100 g 
+256,Instant Energy Health Drink - Tangy Orange,₹676.4,₹760,Glucon-D,2 x 1 kg - (Get Free Sipper) (Multipack)
+257,Fresh Filter Coffee - 60 Degree,₹237.5,₹250,Continental Malgudi,500 g 
+258,Cold Extracted Juice - Sugarcane,₹288.8,₹320,Raw Pressery,4x250 ml - Multipack
+259,Cold Extracted Juice - Guava Blend,₹273.6,₹320,Raw Pressery,4x250 ml - Multipack
+260,"Wholesome Child Nutrition For Growth & Development - Chocolate, High Protein With DHA",₹1150,₹1150,Groviva,750 g - (2 Units x 375 g each)
+261,Swing Juicier Drink - Slurpy Mango,₹60,₹60,Paper Boat,6x150 ml - Multipack
+262,Instant Tea - Premix With Ginger,₹140,₹140,Girnar,10 pcs 
+263,Mixed Fruit Cold Pressed Juice - 100% Natural,₹427.8,₹500,Raw Pressery,2x1 L - Multipack
+264,This Cappuccino 3 In 1 Premix Instant Coffee,₹112.5,₹125,Continental,22 g - (Buy 5 Get 1 Free )
+265,Fruit Juice - Masala Mixed Fruit,₹137.2,₹280,Real,2 x 1 L - Multipack
+266,Tulsi Green Tea Ashwagandha - Stress Relieving & Refreshing,₹206.4,₹215,Organic India,50 g - (25 Teabags x 2 g Each)
+267,"Instant Premix Tea - 3 In 1 Combo Pack With Masala,Ginger & Elaichi",₹150,₹160,Wagh Bakri,168 g - (12 Sachets x 14g Each)
+268,"Zero Lemon Lime Sparkling Water - Carbonated Water, Sugar Free, No Calories",₹180,₹180,Paper Boat,3 x 600 ml - (Multipack)
+269,"Elaichi Tea - Cardamom Flavoured, Assam Blend, Staple-Free, Environment Friendly Bags",₹279,₹310,Tetley,100 g - (50 Bags x 2 g each)
+270,Original Sauerkraut,₹340,₹340,Bombucha,450 g 
+271,"Yummy Guava Juice - Enriched With Vitamin D, No GMOs",₹120,₹120,Paperboat Swing,3x600 ml - Multipack
+272,"Royale Chocolate Nutritious Health Drink - Vitamin C & A Supports Kids Immune, Clinically Proven For 2X Faster Growth Formula",₹93,₹124,Complan,200 g - Jar
+273,"Fruit+ Beverage - Veggie,Orange & Carrot , No Added Sugar & Preservatives",₹284,₹320,Real Activ,2x1 L - Multipack
+274,"Deccan Gold - Premium Filter Coffee, 80:20 Blend",₹285,₹285,PRISTINE,500 g 
+275,Ultra Energy Drink - Zero Sugar,₹125,₹125,Monster,350 ml 
+276,Fine Aroma Instant Coffee,₹1235,₹1300,Davidoff,2 x 100 g - Multipack
+277,Soft Drink - Lemon,₹768,₹840,7 Up,24x250 ml - Multipack
+278,"Fruit Juice - Pink Guava, Rich In Vitamin C",₹164.15,₹250,Real,2 x 1 L - Multipack
+279,"Coffee - Chikamagalur Aroma Premium Fresh Filter Coffee, Using 100% German Machinery to Roast & Grind",₹159,₹159,Riseup,250 g 
+280,Mango Passion Kombucha,₹1014.9,₹1194,Dad's Hack,330mlx6 - Multipack
+281,Lil Champs Health Drink,₹682,₹682,Cadbury Bournvita,2 x 500 g - Multipack
+282,Diabetes Care Specialized Nutrition Drink - Chocolate Flavour,₹540,₹540,Ensure,200 g 
+283,"Instant Drink Mix - Orange, Multipack",₹500,₹500,Tang,2x750 g - Multipack
+284,"Filter Coffee Decoction - Chicory Blend, Roasted & Ground, Smooth, No Preservatives",₹51,₹60,Cothas Coffee,100 ml - (Pack of 5)
+285,"Instant Spiced Tea Mix - Rich Flavour & Aroma, Add Hot Water",₹393.6,₹480,Red Label,390 g - (30 Sachets x 13 g each)
+286,"Street Chai Of India - Mumbai Cutting Chai, Tasting Notes Of Ginger & Lemongrass",₹116,₹145,Tata Tea Premium,250 g 
+287,"Creamy Classic Nutritious Health Drink - Vitamin C & A Supports Kids Immune, Clinically Proven For 2X Faster Growth Formula",₹480.74,₹559,Complan,1 kg - Carton
+288,Ginger Ale - From The Makers Of Bailley,₹55,₹55,Bombay 99,250 ml - Can
+289,Jaljeera Refreshing Summer Drink,₹210,₹210,Paper Boat,6x200 ml - Multipack
+290,Cold Pressed Pomegranate Juice,₹125,₹169,Fresho Signature,250 ml 
+291,"Coffee - Udhayam, Blend of Coffee & Chicory",₹225,₹225,Narasus,500 g - Pouch
+292,Swing Juicier Drink - Tasty Apple,₹60,₹60,Paper Boat,6x150 ml - Multipack
+293,IQ+ Maternal Nutrition With DHA Health Drink - Vanilla Delight Flavour,₹565,₹565,SimMom,400 g 
+294,Hot Brew Coffee - Dark Roast (20 Bags x 15 g each),₹700,₹700,Sleepy Owl,300 g - Multipack
+295,"Kesar Badam Nutritious Health Drink - Vitamin C & A Supports Kids Immune, Clinically Proven For 2X Faster Growth Formula",₹339.45,₹365,Complan,500 g - Jar
+296,"Mother's Plus, Kesar",₹589,₹620,Horlicks,400 g 
+297,"Orange Juice - Rich In Fibre, Vitamin C & E, 100% Indian Fruit & 0% Concentrate, 1 litre",₹312,₹390,B Natural,1 L - (Pack of 3)
+298,"100% Fruit Juice - Nimbu Pani, No Added Sugar",₹182.4,₹240,Storia,6x200 ml - Multipack
+299,"Mixed Fruit Medley Juice - Enriched With Vitamin D, No GMOs",₹120,₹120,Paperboat Swing,3x600 ml - Multipack
+300,"Litchi Juice - Nata De Coco, Natural, Healthy Drink",₹30,₹30,ALPHA 8,200 ml 
+301,Assorted Tulsi Infusions With 4 Exotic Flavours,₹99,₹199,IndiSecrets,25.5 g 
+302,Fruit Juice - Masala Pomegranate,₹137.2,₹280,Real,2 x 1 L - Multipack
+303,Delight Fruit Juice - Cranberry,₹270,₹270,Tropicana,2x1 L - (Multipack)
+304,"Premium Instant Coffee - French Vanilla, Freeze Dried",₹495,₹495,Sleepy Owl,100 g 
+305,Wellnezz Jamun Juice,₹129,₹149,Real Activ,1 L 
+306,Aloe Vera and Amla Juice,₹800,₹1000,Kapiva,2x 1 L - Multipack
+307,Cuban Watermelon Mojito Kombucha - Probiotic,₹160,₹160,Borecha,330 ml 
+308,"Ginger Zing Tea - Flavoured, Assam Blend, Staple-Free, Environment Friendly Bags",₹3348,₹3720,Tetley,12x100 g - Multipack
+309,Zero Sucrose Health Drink Vanilla,₹775,₹775,Pediasure,400 g - Box
+310,Sicilian Lemon & Lime Kombucha - Probiotic,₹160,₹160,Borecha,330 ml 
+311,Rich Masala Tea,₹160,₹160,Taj Mahal,25 pcs 
+312,Tulsi Ginger Turmeric Tea - Stress Relieving & Harmonizing,₹187.2,₹195,Organic India,47.5 g - (25 Teabags x 1.9g each)
+313,"Zero Sugar Jamun Drink - Natural , No Preservatives, Vitamins, Minerals Rich, Low Carbs",₹55,₹55,Paper Boat,200 ml - Pouch
+314,"Instant Iced Tea - Rich In Vitamin C, Light & Refreshing, Lemon Flavour",₹190,₹200,Nestea,400 g - Pouch
+315,"Fruit Juice - Orange, Rich In Vitamin C",₹37.24,₹40,Real,2 x 180 ml - Multipack
+316,DiaFree Juice,₹1198,₹1198,Kapiva,2x 1 L - Multipack
+317,Health & Nutrition Drink - Chocolate,₹199,₹199,Chocolate Horlicks,400 g - Pouch
+318,Swing Juicier Drink - Pulpy Orange,₹60,₹60,Paper Boat,6x125 ml - Multipack
+319,Orange,₹20,₹20,Fanta,250 ml - Bottle
+320,"Nutrition & Health Drink - Improves Concentration & Memory, Pista Badam Flavour",₹604.07,₹670,Complan,2x500 g - Multipack
+321,"Karela Jamun Juice, 1 Litre - Ayurvedic Juice to Help Maintain Healthy Sugar Levels - 100% Natural - No Added Sugar",₹320,₹320,Sri Sri Tattva,1 L 
+322,High Protein Health Drink Vanilla,₹880,₹880,Ensure,400 g - Box
+323,"Badam Almond Drink Mix - Rich In Protein & Vitamins, No Artificial Flavours",₹127.2,₹159,Manna,200 g - Carton
+324,Intense Café Ready To Drink Coffee & Milk Beverage - Cappuccino Flavour,₹202.5,₹270,Nescafe ,6x180 ml - Multipack
+325,"Vedic Suraksha Green Tea - Immunity Booster, With The Goodness Of 5 Ayurvedic Herbs",₹516.04,₹679,Dabur,150 g - (100 Bags x 1.5 g each)
+326,Instant Energy Health Drink - Nimbu Pani,₹330.6,₹380,Glucon-D,1 kg - Refill
+327,Tea - Spicy Ginger,₹155,₹155,Taj Mahal,50 g - (25 Bags x 2 g each)
+328,Continental Speciale,₹100,₹200,Continental,50 g - Pouch
+329,Masters Blend Tea- Rich Taste,₹1118,₹1500,Emperia,2x1 kg - (Multipack)
+330,Pomegranate Mint Kombucha,₹1014.9,₹1194,Dad's Hack,330mlx6 - Multipack
+331,Drinking Chocolate Powder - Made From The Finest Cocoa Beans,₹65,₹70,Weikfield,100 g - Bottle
+332,Wheatgrass Juice - Helps Detoxify The Liver & Cleanses Digestive System,₹449.1,₹499,Kapiva,1 L 
+333,"Wholesome Child Nutrition For Growth & Development - Vanilla, High Protein With DHA",₹1250,₹1250,Groviva,750 g - (2 Units x 375 g each)
+334,"Ojasvita Chocolate Powder, 1Kg - Drink Mix for Sharp Mind & Healthy Body",₹580,₹580,Sri Sri Tattva,1 kg - Tin
+335,Classic Instant Coffee Pouch,₹816,₹1360,LEVISTA,2x100 g - Multipack
+336,Espresso 57 Intense Instant Coffee,₹1235,₹1300,Davidoff,2 x 100 g - Multipack
+337,Long Leaf Original Green Tea - Detoxifies Body,₹375,₹500,Tetley,500 g 
+338,"Goli Soda - Cola Masala, Refreshing Drink",₹59,₹59,JST SODA,220 ml - Bottle
+339,Syrup - Blue Curacao,₹955,₹955,Monin,700 ml - Bottle
+340,Fruit Power Juice - Alphonso Mango Nectar,₹196.98,₹300,Real,2 x 1 L - Multipack
+341,Soft Drink - Orange,₹792,₹840,Mirinda,24x250 ml - Multipack
+342,Aam Panna Mango Drink,₹80,₹80,Paper Boat,4x150 ml - Multipack
+343,Quick Filter,₹156,₹195,Tata Coffee,100 g - Tin
+344,10% Extra Strong Leaves - Special Blend Black Tea,₹335,₹335,Tata Tea Agni,1.5 kg - Pouch
+345,Apple Juice Based Drink,₹90,₹90,Appy Fizz,6 x 175 ml - (Multipack)
+346,Green Tea & Mint,₹314,₹314,Twinings,50 g - (25 Bags x 2 g each)
+347,Non-Alcoholic Beer Bottle - Malt Flavour,₹99,₹99,Barbican ,330 ml 
+348,"Swing Juicer Drink - Lush Lychee, Thick & Flavourful, Ready To Serve",₹20,₹20,Paperboat Swing,250 ml - Pouch
+349,Organic Tea - Tulsi Ginger & Turmeric,₹139,₹199,IndiSecrets,36 g - (20 Bags x 1.8 g each)
+350,"Mocktails - Mango Colada & Cream, Non-Alcoholic Beverage",₹60,₹60,&Stirred,250 ml 
+351,Fruit Juice - Masala Guava,₹137.2,₹280,Real,2 x 1 L - Multipack
+352,Instant Energy Health Drink - Regular,₹365.5,₹430,Glucon-D,2 x 1 kg - (Multipack)
+353,"100% Fruit Juice - Pomegranate/Anar, Rich In Vitamin C, No Added Sugar & No Preservatives",₹120.7,₹170,Storia,750 ml - Pet Bottle
+354,"Apple Carrot Beetroot Juice - Cold-Pressed, No Added Sugar, Preservative Free",₹560,₹750,Fresho Signature,5x250 ml - Multipack
+355,"Kaju Butterscotch Milkshake - With Zinc, Vitamin A & D Added, Supports Immunity",₹360,₹480,Cavins,2x1 L - Multipack
+356,Premium Leaf Tea,₹184,₹230,Tata Tea Chakra Gold,250 g 
+357,"Vedic Kadha Herbal Tea - Supports Immune Function, Rich In Vitamin C",₹390,₹600,Vahdam ,2 g - (50 Bags x 2 g Each)
+358,Get Slim Juice,₹840,₹840,Kapiva,2x 1 L - Multipack
+359,"Nutrition & Health Drink - Improves Concentration & Memory, Kesar Badam Flavour",₹644.84,₹700,Complan,2x500 g - Multipack
+360,"Non Alcoholic Premium Mixer - Mojito, Refreshing Flavour, Taste",₹161.5,₹190,Bacardi MIX'R,500 ml 
+361,English Breakfast Tea,₹899,₹899,Twinings,200 g - (100 Bags x 2 g each)
+362,English Breakfast Tea,₹195,₹195,Typhoo,50 g - (25 Bags x 2 g each)
+363,"Coffee - Instant, Insta Strong",₹109,₹109,Narasus,50 g - Pouch
+364,"Coffee - Dhivyam Premium, Coarse Ground Filter Coffee",₹264,₹264,Narasus,500 g - Pouch
+365,Royal Cup Tea,₹290,₹290,Girnar,500 g 
+366,"Wholesome Child Nutrition For Growth & Development - Strawberry, High Protein With DHA",₹680,₹680,Groviva,400 g 
+367,Syrup - Grenadine,₹895,₹895,Monin,700 ml - Bottle
+368,Assam Dust Tea,₹260,₹260,Tata Tea Agni,1 kg 
+369,"Mint Tonic Water - Natural Quinine, Balanced Botanical Mixer, Low Calories",₹190,₹190,Sepoy & Co.,2x200 ml - Multipack
+370,Instant Tea - Premix With Cardamom,₹140,₹140,Girnar,10 pcs 
+371,Tea - Camomile,₹335,₹335,Twinings,25 g - (25 Bags x 1 g each)
+372,"Vedic Green Tea - Detox Kahwa, 8 Real Ayurvedic Herbs & Rock Salt, Improves Digestion",₹206.25,₹275,Dabur,62.5 g - (25 Bags x 2.5 g Each)
+373,"Fruit Beverage - No Added Sugar, Low Calories, Ginger Lemon",₹180,₹180,Paper Boat,3x600 ml - Multipack
+374,Non Alcoholic Beer - Peach,₹465,₹534,Coolberg,6x330 ml - Multipack
+375,Fizzy Orange Goli Soda - Refreshing Taste,₹59,₹59,JST SODA,220 ml 
+376,"Fruit Juice - Mosambi, Rich In Vitamin C",₹227.36,₹260,Real,2 x 1 L - Multipack
+377,Soft Drink,₹22,₹25,Pepsi,250 ml - Can
+378,Ale Of Grapefruits - A Traditional Recipe,₹520,₹520,Gunsberg,330 ml - (Pack of 6)
+379,"Original Ginger Ale - Naturally Light , Botanical Mixer",₹190,₹190,Sepoy & Co.,2x200 ml - Multipack
+380,Premium Tea - Strong Flavour With Long Lasting Taste,₹620.5,₹730,Tata Tea Chakra Gold,1 kg - Pouch
+381,Green Tea - Lemon Zest,₹340,₹340,Lipton,2x25 pcs - Multipack
+382,"Go Grains Multigrain Instant Drink Mix - For Growth & Immunity, Chocolate Flavour",₹244.3,₹349,Manna,400 g 
+383,Neem Juice,₹300.14,₹349,Kapiva,1 L 
+384,Syrup - Lemon Tea With Natural Extracts,₹395,₹395,Monin,250 ml - Bottle
+385,"Pineapple Juice - Cold-Pressed, No Added Sugar, Preservative Free",₹475,₹645,Fresho Signature,5x250 ml - Multipack
+386,Tea - Fresh Lemon,₹160,₹160,Taj Mahal,50 g - (25 Bags x 2 g each)
+387,"Coffee - Insta Strong, Coffee Blended with Chicory",₹251,₹251,Narasus,100 g - Bottle
+388,Instant Tea Bag - Premix With Saffron,₹220,₹220,Girnar,10 pcs 
+389,Original Tulsi Tea,₹216,₹225,Organic India,100 g 
+390,Speciale Coffee,₹560,₹560,Continental,200 g - Jar
+391,Soft Drink - Orange Flavoured,₹222,₹240,Fanta,6x300 ml - Multipack
+392,Green Tea Immune With Added Vitamin C - Natural Mango,₹139.4,₹170,Tetley,37.5 g - (25 Bags x 1.5 g each)
+393,Kadak Masala Chai Tea Bag,₹229.08,₹249,TGL Co.,64 g - (16 Bags x 4 g each)
+394,"Wine - Red, De-Alcoholised, Selection",₹650,₹650,Carl Jung,750 ml 
+395,"Black Alkaline Drinking - Hydrating, Rich In Essential Minerals",₹60,₹60,evocus,250 ml 
+396,Pure Peppermint Tea,₹335,₹335,Twinings,50 g - (25 Bags x 2 g each)
+397,South Indian Filter Blend - Medium Dark Roast Ground,₹440,₹440,Blue Tokai,250 g 
+398,Noni Juice,₹1198.4,₹1498,Kapiva,2x 1 L - Multipack
+399,Non-Alcoholic Beer,₹540,₹540,Budweiser 0.0,6 x 330 ml - Multipack
+400,Organic Green Tea - Divine Tulsi,₹165,₹185,Eco Valley ,42.5 g - (25 Bags x 1.7 g)
+401,Green Tea - Tulsi Natura,₹299.2,₹340,Lipton,2x25 pcs - Multipack
+402,Bombay Cutting Chai Premium Chai Tea,₹539.1,₹599,TGL Co.,200 g - Pouch
+403,This Hazelnut 3 In 1 Premix Instant Coffee,₹112.5,₹125,Continental,22 g - (Buy 5 Get 1 Free)
+404,Ginger Lime Kombucha,₹1014.9,₹1194,Dad's Hack,330mlx6 - Multipack
+405,Flavoured Green Tea - Jasmine,₹79,₹159,Emperia,20 g - (10 Bags X 2 g Each)
+406,"Easy Pour Coffee - Nutty & Chocolatey, Medium-Dark Roast, Attikan Estate",₹250,₹250,Blue Tokai,55 g - (5 Sachets x 11 g each)
+407,Non Alcoholic Beer - Strawberry,₹411,₹474,Coolberg,6x330 ml - Multipack
+408,Flavoured Black Tea - Earl Grey,₹79,₹159,Emperia,20 g - (10 Bags x 2 g Each)
+409,Berry Basil Kombucha,₹1014.9,₹1194,Dad's Hack,330mlx6 - Multipack
+410,Classic Cold Coffee - Liquid Concentrate,₹375,₹500,Tata Coffee,400 ml - (20 Sachets x 20 ml)
+411,Green Tea Light & Delightful,₹165,₹165,Emperia,32.5 g - (25 Bags x 1.3 g Each)
+412,Sharbat-E-Azam,₹161.5,₹170,Dabur,750 ml 
+413,Tea - Origins Darjeeling,₹955,₹955,Twinings,200 g - (100 Bags x 2 g each)
+414,"Organic Japanese Matcha Tea Powder, Ceremonial Grade",₹551.08,₹599,TGL Co.,25 g - Bottle
+415,Amla Juice,₹280,₹280,Patanjali,2x1 L - Multipack
+416,"High Protein Drink - Vanilla, Protein+",₹1196,₹1300,Horlicks,2x400 g - Multipack
+417,"Classic Indian Premium Black Tea - Rich In Antioxidants, No Preservatives",₹699,₹699,BORN HILL,1 Kg - Pouch
+418,Green Tea - Pure & Light,₹340.4,₹370,Lipton,250 g 
+419,"Iced Tea - Peach, Refreshing & Flavourful, Instant Drink",₹135,₹150,Blue Bird,400 g 
+420,Syrup - Green Apple,₹695,₹695,Monin,700 ml - Bottle
+421,"Premium Sparkling Mixer - Mint Mojito, Carbonated Water",₹225,₹300,Schweppes,4x300 ml - Multipack
+422,Non Alcoholic Wine White,₹650,₹650,Carl Jung,700 ml 
+423,Swing Juicier Drink - Yummy Guava,₹60,₹60,Paper Boat,6x125 ml - Multipack
+424,"Mama Health & Nutritional Drink Mix - For Pregnant & Breastfeeding Mothers, Chocolate Flavour",₹550,₹610,Protinex ,400 g - Jar
+425,Club Soda - From The Makers Of Bailley,₹40,₹40,Bombay 99,250 ml - Can
+426,Fruit Juice - Aloe Vera Kiwi,₹194,₹240,Real,2 x 1 L - (Multipack)
+427,Aloe Vera Juice,₹538.2,₹598,Kapiva,2x1 L - Multipack
+428,Green Tea - Honey Lemon,₹155,₹155,Lipton,100 g 
+429,Gooseberry Unjunked Energy Drink,₹20,₹20,Open Secret,250 ml - Bottle
+430,"Coffee - Chikamagalur Aroma Pure Fresh Filter Coffee, Using 100% German Machinery to Roast & Grind",₹249,₹249,Riseup,250 g 
+431,Black Tea Natural Flavour Rich In Taste,₹164,₹200,Tata Tea Gold Saffron,250 g 
+432,"Ragi Malt - Rich In Protein & Calcium, Natural & Healthy",₹179.1,₹199,Manna,200 g - Carton
+433,Syrup - Triple Sec,₹955,₹955,Monin,700 ml - Bottle
+434,Clear & Light Green Tea,₹562.5,₹625,Lipton,1.3 g - (100 Bags x 1.3 g Each)
+435,Hot Brew Coffee - Original (20 Bags x 15 g each),₹700,₹700,Sleepy Owl,300 g - Multipack
+436,Karela Jamun Juice,₹798,₹798,Kapiva,2x 1 L - Multipack
+437,Roasted Flush Darjeeling Black Tea - With Strong Colour,₹449.25,₹599,Dorje,250 g 
+438,Fruit Power Juice - Peach,₹202,₹220,Real,2x1 L - Multipack
+439,"100% Fruit Juice - Guava Chilli, Rich In Vitamin C, No Added Sugar & No Preservatives, Good For Health",₹127.5,₹170,Storia,750 ml - Pet Bottle
+440,Coffee & Chicory - Madras Blend (Roast and Ground),₹48,₹60,Leo,100 g - Pouch
+441,"Organic Green Tea - Sunny Lemony, Grown In Nilgiris, Zero Calories, Rich In Antioxidants, Rich In Vitamin C",₹165,₹185,Eco Valley ,42.5 g - (25 Bags x 1.7 g)
+442,Tea - Kadak Care,₹249,₹335,Emperia,500 g 
+443,Aloe Vera Juice,₹280,₹280,Sri Sri Tattva,1 L 
+444,Detox Green Tea With Moroccan Mint & Tulsi,₹187,₹220,Roshi,42.5 g - (25 Bags x 1.7 g Each)
+445,Instant Coffee - Extra Strong,₹880,₹880,Narasus,1 Kg 
+446,"Non-Alcoholic Beer Bottle - Malt Beverage, Pomegranate Flavour",₹102,₹120,Barbican ,330 ml 
+447,Filter Coffee Powder,₹290,₹290,Bean Good,500 g 
+448,Green Tea - Honey Lemon,₹114,₹150,WaghBakri,37.5 g - (25 Bags x 1.5 g each)
+449,Rooibos Herbal Tea - Helps To Detox The System,₹750,₹750,Teamonk,2 g - (50 Bags x 2 g Each)
+450,Aamras Mango Fruit Juice,₹420,₹420,Paper Boat,1 L - (3x1L)
+451,Aloe Vera and Garcinia Juice,₹1138.1,₹1198,Kapiva,2 x 1 L - Multipack
+452,Instant Coffee - Strong,₹783.75,₹825,Continental,1 Kg - Pouch
+453,Honey Lemon Green Tea Bags,₹191.25,₹225,Vahdam ,30 g - (15 Pyramid Bags x 2 g each)
+454,Pure Japanese Matcha Green Tea Powder,₹374.25,₹499,Vahdam ,50 g 
+455,Vegan Protein Powder For Men & Women - Kesar Badam Flavour,₹566.4,₹960,Auric,36 g - (8 Sachets)
+456,"Organic Health Mix - Rich In Iron, Fibre, Protein, No Sugar, For Kids & Adults",₹399,₹399,TummyFriendly Foods,800 g 
+457,Water-based Electrolyte Drink,₹60,₹60,Alkalen,1000 ml 
+458,Tulsi Giloy Juice,₹300,₹400,Kapiva,1 L 
+459,Non-Alcoholic Wine - Billabong Red,₹700,₹700,Patritti,750 ml - Bottle
+460,"Energy Drink - Tropical Flavour, Yellow Edition",₹500,₹500,RED BULL ,4x250 ml - Multipack
+461,FRUTORS - Orange,₹39.9,₹42,Real,200 ml 
+462,"Hot Chocolate - Swiss Vanilla, Blend of Chocolate & Aromatic Cocoa",₹136,₹170,Cocosutra,100 g 
+463,"Activ Beetroot & Carrot Juice - Helps Gut Health, No Added Sugars & Preservative",₹210.11,₹320,Real,2 x 1 L - Multipack
+464,Amla Juice,₹807.3,₹897,Kapiva,3 x 1 L - Multipack
+465,Lemon Flavoured,₹360,₹360,Lipton Ice Tea,6 x 350 ml - (Multipack)
+466,Aam Panna Mango Drink,₹210,₹210,Paper Boat,6x200 ml - Multipack
+467,Namma Aathu Special Filter Coffee - Rich & Aromatic,₹157.5,₹175,Namma Aathu Coffee,250 g - Pouch
+468,"Moringa Juice - Powerhouse Of Nutrients, Rich In Vitamin C, Calcium & Blood Purifier",₹450,₹450,Sri Sri Tattva,1 L 
+469,"Masala Tea/Chai With Tulsi, Ginger, Cardamom - Rich Flavour, Immunity Booster",₹95,₹95,Saburi,250 g 
+470,GlucoPlus-C Instant Glucose - Juicy Orange Flavour,₹300,₹375,Dabur,1 kg - (Get Sipper Free)
+471,Crush - Black Currant,₹360,₹360,Mapro,1 L - Bottle
+472,"Mixed Veggies Juice - Rich In Calcium & Vitamins, Refreshing Drink",₹40,₹40,Arka,200 ml 
+473,"Filter Coffee - Special Ghee Roasted With 30% Chicory Blend, Refreshing, Aromatic",₹157.5,₹175,Fresh Coffee ToDay,250 g - Pouch
+474,Syrup - Strawberry,₹895,₹895,Monin,700 ml - Bottle
+475,Lemon Detox Green Tea Bag Make Brew Iced Tea or Hot Tea,₹321.08,₹349,TGL Co.,32 g - (16 Bags x 2 g each)
+476,"Street Chai Of India - Purani Dilli Ki Mithai Chai, Tasting Notes Of Pista, CardamomÂ & Condensed Milk",₹116,₹145,Tata Tea Premium,250 g 
+477,"Earthy Hazelnut Bold Instant Coffee - Arabica & Robusta Blend, Strong & Smooth",₹325,₹325,Country Bean,50 g - Bottle
+478,Ayush Kwath - Immunity Booster,₹176.64,₹184,Organic India,80 g - (25 Teabags x 3.2g each)
+479,First Flush Darjeeling Black Tea - With Intense Fruity Flavour,₹499.5,₹999,Dorje,250 g 
+480,Non Alcoholic Green Apple Beer - Refreshing Flavour,₹90,₹90,Budweiser 0.0,330 ml - Can
+481,Sugar Free Juice - Lemon Ginger Squash,₹363,₹363,Diabetics Dezire,700 ml 
+482,Lactogrow Nutritious Milk Drink For Growing Children - Immunity System Functioning & Growth,₹390,₹390,Nestle ,400 g - Bag-In-Box
+483,Flavoured Green Tea - Orange Spice,₹79,₹159,Emperia,20 g - (10 Bags X 2 g Each)
+484,Syrup - Peach Tea with Natural Tea Extracts,₹395,₹395,Monin,250 ml - Bottle
+485,Chamomile Mint Citrus Green Tea - Rich In Antioxidants & Helps Boost Immunity,₹390,₹600,Vahdam ,2 g - (50 Bags x 2g Each)
+486,Orange Kombucha - Probiotic,₹160,₹160,Borecha,330 ml 
+487,Earl Grey Tea,₹955,₹955,Twinings,200 g - (100 Bags x 2 g each)
+488,Mysore Special Filter Coffee - Refreshing & Aromatic,₹157.5,₹175,Mysore Coffee,250 g - Pouch
+489,Cranberry Flavoured Cooler - Ready To Serve Beverage,₹117,₹130,B Natural,1 L 
+490,Easy Pour Coffee Brew Bags Mixed Bag Light To Dark Roast,₹400,₹400,Blue Tokai,110 g - (10 Sachets x 11 g each)
+491,Silver Oak Medium Roast French Press Arabica Ground Coffee,₹470,₹470,Blue Tokai,250 g 
+492,"Juice - Tomato, Rich In Vitamin C",₹207.76,₹250,Real,2 x 1 L - Multipack
+493,"Golden Matcha Tea - Gourmet Green Tea, Antioxidant Rich",₹499,₹499,Sprig,50 g 
+494,Green Tea- Loose,₹210,₹210,Girnar,250 g 
+495,Tulsi Cinnamon Giloy Tea - Stress Relieving & Immunity Enhancing,₹187.2,₹195,Organic India,80 g - (25 Teabags x 2g each)
+496,"Fruit Juice - Fruitfun, Alphonso Mango",₹50,₹50,Rasna,20 g - Carton
+497,"Care Flavoured Tea - Brahmi, Ginger, Tulsi, Elaichi & Adhimadhuram",₹396,₹440,Tata Tea Chakra Gold,500 g 
+498,Cold Brew Coffee  - Assorted,₹575,₹575,Sleepy Owl,250 g - (5 Bags x 50 g each)
+499,"High Protein Berry Full Hearty Milk Mix - No Sugar, With Oats, Organic Jowar, Strawberry Powder",₹304.2,₹390,Timios,250 g - Box
+500,"Coffee - Chikamagalur Aroma Fresh Filter Coffee, Using 100% German Machinery to Roast & Grind",₹159,₹159,Riseup,250 g 
+501,"Guava Juice - Nata De Coco, Natural, Healthy Drink",₹30,₹30,ALPHA 8,200 ml 
+502,Instant Energy Health Drink Regular,₹220.5,₹245,Glucon-D,1 kg - (Get Tangy Orange 300 g Refill Free)
+503,"Sparkling Water - Green Apple, Carbonated Water, Zero Sugar/Calories",₹180,₹180,Paper Boat,3 x 600 ml - (Multipack)
+504,Lemon Juice With Natural Lemons,₹470,₹470,Keya,2 x 500 ml - (Multipack)
+505,Original Chai Tea Powder,₹186.75,₹249,Dorje,250 g 
+506,Apple Juice Based Drink,₹35,₹35,Appy Fizz,600 ml - Bottle
+507,Leaf Tea,₹155,₹155,Tata Tea Premium,200 g - (100 Bags x 2 g each)
+508,"Autumn Flush Darjeeling Black Tea - With Intense Flavour, Buttery Texture",₹349.5,₹699,Dorje,250 g 
+509,"Turmeric Spiced Herbal Tea - Supports Immune Function, Improves Energy",₹324.35,₹499,Vahdam ,2 g - (50 Bags x 2 g Each)
+510,"Blue Lagoon Iced Tea With Lemongrass, Butterfly Peaflower & Kaffir Lime",₹350,₹350,Karma Kettle,40 g - (20 Bags x 2 g each)
+511,"Plant Protein Powder - CafÃ© Mocha Flavour, For Women, Gut-Friendly Probiotics",₹2324.25,₹3099,Tata GoFit,1 kg - (40 Serves)
+512,Guava Juice With Aloe Vera,₹120,₹120,Alo Frut,1 L 
+513,"Ginger Mint Herbal Green Tea - Cleans The System, Improves Digestion",₹324.35,₹499,Vahdam ,2 g - (50 Bags x 2 g Each)
+514,"Creamy Vanilla Bold Instant Coffee - 100% Arabica, Rich, Strong & Smooth",₹325,₹325,Country Bean,50 g - Bottle
+515,Lemon Juice Concentrate,₹285,₹300,Urban Platter,700 ml - Plastic Bottle
+516,Coconut Water Powder - Natural & Healthy,₹15,₹15,COCO NIRVANAA ,15 g 
+517,"Black Tea - Lemon Twist, Zesty Flavour, Refreshing Taste",₹279,₹310,Tetley,100 g - (50 Bags x 2 g each)
+518,"Arabica Espresso Filter Coffee - Dark Roast & Ground, Rich Flavour & Aroma",₹299,₹299,Colombian Brew Coffee,250 g - Pouch
+519,Tonic Water - From The Makers Of Bailley,₹55,₹55,Bombay 99,250 ml - Can
+520,"Indian Tonic Water -  Natural Quinine, Balanced Botanical Mixer, Low Calories",₹95,₹95,Sepoy & Co.,200 ml 
+521,"High Protein Nuts & Turmeric Hearty Milk Mix - No Sugar, With Oats, Organic Jowar, Nut Blend Powder",₹312,₹400,Timios,250 g - Box
+522,"Cold Extracted Juice - Basics, Aloe Vera Lemonade",₹212.5,₹250,Raw Pressery,5x200 ml - Multipack
+523,"Instant Coffee Premix - With Chichory - Just Add Hot Water, Ready In 10 Sec",₹374,₹399,Jawai,500 g 
+524,"Juice - Fruit Power, Mosambi",₹106.4,₹120,Real,6x200 ml - Multipack
+525,"Coffee - Chikamagalur Aroma Platinum Filter Coffee, Using 100% German Machinary to Roast & Grind",₹240,₹240,Riseup,250 g 
+526,"Organic Tulsi Green Tea - Pomegranate, Stress Relieving",₹206.4,₹215,Organic India,50 g - (25 Bags x 2 g each)
+527,Tulsi  Green Tea - Classic,₹254.4,₹265,Organic India,100 g 
+528,Original Kombucha,₹260,₹260,Bombucha,500 ml - Bottle
+529,"Organic Green Tea - Dandelion Mint, Grown In Nilgiris, Zero Calories, All Natural, Rich In Antioxidant",₹165,₹185,Eco Valley ,42.5 g - (25 Bags x 1.7 g)
+530,Breakfast Fusion -  Blend of Arabica & Robusta Coffee Beans,₹180,₹200,TGL Co.,200 g 
+531,Kadak Masala Chai Instant Tea Premix Tea,₹367.08,₹399,TGL Co.,196 g - (14 Sachets x 14 g each)
+532,Pomegranate Delight,0,0,Tropicana,3x500 ml - Multipack

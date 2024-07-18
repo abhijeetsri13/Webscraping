@@ -1,0 +1,998 @@
+,Grocery_Name,Discount_Price,MRP_Price,Brand_Name,Quantity
+0,Premium Panchmewa Superfood Farmley Jar,₹415.2,₹519,Farmley,450 gm - Jar
+1,Atta/Godihittu - Whole Wheat,₹226.92,₹294,Aashirvaad,5 kg 
+2,Moong Chilka,₹158.65,₹167,AHAAR,500 g 
+3,Pure Ghee,₹1300,₹1300,Nandini,2 x 1 L - Multipack
+4,"Sona Masoori Raw Rice/Akki - Super Premium, 12 + Months Old",₹1638,₹1875,BB Royal,25 kg - (18 + Months Old)
+5,Unpolished Toor Dal/Arhar Dal,₹1249.6,₹1420,Tata Sampann,5 kg 
+6,Tur/Arhar Dal,₹153.9,₹162,AHAAR,500 g 
+7,Sona Masoori Raw Rice (12 + Months Old),₹1612,₹1820,BB Royal,26 kg - Bag
+8,Refined Sunflower Oil,₹354.78,₹390,Sunpure ,3 x 1 L - Multipack
+9,Chitra Rajma,₹119.7,₹133,AHAAR,500 g 
+10,Pooja Oil,₹113.23,₹180,Anandam,890 g 
+11,Sunlite Sunflower Refined Oil,₹330,₹375,Fortune ,3x910 g - Multipack
+12,Ghee,₹740,₹850,GRB,2 x 500 ml - Multipack
+13,Toor Dal/Togari Bele - Desi,₹207,₹250,BB Royal,1 kg - Pouch
+14,Kabuli Chana,₹117.18,₹126,AHAAR,500 g 
+15,Cumin/Jeera/Jeerige - Whole,₹743,₹1200,BB Royal,1 kg 
+16,Peanuts/Kadalekayi - Raw,₹179,₹230,BB Royal,1 kg - Pouch
+17,Cashew/Godambi - Whole,₹783,₹1500,BB Popular,1 kg 
+18,Urad Dal/Uddina Bele - Split,₹186,₹200,BB Popular,1 kg - Pouch
+19,Sooji Ordinary/Bombay Rava,₹265,₹325,BB Royal,5x1 kg - Multipack
+20,White Label Sugar,₹235.75,₹300,Parry's,5 Kg - Sulphur Free Process
+21,Salt/Uppu - Iodized,₹55,₹55,Tata Salt,2 kg 
+22,"Sugar - Pure & Hygienic, Fine Grain, Natural, Sulphur Free",₹52.04,₹65,Madhur,1 kg 
+23,Fried Gram/Huri Kadale,₹135,₹180,BB Royal,1 kg - Pouch
+24,Select Atta/Godihittu,₹286.88,₹326,Aashirvaad,5 kg - Pouch
+25,Toor/Arhar Dal 5 kg,₹1038,₹1200,BB Super Saver,5 kg 
+26,Oil - Gingelly,₹495,₹503,Idhayam,1 L - Pouch
+27,Refined - Sunflower Oil,₹343.2,₹420,Dhara ,3x1 L - Multipack
+28,Sugar,₹25,₹30,BB Popular,500 g 
+29,Peanuts/Kadalekayi - Raw,₹180,₹220,BB Popular,1 kg - Pouch
+30,"Almond/Badam - Californian, Giri",₹698,₹1200,BB Popular,2x500 g - Multipack
+31,Atta with Multigrains - High Fibre,₹562.8,₹670,Aashirvaad,10 kg 
+32,Moong Dal/Hesaru Bele,₹207.58,₹214,Tata Sampann,1 kg - Pouch
+33,Organic - Toor Dal/Togari Bele,₹1160,₹1200,BB Royal,5 kg 
+34,Refined Sugar (Sulphurless)/Sakkare,₹285,₹325,BB Royal,5 kg 
+35,Moong Dal/Hesaru Bele,₹156,₹190,BB Royal,1 kg - Pouch
+36,Organic - Almond/Badam,₹527,₹675,BB Royal,500 g 
+37,Chana Dal/Kadale Bele,₹55,₹68,BB Royal,500 g - Pouch
+38,Bullet Raw Rice,₹778,₹900,BB Royal,10 kg 
+39,Sona masoori Raw Rice ( 6 + Months  Old),₹1482,₹1700,BB Popular,26 kg - (6 + Months Old)
+40,Rice Bran Health Physically Refined Oil,₹339.9,₹390,Fortune ,3x1 L - Multipack
+41,"Urad Gota - Desi, Unpolished Mature Pulses For Easy Cooking & Rich Flavour",₹159,₹210,BB Royal,1 kg - Pouch
+42,Poha/Avalakki/Aval - Thick,₹66,₹100,BB Royal,1 kg - Pouch
+43,"Green Moong Whole - Desi, Unpolished Mature Pulses For Easy Cooking & Rich Flavour",₹63.46,₹90,BB Royal,500 g - Pouch
+44,Gold Refined Cooking oil | Blended Rice Bran & Sunflower oil | Helps Keeps Heart Healthy,₹156,₹180,Saffola,1 L - Pouch
+45,Sunlite - Refined Sunflower Oil,₹272.14,₹480,Fortune ,2 L - Pet Bottle
+46,Premium Kachi Ghani Pure Mustard Oil,₹31.98,₹43,Fortune ,200 ml - Pet Bottle
+47,Nakshatra Pooja Oil,₹86.88,₹105,Mr. Gold,500 ml 
+48,Olive Oil For Indian Cooking - Frying & Baking,₹639.25,₹950,BORGES,500 ml - Glass Bottle
+49,Urad Dal/Uddina Bele - Split,₹151,₹210,BB Royal,1 kg - Pouch
+50,Bansi Sooji/Kesari Rava,₹59,₹75,BB Royal,1 kg - Pouch
+51,Maida,₹225,₹325,BB Royal,5x1 kg - Multipack
+52,Amrit - Brown Sugar,₹90,₹100,Parry's,2x500 g - Multipack
+53,Organic - Kismis,₹372,₹599,BB Royal,1 kg 
+54,Surti Kolam - Rice (12 + Months Old),₹1921,₹2300,BB Royal,26 kg - (12 + Months Old)
+55,"Chilli - Byadagi, Stemless",₹216,₹240,BB Royal,200 g 
+56,Black Pepper/Kari Menasu,₹183,₹280,BB Popular,200 g - Pouch
+57,Organic - Cumin/Jeera/Jeerige,₹427,₹600,BB Royal,500 g 
+58,Filtered Groundnut Oil,₹207,₹207,Safal,1 L - pouch
+59,Powder - Asafoetida,₹883,₹883,LG,500 g - Jar
+60,Toor/Arhar Dal,₹951,₹1225,BB Popular,5 kg - Pouch
+61,Organic - Brown Sugar/Sakkare,₹147,₹225,BB Royal,2 kg 
+62,Urad Dal/Uddina Bele Whole White,₹217.28,₹224,Tata Sampann,1 Kg 
+63,Atta/Godihittu - Chakki Fresh,₹441.74,₹576,Pillsbury,10 kg - Pouch
+64,Coriander Seeds/Kottambari Beeja,₹130,₹250,BB Royal,500 g 
+65,Refined Sunflower - Oil,₹577.7,₹675,Sunpure ,5 L - Can
+66,Fine Besan/Kadale Hittu - 100% Chana Dal,₹134.1,₹149,Tata Sampann,1 kg 
+67,Dosa Rice/Akki,₹257,₹275,Super Saver,5 kg 
+68,Unpolished Chana Dal,₹129,₹154,Tata Sampann,1 kg - Pouch
+69,Walnut/Akhrot - Kernels,₹225,₹360,BB Popular,200 g - Pouch
+70,Superior-Mp-Sharbati-Atta/Godihittu - Fortified,₹515.64,₹650,BB Royal,10 kg - Pouch
+71,Rice Flour,₹49,₹60,BB Royal,1 kg - Pouch
+72,"White Thick Poha - High In Fibre, For Breakfast & Evening Tea",₹180,₹212,Tata Sampann,2x1kg - Multipack
+73,Idli/Idly Rice,₹55,₹70,BB Royal,1 kg - Pouch
+74,Organic - Raw Peanuts,₹452,₹538,BB Royal,2x1 kg - Multipack
+75,Coconut Oil - 100% Pure,₹3996,₹4440,Parachute ,12x1 L - Multipack
+76,Cow Ghee/Tuppa,₹798,₹840,Aashirvaad Svasti,1 L - Pet Jar
+77,"Refined Sunflower Oil - Trans Fat Free, Healthy Cooking Oil",₹107.86,₹128,Fiona ,1 L - Pouch
+78,Kabuli Chana/Kabuli Kadale,₹185,₹240,BB Popular,1 kg - Pouch
+79,Masala - Puliogare Powder,₹122,₹135,MTR,200 g - Pouch
+80,Amrit Powdered Jaggery,₹80,₹110,Parry's,2x500 g - Multipack
+81,Tamarind/Hunisehannu/Imli Seedless Cake,₹232,₹400,BB Royal,1 kg 
+82,Sona Masoori Raw Rice/Akki,₹258.5,₹275,Super Saver,5 kg 
+83,Tasty Refined Cooking oil | Blended Rice bran & Corn oil | Pro Fitness Conscious,₹138,₹150,Saffola,1 L - Pouch
+84,Oil - Groundnut,₹179.56,₹210,Freedom,1 L 
+85,"Gold - Refined Cooking Oil, Blend Of Rice Bran & Sunflower Oil, Helps Keeps Heart Healthy",₹499,₹675,Saffola,3 L - Jar
+86,Cashew/Kaju - Whole,₹754,₹1000,Super Saver,1 kg 
+87,Iodised Crystal Salt,₹44,₹44,Tata Salt,2x1kg - Multipack
+88,Chiroti/Barik Sooji,₹56,₹65,BB Royal,1 kg - Pouch
+89,Mustard/Sasive/Rai - Small,₹86,₹150,BB Popular,500 g 
+90,Chilli - Guntur with Stem,₹255,₹350,BB Royal,500 g 
+91,Original Extra Virgin Olive Oil,₹1099,₹1400,BORGES,1 L - Pet Bottle
+92,Jaggery - Square,₹86,₹100,BB Royal,1 kg 
+93,Cow Ghee/Tuppa,₹798,₹840,Aashirvaad Svasti,1 L - Pet Jar
+94,Chana - Brown/Kadale Kaalu,₹24,₹35,BB Popular,200 g - Pouch
+95,Kurnool Sona Masoori Raw Rice  (12 + Months Old),₹295,₹350,BB Royal,5 kg - (12 + Months Old)
+96,Moong Dal/Hesaru Bele,₹138,₹190,BB Popular,1 kg - Pouch
+97,Cold Pressed Groundnut Cooking Oil - Cooks Indian Dishes,₹1056.99,₹1500,BB Royal Organic,3x1L - Multipack
+98,Gingelly Oil,₹353.92,₹375,Mr. Gold,1 L 
+99,Fenugreek/Methi/Menthya,₹32,₹60,BB Popular,200 g 
+100,Chana Dal/Kadale Bele,₹120,₹130,BB Popular,1 kg - Pouch
+101,Cold Pressed Sunflower Cooking Oil - Cooks Indian Dishes,₹1026.99,₹1350,BB Royal Organic,3x1L - Multipack
+102,New Rice/Akki - Sona Masoori,₹299,₹325,BB Popular,5 kg 
+103,Rice/Akki - Dosa,₹51,₹60,BB Royal,1 kg - Pouch
+104,Rice Flour,₹56.84,₹58,Vijay,1 kg 
+105,Organic - Cardamom Green/Elakki,₹444,₹449,BB Royal,100 g 
+106,Unpolished Green Moong Dal - Whole,₹192.06,₹198,Tata Sampann,2 x 500 g - Multipack
+107,Coconut Oil,₹125.34,₹145,Kpl Shudhi,500 ml - Pouch
+108,Urad Gota/Whole,₹302,₹380,BB Super Saver,2 kg 
+109,"Organic - Moong Dal/Hesaru Bele, Unpolished",₹354,₹449,BB Royal,2 kg 
+110,Idli/Idly Rice,₹507,₹600,Super Saver,10 kg 
+111,Organic Jaggery/Bella Powder,₹56,₹95,BB Royal,500 g - Jar
+112,Oil - Groundnut,₹219.78,₹250,Dhara ,1 L - Pouch
+113,Himalayan Pink Rock Salt/Uppu Powder,₹87,₹110,GoodDiet,1 kg 
+114,Anjeer/Figs/Atti Hannu,₹656,₹1250,BB Popular,500 g 
+115,Refined Oil - Sunflower,₹114,₹139,Freedom,1 L - Pouch
+116,Pureit Refined Sunflower Oil,₹549,₹700,Gemini,5 l - Jar
+117,Salt/Uppu - Crystal,₹18.27,₹26,AKAR,1 kg - Pouch
+118,Phool Makhana,₹95,₹120,BB Popular,100 g - Pouch
+119,Raisins/Ona Drakshi - Indian,₹279,₹500,BB Popular,1 kg - Pouch
+120,Fennel/Saunf/Sompu - Big,₹57,₹80,BB Popular,100 g 
+121,Ghee/Tuppa,₹3130,₹3130,Amul,5 L 
+122,Mustard/Sasive/Rai - Small,₹38,₹60,BB Royal,200 g 
+123,Phool Makhana,₹247,₹300,BB Royal,200 g 
+124,Superlite Advanced Oil - Sunflower,₹479.22,₹489,Sundrop,3 L - Can
+125,Basmati Rice/Basmati Akki - Dubar,₹133,₹164,India Gate,1 kg - Pouch
+126,Salt/Uppu - Iodised,₹16,₹25,Aashirvaad,1 kg - Pouch
+127,Maida,₹22,₹31,BB Super Saver,500 g 
+128,Coconut Oil,₹147,₹265,Mr. Gold,1 L 
+129,Tamarind/Hunisehannu/Imli - Seedless,₹174,₹300,BB Popular,1 kg - Pouch
+130,Tamil Ponni Boiled - Rice,₹1678,₹1900,BB Royal,26 kg - Bag
+131,"Lite - 15% Low Sodium Iodised Salt, Helps Blood Pressure & For Healthy Lifestyle",₹47,₹50,Tata Salt,1 kg - Pouch
+132,Basmati Rice/Basmati Akki - Rozana Super 90,₹87.63,₹98,Daawat,1 kg 
+133,Organic - Sona Masoori Raw Rice,₹1534,₹2000,BB Royal,2x10 kg - Multipack
+134,HMT Kolam Rice/Akki,₹374,₹475,BB Royal,5 kg - (12 + Months Old)
+135,Mustard/Sasive/Rai - Big,₹162,₹300,BB Royal,1 kg 
+136,"Chilli - Guntur, Stemless",₹253,₹400,BB Royal,500 g 
+137,MTR Hingh Powder,₹72,₹90,MTR,50 gm 
+138,Cow Desi Ghee/Tuppa,₹1658,₹2600,Fresho Organic,2x1 L - (Multipack)
+139,Organic - Chana Brown/Kadale Kaalu,₹30,₹33,BB Royal,200 g 
+140,Rock Salt/Uppu,₹88.8,₹120,Tata Salt,1 kg - Pouch
+141,Dates/Kharjura - Deseeded,₹149,₹149,Lion,500 g - Cup
+142,Jeera/Jeerige - Whole,₹215.6,₹280,Catch,200 g 
+143,High Aroma Cow Ghee,₹1425.06,₹1450,Amul,2 x 1 L - Multipack
+144,Active - Pro Weight Watchers,₹363,₹480,Saffola,3x1 L - Multipack
+145,Pista Magaj - Plain Kernel,₹1334,₹1500,BB Royal,500 g 
+146,Kabuli Chana/Kabuli Kadale,₹299.86,₹319,Tata Sampann,1 kg - Pouch
+147,Lobia/Alasandee Kaalu - Red,₹29,₹30,BB Royal,200 g - Pouch
+148,"Organic - Mustard/Sasive/Rai, Small",₹20,₹21,BB Royal,100 g 
+149,Pure Ghee,₹1379,₹1600,Fresho,2x1 L - Multipack
+150,Sabudana - White Medium,₹130,₹150,BB Royal,1 kg - Pouch
+151,Til/Ellu - White,₹356,₹500,BB Royal,1 kg 
+152,Organic - Cinnamon/Chakke,₹39.35,₹61,BB Royal,50 g 
+153,Turmeric Powder/Arisina Pudi,₹153,₹180,Tata Sampann,500 g 
+154,Cumin/Jeera/Jeerige - Whole,₹360,₹500,BB Popular,500 g 
+155,Basmati Rice/Basmati Akki - Feast Rozzana,₹98,₹118,India Gate,1 kg - Pouch
+156,Hommade - Coconut Milk,₹203.06,₹225,Dabur,3x200 ml - Multipack
+157,Besan Fine/Kadale Hittu,₹93,₹150,BB Royal,1 kg - Pouch
+158,Powder - Tikhalal Chilly,₹660,₹660,Everest,1 kg - Pouch
+159,Jaggery - Bucket,₹65,₹100,BB Royal,900 g 
+160,Organic Kabuli Chana/Kabuli Kadale,₹249,₹270,BB Royal,1 kg 
+161,Horse Gram/Hurali Kaalu,₹33,₹36,BB Royal,200 g - Pouch
+162,Masoor Dal/Mysore Bele,₹28,₹37,BB Royal,200 g 
+163,Turmeric Powder,₹73,₹81,MTR,250 Gm 
+164,Jaggery/Bella - Kolhapuri,₹95,₹112,BB Royal,900 g 
+165,"Sona Masuri Raw Rice/Akki - 12 Months, Pesticide Free",₹430.5,₹525,Safe Harvest,5 kg 
+166,Atta - Chakki Fresh,₹60.36,₹74,Fortune ,1 kg 
+167,Ragi Flour/Ragi Hittu,₹54,₹90,BB Super Saver,1 kg 
+168,Organic - Methi/Menthya,₹19,₹21,BB Royal,100 g 
+169,Organic - Pumpkin Seeds/Kumbalakayi Bija,₹404,₹475,BB Royal,500 g 
+170,Ginger Garlic Paste,₹89.25,₹119,Mother's Recipe,500 g 
+171,Tasty - Pro Fitness Conscious Edible Oil,₹414,₹450,Saffola,3X1 L - Multipack
+172,"Almond/Badam - Californian, Giri",₹669,₹1000,Super Saver,1 kg 
+173,"Poha/Avalakki - Extra Thick, Mota",₹70,₹100,BB Royal,1 kg 
+174,Organic Whole Wheat Atta,₹65,₹75,Aashirvaad,1 kg 
+175,Basmati Rice/Basmati Akki - Classic,₹222.72,₹235,India Gate,1 kg - Pouch
+176,Organic - Black Pepper/Kali Mirchi,₹400,₹500,BB Royal,2x200 g - Multipack
+177,Chilli Powder,₹175,₹250,Aashirvaad,500 g 
+178,Masala - Sambar Powder,₹114,₹130,MTR,200 g - Pouch
+179,Idli Rava,₹56.84,₹58,Vijay,1 kg 
+180,Oil - Mantra GroundNut,₹246,₹246,Idhayam,1 L - Pouch
+181,Green Peas,₹35,₹70,BB Royal,200 g - Pouch
+182,Organic Cow Ghee/Tuppa,₹750,₹750,AKSHAYAKALPA,490 ml 
+183,Idli Sooji/Rava,₹47,₹60,BB Royal,1 kg - Pouch
+184,Coconad - Pure Coconut Oil,₹175.75,₹185,Klf ,1 L 
+185,Organic - Maida,₹116,₹170,BB Royal,2x1 kg - (Multipack)
+186,Coriander Powder,₹131.75,₹155,Tata Sampann,500 g 
+187,Rice/Akki - Jeera,₹114.07,₹135,India Gate,1 kg 
+188,Mustard Oil,₹145,₹145,Patanjali,1 L - Bottle
+189,Sundrop Super Lite Advanced - Sunflower Oil Pouch,₹180,₹180,Sundrop,1 L - Pouch
+190,Roasted Sooji/Rava,₹30,₹40,BB Royal,500 g - Pouch
+191,Basmati Rice - Rozana Premium,₹874.95,₹1150,BB Royal,2x5 Kg - Multipack
+192,Organic - Chia Seeds,₹99,₹205,BB Royal,200 g 
+193,Khus Khus/Posta Dana,₹1197,₹2000,BB Royal,500 g 
+194,Basmati Rice/Basmati Akki - Biryani,₹1011.16,₹1170,Daawat,5 kg - Bag
+195,"Masoor Dal/Mysore Bele - Whole, Unpolished",₹154.23,₹159,Tata Sampann,1 kg - Pouch
+196,Rice Bran Health Physically Refined Oil,₹708.4,₹775,Fortune ,5 L - Jar
+197,Ragi Flour,₹66.64,₹68,Vijay,1 kg 
+198,Rice Bran Oil - Physically Refined,₹219.76,₹290,Sunpure ,2 X 1 ltr - Multipack
+199,Cashew/Godambi - Broken,₹845,₹1200,BB Popular,1 kg 
+200,Medium Poha,₹86.24,₹88,Vijay,1 kg 
+201,Sooji/Bombay Rava,₹22,₹31,BB Super Saver,500 g 
+202,Wheat Dalia/Lapsi rava,₹55,₹80,BB Royal,1 kg - Pouch
+203,Organic - Sugar/Sakkare,₹60,₹110,BB Royal,1 kg 
+204,Green Moong//Hesaru Kaalu - Whole,₹140,₹160,BB Super Saver,1 kg 
+205,Masoor Dal/Mysore Bele,₹519,₹750,BB Popular,5 kg 
+206,Organic - Byadagi Chilli Whole,₹194,₹199,BB Royal,200 g 
+207,Black Raisins/Ona Drakshi - Seedless,₹92,₹120,BB Royal,200 g - Pouch
+208,Organic - Cashew/Godambi Whole Bold,₹1162,₹1499,BB Royal,1 kg 
+209,Basmati Rice/Basmati Akki - Rozana Gold,₹429,₹560,Daawat,5 kg - Pouch
+210,Lobia/Alasandee Kaalu - White,₹59,₹80,BB Royal,500 g - Pouch
+211,Fried Gram - Whole/Huri Kadale,₹159,₹180,BB Royal,1 kg 
+212,Masala - Bisibelebath Powder,₹65,₹80,MTR,100 g - Pouch
+213,Oil - Groundnut,₹1106.95,₹1275,Dhara ,5 L - Can
+214,Chakki-Fresh-Wheat-Atta/Godihittu - Fortified,₹418.42,₹550,BB Royal,10 kg 
+215,Wheat - Sharbati,₹59,₹70,BB Royal,1 kg - Pouch
+216,Ponni Raw Rice  (12 + Months Old),₹325,₹350,BB Royal,5 kg - Pouch
+217,Filtered Groundnut Oil,₹204.95,₹240,Mr. Gold,1 L - Pouch
+218,"100% Natural & Pure Groundnut Oil - Unrefined, Cold-Pressed",₹1662.5,₹1750,Nature Way,5 L 
+219,Palakkad Red Matta Boiled Rice - Unda,₹1596,₹1820,BB Royal,26 kg - Bag
+220,Thick Poha,₹83.3,₹85,Vijay,1 kg 
+221,"Cow's Pure Ghee - Source Of Calcium, Boosts Overall Health",₹3575,₹3575,Sri Sri Tattva,5 L - Tin
+222,Multigrain Atta - Fortified,₹570.63,₹660,BB Royal,2x5 kg - Multipack
+223,Double Roasted Rava,₹110,₹110,Double Horse,1 kg 
+224,Besan/Kadale Hittu,₹45,₹60,BB Super Saver,500 g 
+225,"Organic - Foxtail Millet / Italian, Thinai Rice",₹62,₹72,BB Royal,500 g 
+226,Organic Walnut/Akrodu Kernels,₹860,₹1099,BB Royal,500 g 
+227,Whole Wheat Atta,₹651.9,₹930,24 Mantra Organic,3x5 kg - Multipack
+228,Rajma/Capparadavare - White/Chitra,₹47,₹55,BB Royal,200 g - Pouch
+229,"Pistachios - Roasted & Salted, Premium Californian",₹699.16,₹790,Happilo,2x200 g - Multipack
+230,Ponni Raw Rice - Super Premium,₹1638,₹1950,BB Royal,26 kg - (18 + Months  Old)
+231,Cashew/Godambi - Split,₹466,₹900,BB Royal,500 g 
+232,Refined Oil - Rice Bran,₹112.02,₹140,Mr. Gold,1 L - Pouch
+233,Bombay Sooji,₹68.6,₹70,Vijay,1 kg 
+234,Chilli Powder,₹145,₹170,MTR,250 Gm 
+235,Jaggery/Bella Powder/Nattu Sakkarai,₹44,₹60,BB Royal,500 g 
+236,Gold Palmolein Oil,₹95,₹125,RUCHI,870 g - Pouch
+237,Organic - Little Millet/Samai Rice,₹278,₹349,BB Royal,2 kg 
+238,Organic Ragi Flour,₹314.1,₹349,BB Royal,5 Kg 
+239,Super Saver Palakkad Red Matta Boiled Rice,₹598,₹650,Super Saver,10 kg 
+240,"Walnuts - Kernels, Premium 100% Natural Kashmiri",₹773.5,₹910,Happilo,2x200 g - Multipack
+241,Organic - Cloves/Lavanga,₹46,₹49,BB Royal,20 g 
+242,Mixed Dry fruits,₹567,₹750,BB Royal,500 g - Pouch
+243,Organic - Rice Flour,₹126,₹198,BB Royal,2x1 kg - Multipack
+244,Tilnad Sesame Oil,₹422.52,₹430,Klf ,1 L 
+245,Vadi Matta Rice,₹379,₹480,Double Horse,5 kg - Bag
+246,"Kashmiri Chilli Powder - Perfect Colour, Smell & Taste",₹330,₹540,Eastern,2x250 g - Multipack
+247,Powder - Green Coriander,₹200,₹200,Everest,500 g - Pouch
+248,"Rice/Akki - Steam, Sona Masoori",₹59,₹70,BB Popular,1 kg - Pouch
+249,Soya - Mini Chunk,₹57,₹60,Nutrela,200 g - 0
+250,Unpolished Urad Dal - Split,₹217.28,₹224,Tata Sampann,1 kg 
+251,Organic - Urad Whole Gota Unpolished,₹724.5,₹805,BB Royal,5 kg 
+252,Refined Oil - Groundnut,₹220,₹220,Safal,1 L - Pouch
+253,Idli/Idly Rice,₹526,₹650,BB Popular,10 kg 
+254,Masala - Rasam Powder,₹119,₹135,MTR,200 g - Pouch
+255,100% Natural Premium Californian Almonds - Value Pack,₹966.6,₹1350,Happilo,1 kg 
+256,Basmati Rice - Super,₹138.86,₹220,Daawat,1 kg - Pouch
+257,GTS Original Vada Colam Raw Rice,₹877.5,₹1080,Bullet,10 kg 
+258,"Pink Salt - With 100% Natural Sendha Salt, For Everyday Cooking, Iodised Rock Salt",₹72,₹80,Tata Salt,1 kg - Pouch
+259,Dates/Kharjura,₹170,₹170,Lion,500 g - Buy 1 Get 1 Free
+260,Organic - Channa Dal Unpolished,₹65,₹77,BB Royal,500 g 
+261,Organic - Brown Rice,₹798,₹960,BB Royal,2x5 kg - Multipack
+262,Ponni Boiled Rice,₹1386,₹1800,BB Popular,26 kg - Bag
+263,Pure Cow Ghee,₹1450,₹1450,Gowardhan,2 x 1 L - Multipack
+264,Rice Flour/Akki Hittu,₹22,₹28,BB Super Saver,500 g 
+265,Tur/Arhar Dal,₹510.4,₹580,24 Mantra Organic,2x1 kg - Multipack
+266,Refined Palmolein Oil - Imported,₹93.79,₹101,Palmpure,1 L 
+267,Asafoetida - Powder,₹310,₹310,Ssp,10 g - Jar
+268,"Masala-Ae-Magic - Seasoning With Aromatic Roasted Spices, Enhances Flavour",₹51,₹60,MAGGI ,6 g - (Pack of 12)
+269,Masala - Garam,₹200,₹200,Everest,200 g 
+270,Cow Ghee/Tuppa,₹2925,₹2925,Patanjali,5 L 
+271,Sugar Release Control Atta/Godihittu,₹338.8,₹385,Aashirvaad,5 kg 
+272,Kabuli Chana/Kabuli Kadale,₹207,₹230,BB Super Saver,1 kg 
+273,Organic - Idly/Idli Rice,₹680,₹838,BB Royal,2x5 kg - Multipack
+274,Rajma/Capparadavare - Kashmiri,₹39,₹40,BB Royal,200 g - Pouch
+275,Sugar,₹309.6,₹435,24 Mantra Organic,3x1 kg - Multipack
+276,Sonamasuri Rice,₹1203.6,₹1770,24 Mantra Organic,3x5 kg - Multipack
+277,Organic - Jowar Flour,₹162,₹190,BB Royal,2x1 kg - Multipack
+278,"100% Pure Premium Cashews Whole - Premium Quality Kaju, Rich In Protein, Magnesium, & Phosphorus, Premium Nuts & Dry Fruits|",₹1100.85,₹1170,Tata Sampann,1 kg - Pouch
+279,Walnut/Akhrot- Kernels,₹307,₹400,BB Royal,200 g - Vacuum Packed
+280,Schezwan Fried Rice Masala,₹100,₹100,Chings,10 x 20 g - Multipack
+281,Refined - Sunflower Oil,₹577.5,₹725,Dhara ,5 L - Can
+282,Coriander Seeds/Kottambari Beeja,₹49,₹80,BB Popular,200 g 
+283,Til/Ellu - Black,₹77,₹100,BB Royal,200 g 
+284,Chilli Powder/Menasina Pudi,₹277.2,₹360,Tata Sampann,500 g 
+285,Himalayan Pink Rock Salt/Uppu - Crystal,₹99,₹110,GoodDiet,1 kg 
+286,Coconut Milk - UHT Natural,₹320,₹320,Kara,4x200 ml - Multi Pack
+287,Powder - Kashmirilal,₹255,₹255,Everest,200 g 
+288,Anjeer/Figs/Atti Hannu,₹931,₹1500,BB Royal,500 g 
+289,Pure Cow Ghee,₹692,₹770,Gowardhan,2 x 500 ml - Multipack
+290,Gingelly Oil,₹379.71,₹415,Kpl Shudhi,1 L - Bottle
+291,"Double Roasted Suji Rava - Less Moisture, More Quantity, Made From MP Wheat",₹73.15,₹77,Aashirvaad,1 kg 
+292,White Peas/Bili Batani,₹118,₹180,BB Royal,1 kg - Pouch
+293,Ghee/Tuppa,₹375,₹450,Milky Mist,500 ml - Pet Jar
+294,"Multigrain Atta - 7 Grains, High Fibre Flour, High Protein Atta",₹580,₹734,Pillsbury,2 x 5 kg - Multipack
+295,Premium Natural Californian Almonds,₹421,₹550,Happilo,2x200 g - Multipack
+296,Iodized Crystal Salt/Uppu,₹19.8,₹22,Aashirvaad,1 kg 
+297,"Dry Dates/Kharjura - Chuwara, Kharik",₹44,₹80,BB Royal,100 g - Pouch
+298,Powder - Cumin,₹71.25,₹75,MTR,100 g - Pouch
+299,Cardamom/Elaichi - Green,₹228,₹250,BB Royal,50 g 
+300,Brown Chana,₹90,₹130,BB Super Saver,1 kg 
+301,Sona Masoori Steam Rice/Akki,₹62,₹70,Super Saver,1 kg 
+302,Active - Goodness Of Olive Oil,₹1217,₹1395,Oleev,5 L - Jar
+303,Rice Bran Oil Physically Refined,₹119.87,₹143,Freedom,1 L - Pouch
+304,Organic - Ragi Whole/Finger Millet,₹134,₹160,BB Royal,2x1 kg - Multipack
+305,"Cashew/Godambi - Whole,Standy Ziplock Pouch",₹864,₹2000,BB Royal,500 gm - (Pack of 500x2)
+306,"Almond/Badam - Californian, Giri Bold",₹1024,₹1500,BB Royal,1 kg - Pouch
+307,White Poha - Thin,₹55.86,₹57,Tata Sampann,500 g 
+308,Poppy Seed,₹618,₹618,JK,250 g 
+309,Chana Dal,₹54,₹63,BB Super Saver,500 g 
+310,Jeera/Gobind Bhog Rice/Akki,₹491,₹600,Super Saver,5 kg 
+311,Mustard/Sasive/Rai - Big,₹32,₹60,BB Popular,200 g 
+312,Palakkad Red Matta Boiled Rice - Vadi,₹373,₹400,BB Royal,5 kg - Pouch
+313,Organic - Bay Leaf/Lavangada Ele,₹11,₹13,BB Royal,20 g 
+314,Active Refined Cooking oil | Blended Rice Bran & SoyaBean oil | Pro Weight Watchers,₹649,₹805,Saffola,5 L - Jar
+315,Masala - Vangibath Powder,₹155,₹155,MTR,200 g - Pouch
+316,"Green Moong/Hesaru Kaalu - Split, Chilka",₹164,₹200,BB Royal,1 kg - Pouch
+317,"Extra Virgin Olive Oil- 100% Natural and Cold Extracted- Perfect for Salad, Paratha, Marinade - Imported from Spain",₹1473.99,₹1999,Figaro,1 L - Pet Bottle
+318,Organic Kodo Millet - Varagu Rice,₹70,₹79,BB Royal,500 g 
+319,Active Oil,₹730.12,₹747,Oleev,3x1 L - Multipack
+320,HMT Kolam Raw Rice/Akki,₹78,₹90,Super Saver,1 kg 
+321,Organic Tamarind/Hunisehannu,₹179,₹180,BB Royal,500 g 
+322,Cold Pressed Pure Mustard Oil,₹432.14,₹620,Dabur,2 x 1 L - Multipack
+323,Oil - Mustard (Kachi Ghani),₹142.06,₹170,Dhara ,1 L - Bottle
+324,Fennel/Saunf/Sompu - Small,₹62,₹80,BB Popular,100 g 
+325,Powder - Sambar,₹125.4,₹132,Sakthi,200 g - Pouch
+326,Poha/Avalakki/Aval/Chivda - Thin,₹77,₹80,BB Popular,1 kg 
+327,Organic - Poha,₹164,₹238,BB Royal,2x1 kg - Multipack
+328,Dal Powder/Paruppu Podi - Rich In Taste & Flavour,₹40,₹60,BB Royal,100 g 
+329,Chana - Kabuli/Kabuli Kadale,₹49,₹58,BB Royal,200 g - Pouch
+330,A2 Desi Cow Ghee,₹699,₹1500,Fresho Organic,500 ml 
+331,Dry Coconut/Gadi/Gola,₹207,₹250,BB Royal,500 g 
+332,Gold Low Calorie Sweetener,₹144,₹150,Sugar Free,100 g - Jar
+333,Turmeric Powder/Arisina Pudi,₹149.4,₹180,Aashirvaad,500 g 
+334,Organic Sona Masoori Semi Brown Rice/Akki - Handpounded,₹745,₹949,BB Royal,10 Kg 
+335,Ginger Garlic Paste,₹188,₹200,Smith & Jones,4 x200 g - Multipack
+336,Hommade - Tomato Puree,₹77,₹81,Dabur,3x200 g - Multipack
+337,Mustard Oil - Kachi Ghani,₹136.62,₹165,Dalda ,1 L - Bottle
+338,Plain Puffed Rice/Kadle Puri/Murmure,₹39,₹40,BB Royal,200 g - Pouch
+339,Coriander Powder,₹74,₹86,MTR,250 Gm 
+340,Organic - Barnyard Millet/Kudiraivali Rice,₹315,₹399,BB Royal,2 kg 
+341,"Organic - Urad Dal/Uddina Bele, White (Split), Unpolished",₹177.2,₹210,BB Royal,1 kg 
+342,Dates/Kharjura - Desert King,₹247,₹247,Lion,500 gm - Cup
+343,Ajwain/Om Kalu - Whole,₹45,₹50,BB Popular,100 g 
+344,Gingelly/Sesame Cooking Oil,₹459,₹600,BB Royal Organic,1 L - Spout Pack
+345,Ananas Flower/Ananas Huvu,₹159,₹200,BB Royal,100 g 
+346,Buffalo Ghee/Tuppa - Special Grade with Milk Fat,₹342.21,₹370,Heritage,500 ml - Pouch
+347,"Pista - California, Roasted & Salted",₹258,₹385,Super Saver,200 g 
+348,Organic - Turmeric Powder/Arisina Pudi,₹49,₹61,BB Royal,200 g 
+349,"Refined Sunflower Oil - with Vitamins A, D & E",₹125.4,₹144,Freedom,1 L - Bottle
+350,Coconut Powder - Desiccated,₹67,₹100,BB Royal,200 g 
+351,"Jaggery - Rich In Iron, Treats Anemia",₹73,₹90,Super Saver,1 kg 
+352,Jeera Powder,₹202.5,₹270,Catch,2x100 g - Multipack
+353,Organic - Kasuri Methi,₹129,₹129,BB Royal,200 g 
+354,Watermelon Seeds/Kallangadi Bija,₹119,₹160,BB Royal,100 g 
+355,Seeds - Flax,₹29,₹60,BB Royal,200 g 
+356,Fenugreek Seeds,₹49.2,₹56,24 Mantra Organic,2x100 g - Multipack
+357,Groundnut Oil,₹1262.1,₹1485,24 Mantra Organic,3x1 L - Multipack
+358,"Cashews - Whole, 100% Natural Premium",₹502.5,₹670,Happilo,2x200 g - Multipack
+359,Khus Khus/Posta Dana,₹214,₹350,Super Saver,100 g 
+360,Heart Oil - Vegetable,₹416.13,₹429,Sundrop,3 L - Jar
+361,Turmeric Powder/Arisina Pudi,₹180,₹180,Everest,500 g - Pouch
+362,Tamarind Paste,₹156,₹156,Mother's Recipe,3X200 g - Multipack
+363,Soya Chunks,₹25,₹55,BB Royal,200 g 
+364,GTS Original Vada Colum Raw Rice,₹2427.6,₹3240,Bullet,30 kg - Bag
+365,Green Pumpkin Seeds/Kumbalakayi Bija,₹81,₹100,BB Royal,100 g - Pouch
+366,Moong Dal,₹273,₹360,BB Super Saver,2 kg 
+367,Powder - Black Pepper,₹148,₹148,Everest,100 g - Carton
+368,"Refined Sunflower Oil - with Vitamins A, D & E",₹598,₹720,Freedom,5 L - Can
+369,"Cow Ghee - Intense Aroma & Flavour, Rich Texture, Immunity Booster",₹1384.74,₹1570,Aashirvaad Svasti,2x1 L - Multipack
+370,Pure Ghee,₹1240,₹1240,Amul,2 x 1 L - Multipack
+371,Masala - Garam,₹44,₹55,MTR,50 g - Pouch
+372,"Poppy Seed - Gluten Free, No Preservatives",₹377.37,₹860,Zoff,200 g 
+373,"Olive Oil- Pure Olive Oil-Daily Cooking Oil- Perfect for Indian Dishes- Curries, Gravy- Imported from Spain",₹1415.7,₹1670,Figaro,1 L - Tin
+374,"100% Pure California Almonds Whole - Premium Quality Badam Giri, Rich In Protein, Magnesium, Phosphorus, & Dietary Fibre, Premium Nuts & Dry Fruits",₹1078.39,₹1310,Tata Sampann,1 kg - Pouch
+375,Wheat - Whole,₹274,₹350,BB Royal,5 kg - Bag
+376,Oil - Primio Refined Groundnut,₹1275,₹1275,Rro,5 L - Can
+377,Green Moong Whole/Sabut,₹75,₹85,BB Popular,500 g - Pouch
+378,"Pista - Irani, Roasted & Salted",₹917,₹1250,BB Royal,500 g 
+379,Ponni Raw - Rice ( 6 + Months  Old),₹1482,₹1690,BB Popular,26 kg - (6 + Months Old)
+380,"Urad Balck, Whole - Desi, Unpolished Mature Pulses For Easy Cooking & Rich Flavour",₹31,₹40,BB Royal,200 g - Pouch
+381,Poha/Avalakki/Aval - Thick,₹64,₹80,BB Popular,1 kg - Pouch
+382,Bansi Sooji,₹63.7,₹65,Vijay,1 kg 
+383,Coconut Oil - Virgin (Cold Pressed),₹330,₹375,Maxcare,500 ml 
+384,Organic - Barley,₹149,₹150,BB Royal,1 kg 
+385,"Garam Masala - With Natural Oils, Crafted By Chef Sanjeev Kapoor",₹85.28,₹104,Tata Sampann,100 g 
+386,Chilli/Mirchi Powder,₹178,₹300,BB Royal,500 g 
+387,Seeds - Sunflower,₹82,₹100,BB Royal,200 g 
+388,Organic - Puffed Rice/Kadle Puri,₹42,₹45,BB Royal,200 g 
+389,Wheat Flour (Atta),₹300,₹375,Organic Tattva,5 kg - Pouch
+390,Urad Dal/Uddina Bele - Split,₹329,₹380,BB Super Saver,2 kg 
+391,Organic - Flax Seeds,₹34,₹50,BB Royal,200 g 
+392,Mustard Big,₹60.8,₹64,24 Mantra Organic,2x100 g - Multipack
+393,Cloves/Lavanga,₹39,₹40,BB Royal,20 g 
+394,"Organic - Green Moong/Hesaru Kaalu, Whole",₹153,₹179,BB Royal,1 kg 
+395,Popcorn Seeds,₹119,₹150,BB Royal,1 kg 
+396,Total Refined Cooking oil | Blended Rice Bran & Safflower oil | Helps Manage Cholesterol,₹899,₹1100,Saffola,5 L - Jar
+397,Masala - Spicy Sambar Powder,₹115,₹130,MTR,200 g 
+398,Organic - Puffed Rice/Kadle Puri,₹45,₹45,24 Mantra Organic,200 g - Pouch
+399,"Sambar Powder - 100% Natural, Spice Blend, No Preservatives",₹112,₹112,Eastern,250 g - Pouch
+400,Organic - Red Poha Medium,₹104,₹125,BB Royal,1 kg 
+401,Cardamom Green/Elakki,₹149,₹250,BB Popular,50 g - Pouch
+402,"Organic - Red Masoor Dal/Mysore Bele, Unpolished",₹285,₹349,BB Royal,2 kg 
+403,Organic Cashew/Godambi - Whole,₹449,₹750,BB Royal,500 g 
+404,Sugar - Low GI,₹196,₹280,BB Gooddiet,4x500 g - Multipack
+405,Corn Flour/ Starch,₹39,₹50,BB Royal,500 g - Pouch
+406,Jaggery Powder,₹204,₹240,24 Mantra Organic,3x500 g - Multipack
+407,Gingelly Oil - Tilnad 100% Pure,₹410.97,₹420,Klf ,1000 ml - Pouch
+408,Masoor Dal,₹204,₹280,BB Super Saver,2 kg - PP
+409,Ragi - Huri Hittu,₹75,₹75,Indira's,400 g - Pouch
+410,"Gold Atta - 100% MP Sharbati Wheat, 12-Hour Softness, High Fibre Atta",₹550,₹702,Pillsbury,2 x 5 kg - Multipack
+411,Bansi Sooji,₹54,₹70,Super Saver,1 kg 
+412,"Corn Starch Powder Cornflour - Gluten Free Product, Makes A Smooth Paste",₹90,₹90,Weikfield,500 g - Carton
+413,Organic Sunflower Seeds/Suryakanti Bija,₹100,₹130,BB Royal,200 g 
+414,Fennel/Saunf/Sompu - Small,₹83,₹90,BB Royal,100 g 
+415,"100% Premium Pistachios Roasted & Salted - Premium Quality Pista, Rich In Protein, Phosphorus, & Dietary Fibre, Premium Nuts & Dry Fruits",₹311.05,₹345,Tata Sampann,200 g - Pouch
+416,Pomace Olive Oil - For All Types Of Cooking,₹2411.89,₹3999,Oleev,5 L 
+417,Organic - Quinoa,₹598,₹699,BB Royal,2 kg 
+418,Bansi Rava - Made From Durum Wheat,₹62.7,₹66,Aashirvaad,1 kg 
+419,Saffola Total 1L- Pack of 3,₹507,₹600,Saffola,3 x 1 L - Multipack
+420,Organic Sona Masoori White Rice/Akki,₹763,₹949,BB Royal,10 kg 
+421,Basmati Rice/Basmati Akki - Rozana,₹96,₹130,Fortune ,1 kg - Pouch
+422,Samba Wheat Broken,₹115,₹115,Double Horse,500 g - Pouch
+423,Coriander/Dhania Powder,₹116,₹200,BB Royal,500 g 
+424,Cumin/Jeera - Whole,₹392,₹500,Super Saver,500 g 
+425,"Masoor Black, Whole",₹26,₹35,BB Royal,200 g - Pouch
+426,Oil - Mustard (Kachi Ghani),₹812,₹825,Dhara ,5 L - Can
+427,Hommade - Ginger Garlic Paste,₹82.8,₹100,Dabur,2x200 g - Multipack
+428,Organic Fried Gram/Huri Kadale,₹34,₹37,BB Royal,200 g 
+429,Cloves/Lavanga,₹162,₹180,BB Popular,100 g 
+430,Premium Diwali Gift Box,₹320,₹449,BB Royal,"300 g - (Almonds, Raisins, Cashews, Apricots, 75 g each)"
+431,Asafoetida - Crystal,₹260,₹260,Ssp,10 g - Jar
+432,Pure Desi Cow Ghee,₹149,₹205,Fresho,200 ml - Jar
+433,Tasty Refined Cooking oil | Blended Rice bran & Corn oil | Pro Fitness Conscious,₹729,₹755,Saffola,5 L - Jar
+434,Urad Gota/Whole,₹166,₹200,BB Popular,1 kg - Pouch
+435,"100% Pure Premium Raisins Seedless - Premium Quality Kishmish, Source Of Potassium, Premium Dry Fruits",₹90.85,₹103,Tata Sampann,200 g - Pouch
+436,Poha/Avalakki - Thick,₹61.75,₹80,Super Saver,1 kg 
+437,Organic - Red Chilli - Whole,₹282,₹399,BB Royal,500 g 
+438,"Refined Sunflower Oil - Trans Fat Free, Healthy Cooking Oil",₹566.72,₹666,Fiona ,5 L - Jar
+439,Mix Dal,₹126,₹240,BB Royal,1 kg - Pouch
+440,Powder - Sambar,₹39.95,₹47,Aachi,100 g - Pouch
+441,Pure Ghee,₹1270,₹1270,Amul,2 x 1 L - Multipack
+442,Gold - Pro Healthy Lifestyle Edible Oil,₹644,₹750,Saffola,2x2 L - Multipack
+443,Besan Flour,₹60.76,₹62,Vijay,500 g 
+444,Indian Raisins/Ona Drakshi,₹269,₹600,BB Royal,1 kg 
+445,Organic - Jaggery,₹180,₹218,BB Royal,2x800 g - Multipack
+446,Sabudana - White Small,₹133,₹150,BB Royal,1 kg - Pouch
+447,Unpolished Moong Dal Chilka,₹105.73,₹109,Tata Sampann,500 g - Pouch
+448,Kasuri Methi,₹71.76,₹92,Catch,2x50 g - Multipack
+449,Masala - Chat,₹148.52,₹158,Everest,200 g 
+450,Ponni Boiled - Rice,₹67,₹75,BB Royal,1 kg - (12 - 17 Months Old)
+451,"Xpert - Total Balance Oil, Blend Of Rice Bran, Soyabean & Flaxseeds, Rich In Omega 3",₹129,₹160,Fortune ,1 L - Pouch
+452,Kitchen King Masala,₹39.48,₹42,Everest,50 g - Carton
+453,Powder - Kutilal Red Chilli,₹68,₹68,Everest,100 g - Pouch
+454,"100% Natural & Pure Gingelly Oil - Unrefined, Cold-Pressed",₹437,₹460,Nature Way,1 L 
+455,Raw Rice/Akki - Kolam,₹359,₹400,BB Royal,5 kg - Bag
+456,Soya - Chunks,₹156.22,₹210,Nutrela,1 kg - 0
+457,Broken Rice,₹49,₹50,BB Royal,1 kg - Pouch
+458,Dates Syrup,₹378,₹378,Lion,1 kg 
+459,Basmati Rice/Basmati Akki - Brown (Quick Cooking),₹161.25,₹185,Daawat,1 kg - Jar
+460,Ginger Garlic Paste,₹75,₹100,Catch,2x200 g - Multipack
+461,Natural Jaggery/Bella Powder,₹159,₹159,Forgreen,1 kg 
+462,Sweet Care - Low GI Sugar,₹40,₹60,Parry's,500 g 
+463,White Puttu Podi,₹69,₹69,Double Horse,1 kg - Pouch
+464,Oil - Heart Pouch,₹600,₹600,Sundrop,3x1 L - Multipack
+465,Organic - Sooji/Rava,₹129,₹169,BB Royal,2 kg 
+466,Refined Oil - Sunflower,₹109.88,₹125,Mr. Gold,1 L - Pouch
+467,Powder - Chilly (Kashmiri),₹46.06,₹49,Mdh,50 g - Carton
+468,Olive Pomace Oil,₹1424.74,₹2699,Leonardo,3 L - Tin
+469,Olive Pomace Oil,₹359.61,₹399,Leonardo,500 ml - Bottle
+470,Moth/Patanga Huruli - Whole,₹74,₹100,BB Royal,500 g - Pouch
+471,Biryani Basmati Rice/Basmati Akki - Extra Long,₹731.09,₹910,BB Royal,5 kg - Pouch
+472,Organic Rajma/Capparadavare Chitra,₹216,₹240,BB Royal,1 kg 
+473,Jaggery/Bella - Cubes,₹60,₹80,BB Royal,400 g 
+474,Anjeer - Figs,₹246,₹400,Super Saver,200 g 
+475,Organic - Masoor Black Whole,₹147,₹189,BB Royal,1 kg 
+476,Powder - Cumin,₹127.84,₹136,Everest,100 g - Carton
+477,Cold Pressed Virgin Coconut Oil,₹408.03,₹469,Chekko,1 L 
+478,Green Peas/Matar,₹154,₹240,BB Super Saver,1 kg 
+479,Powder - Dry Mango,₹96,₹96,Everest,100 g - Carton
+480,Premium Dried Afghani Anjeer,₹871.2,₹990,Happilo,2x200 g - Multipack
+481,"Sunflower Oil - Cold Pressed, Zero Cholesterol, 100% Natural",₹1657.5,₹1950,Natureland Organics,5 l 
+482,Cashew/Godambi - Split,₹855,₹1500,BB Popular,1 kg 
+483,Basmati Rice/Basmati Akki - Mogra/Broken,₹361.85,₹415,India Gate,5 kg - Bag
+484,Organic Suji,₹48,₹60,Organic Tattva,500 g - Pouch
+485,Kachi Ghani Mustard Oil,₹143.75,₹160,Emami Healthy & Tasty,1 L - Bottle
+486,Cooking Soda,₹18,₹30,BB Royal,100 g 
+487,Surti Kolam Raw Rice/Akki,₹755,₹800,Super Saver,10 kg 
+488,Seeds - Sabja,₹99,₹160,BB Royal,200 g 
+489,Hing - Yellow,₹240,₹240,Everest,100 g - Bottle
+490,Super Garam Masala - Adds Flavour & Aroma,₹46.75,₹55,Catch,100 g - Pouch
+491,Akki Tari,₹56.84,₹58,Vijay,1 kg 
+492,Cardamom/Elaichi - Green,₹179,₹240,Super Saver,50 g 
+493,Asafoetida Cake,₹91,₹91,LG,50 g - Box
+494,Sesame/Till - White,₹31,₹40,Super Saver,100 g 
+495,Chicken Kabab Powder,₹150,₹150,Teju,500 g 
+496,Organic - Whole Wheat Atta,₹504,₹698,BB Royal,2x5 kg - Multipack
+497,Rajma/Capparadavare - Red,₹216,₹240,BB Royal,1 kg - Pouch
+498,Tamarind Concentrate,₹67.68,₹72,Indira's,150 g - 0
+499,Chhole Masala,₹78.96,₹84,Everest,100 g - Carton
+500,Masala Paste - Puliogare Paste,₹100,₹100,MTR,200 g - 0
+501,Refined Oil - Rice Bran (Natural Oryzanol & Vitamin E),₹363.12,₹480,Dhara ,3x1 L - Multipack
+502,Asafoetida - Special,₹442,₹442,Ssp,10 g - Jar
+503,S&J Pasta Masala,₹5,₹5,Smith & Jones,7g - Pouch
+504,Unpolished Kala Chana,₹111,₹149,Tata Sampann,1 kg - Pouch
+505,Groundnut,₹125.16,₹149,Safe Harvest,500 g 
+506,Chiroti/Barik Sooji,₹56,₹60,BB Super Saver,1 kg 
+507,Premium International Omani Dates,₹450.18,₹549,Happilo,680 g 
+508,Olive Oil - Extra Virgin,₹1230.84,₹2190,Disano,2x500 ml - Multipack
+509,Seeds - Chia,₹223,₹400,BB Royal,500 g 
+510,Rice Powder,₹84,₹84,Elite,1 kg - Pillow Pouch
+511,Sonamasuri Brown Rice,₹885,₹1180,24 Mantra Organic,2x5 kg - Multipack
+512,Red Chilli Powder/Menasina Pudi,₹225,₹300,Catch,500 g - Pouch
+513,Organic Cashew Split - 2 Pieces,₹115,₹160,BB Royal,100 g 
+514,"American Pistachios - Roasted & Salted, 100% Natural, Premium, No Additives",₹279.3,₹399,Grocery Farm,200 g 
+515,Basmati Rice/Basmati Akki - Biryani Special,₹763.98,₹1050,Fortune ,5 kg - Pouch
+516,"Groundnut Oil - Filtered, Rich In Antioxidants & Vitamins, Chemical Free",₹204.52,₹210,Sunpure ,1 L 
+517,Organic - Red Raw Rice/Akki,₹91,₹110,BB Royal,1 kg 
+518,"Organic Cow Ghee - Rich In Aroma, No Pesticide Residues & Antibiotics",₹652.5,₹725,Aashirvaad Svasti,500 ml - Jar
+519,Misri / Sugar/Sakkare Diamond,₹27,₹40,BB Royal,200 g 
+520,Organic - Dosa Rice,₹337,₹449,BB Royal,5 Kg 
+521,Super Saver Ponni Raw Rice,₹1458,₹1620,Super Saver,26 kg - Bag
+522,"Organic Misri - Whole, Sugar/Sakkare Candy",₹16,₹23,BB Royal,100 g 
+523,Brown Sugar/Sakkare,₹136,₹160,Organic Tattva,1 kg - Pouch
+524,Saffron/Kesar,₹208,₹400,BB Royal,1 g 
+525,Samba Wheat Broken - Fine,₹117,₹117,Double Horse,500 g - Pouch
+526,Gobind Bhog Rice,₹1977,₹2600,BB Royal,20 kg 
+527,Soya Bean,₹23,₹40,BB Royal,200 g - Pouch
+528,Raw Peanut,₹598.4,₹680,24 Mantra Organic,2x1 kg - Multipack
+529,"Chilli Flakes - Natural,Spicy Sprinkler For Pizza, Pasta, Snacks",₹9.5,₹10,SNAPIN,7 g 
+530,Organic - Ajwain/Om Kalu,₹261.25,₹275,BB Royal,500 g 
+531,Roasted Sooji - Pesticide Free,₹88.92,₹114,Safe Harvest,1 kg 
+532,Organic - Horse Gram/Hurali Kaalu,₹169,₹189,BB Royal,1 kg 
+533,"Oregano Pizza Seasoning - Italian Herbs Blend  Adds Flavour for Snacks, Marinades",₹9.5,₹10,SNAPIN,10 g 
+534,Organic Cinnamon/Chakke Bark,₹63,₹70,Pro Nature,50 g - Pouch
+535,Aval/Poha Red Thick,₹94,₹150,BB Royal,1 kg 
+536,Masala - Garam,₹33.15,₹39,Aachi,50 g - Pouch
+537,Organic - Jowar/Sorghum Millet,₹87,₹110,BB Royal,1 kg 
+538,Premium Diwali Gift Box,₹151,₹199,BB Royal,"150 g - (Almonds, Raisins, Cashews, 50 g each)"
+539,Masala - Tomato Rice Powder,₹21,₹25,MTR,50 g 
+540,Organic - Roasted Chana Dal/Kadale Bele,₹111.6,₹124,Pro Nature,500 g - Pouch
+541,Sona Masoori Boiled - Rice,₹48,₹75,BB Royal,1 kg - Pouch
+542,Barley/Jau,₹14,₹15,BB Royal,100 g - Pouch
+543,Arhar/Toor Dal,₹250.75,₹295,Organic Tattva,1 kg - Pouch
+544,Organic - Cardamom/Elaichi Black,₹48,₹59,BB Royal,20 g 
+545,Marathi Moggu,₹77,₹100,BB Royal,50 g 
+546,"Prasadam Makhana Fox Nuts - Big Size Phool Makhana, Rich In Protein, Indian Snacks",₹119.2,₹149,Farmley,100 g 
+547,Soya Health Refined Soyabean Oil,₹114,₹130,Fortune ,1 L - Pouch
+548,Secret Chowmein Hakka Noodles Masala,₹10,₹10,Chings,20 g 
+549,Black Pepper Powder,₹121,₹135,BB Royal,100 g 
+550,SuperLite Advanced - Sunflower Oil,₹1340,₹1340,Sundrop,5 L - Can
+551,Cumin/Jeera,₹459,₹510,24 Mantra Organic,3x100 g - Multipack
+552,Premium Seedless Green Raisins,₹280.5,₹330,Happilo,2x250 g - Multipack
+553,"Organic Sunflower Oil - Rich In Health Benefits, Cold Pressed",₹1710,₹1800,Phalada Pure & Sure,5 L 
+554,Shahjeera,₹101,₹120,BB Royal,100 g 
+555,Xpert Pro Immunity Oil - Blend Of Rice Bran & Sunflower Oil,₹119,₹150,Fortune ,1 L - Pouch
+556,"Big Fennel - Whole, Rich In Vitamin C & Antioxidants",₹58,₹90,Zoff,100 g 
+557,Turmeric - Sticks,₹39,₹40,BB Royal,100 g 
+558,Basmati Rice/Basmati Akki - Sehat Mini Mogra,₹549,₹620,Daawat,10 kg 
+559,Extra Light Olive Oil,₹672.14,₹1095,Disano,500 ml 
+560,100% Natural Premium Whole Cashews - Value Pack,₹992,₹1550,Happilo,1 kg 
+561,Chilli - Cherry/Gundu With Stem,₹315,₹500,BB Royal,500 g 
+562,Groundnut Oil,₹409.04,₹420,Sunpure ,2 X 1 ltr - Multipack
+563,Wheat Flour (Atta/Godihittu),₹392.26,₹475,Super Saver,10 kg - Pouch
+564,Organic Powder - Jaggery/Bella,₹72,₹90,Organic Tattva,500 g - Pouch
+565,"Walnut/Akhrot - Kernels, Quarters",₹211,₹300,Super Saver,200 g 
+566,Chana Sattu Refreshing Drink Powder,₹151.2,₹189,Manna,500 g 
+567,Bandhani Hing,₹50,₹50,Patanjali,25 g 
+568,Atta/Godihittu - Chakki Fresh,₹249.98,₹360,Vivatta,5 kg - Pouch
+569,Organic - Cashew/Godambi Broken,₹103,₹170,BB Royal,100 g 
+570,Ragi Flour,₹175.5,₹195,24 Mantra Organic,3x500 g - Multipack
+571,Lobia Dal - Black Eyes Peas,₹81,₹90,BB Royal,500 g - Pouch
+572,Double Roasted Rava,₹105,₹105,Elite,1 kg - Pillow Pouch
+573,100% Pure California Almonds/Badam - Whole,₹234.47,₹275,Tata Sampann,200 g 
+574,Ponni Boiled Rice - Super Premium,₹1732,₹2080,BB Royal,26 kg - Bag
+575,"Pure & Unrefined Cold Pressed Groundnut Oil - Naturally, Cholesterol Free, With A Real Rich Aroma & Flavour",₹400,₹500,Tata Simply Better,1 L 
+576,Sesame Oil,₹360,₹360,Patanjali,1 L - Bottle
+577,Mace/Javitri,₹194,₹250,BB Royal,50 g 
+578,Red Raw Rice/Akki,₹79,₹80,BB Popular,1 kg 
+579,"Pistachios - Roasted & Salted, Premium Iranian",₹655.7,₹790,Happilo,2x200 g - Multipack
+580,Bay Leaf/Lavangada Ele,₹9,₹10,BB Royal,20 g 
+581,Kalonji/Mangraila,₹24,₹40,BB Royal,50 g 
+582,Organic Dal - Green Moong Whole//Hesaru Kaalu,₹250,₹250,24 Mantra Organic,1 kg - Pouch
+583,Coconut Oil - Nirmal Cold Press Virgin,₹174.99,₹195,Klf ,250 ml - Bottle
+584,Masala - Chicken,₹182,₹182,Everest,200 g 
+585,Salted Puffed Rice/Kadle Puri/Murmure,₹57,₹80,BB Royal,500 g - Pouch
+586,"Bellar Dal/Avarekalu - Whole, Brown",₹52,₹60,BB Royal,200 g 
+587,Organic Chilli Powder/Menasina Pudi,₹223,₹275,BB Royal,500 g 
+588,Organic - Saunf/Sompu,₹160,₹165,BB Royal,200 g 
+589,"Tata Sampann Dry Fruits & Nuts Mix (Contains Almonds, Black Raisins, Cashews, Cranberries, Green raisins, and Pistachio kernels), 100% Premium Hand-picked Dry Fruits & Nuts, up to 20 Quality Parameters Tested",₹234.61,₹285,Tata Sampann,200 g 
+590,Raisins/Kishmish - Indian,₹145,₹225,Super Saver,500 g 
+591,"Chat Masala Powder - Sprinkler, Used As Seasoning",₹42.3,₹45,Catch,50 g - Can
+592,Coconut Powder - Desiccated,₹61,₹80,BB Popular,200 g 
+593,Coconad - Coconut Milk Powder,₹87.11,₹98,Klf ,100 g 
+594,Mustard Small,₹108.3,₹114,24 Mantra Organic,3x100 g - Multipack
+595,Powder - Chilli,₹91,₹135,Sakthi,200 g - Pouch
+596,Tamarind/Hunisehannu,₹63,₹63,Eastern,200 g 
+597,"Cumin Seeds - Highly Nutritious, Increase Appetite, Boosts Overall Health",₹120,₹120,Sri Sri Tattva,100 g 
+598,Organic Seeds - Black Mustard/Sasive,₹34,₹40,Organic Tattva,100 g - Pouch
+599,Sampann Unpolished Rajma/Capparadavare,₹120.28,₹124,Tata Sampann,500 g 
+600,Tur Dal,₹202.5,₹225,Safe Harvest,1 kg 
+601,Organic Khapli Wheat/Emmer Flour - 100% Natural,₹175,₹245,Jiwa,1 kg 
+602,Saunf/Sompu - Sweet,₹37,₹38,Top,100 g - Pouch
+603,Basmati Rice/Basmati Akki - Premium,₹598.54,₹700,BB Royal,5 kg 
+604,Powder - Pure Chilli,₹265.2,₹312,Aachi,500 g - Pouch
+605,"Extra Light Tasting Olive Oil- Deep Frying- Neutral Taste-Deep Fry, Shallow Fry -Italian",₹661.5,₹1000,Bertolli,500 ml - Bottle
+606,Basmati Rice/Basmati Akki - Pulav,₹696.25,₹820,Daawat,5 kg - Pouch
+607,Healthy Nutmix - Premium International,₹605.9,₹730,Happilo,2x200 g - Multipack
+608,Salt/Uppu - Free Flow,₹18.21,₹25,AKAR,1 kg - Pouch
+609,"Tata Salt Super Lite Iodized Salt - 30 % Less Sodium, 1 Kg (PACK OF 2)",₹120.9,₹130,bb Combo,2 x 1 Kg - Multipack
+610,Roasted & Salted Pumpkin Seeds,₹37.6,₹40,Cornitos,30 g - Pouch
+611,Chana Dal,₹264,₹300,24 Mantra Organic,3x500 g - Multipack
+612,Almond/Badam - Sonora,₹171,₹180,BB Royal,100 g - Pouch
+613,"Coriander/Dhaniya Powder - Exotic, Pure Spices, For Cooking",₹142.5,₹190,Catch,500 g - Pouch
+614,Cashew/Godambi - Broken,₹441,₹750,BB Royal,500 g - Pouch
+615,Olive Oil - Extra Virgin,₹1769.26,₹2200,Del Monte ,2x500 ml - Multipack
+616,Soya chunks,₹101.24,₹120,Fortune ,2x200 g - Multipack
+617,Sunflower Oil - Cold Pressed,₹219.6,₹244,Pro Nature,500 ml 
+618,Organic Toor Dal/Togari Bele,₹351.5,₹370,Tata Sampann,1 kg 
+619,Jowar Flour,₹189,₹210,24 Mantra Organic,3x500 g - Multipack
+620,Sundrop Super Lite Advanced - Sunflower Oil Pet,₹185,₹185,Sundrop,1 L - Bottle
+621,Masala - Chicken,₹25.5,₹30,Aachi,50 g - pouch
+622,Mustard Oil,₹140,₹140,Patanjali,1 L 
+623,Organic Maida,₹55.25,₹65,Organic Tattva,500 g - Pouch
+624,Organic Cold Pressed Coconut Oil,₹325,₹495,GoodDiet,500 ml 
+625,Refined Sunflower Oil,₹666.26,₹775,Emami Healthy & Tasty,5 L - Can
+626,"Organic - Urad Dal/Uddina Bele, Black (Split)",₹187,₹210,BB Royal,1 kg 
+627,Cooking Soda,₹82,₹82,Tata I Shakti,1 Kg - Pouch
+628,Sabu Dana,₹96,₹96,Dnv,500 g 
+629,"Sona Masoori - Premium, Light Weight & Aromatic",₹356.27,₹412,Daawat,5 kg 
+630,Rice Puttupodi,₹105,₹105,Elite,1 kg - Pillow Pouch
+631,Soya Chunks,₹150,₹200,Fortune ,1 kg - Pouch
+632,Masala - Lemon Rice Powder,₹21,₹25,MTR,50 g 
+633,Masala - Garam,₹84,₹84,Mdh,100 g - Carton
+634,"Basmati Rice/Basmati Akki - Royale, Authentic Biryani",₹690,₹1125,Kohinoor,5 kg 
+635,White Peas/Matar,₹106,₹160,BB Super Saver,1 kg 
+636,Dry Mango Powder,₹37,₹80,BB Royal,100 g 
+637,Sonamasuri Hand Pounded,₹523.6,₹595,Organic Tattva,5 kg - Pouch
+638,Besan/Kadale Hittu,₹55.46,₹80,Fortune ,500 g - Pouch
+639,"Magic Cube - Vegetarian Masala, Adds Flavour To A Variety Of Dishes",₹35,₹35,MAGGI ,40 g - (Pack of 10)
+640,Kashmiri Mirch Powder,₹212.5,₹250,Catch,2x100 g - Multipack
+641,"Coconut Milk Powder - Fresh Aroma, No Preservatives",₹125,₹125,MAGGI ,100 g - Carton
+642,Puffed Rice/Kadle Puri - Pesticide Free,₹106.4,₹112,Safe Harvest,500 g 
+643,"Sprouted Ragi Powder, 100% Natural Ragi/Nachni, No Sugar, No Salt, No Milk",₹837,₹900,Slurrp Farm,3x250 g - Multipack
+644,Saffron,₹340,₹340,Everest,1 g - Carton
+645,Roasted Chana Whole with skin,₹79,₹100,BB Royal,500 g - Pouch
+646,Urad Dal White Whole,₹409.2,₹465,24 Mantra Organic,3x500 g - Multipack
+647,Organic - Maize flour/Makka Atta,₹75,₹89,BB Royal,1 kg 
+648,Extra Virgin Olive Oil,₹1159,₹1799,La Espanola,1 L - Glass Bottle
+649,Unpolished Masoor Dal - Split,₹83.42,₹86,Tata Sampann,500 g 
+650,Unpolished Brown Rice/Akki,₹446.25,₹525,Safe Harvest,5 kg 
+651,Virgin Groundnut Oil,₹220,₹220,Patanjali,1 L - Pouch
+652,Satrangi Mix Mouth Freshener,₹54,₹80,BB Royal,100 g 
+653,Sprouted Ragi Flour/Ragi Hittu,₹231.2,₹289,Manna,1 kg 
+654,100% Natural & Pure Coconut Oil - Unrefined,₹292.5,₹325,Nature Way,1 L 
+655,Organic - Besan/Kadale Hittu,₹63,₹76,BB Royal,500 g 
+656,Organic Tur/Toor Dal/Togari Bele - Unpolished,₹453,₹559,BB Royal,2 kg 
+657,"Raisins/Ona Drakshi - Black, With Seeds",₹51,₹60,BB Royal,100 g - Pouch
+658,Poppy Seed,₹465.5,₹490,Dnv,200 g - Pouch
+659,Organic - Brown Top Millet,₹105.45,₹111,BB Royal,500 g 
+660,Hand Pound Rice/Akki,₹66,₹80,BB Royal,1 kg - Pouch
+661,Amla Dry Fruit,₹112.1,₹130,Fresho Signature,2x50 g - Multipack
+662,"Prunes - Dried & Pitted, Premium Californian",₹513.3,₹590,Happilo,2x200 g - Multipack
+663,Double Beans - White,₹79,₹80,BB Royal,200 g - Pouch
+664,Turmeric Powder/Arisina Pudi,₹247.5,₹330,Catch,1 Kg - Pouch
+665,Idli Sooji/Rava,₹89,₹110,BB Super Saver,2 kg 
+666,Fenugreek/Methi,₹17,₹20,Super Saver,100 g 
+667,Black Salt/Kala Namak - Powder,₹9,₹15,BB Royal,100 g 
+668,Organic - Bajra Atta,₹33,₹50,BB Royal,500 g 
+669,Basmati Rice - Pulav Premium,₹272.26,₹340,BB Royal,2x1 Kg - Multipack
+670,Coconut Milk Powder,₹640,₹640,Kpl Shudhi,1 kg - Pouch
+671,Dry Red Chilli - Whole,₹60.8,₹64,Dnv,100 g - Pouch
+672,Palakadan Unda Matta Rice,₹691.6,₹728,Double Horse,10 kg 
+673,Premium International Queen Kalmi Dates,₹339.15,₹450,Happilo,350 g 
+674,Natural Tomato Paste,₹139,₹139,Indira's,450 g 
+675,Jowar Whole,₹138,₹180,BB Royal,2 kg 
+676,Powder - Turmeric,₹138.55,₹163,Aachi,500 g - Pouch
+677,100% Pure Premium Walnuts,₹354.56,₹402,Tata Sampann,200 g 
+678,Chemba Puttu Podi,₹129,₹129,Double Horse,1 kg 
+679,"Coriander Powder - Perfect Colour, Smell & Taste",₹172,₹172,Eastern,2x250 g - Multipack
+680,Methi/ Fenugreek Seeds,₹34,₹40,Organic Tattva,100 g - Pouch
+681,"Govind Bhog Rice/Akki - Premium, Aromatic",₹170.62,₹190,BONGO BHOG,1 kg - Pouch
+682,Desi Ghee,₹1233,₹1440,BB Popular,1 L - (Pack of 2)
+683,Sabji Masala,₹56,₹56,Everest,100 g - Carton
+684,Organic - Bajra Wild/ Pearl Millet,₹140,₹172,BB Royal,2x1 kg - Multipack
+685,Basmati Rice/Basmati Akki - Traditional,₹1050,₹1050,Daawat,5 kg - Pouch
+686,Canola Oil,₹1751.5,₹3000,BORGES,5 L - Bottle
+687,Turmeric Powder/Arisina Pudi,₹101,₹200,BB Royal,500 g 
+688,Gum,₹36,₹60,BB Royal,100 g 
+689,Quinoa,₹225,₹225,India Gate,500 g - 0
+690,Pav Bhaji Masala,₹78.96,₹84,Everest,100 g - Carton
+691,Chironji,₹274,₹300,BB Royal,100 g 
+692,Appam Idiyappam Pathiri,₹49.5,₹55,Double Horse,500 g - Pouch
+693,White Poha - Pesticide Free,₹59.8,₹65,Safe Harvest,500 g 
+694,Urad Dal White Split,₹382.8,₹435,24 Mantra Organic,3x500 g - Multipack
+695,Salted Sunflower Seeds,₹360,₹360,Tong Garden,12x30 g - Multipack
+696,Baskati - Rice,₹360,₹450,BB Royal,5 kg 
+697,Idly Rice,₹216,₹240,24 Mantra Organic,2x1 kg - Multipack
+698,7 Grain Atta/Multigrain,₹440,₹550,24 Mantra Organic,5x1 kg - Multipack
+699,Dates/Kharjura - Red,₹130,₹300,BB Royal,500 g 
+700,Masala - Shahi Biryani,₹332,₹332,Everest,200 g 
+701,Hing,₹110,₹110,Mdh,10 g - Carton
+702,Olive Oil- Pure Olive Oil- Ideal for Indian Dishes- Imported from Spain,₹405.56,₹599,Figaro,250 ml - Bottle
+703,Organic - Rice/Akki Surti Kolam,₹1016,₹1149,BB Royal,10 kg 
+704,Organic Seeds - Ajwain/Om Kalu,₹76.5,₹90,Organic Tattva,100 g - Pouch
+705,Organic - Jeera/Jeeraga Samba Rice,₹1213,₹1399,BB Royal,10 kg 
+706,Jaggery/Bella Powder - Pesticide Free,₹65.6,₹80,Safe Harvest,500 g 
+707,Organic Desi Cow Ghee - Rich Aroma,₹660,₹660,AKSHAYAKALPA,300 ml - Bottle
+708,Muskmelon/Kharbooja -Seeds,₹68,₹80,BB Royal,50 g - Pouch
+709,Premium Californian Almonds Roasted & Salted,₹482.4,₹670,Happilo,2x200 g - Multipack
+710,Brown Rice Weight Watcher,₹139.52,₹152,India Gate,1 kg - Jar
+711,"Paneer Masalas Mixed - Variety Pack, Kadhai Paneer, Mutter Paner, Palak Paneer, Ready In 15 Minutes",₹20,₹30,MTR,36 g - (3 N x 12 g each)
+712,"Chatpata Chat Masala Powder - Spices & Herbs Blend, For Fruits, Salads",₹56.25,₹75,Catch,100 g - Carton
+713,Kuttu Atta,₹106,₹135,BB Royal,500 g 
+714,"Black Pepper - Whole, Rich In Antioxidants, Treats Cold & Cough",₹95.2,₹170,Zoff,100 g 
+715,Ghee/Tuppa,₹870,₹870,RKG AGMARK GHEE,1 L - Pet Jar
+716,"Organic - Green Moong Dal/Dal, Split",₹173,₹179,BB Royal,1 kg 
+717,Himalayan Pink Salt Powder,₹99,₹130,Ramyeon,1 kg 
+718,Organic Arhar/Tur Dal,₹182,₹260,Aashirvaad,1 kg 
+719,Pizza Oregano - Seasoning For Italian & Home-Cooked Food,₹79,₹79,Keya,35 g 
+720,Powder - Cumin,₹81.5,₹95,Eastern,100 g - Pouch
+721,"Xpert - Total Balance Oil, Blend Of Rice Bran, Soyabean & Flaxseeds, Rich In Omega 3",₹666,₹800,Fortune ,5 L 
+722,Bajra,₹62,₹80,BB Royal,1 kg - Pouch
+723,"Magic Cube - Chicken Masala, Adds Flavour To A Variety Of Dishes",₹40,₹40,MAGGI ,40 g - (Pack of 10)
+724,Lite - Cooking Oil,₹190,₹190,Sundrop,1 L - Pet Bottle
+725,Organic - Urad Black Whole,₹92,₹126,BB Royal,500 g 
+726,"Urad Black, Split Dal - Desi, Unpolished Mature Pulses For Easy Cooking & Rich Flavour",₹88,₹90,BB Royal,500 g - Pouch
+727,Powder - Coriander,₹68.4,₹76,Sakthi,200 g - Pouch
+728,100% Natural Premium Californian Inshell Walnut,₹428.38,₹575,Happilo,500 g 
+729,Extra Light Olive Oil for Indian Cooking - Deep Frying & Baking,₹2159,₹3199,La Espanola,2 L - Bottle
+730,Agmarked-Cow ghee,₹359.9,₹390,Heritage,500 ml - Jar
+731,Palm Candy - Made From Palm Sugar,₹110,₹110,mypalm,250 g 
+732,Stone Flower,₹78,₹90,BB Royal,50 g 
+733,Organic Moong Dal/Dhuli,₹228,₹285,Organic Tattva,1 kg - Pouch
+734,Sprinkler- Oregano Pizza Italian,₹113.05,₹119,Keya,80 g - Canister
+735,"California Almonds - Premium, Roasted & Lightly Salted, Protein Packed",₹120,₹150,BB Royal,100 g - Standy Ziplock Pouch
+736,Organic - Saunf/Sompu,₹87.5,₹125,Pro Nature,100 g - Pouch
+737,Powder - Puliyogare,₹125,₹125,Sanketi Adukale,200 g 
+738,Green Sweetener With Stevia Pellets,₹495.88,₹550,Sugar Free,2x300 pcs - Multipack
+739,Organic Coconut Oil - Cold Pressed,₹439,₹439,Forgreen,1 L - Bottle
+740,Matta Broken,₹83,₹83,Double Horse,1 kg - Pouch
+741,Ragi Special Huri Hittu,₹145,₹145,Indira's,400 g - Pouch
+742,Flax Seeds,₹152,₹160,24 Mantra Organic,2x200 g - Multipack
+743,"Piri-Piri Mix - Spicy Tangy Seasoning, Sprinkler For Snacks, Marinades",₹9.5,₹10,SNAPIN,12 g 
+744,Organic - Ponni Raw Rice/Akki,₹744,₹949,BB Royal,10 kg 
+745,Organic - Green Peas/Ona Batani,₹95,₹149,BB Royal,500 g 
+746,Salted Peanuts,₹644,₹700,Tong Garden,2x400 g - Multipack
+747,Instant Idiyappam,₹49,₹49,Double Horse,100 g - Pouch
+748,Wheat Broken/Dalia/Lapsi Rava,₹57,₹70,BB Super Saver,1 kg 
+749,"Olive Oil - Pure, Classic",₹1162.5,₹1350,BORGES,1 L - Bottle
+750,Just Berries,₹218.5,₹250,Fresho Signature,2x50 g - Multipack
+751,Red Rice Poha - Thick,₹61.74,₹63,Tata Sampann,500 g 
+752,Filtered Groundnut Oil,₹1149,₹1250,Gemini,5 L - Jar
+753,"Idli Karam Podi - Chutney Powder, Source Of Protein",₹35,₹45,MTR,100 g 
+754,Tamarind/Hunisehannu - Pesticide Free,₹165.55,₹215,Safe Harvest,500 g 
+755,Powder - Black Pepper,₹165,₹165,MTR,100 g - Pouch
+756,Dhaniya/ Coriander - Whole,₹59.5,₹70,Organic Tattva,100 g - Pouch
+757,Organic Moong Dal/Hesaru Bele,₹266,₹280,Tata Sampann,1 kg 
+758,Organic - Coriander Powder,₹120,₹149,BB Royal,500 g 
+759,Bajra Flour,₹69,₹100,BB Royal,1 kg 
+760,Jeera/Jeerige - Pesticide Free,₹240,₹240,Safe Harvest,200 g 
+761,Multimillet (Multigrain) Atta,₹101.4,₹169,Manna,1 kg - Pouch
+762,Roasted Bengal Gram/Chana Dal,₹316.8,₹360,24 Mantra Organic,3x500 g - Multipack
+763,Kasuri Methi,₹25,₹25,Eastern,25 g 
+764,Til/Ellu - Nylon,₹212,₹250,BB Royal,500 g 
+765,Paneer Chilli Masala,₹100,₹100,Ching's Secret,10 x 20 g - Multipack
+766,Organic - Rice Rava,₹40,₹45,BB Royal,500 g 
+767,Besan/Kadale Hittu - Fine,₹32,₹32,Tata Sampann,200 g 
+768,"Kashmiri Walnuts Premium Kernel - Whole, Rich In Fibre, Protein, Zero Cholesterol",₹641,₹1000,BB Royal,500 g - Airtight Pack. Freshness Locked
+769,"Dates - Red, With Seeds",₹236,₹300,BB Royal,1 kg 
+770,Natura Sweet Drops Sweetener,₹246.96,₹280,Sugar Free,2x10 ml - Multipack
+771,Ragi/nachni Flour,₹56,₹100,BB Popular,1 kg - Pouch
+772,Organic Wheat Dalia,₹59.5,₹70,Organic Tattva,500 g - Pouch
+773,Organic - Wheat Flour,₹327.75,₹345,Phalada Pure & Sure,5 kg - Pouch
+774,Xpert Pro Sugar Conscious Edible Oil - Blend Of Rice Bran & Sesame Oil,₹417,₹540,Fortune ,3 x 1 L - Multipack
+775,Organic - Nutmeg/Jayikayi,₹38,₹39,BB Royal,20 g 
+776,Turmeric Powder,₹102,₹130,24 Mantra Organic,2x200 g - Multipack
+777,Rice Bran Oil,₹116.52,₹140,Emami Healthy & Tasty,1 L - Pouch
+778,100% Pure Afghani Black Raisins Seedless | Kali Kishmish | Kali Draksh | Dry Fruits | Flavourful & Delicious Snack | Source of Potassium & Dietary Fibre,₹144.06,₹175,Tata Sampann,200 g 
+779,Refined - Sunflower Oil,₹330,₹402,Sunrich,3x1 L - Multipack
+780,Healthy Organic Gluten Free Quinoa Grains,₹139,₹225,GoodDiet,250 g 
+781,Organic Sulphurless Sugar/Sakkare,₹135,₹135,24 Mantra Organic,1 kg - Pouch
+782,Boiled Rice/Beyisida Akki - Rajabogham,₹607,₹800,BB Royal,10 kg 
+783,Nature's Super Foods - Ragi Flour/Ragi Hittu,₹85,₹100,Aashirvaad,1 kg - Pouch
+784,"A2 Desi Hallikar Cow Ghee - Vedic Bilona Churned From Curd, 1 L Each",₹3716.28,₹4320,Anveshan,2x1 L - Multipack
+785,Aval - Red,₹78,₹78,Double Horse,500 g - Pouch
+786,Khandsari Sugar/Sakkare - Pesticide Free,₹120.69,₹149,Safe Harvest,1 kg 
+787,Chilli Flakes - Red,₹96.03,₹99,Keya,40 g - Bottle
+788,Oil - Mustard (Kachi Ghani),₹162.4,₹165,Dhara ,1 L - Carton
+789,"Turkish Apricots - Premium & Hand Picked, 100% Natural",₹244.3,₹349,Grocery Farm,200 g 
+790,Masala - Tea,₹126,₹126,Everest,100 g - Carton
+791,Lite Oil,₹1154.3,₹1190,Sundrop,5 L - Can
+792,Salt/Uppu,₹37.5,₹50,Saffola,1 kg - Pouch
+793,Low GI 7 White Rice - Diabetic Friendly/Akki,₹1663.2,₹1890,Sugar Watchers,2 x 5 kg - Multipack
+794,"Fenugreek Seeds - Rich In Vitamins, Lowers Cholesterol",₹20.5,₹50,Zoff,100 g 
+795,"Afghan Dried Figs - Premium & Hand Picked, 100% Natural",₹419.3,₹599,Grocery Farm,200 g 
+796,Hing - Enhances Flavour & Aroma,₹206.25,₹275,Catch,100 g - Plastic Bottle
+797,Organic - Garlic Powder - Dehydrated,₹18,₹29,BB Royal,50 g 
+798,Masoor Malka/Red Whole,₹230,₹320,BB Royal,2 kg 
+799,Pani Puri Masala,₹40,₹40,Everest,50 g - Carton
+800,Spring Rolls Sheets - 8x8,₹190,₹220,Switz,2x20 pcs - Multipack
+801,Basmati Rice/Basmati Akki - Super,₹825.01,₹1120,India Gate,5 kg - Bag
+802,Flaxseed Hull Powder - Lignans,₹945,₹945,Health 1st,150 g - (30 Sachets x 5 g each)
+803,"Chilli Powder - Perfect Colour, Smell & Taste",₹335,₹335,Eastern,500 g 
+804,"Star Anise - Whole, Rich In Vitamins, Relieve Menopause Symptoms",₹31.3,₹70,Zoff,20 g 
+805,Amla Masti,₹156,₹220,BB Royal,280 g - No
+806,Bellar Dal/Avarebele - Split,₹64,₹65,BB Royal,200 g 
+807,Organic - Mustard/Sasive/Rai Big,₹39,₹49,BB Royal,200 g 
+808,Idly Rava,₹55,₹55,24 Mantra Organic,500 g - Pouch
+809,Daliya,₹30,₹30,Patanjali,500 g 
+810,"Puliyogare Masala - Natural Tamarind, Authentic South Indian Taste",₹63,₹70,Tata Sampann,100 g 
+811,Super Garam Masala,₹94.5,₹105,Eastern,200 g - Pouch
+812,Boiled Rice Rajabogham Deluxe,₹1464,₹1820,BB Royal,26 kg - Yes
+813,Sabudana,₹63.7,₹65,Vijay,500 g 
+814,Sprinklers - Black Pepper,₹195,₹195,Catch,100 g - can
+815,Coriander Powder,₹167.9,₹230,Aashirvaad,500 g 
+816,Organic - Mixed Dal,₹185,₹200,BB Royal,1 kg 
+817,Virgin Cold Pressed Groundnut Oil,₹2046,₹2200,Chekko,5 L 
+818,"Chekku Gingelly/Sesame Oil - Argemone Oil Free, No Preservatives, For Cooking Use",₹967.1,₹1018,RAS CHEKKU OIL,2 l 
+819,Organic - Black Rice/Akki,₹106,₹139,BB Royal,500 g 
+820,Organic Seeds - Cumin,₹171,₹180,Organic Tattva,100 g - Pouch
+821,Semi Brown Rice,₹1003,₹1180,24 Mantra Organic,2x5 kg - Multipack
+822,Bengali Sona Masoor Dal,₹198,₹260,BB Royal,1 kg - Pouch
+823,"Fenugreek Seeds - Aids In Weight Loss, Great For Hair & Skin",₹30,₹30,Sri Sri Tattva,100 g 
+824,Basmati Rice - Golden Sella (Parboiled),₹207.77,₹250,BB Royal,2x1 kg - Multipack
+825,Hazelnut,₹194,₹200,BB Royal,100 g - Pouch
+826,Pitted Prunes,₹236,₹295,REGENCY,240 g 
+827,Vanaspati,₹75.6,₹83,Dalda ,500 ml - Pouch
+828,Black Salt Sprinklers - Adds Flavour & Aroma,₹45,₹45,Catch,200 g - can
+829,Organic Powder - Jaggery/Bella,₹60.2,₹86,Pro Nature,400 g - Pouch
+830,Soya Granules - High Protein,₹179,₹210,Nutrela,1 kg - Poly Pack
+831,Whole Wheat Atta/Godihittu - Pesticide Free,₹317.55,₹365,Safe Harvest,5 kg 
+832,Palm Jaggery - Eco Box,₹220,₹220,mypalm,500 g 
+833,Masala - Chana,₹780,₹780,Mdh,10x100 g - Multipack
+834,Gold Maida/Processed Wheat Flour,₹63.7,₹65,Vijay,1 kg 
+835,Amchur Powder,₹135,₹180,Catch,2x100 g - Multipack
+836,Chilli Powder,₹165,₹210,24 Mantra Organic,3x100 g - Multipack
+837,Premium Roasted & Salted Californian Pistachios,₹804.75,₹925,Happilo,500 g 
+838,Cardamom Powder,₹179.1,₹199,SNAPIN,45 g 
+839,"Biryani Masala - Perfect Colour, Smell & Taste",₹137.28,₹176,Eastern,2x100 g - Multipack
+840,Kismiss,₹70,₹70,24 Mantra Organic,100 g - Pouch
+841,Virgin Groundnut Oil,₹225,₹225,Patanjali,1 L - Bottle
+842,Premium Cow Ghee - For Better Digestion & Immunity,₹3380,₹3380,Sri Sri Tattva,4x1 L - (Multipack)
+843,Kashmiri Mirch Powder - Traditionally Sundried & Cleaned,₹112,₹140,Aashirvaad,100 g 
+844,Red Chilli Flakes,₹69,₹99,HappyChef,60 g 
+845,Bengali Sona Moong Dal,₹198,₹280,BB Royal,1 kg - Pouch
+846,Organic Cardamom Powder,₹89,₹91,BB Royal,20 g 
+847,Black Chia Seeds,₹149,₹225,GoodDiet,150 g 
+848,"Kashmiri Red Chilli Powder with Natural Oils, Natural Red Colour",₹140,₹140,Tata Sampann,100 gm 
+849,"Premium Cranberries - Californian, Sliced Dried & Sweet",₹98,₹100,Happilo,2x35 g - Multipack
+850,Dhania - Dal,₹85,₹120,BB Royal,200 g 
+851,Hing - Compounded Asafoetida,₹70,₹80,BB Royal,50 g 
+852,"Walnuts/Akhrot - Rich In Antioxidant & Omega 3, Cholesterol Free",₹465,₹465,Everyday Four,200 g - Box
+853,Whole Wheat Atta,₹315,₹315,Sri Sri Tattva,5 kg 
+854,Seeds Mix,₹62.98,₹130,Fresho Signature,2x50 g - Multipack
+855,Rajgira Ke Atta - Gluten Free,₹105,₹105,Graminway,450 g 
+856,Chilli Powder,₹360,₹400,Aashirvaad,500 g 
+857,Organic - Broken Rice/Akki,₹59,₹79,BB Royal,1 kg 
+858,Olive Oil - Pomace,₹1439.86,₹2790,Disano,2x1 L - Multipack
+859,Dry Ginger/Adrak,₹79,₹80,BB Royal,100 g 
+860,"Low GI 7-Grain Atta, Diabetic Friendly Atta, Multigrain, High Fibre",₹1487.2,₹1690,Sugar Watchers,2 x 5 kg - Multipack
+861,Low GI Rice,₹495,₹720,24 Mantra Organic,3x2 kg - Multipack
+862,Powder - Haldi,₹160,₹160,Mdh,500 g - Pouch
+863,"A2 Desi Cow Ghee - Vedic Bilona Method, Traditional Curd Churned",₹1044,₹1200,Auric,500 ml - Glass Jar
+864,Dry Ginger Powder,₹68,₹80,BB Royal,100 g 
+865,"Himalayan Cow Ghee - Original, Pure & Natural",₹832.75,₹949,Himalayan Natives,1 L 
+866,Pulses Combo Pack - Unpolished Toor Dal/Arhar Dal & Unpolished Chana Dal,₹394.2,₹438,Tata Sampann,2 pcs - (1 kg each)
+867,Rock Salt/Sendha Namak - For A Healthy Life,₹480,₹480,Sri Sri Tattva,4x1 kg - (Multipack)
+868,Organic - Mace Whole/Javitri,₹98,₹99,BB Royal,20 g 
+869,Foxtail Millet - Kaon/Kang/Kangni/Kakum/Navani/Korralu/Korra/Thinai,₹141.75,₹189,Manna,500 g 
+870,Cold Pressed Kachi Ghani Mustard Cooking Oil,₹890.01,₹1350,BB Royal Organic,3x1L - Multipack
+871,Nirmal Virgin Coconut Oil - Narrow Neck,₹200,₹220,Klf ,250 ml 
+872,Organic - Cinnamon/Chakke Powder,₹143,₹149,BB Royal,200 g 
+873,"Organic Groundnut Oil - Cold Pressed, Rich In Vitamin A, D & E",₹1805,₹1900,Phalada Pure & Sure,5 L 
+874,Double Beans - Red,₹109,₹110,BB Royal,200 g - Pouch
+875,Kashmiri Lal Mirch (Sweet Red Chilli),₹110,₹110,JK,100 g 
+876,Easy Idiyappam Powder,₹62,₹62,Double Horse,500 g - Pouch
+877,Natureâ€™s Superfoods Multi Millet Mix - Rich In Dietary Fibre,₹136,₹160,Aashirvaad,1 kg - Pouch
+878,Organic - Sesame,₹134.9,₹142,Pro Nature,200 g - Pouch
+879,Green Chana,₹96,₹170,BB Royal,500 g - Pouch
+880,Turmeric Powder/Arisina Pudi,₹84,₹110,Eastern,2x250 g - Multipack
+881,Organic - Jaggery/Bella Powder,₹90,₹90,Turn Organic,500 g - Pouch
+882,Veg Manchurian Masala,₹50,₹50,Chings,5 x 20 g - Multipack
+883,"Refined Groundnut Oil, Primio",₹255,₹255,Rro,1 L - Bottle
+884,Organic - Barley Flour/Jave Godhi,₹59,₹78,BB Royal,500 g 
+885,Pizza Oregano Spice Mix,₹69,₹99,HappyChef,75 g 
+886,"Pure & Unrefined Cold Pressed Sesame Gingelly Oil - Naturally, Cholesterol Free, With Rich Aroma & Flavour",₹551.65,₹649,Tata Simply Better,1 L 
+887,Gold Fried Gram/ Roasted Channa,₹84,₹84,Vijay,500 g 
+888,Bandhani Hing/Compounded Asafoetida - Strong Flavour & Aroma,₹250.8,₹285,Tata Sampann,100 g 
+889,Organic Seeds - Mustard/Sasive,₹75.6,₹84,Pro Nature,200 g - Pouch
+890,Kodo Millet - Kodra/Varagu/Arikelu/Hark/Varigu,₹151.2,₹189,Manna,500 g 
+891,Organic Watermelon Seeds/Kallangadi Bija,₹144,₹161,BB Royal,100 g 
+892,Roasted Rava,₹75,₹75,Elite,1 kg - Pillow Pouch
+893,Rajma Masala - Enhances Flavour,₹61.5,₹82,Catch,100 g - Carton
+894,Jaya Boiled Rice,₹270,₹300,BB Royal,5 kg - Bag
+895,Chunky Chat,₹85,₹85,Mdh,100 g - Carton
+896,Premium Pumpkin Seeds - All Natural,₹467.5,₹550,Happilo,2x200 g - Multipack
+897,Virgin Cold Pressed Sesame Oil,₹2892.75,₹3045,Chekko,5 L 
+898,"Lashkari Kollam Premium Rice - Light Weight, Easy To Digest, Soft Texture",₹90,₹90,Sri Sri Tattva,1 kg 
+899,Broken Wheat - Daliya,₹42,₹42,Elite,500 g - Pillow Pouch
+900,"Rice - Jeerasar, New Rice/Nava Chokha, Guj 17",0,0,BB Popular,25 kg 
+901,"Apricots - Dried, Premium Turkish",₹649.7,₹730,Happilo,2x200 g - Multipack
+902,Basmati Rice - Everyday,₹737.75,₹990,BB Royal,2x5 Kg - Multipack
+903,Red Poha,₹171,₹190,24 Mantra Organic,2x500 g - Multipack
+904,Masala - Sambhar,₹160,₹160,Everest,200 g 
+905,Mix - Chicken Biryani,₹135,₹165,Mother's Recipe,3x100 g - (Multipack)
+906,Turmeric Powder/Arisina Pudi,₹64.8,₹72,Sakthi,200 g - Pouch
+907,Soya Chunks - Nano,₹67,₹67,Double Horse,200 g - 0
+908,Wheat - Sihor,₹45,₹70,BB Royal,1 kg 
+909,"Coconut Milk Powder - Rich In Vitamins & Minerals, Thick, Tasty",₹850,₹850,KLF Coconad,1 Kg 
+910,Oil - Sesame,₹503,₹503,Idhayam,1 L - Can
+911,Rice Flour,₹114.4,₹130,24 Mantra Organic,2x500 g - Multipack
+912,Masala - Kulambu Chilly,₹93.5,₹110,Aachi,200 g - Pouch
+913,Kabuli Chana,₹362.1,₹450,24 Mantra Organic,3x500 g - Multipack
+914,Virgin Groundnut Oil,₹1125,₹1125,Patanjali,5 L - Jar
+915,"Green Long Raisin - Enriched With Vitamin A, Improves Eye Sight, Digestion",₹191.2,₹239,Farmley,500 g 
+916,Paste - Garlic,₹20.9,₹22,Mother's Recipe,100 g - Pouch
+917,Masala - Fish Fry,₹28.9,₹34,Aachi,50 g - Pouch
+918,Powder - Deggi Mirch,₹125,₹125,Mdh,100 g - Carton
+919,100% Natural Nut Powder - No Added Sugar Or Preservatives,₹499,₹499,Slurrp Farm,100 g 
+920,Dates/Kharjura - Medjool,₹737,₹1000,BB Royal,500 g 
+921,"Halim Seeds - Healthy Seeds , For Weight Loss",₹245.18,₹299,True Elements,500 g 
+922,Maida,₹35.1,₹39,Fortune ,500 g - Pouch
+923,Super Saver Ponni Boiled Rice,₹1452,₹1820,Super Saver,26 kg - Yes
+924,Powder - Hingraj,₹275,₹275,Everest,100 g 
+925,Organic - Coriander Whole,₹107.1,₹119,Pro Nature,200 g - Pouch
+926,Organic - Wheat Broken/Dhaliya,₹66,₹89,BB Royal,1 kg 
+927,Wheat Daliya - Pesticide Free,₹49.4,₹52,Safe Harvest,500 g 
+928,"Smart Edible Oil - Enriched With Vitamin A, D , E & K",₹140.99,₹180,Oleev,1 L 
+929,"Pure & Unrefined Cold Pressed Virgin Coconut Oil - Naturally, Cholesterol Free",₹559.2,₹699,Tata Simply Better,1 L 
+930,Premium Aromatic Govind Bhog Rice,₹800,₹800,BONGO BHOG,5 kg 
+931,Sugar/Sakkare - Brown,₹130.9,₹154,Pro Nature,1 kg 
+932,Sampoorna Chakki Atta/Godihittu,₹440.73,₹475,Nature Fresh,10 Kg - Bag
+933,Premium Diwali Gift Box,₹190,₹299,BB Royal,"200 g - (Almonds, Raisins, Cashews, Apricots, 50 g each)"
+934,Dates - Royal Zahidi,₹220,₹240,Apis,500 g - Buy 1 Get 1 Free
+935,Mixed Fruit,₹169,₹195,Fresho Signature,150 g 
+936,Besan Flour,₹228,₹285,24 Mantra Organic,3x500 g - Multipack
+937,Olive Oil - Extra Light,₹2441.76,₹3500,Del Monte ,2x1 L - Multipack
+938,Split Pigeon Pea Toor Dal - Rich In Protein & Folic Acid,₹180,₹180,Sri Sri Tattva,1 kg 
+939,Cow Ghee/Tuppa - Certified Organic,₹670,₹670,Nutriorg,500 ml 
+940,"White Sesame Seeds Til - Highly Nutritious, Boosts Overall Health",₹60,₹60,Sri Sri Tattva,100 g 
+941,"Quinoa - 100% Wholegrain, High Protein, Breakfast Cereal, Gluten Free, Diet Food",₹770,₹1100,True Elements,2 kg 
+942,Traditional Whole Wheat Chakki Atta,₹425,₹425,Patanjali,10 Kg 
+943,Canola Oil - For All Types Of Cooking,₹1018.44,₹1499,Miller,5 L 
+944,Cashew/Godambi - Roasted & Salted,₹116,₹200,BB Royal,100 g - Standy Ziplock Pouch
+945,Moong Dal,₹112.05,₹135,Safe Harvest,500 g 
+946,Ragi Dosa Mix,₹125,₹125,Indira's,500 g - Pouch
+947,Madras Sambar Powder,₹56,₹56,Eastern,100 g 
+948,"Chhole Masala - With Natural Oils, Crafted By Chef Sanjeev Kapoor",₹76,₹80,Tata Sampann,100 g 
+949,Organic - Castor Oil,₹133,₹140,Phalada Pure & Sure,250 ml - Bottle
+950,Dried Cranberries,₹460,₹500,True Elements,2x125 g - Multipack
+951,"Organic - Urad Dal/Uddina Bele, Atta",₹93,₹99,BB Royal,500 g 
+952,Amla Chatpata Dry Fruit,₹112.1,₹130,Fresho Signature,2x50 g - Multipack
+953,Baskati - Rice,₹634,₹800,BB Popular,10 kg 
+954,Black Raisins - Premium Afghani Seedless,₹392,₹490,Happilo,2x250 g - Multipack
+955,Dry Fruit - Cherry,₹90,₹90,Kiara Foods,200 g 
+956,Dates/Kharjura - Layina,₹206.8,₹220,Lion,500 gm 
+957,Everyday Basmati Rice/Basmati Akki,₹126.02,₹169,Fortune ,1 kg - Pouch
+958,"Basmati Rice/Basmati Akki - Authentic, Super Value",₹533.62,₹810,Kohinoor,5 kg - (25% Extra)
+959,Masala - Kitchen King,₹79,₹79,Mdh,100 g - Carton
+960,Chilli Powder,₹315,₹350,Aashirvaad,500 g 
+961,Basmati Rice - Rozana Regular,₹786.31,₹990,BB Royal,10 Kg 
+962,Raisins/Ona Drakshi - Afghan,₹461,₹750,BB Royal,500 g 
+963,Rajma Chitra,₹169,₹200,BB Super Saver,1 kg 
+964,Cow Ghee Original - 100% Pure & Natural,₹899.1,₹999,Auric,1 L 
+965,Organic Sesame Oil - Promotes Heart Health,₹334.96,₹424,Kapiva,500 ml - Plastic Bottle
+966,Charminar Rozana Basmati Rice/Basmati Akki,₹337.48,₹560,Kohinoor,5 kg 
+967,Rice Bran Health Physically Refined Rice Bran Oil - Contains Natural Oryzanol & Natural Vitamins,₹621.6,₹1050,Sunpure ,5 L - Can
+968,Organic - Proso Millet,₹75,₹85,BB Royal,500 g 
+969,Premium Diwali Gift Box,₹525,₹749,BB Royal,"500 g - (Almonds, Cashews, Raisins, Pistachios, 125 g each)"
+970,Kabuli Chana/Kabuli Kadale - Pesticide Free,₹121.8,₹145,Safe Harvest,500 g 
+971,Powder - Rasam,₹49.4,₹52,Sakthi,50 g - Pouch
+972,Apricots/Khumani,₹362,₹500,BB Popular,500 g 
+973,Basmati Rice/Basmati Akki - Mini Mogra/Broken,₹646.87,₹680,India Gate,10 kg - Bag
+974,"Sona Masuri Super Quality Steam Rice - Light Weight, Easy To Digest",₹75,₹75,Sri Sri Tattva,1 kg 
+975,Rock Salt - Powder/Uppu,₹74,₹200,BB Royal,1 kg 
+976,Organic Kala Chana/Kadale Kaalu,₹86.7,₹102,Pro Nature,500 g - Pouch
+977,Powder - Dry Ginger,₹90,₹90,Everest,100 g - Carton
+978,Brazilian Nuts,₹327,₹400,BB Royal,100 g 
+979,Xpert Pro Immunity Oil - Blend Of Rice Bran & Sunflower Oil,₹625,₹800,Fortune ,5 L - Jar
+980,Whole Wheat,₹330,₹375,24 Mantra Organic,5x1 kg - Multipack
+981,"Pav Bhaji Masala - With Natural Oils, Crafted By Chef Sanjeev Kapoor",₹89.3,₹94,Tata Sampann,100 g 
+982,Safflower Oil,₹1237.5,₹1650,24 Mantra Organic,3x1 L - Multipack
+983,Kashmiri Rajma/Capparadavare,₹167,₹180,BB Super Saver,1 kg 
+984,Premium Dried Blueberry Cranberry Duet,₹646,₹760,Happilo,2x200 g - Multipack
+985,"Organic Cardamom/Elaichi - Green, Small",₹405,₹450,Pro Nature,50 g 
+986,"Cold Pressed Groundnut Cooking Oil - Perfect Blend of Health, Taste & Aroma, Promotes Heart Health & Lowers Cholesterol Levels",₹454.09,₹499,Dabur,1 L - Bottle
+987,Sunflower Oil,₹120,₹120,Patanjali,1 L 
+988,Mitha Pan Mouth Freshener,₹60,₹80,BB Royal,90 g 
+989,Masala - Tandoori,₹187,₹187,Everest,200 g 
+990,Organic - Methi/Menthya/Fenugreek Powder,₹42,₹52,BB Royal,200 g 
+991,Cold Pressed Organic Sunflower Oil,₹2450,₹2450,Nutriorg,5 L - Container
+992,"Strawberry Cereal - No Sugar, Instant Healthy Cereal With Ragi, Rice & Milk",₹349,₹349,Slurrp Farm,200 g 
+993,"Dates - Black, With Seeds",₹379,₹600,BB Royal,1 kg 
+994,Walnut/Akhrot - Inshell,₹375,₹625,BB Royal,500 g 
+995,Premium Cashews Toasted & Salted,₹549.06,₹790,Happilo,2x200 g - Multipack
+996,Seasoning - Pasta,₹119,₹119,Keya,45 g 

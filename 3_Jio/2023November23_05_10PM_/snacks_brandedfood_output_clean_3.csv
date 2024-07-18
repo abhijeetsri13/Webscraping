@@ -1,0 +1,1006 @@
+Unnamed: 0,Product name,MRP,Selling Price,Tag,PerUnitPrice,Brand,Quantity,Unit,Pack of,Discount,Discount Percentage,Price Per Unit(Kg/L)
+0.0, Maggi 2-Minute Masala Noodles 70 g ,14.0,13.0,,,MAGGI,200.0,g,1.0,1.0,7.14,65.0
+1.0, Pintola HIGH Protein Peanut Butter (Dark Chocolate) (Creamy) 510g ,399.0,349.0, sponsored ,,PINTOLA,510.0,g,1.0,50.0,12.53,684.31
+2.0, Kissan Fresh Tomato Ketchup 1.1 kg ,150.0,94.0,,,KISSAN,1.1,kg,1.0,56.0,37.33,85.45
+3.0, Maggi 2-Minute Masala Instant Noodles 560 g ,112.0,87.0,,,MAGGI,200.0,g,1.0,25.0,22.32,435.0
+4.0, Bikaji Premium Rasgulla 1 kg ,289.0,144.0,,,BIKAJI,1.0,kg,1.0,145.0,50.17,144.0
+5.0, Alpino Natural Peanut Butter Crunch 1 KG ,449.0,350.0, sponsored ,,ALPINO,1.0,kg,1.0,99.0,22.05,350.0
+6.0, Sunfeast Dark Fantasy Original Choco Filled Cookie 300 g ,170.0,99.0,,,SUNFEAST,300.0,g,1.0,71.0,41.76,330.0
+7.0, Parle-G Gold Biscuits 1 kg ,140.0,105.0,,,PARLE,1.0,kg,1.0,35.0,25.0,105.0
+8.0, Britannia Jimjam Sandwich Biscuits 138 g ,35.0,24.0,,,BRITANNIA,138.0,g,1.0,11.0,31.43,173.91
+9.0, Britannia NutriChoice Hi-Fibre Digestive Biscuits 1 kg ,179.0,155.0,,,BRITANNIA,1.0,kg,1.0,24.0,13.41,155.0
+10.0, Shree Misthan Kaju Katli 400g (200g X 2) ,520.0,369.0,,,SHREE MISTHAN,400.0,g,1.0,151.0,29.04,922.5
+11.0, Pintola Choco Spread Crunchy Peanut Butter 1kg ,499.0,449.0, sponsored ,,PINTOLA,1.0,kg,1.0,50.0,10.02,449.0
+12.0, Sunfeast Dark Fantasy Choco Fills Cookies 75 g ,40.0,30.0,,,SUNFEAST,75.0,g,1.0,10.0,25.0,400.0
+13.0, Munch 18 Yummy Treats 160.2 g ,100.0,66.0,,,MUNCH,200.0,g,1.0,34.0,34.0,330.0
+14.0, Sunfeast Dark Fantasy Bourbon Biscuits 120 g ,35.0,17.0,,,SUNFEAST DARK FANTASY,120.0,g,1.0,18.0,51.43,141.67
+15.0, Maggi 2-Minute Masala Instant Noodles 420 g ,84.0,68.0,,,MAGGI,200.0,g,1.0,16.0,19.05,340.0
+16.0, Parle Hide & Seek Chocolate Chip Cookies 100 g ,30.0,25.0,,,PARLE,100.0,g,1.0,5.0,16.67,250.0
+17.0, LuvIt Dairy Rich Roasted Almond Chocolates Bar| Delicious| Rich| Smooth| Pack of 12- 39gm Each ,600.0,495.0, sponsored ,,LUVIT,200.0,g,12.0,105.0,17.5,206.25
+18.0, Maggi Nutri-licious Masala Veg Atta Noodles 290 g ,112.0,74.0,,,MAGGI,290.0,g,1.0,38.0,33.93,255.17
+19.0, Lotte Choco Pie 28 g (12 pcs) ,170.0,99.0,,,LOTTE,28.0,g,1.0,71.0,41.76,3535.71
+20.0, Sunfeast Dark Fantasy Choco Creme Biscuits 100 g ,35.0,17.0,,,SUNFEAST,100.0,g,1.0,18.0,51.43,170.0
+21.0, Britannia Bourbon The Original Cream Biscuits 150 g ,40.0,30.0,,,BRITANNIA,150.0,g,1.0,10.0,25.0,200.0
+22.0, Parle-G Original Glucose Biscuits 800 g ,100.0,84.0,,,PARLE,800.0,g,1.0,16.0,16.0,105.0
+23.0," Alpino Natural Peanut Butter Smooth 400 G | Unsweetened | 30 G Protein | 100% Roasted Peanuts | No Added Sugar, Salt or Hydrogenated Oils | High Protein Peanut Butter Creamy | Gluten-Free | Vegan ",199.0,163.0, sponsored ,,ALPINO,400.0,g,1.0,36.0,18.09,407.5
+24.0, Lay's American Style Cream & Onion Potato Chips 90 g ,50.0,33.0,,,LAY'S,90.0,g,1.0,17.0,34.0,366.67
+25.0, Sunfeast Dark Fantasy Vanilla Creme Biscuits 100 g ,35.0,17.0,,,DARK FANTASY,100.0,g,1.0,18.0,51.43,170.0
+26.0, Bambino Soan Papdi Badam Flavour Each 200 Gms X Pack of 2 (400 Gms) ,180.0,139.0,,,BAMBINO,200.0,gms,2.0,41.0,22.78,347.5
+27.0," Shree Misthan Kaju Katli (Kaju Barfi / Burfi, Indian Mithai / Sweets Gift Pack / Box) Festive Gift Box 200g ",260.0,219.0,,,SHREE MISTHAN,200.0,g,1.0,41.0,15.77,1095.0
+28.0, Lay's India's Magic Masala Potato Chips 90 g ,50.0,33.0,,,LAY'S,90.0,g,1.0,17.0,34.0,366.67
+29.0, Alpino Natural Peanut Butter Crunch 400 G ,199.0,170.0, sponsored ,,ALPINO,400.0,g,1.0,29.0,14.57,425.0
+30.0, Parle Hide & Seek 4 Fun Flavours Choco Chip Creme Sandwich Biscuits 400 g ,130.0,65.0,,,PARLE,200.0,g,1.0,65.0,50.0,325.0
+31.0, Bikaji Bikaneri Bhujia 1 kg ,350.0,250.0,,,BIKAJI,1.0,kg,1.0,100.0,28.57,250.0
+32.0, Cadbury Dairy Milk Fruit & Nut Chocolate 36 g ,45.0,40.0,,,CADBURY,36.0,g,1.0,5.0,11.11,1111.11
+33.0, Sunfeast Yippee Mood Masala Noodles 260 g ,60.0,30.0,,,YIPPEE,260.0,g,1.0,30.0,50.0,115.38
+34.0, Mayora Malkist Cheese Flavoured Cracker Biscuits 144 g ,60.0,45.0,,,MAYORA,144.0,g,1.0,15.0,25.0,312.5
+35.0, LuvIt Luscious Love Delights & Dairy Rich Home Delights Chocolates Combo - Pack of 3 - 414g ,518.0,339.0, sponsored ,,LUVIT,200.0,g,3.0,179.0,34.56,565.0
+36.0, Maggi 2-Minutes Masala Noodles Pack 832 g ,160.0,128.0,,,MAGGI,200.0,g,1.0,32.0,20.0,640.0
+37.0, Parle 20-20 Gold Cashew Almond Cookies 1 kg ,250.0,125.0,,,PARLE,200.0,g,1.0,125.0,50.0,625.0
+38.0, Britannia Good Day Cashew Biscuits 1 Kg ,320.0,160.0,,,GOOD DAY,1.0,kg,1.0,160.0,50.0,160.0
+39.0, Britannia Classic Little Hearts Biscuits 75 g ,30.0,22.0,,,BRITANNIA,75.0,g,1.0,8.0,26.67,293.33
+40.0, Bingo Original Style Chilli Sprinkled Potato Chips 90 g ,50.0,33.0,,,BINGO,90.0,g,1.0,17.0,34.0,366.67
+41.0, LuvIt Chocwich White Crunchy Wafers with Layers of Rich White Chocolate | Pack of 2 - 740g Each ,800.0,642.0, sponsored ,,LUVIT,200.0,g,2.0,158.0,19.75,1605.0
+42.0, Haldiram Bhujiawala Chatak Bhujia Namkeen -800Gram (Pack of 2 *400 Grams each) ,260.0,240.0,,,HALDIRAM BHUJIAWALA,800.0,gram,2.0,20.0,7.69,150.0
+43.0, Haldiram's Bhujia Sev 1 kg ,260.0,190.0,,,HALDIRAM’S NAGPUR,1.0,kg,1.0,70.0,26.92,190.0
+44.0, Sunfeast Mom's Magic Cashew & Almond Biscuits 584 g ,130.0,78.0,,,SUNFEAST,584.0,g,1.0,52.0,40.0,133.56
+45.0, Britannia Good Day Cashew Cookies 600 g ,135.0,110.0,,,BRITANNIA,600.0,g,1.0,25.0,18.52,183.33
+46.0, Cadbury Dairy Milk Roast Almond Chocolate 36 g ,45.0,40.0,,,CADBURY,36.0,g,1.0,5.0,11.11,1111.11
+47.0," Alpino Organic Natural Peanut Butter Smooth 1 KG | Unsweetened | 30 G Protein | 100% Roasted Peanuts | No Added Sugar, Salt or Hydrogenated Oils | High Protein Peanut Butter Creamy | Gluten-Free | Vegan ",549.0,448.0, sponsored ,,ALPINO,1.0,kg,1.0,101.0,18.4,448.0
+48.0, Cadbury Celebrations Chocolate Gift Pack 59.8 g ,60.0,51.0,,,CADBURY,59.8,g,1.0,9.0,15.0,852.84
+49.0, Kellogg's Fruit & Nut Muesli 750 g ,490.0,326.0,,,KELLOGG'S,750.0,g,1.0,164.0,33.47,434.67
+50.0, Parle Platina Nutricrunch Digestive Cookies 1 kg ,300.0,150.0,,,PARLE,1.0,kg,1.0,150.0,50.0,150.0
+51.0, Parle Marie Biscuits 800 g ,178.0,89.0,,,PARLE,800.0,g,1.0,89.0,50.0,111.25
+52.0, Indiyum Kaju Barfi 400g (200g X 2) ,520.0,369.0,,,INDIYUM,400.0,g,1.0,151.0,29.04,922.5
+53.0, Cadbury Oreo Original Vanilla Creme Biscuits (Family Pack) 288.75 g ,99.0,69.0,,,OREO,288.75,g,1.0,30.0,30.3,238.96
+54.0, LuvIt Goodies Chocolates Assorted Gift Pack| Best Gift for Diwali Celebration| Pack of 1 - 125.8g ,100.0,90.0,,,LUVIT,200.0,g,1.0,10.0,10.0,450.0
+55.0, Maggi Pazzta Cheese Macaroni 75 g ,32.0,24.0,,,MAGGI,75.0,g,1.0,8.0,25.0,320.0
+56.0, Britannia Tiger Krunch Chocochips Biscuits Combo Pack 400 g ,140.0,60.0,,,BRITANNIA,400.0,g,1.0,80.0,57.14,150.0
+57.0, Lay's Spanish Tomato Tango Potato Chips 90 g ,50.0,40.0,,,LAY'S,90.0,g,1.0,10.0,20.0,444.44
+58.0, Cadbury Oreo Original Vanilla Cream Sandwich Biscuits 43.75 g ,10.0,10.0,,,OREO,43.75,g,1.0,0.0,0.0,228.57
+59.0," BTW Kaju Katli (Kaju Barfi / Burfi, Indian Mithai / Sweets Gift Pack / Box) Festive Gift Box 200g ",260.0,215.0,,,BTW,200.0,g,1.0,45.0,17.31,1075.0
+60.0, Cadbury 5 Star Bites Home Treats Chocolate 191.9 g ,149.0,89.0,,,CADBURY,200.0,g,1.0,60.0,40.27,445.0
+61.0, Act II Golden Sizzle Instant Popcorn 30 g ,10.0,10.0,,,ACT II,30.0,g,1.0,0.0,0.0,333.33
+62.0, Cadbury Oreo Original Chocolatey Sandwich Biscuits 481.25 g ,159.0,96.0,,,CADBURY,481.25,g,1.0,63.0,39.62,199.48
+63.0, Maggi Hot & Sweet Tomato Chilli Sauce 1 kg ,180.0,139.0,,,MAGGI,1.0,kg,1.0,41.0,22.78,139.0
+64.0, Nissin Geki Hot & Spicy Korean Veg Flavour Noodles 80 g ,49.0,32.0,,,NISSIN,80.0,g,1.0,17.0,34.69,400.0
+65.0, Dabur Honey 1 kg ,475.0,349.0,,,DABUR,1.0,kg,1.0,126.0,26.53,349.0
+66.0, Bambino Instant Gulab Jamun Mix 175 Gms (Buy One Get One) ,145.0,135.0,,,BAMBINO,175.0,gms,1.0,10.0,6.9,771.43
+67.0, Haldiram Bhujiawala Kaju Katli 500 gram | kaju barfi | Kaju katri ,600.0,540.0,,,HALDIRAM BHUJIAWALA,500.0,gram,1.0,60.0,10.0,1080.0
+68.0, Britannia 50-50 Maska Chaska Biscuits 300 g ,90.0,75.0,,,BRITANNIA,200.0,g,1.0,15.0,16.67,375.0
+69.0, Top Ramen Masala Instant Noodles 360 g ,78.0,45.0,,,TOP RAMEN,360.0,g,1.0,33.0,42.31,125.0
+70.0, Kit Kat Dessert Delight Truffle Chocolate 50 g ,65.0,44.0,,,KIT KAT,50.0,g,1.0,21.0,32.31,880.0
+71.0, Wingreens Farms Premium Vey Mayo 800 g ,225.0,112.0,,,WINGREENS FARMS,800.0,g,1.0,113.0,50.22,140.0
+72.0, Parle-G Original Glucose Biscuits 45 g ,5.0,5.0,,,PARLE,45.0,g,1.0,0.0,0.0,111.11
+73.0, Cadbury Dairy Milk Silk Bubbly Chocolate 120 g ,185.0,108.0,,,CADBURY,120.0,g,1.0,77.0,41.62,900.0
+74.0, Del Monte Tomato Ketchup 1 kg ,160.0,80.0,,,DEL MONTE,1.0,kg,1.0,80.0,50.0,80.0
+75.0, Britannia Bourbon The Original Chocolate Cream Biscuits 50 g ,10.0,10.0,,,BRITANNIA,50.0,g,1.0,0.0,0.0,200.0
+76.0, Britannia Good Day Cashew Cookies 100 g ,25.0,22.0,,,BRITANNIA,100.0,g,1.0,3.0,12.0,220.0
+77.0, Parle Monaco Salted Biscuits 200 g ,40.0,36.0,,,PARLE,200.0,g,1.0,4.0,10.0,180.0
+78.0, Maggi 2-Minute Masala Noodles 140 g ,28.0,26.0,,,MAGGI,200.0,g,1.0,2.0,7.14,130.0
+79.0, MyFitness Peanut Butter Chocolate Crunchy Peanut Butter 510 gms ,320.0,224.0,,,MYFITNESS PEANUT BUTTER,510.0,gms,1.0,96.0,30.0,439.22
+80.0, Unibic Choco Kiss Center Filled Cookies 75 g ,50.0,25.0,,,UNIBIC,75.0,g,1.0,25.0,50.0,333.33
+81.0, Cadbury Dairy Milk Chocolate 24 g ,20.0,18.0,,,CADBURY,24.0,g,1.0,2.0,10.0,750.0
+82.0, Saffola Active Honey 1 kg ,495.0,247.0,,,SAFFOLA,1.0,kg,1.0,248.0,50.1,247.0
+83.0, Parle Hide & Seek Chocolate Chip Cookies 400 g ,150.0,99.0,,,PARLE,400.0,g,1.0,51.0,34.0,247.5
+84.0, Maggi Pazzta Masala Penne 69.5 g ,32.0,24.0,,,MAGGI,69.5,g,1.0,8.0,25.0,345.32
+85.0, Orion Original Choco Pie Festive Gift Pack (2 Boxes) - 40 Choco Pies ,700.0,399.0,,,ORION,200.0,g,1.0,301.0,43.0,1995.0
+86.0, Kit Kat Dessert Delight Choco Pudding Chocolate 50 g ,65.0,44.0,,,KIT KAT,50.0,g,1.0,21.0,32.31,880.0
+87.0, Britannia Marie Gold Biscuits 250 g ,40.0,36.0,,,BRITANNIA,250.0,g,1.0,4.0,10.0,144.0
+88.0, Britannia NutriChoice Hi-Fibre Digestive Biscuits 100 g ,20.0,18.0,,,BRITANNIA,100.0,g,1.0,2.0,10.0,180.0
+89.0, Kellogg's Chocos Variety Pack 168 g (Pack of 7) ,70.0,52.0,,,KELLOGG'S,168.0,g,7.0,18.0,25.71,44.22
+90.0, Lay's Classic Salted Potato Chips 90 g ,60.0,48.0,,,LAY'S,90.0,g,1.0,12.0,20.0,533.33
+91.0, Punjabi Ghasitaram Halwai Special White Mawa Peda Mithai Box (400gms) ,550.0,259.0,,,GHASITARAM'S,400.0,gms,1.0,291.0,52.91,647.5
+92.0, Dukes Bourbon Premium Sandwich Biscuits 135 g ,36.0,18.0,,,DUKES,135.0,g,1.0,18.0,50.0,133.33
+93.0, Bikaji Masala Munch Soya Sticks 200 g ,80.0,40.0,,,BIKAJI,200.0,g,1.0,40.0,50.0,200.0
+94.0, Del Monte Original Blend Tomato Ketchup 500 g ,95.0,47.0,,,DEL MONTE,500.0,g,1.0,48.0,50.53,94.0
+95.0, Kellogg's Oats 900 g ,185.0,124.0,,,KELLOGG'S,900.0,g,1.0,61.0,32.97,137.78
+96.0, Act II Classic Salted Instant Popcorn 30 g ,10.0,10.0,,,ACT II,30.0,g,1.0,0.0,0.0,333.33
+97.0, Maggi 2-Minute Masala Instant Noodles 280 g ,56.0,51.0,,,MAGGI,200.0,g,1.0,5.0,8.93,255.0
+98.0, Kellogg's Corn Flakes 1.2 kg ,490.0,327.0,,,KELLOGG'S,1.2,kg,1.0,163.0,33.27,272.5
+99.0, Bambino Premium Rasgulla Tin 1 Kg ,250.0,180.0,,,BAMBINO,1.0,kg,1.0,70.0,28.0,180.0
+100.0, Unibic Fruit & Nut Delight Cookies 500 g ,190.0,95.0,,,UNIBIC,500.0,g,1.0,95.0,50.0,190.0
+101.0, Kissan Mixed Fruit Jam 700 g ,245.0,150.0,,,KISSAN,700.0,g,1.0,95.0,38.78,214.29
+102.0, Brittania Vita Marie Gold 248 g ,45.0,40.0,,,MARIEGOLD,248.0,g,1.0,5.0,11.11,161.29
+103.0, Haldiram's Aloo Bhujia 1 kg ,225.0,169.0,,,HALDIRAM’S NAGPUR,1.0,kg,1.0,56.0,24.89,169.0
+104.0, Sunfeast Glucose Plus+ Biscuits 1 kg ,140.0,86.0,,,SUNFEAST,1.0,kg,1.0,54.0,38.57,86.0
+105.0, Parle Krack Jack Biscuits 400 g ,80.0,70.0,,,PARLE,400.0,g,1.0,10.0,12.5,175.0
+106.0, Cadbury Dairy Milk Family Pack Chocolate 130 g ,130.0,109.0,,,CADBURY,130.0,g,1.0,21.0,16.15,838.46
+107.0, Cadbury Dairy Milk Crackle Chocolate 36 g ,45.0,38.0,,,CADBURY,36.0,g,1.0,7.0,15.56,1055.56
+108.0, Haldiram Bhujiawala Soan Papdi 1.5kg ( 3Box * 500 grams each) | Delicious Crispy & Flaky Premium Soan Papdi | Sweet Mithai | Sweets ,465.0,397.0,,,HALDIRAM BHUJIAWALA,1.5,kg,1.0,68.0,14.62,264.67
+109.0, Britannia Nice Time Coconut Biscuits 143 g ,25.0,23.0,,,BRITANNIA,143.0,g,1.0,2.0,8.0,160.84
+110.0, Quaker Oats 1 kg ,199.0,179.0,,,QUAKER,1.0,kg,1.0,20.0,10.05,179.0
+111.0, Lal Sweets Mysore Pak Premium 200g Pack Of 2 || Made With Pure Desi Ghee|| Mysuru Pak ,699.0,399.0,,,LAL,200.0,g,2.0,300.0,42.92,997.5
+112.0," HF, SURYA 800gm ASSORTED SOAN PAPDI (ELAICHI, ORANGE, CHOCO CHIP, COCONUT) | PACK OF 4; 200gm X 4 |Indian sweet ",400.0,239.0,,,"HF, SURYA",800.0,gm,4.0,161.0,40.25,74.69
+113.0, Ching's Secret Schezwan Chutney 250 g ,100.0,79.0,,,CHING'S SECRET,250.0,g,1.0,21.0,21.0,316.0
+114.0, McVitie's Digestive Biscuits 959.1 g ,300.0,200.0,,,MCVITIE'S,959.1,g,1.0,100.0,33.33,208.53
+115.0, Parle Monaco Classic Regular Biscuits 700 g ,120.0,85.0,,,PARLE,700.0,g,1.0,35.0,29.17,121.43
+116.0, Ching's Secret Schezwan Chutney 600 g ,180.0,125.0,,,CHING'S SECRET,600.0,g,1.0,55.0,30.56,208.33
+117.0, Ghasitaram's Kaju Katli 200g ,500.0,225.0,,,GHASITARAM'S,200.0,g,1.0,275.0,55.0,1125.0
+118.0, Bikaji Tana Bana Khatta Meetha 1 kg ,350.0,175.0,,,BIKAJI,1.0,kg,1.0,175.0,50.0,175.0
+119.0," Snickers Delicious & Nutritious Roasted Peanuts, Nougat and Caramel Delight 22g (Pack of 32) ",640.0,480.0,,,SNICKERS,22.0,g,32.0,160.0,25.0,681.82
+120.0, Snactac Masala Noodles 280 g ,80.0,40.0,,,SNACTAC,280.0,g,1.0,40.0,50.0,142.86
+121.0, Dukes Waffy Choco Wafer Rolls 250 g ,180.0,90.0,,,DUKES,250.0,g,1.0,90.0,50.0,360.0
+122.0, Parle Fab Bourbon Chocolate Cream Biscuits 150 g ,40.0,37.0,,,PARLE,150.0,g,1.0,3.0,7.5,246.67
+123.0, Parle Happy Happy Choco-Chip Cookies 396 g ,150.0,75.0,,,PARLE,396.0,g,1.0,75.0,50.0,189.39
+124.0, Britannia Good Day Cashew Cookies 200 g ,50.0,43.0,,,BRITANNIA,200.0,g,1.0,7.0,14.0,215.0
+125.0, Parle 20-20 Gold Cashew Almond Cookies 600 g ,190.0,95.0,,,PARLE,200.0,g,1.0,95.0,50.0,475.0
+126.0, Haldiram Bhujiawala Rasgulla 1.25Kg | Juicy Tasty With Sugar Syrup -1 Kg with 250 gram Free | Sweet mithai ,300.0,278.0,,,HALDIRAM BHUJIAWALA,1.25,kg,1.0,22.0,7.33,222.4
+127.0, Britannia Pure Magic Chocolush Choco Filled Cookie 75 g ,40.0,30.0,,,BRITANNIA,75.0,g,1.0,10.0,25.0,400.0
+128.0, Cadbury Dairy Milk Silk Oreo Chocolate 60 g ,85.0,74.0,,,CADBURY,60.0,g,1.0,11.0,12.94,1233.33
+129.0, Britannia Good Day Chocochip Cookies 400 g ,140.0,74.0,,,BRITANNIA,400.0,g,1.0,66.0,47.14,185.0
+130.0, Cadbury Oreo Original Chocolatey Sandwich Biscuits 918.75 g ,290.0,145.0,,,CADBURY,918.75,g,1.0,145.0,50.0,157.82
+131.0, Britannia Bourbon 100 g (Buy 4 Get 1) ,100.0,100.0,,,BRITANNIA,100.0,g,1.0,0.0,0.0,1000.0
+132.0," Boomer Wrigley Super Bubble Gum, Strawberry Flavoured 850g ( Pack Of 2 ) ",500.0,385.0,,,BOOMER,850.0,g,2.0,115.0,23.0,226.47
+133.0, Parle Melody Chocolaty Toffee 391 g ,100.0,82.0,,,PARLE,391.0,g,1.0,18.0,18.0,209.72
+134.0, Haldiram Bhujiawala Chatak Bhujia Namkeen 1Kg ,300.0,300.0,,,HALDIRAM BHUJIAWALA,1.0,kg,1.0,0.0,0.0,300.0
+135.0, Parle Hide & Seek Milano Chocolate Chip Biscuits 75 g ,40.0,30.0,,,PARLE,75.0,g,1.0,10.0,25.0,400.0
+136.0, Sunfeast Marie Light Biscuits 1 kg ,150.0,99.0,,,SUNFEAST,1.0,kg,1.0,51.0,34.0,99.0
+137.0," Yogabar Dark Chocolate Peanut Butter 1 kg | Chocolate Peanut Butter | High Protein Peanuts butter with Anti-Oxidants | Crunchy , Chocolatey & Creamy Peanut Butters | 100%Vegan & No Preservatives ",589.0,399.0,,,YOGABAR,1.0,kg,1.0,190.0,32.26,399.0
+138.0, Haldiram Bhujiawala Gulab Jamun 1.25 kg |Tasty and Healthy Juicy Sweet - 1 Kg 250 grams Free | Sweet mithai | Sweets ,300.0,280.0,,,HALDIRAM BHUJIAWALA,1.25,kg,1.0,20.0,6.67,224.0
+139.0, Kissan Mixed Fruit Jam 90 g ,60.0,55.0,,,KISSAN,90.0,g,1.0,5.0,8.33,611.11
+140.0, Cadbury Oreo ChocoCreme Chocolatey Sandwich Biscuits 43.75 g ,10.0,10.0,,,OREO,43.75,g,1.0,0.0,0.0,228.57
+141.0, Cadbury Chocobakes Chocofilled Cookies 300 g ,170.0,113.0,,,CADBURY,300.0,g,1.0,57.0,33.53,376.67
+142.0, Maggi Pazzta Cheesy Tomato Twist 68.5 g ,32.0,24.0,,,MAGGI,68.5,g,1.0,8.0,25.0,350.36
+143.0, LuvIt Goodies Chocolates Assorted Gift Pack | Gift Pack for Diwali Celebration | Pack of 5 -148.5 g Each ,700.0,499.0,,,LUVIT,200.0,g,5.0,201.0,28.71,499.0
+144.0, Peppy Cheese Balls 60 g ,60.0,30.0,,,PEPPY,60.0,g,1.0,30.0,50.0,500.0
+145.0, Britannia 50-50 Potazos Masti Masala Spicy Flavoured Crisps 71.5 g ,25.0,21.0,,,50-50,71.5,g,1.0,4.0,16.0,293.71
+146.0, Maggi Rich Tomato Ketchup 970 g ,160.0,133.0,,,MAGGI,970.0,g,1.0,27.0,16.88,137.11
+147.0, Britannia NutriChoice Hi-Fibre Digestive Biscuits 250 g ,70.0,59.0,,,BRITANNIA,250.0,g,1.0,11.0,15.71,236.0
+148.0, Bikaji Falahari Mix 200 g ,80.0,53.0,,,BIKAJI,200.0,g,1.0,27.0,33.75,265.0
+149.0, Lijjat Udad Papad 200 g ,77.0,69.0,,,LIJJAT,200.0,g,1.0,8.0,10.39,345.0
+150.0, Ching's Secret Just Soak Veg Hakka Noodles 140 g ,30.0,22.0,,,CHING'S SECRET,140.0,g,1.0,8.0,26.67,157.14
+151.0, Kellogg's Moons & Stars Chocos Cereal 1.2 kg ,600.0,260.0,,,KELLOGG'S,1.2,kg,1.0,340.0,56.67,216.67
+152.0, Parle Milk Shakti Biscuits 350 g ,100.0,50.0,,,PARLE,350.0,g,1.0,50.0,50.0,142.86
+153.0, Dukes Nice Sugar Sprinkled Coconut Biscuits 145 g ,35.0,23.0,,,DUKES,145.0,g,1.0,12.0,34.29,158.62
+154.0, Dabur Squeezy Honey 400 g (Buy 1 Get 1) ,399.0,263.0,,,DABUR,400.0,g,1.0,136.0,34.09,657.5
+155.0, Snactac Bikaneri Bhujia 1 kg ,350.0,175.0,,,SNACTAC,1.0,kg,1.0,175.0,50.0,175.0
+156.0, Lay's American Style Cream & Onion Potato Chips 40 g ,20.0,18.0,,,LAY'S,40.0,g,1.0,2.0,10.0,450.0
+157.0, Maggi Nutri-licious Masala Instant Veg Atta Noodles 72.5 g ,30.0,27.0,,,MAGGI,72.5,g,1.0,3.0,10.0,372.41
+158.0, Zandu Pure Honey 500 g ,240.0,160.0,,,ZANDU,500.0,g,1.0,80.0,33.33,320.0
+159.0, Wingreens Farm Traditional Recipe Pizza & Pasta Sauce 450 g ,149.0,74.0,,,WINGREENS FARMS,450.0,g,1.0,75.0,50.34,164.44
+160.0, Haldiram's Kaju Katli 200 g X 1 Box ,374.0,329.0,,,"HALDIRAM""S BHUJIA (DE.)",200.0,g,1.0,45.0,12.03,1645.0
+161.0, Best Farms Frozen Green Peas 500 g ,160.0,80.0,,,BEST FARMS,500.0,g,1.0,80.0,50.0,160.0
+162.0, Bhujialalji Bikaneri Bhujia ( pack of 1) 1kg Rajasthani Bhujia ,280.0,199.0,,,BHUJIALALJI,200.0,g,1.0,81.0,28.93,995.0
+163.0, Ferrero Rocher Chocolate Balls 300 g ,929.0,696.0,,,FERRERO ROCHER,300.0,g,1.0,233.0,25.08,2320.0
+164.0, Britannia Marie Gold Biscuits Combo Pack 585 g (Buy 4 Get 1 Free) ,88.0,88.0,,,MARIEGOLD,585.0,g,1.0,0.0,0.0,150.43
+165.0, Nutella Ferrero Hazelnut Spread With Cocoa 350 g ,399.0,318.0,,,NUTELLA,350.0,g,1.0,81.0,20.3,908.57
+166.0, Parle Milano Hide & Seek Choco Filled Cookies 250 g ,180.0,90.0,,,PARLE,250.0,g,1.0,90.0,50.0,360.0
+167.0, Bambino Premium Vermicelli 850 g ,85.0,75.0,,,BAMBINO,850.0,g,1.0,10.0,11.76,88.24
+168.0, Cadbury Dairy Milk Oreo Chunks Lickables Chocolate 20 g ,50.0,45.0,,,CADBURY,20.0,g,1.0,5.0,10.0,2250.0
+169.0," HF, Surya 400gm Soan Papdi (Pack of 2; 200g x 2) | Best Indian Sweet ",200.0,149.0,,,"HF, SURYA",400.0,gm,2.0,51.0,25.5,186.25
+170.0, Parle Fab Jam-In Cream Biscuits 150 g ,50.0,46.0,,,PARLE,150.0,g,1.0,4.0,8.0,306.67
+171.0, Pulse Kaccha Aam Candy 209 g ,60.0,40.0,,,PASS PASS,209.0,g,1.0,20.0,33.33,191.39
+172.0, Haldiram's Moong Dal 400 g ,105.0,85.0,,,HALDIRAM’S NAGPUR,400.0,g,1.0,20.0,19.05,212.5
+173.0, Kellogg's Nuts Delight Muesli 1 kg ,810.0,415.0,,,KELLOGG'S,1.0,kg,1.0,395.0,48.77,415.0
+174.0, Lays American Style Cream & Onion Potato Chips 73 g ,30.0,27.0,,,LAY'S,73.0,g,1.0,3.0,10.0,369.86
+175.0, Britannia NutriChoice Hi-Fibre 5 Grain Digestive Biscuits 200 g ,70.0,55.0,,,BRITANNIA,200.0,g,1.0,15.0,21.43,275.0
+176.0, Sunfeast Active Marie Light Biscuits Family Pack 186 g ,30.0,27.0,,,SUNFEAST,186.0,g,1.0,3.0,10.0,145.16
+177.0, Snactac Moong Dal 150 g ,72.0,36.0,,,SNACTAC,150.0,g,1.0,36.0,50.0,240.0
+178.0, Maggi 2-Minute Special Masala Instant Noodles 70 g ,20.0,18.0,,,MAGGI,200.0,g,1.0,2.0,10.0,90.0
+179.0, Sunfeast Yippee Cheese Pasta Treat 65 g ,28.0,18.0,,,SUNFEAST,65.0,g,1.0,10.0,35.71,276.92
+180.0, Aarambh Oats 1 kg ,230.0,115.0,,,AARAMBH,1.0,kg,1.0,115.0,50.0,115.0
+181.0, Candzey Pan Banarsi Candy 100 g ,40.0,20.0,,,CANDZEY,100.0,g,1.0,20.0,50.0,200.0
+182.0, Saffola Classic Instant Masala Oats 38 g ,17.0,15.0,,,SAFFOLA,38.0,g,1.0,2.0,11.76,394.74
+183.0, MTR Vermicelli 850 g ,87.0,60.0,,,MTR,850.0,g,1.0,27.0,31.03,70.59
+184.0, Parle Poppins 100 g ,30.0,22.0,,,PARLE,100.0,g,1.0,8.0,26.67,220.0
+185.0, Orion Choco Pie 28 g (12 pcs) ,170.0,113.0,,,ORION,28.0,g,1.0,57.0,33.53,4035.71
+186.0, Knorr Tomato Chatpata Instant Cup-a-Soup 13.5 g ,10.0,10.0,,,KNORR,13.5,g,1.0,0.0,0.0,740.74
+187.0, Cadbury Dairy Milk Maha Pack Chocolate 55 g ,50.0,45.0,,,CADBURY,55.0,g,1.0,5.0,10.0,818.18
+188.0, Snactac Tasty Peanuts 150 g ,72.0,36.0,,,SNACTAC,150.0,g,1.0,36.0,50.0,240.0
+189.0, Weikfield Macaroni Pasta 900 g ,120.0,89.0,,,WEIKFIELD,900.0,g,1.0,31.0,25.83,98.89
+190.0, Snactac Aloo Bhujia 1 kg ,300.0,150.0,,,SNACTAC,1.0,kg,1.0,150.0,50.0,150.0
+191.0, Cadbury 5 Star 3D Chocolate 45 g ,35.0,24.0,,,CADBURY,200.0,g,1.0,11.0,31.43,120.0
+192.0, Best Farms Frozen Green Peas 1 kg ,300.0,150.0,,,BEST FARMS,1.0,kg,1.0,150.0,50.0,150.0
+193.0, Haldiram's Mixture 350 g ,90.0,84.0,,,HALDIRAM’S NAGPUR,350.0,g,1.0,6.0,6.67,240.0
+194.0, Nestle Classic Milk Chocolate 18 g ,10.0,10.0,,,NESTLE,18.0,g,1.0,0.0,0.0,555.56
+195.0, Kissan Mixed Fruit Jam 200 g ,75.0,66.0,,,KISSAN,200.0,g,1.0,9.0,12.0,330.0
+196.0, Sunfeast Mom's Magic Cashew & Almond Cookies 197 g ,45.0,41.0,,,SUNFEAST,197.0,g,1.0,4.0,8.89,208.12
+197.0, Parle Fab! Bourbon Chocolate Sandwich Biscuits 500 g ,160.0,80.0,,,PARLE,500.0,g,1.0,80.0,50.0,160.0
+198.0, Parle Monaco Classic Regular Salted Biscuits 400 g ,80.0,68.0,,,PARLE,400.0,g,1.0,12.0,15.0,170.0
+199.0, Sunfeast Yippee Magic Masala Instant Noodles 480 g ,105.0,70.0,,,SUNFEAST,480.0,g,1.0,35.0,33.33,145.83
+200.0, Snac tac Tomato Ketchup 950 g ,160.0,80.0,,,SNACTAC,950.0,g,1.0,80.0,50.0,84.21
+201.0, Nestle Milkybar 42 g ,40.0,32.0,,,MILKYBAR,42.0,g,1.0,8.0,20.0,761.9
+202.0, Bambino Roasted Vermicelli 850 g ,115.0,104.0,,,BAMBINO,850.0,g,1.0,11.0,9.57,122.35
+203.0, Act II Chilli Surprise Instant Popcorn 30 g ,12.0,12.0,,,ACT II,30.0,g,1.0,0.0,0.0,400.0
+204.0, Dukes Waffy Chocolate Wafers 60 g ,50.0,25.0,,,DUKES,60.0,g,1.0,25.0,50.0,416.67
+205.0, MTR 3 Minute Breakfast Poha Mix 60 g ,27.0,18.0,,,MTR,200.0,g,1.0,9.0,33.33,90.0
+206.0, Saffola Veggie Twist Instant Masala Oats 38 g ,17.0,15.0,,,SAFFOLA,38.0,g,1.0,2.0,11.76,394.74
+207.0, Bambino Saon Papdi Butterscotch Flavour 400 Gms (Each 200 Gms X Pack of 2) ,180.0,149.0,,,BAMBINO,400.0,gms,2.0,31.0,17.22,186.25
+208.0, GONGLOO Homemade Rajasthani Green Chilli Pickle | Ready to Eat Hari Mirch ka Achar | High in Vitamin C & Fibre | Hygienically Packed | Rich in Antioxidants | Improves Digestion | 300 GM ,259.0,166.0,,,GONGLOO,300.0,gm,1.0,93.0,35.91,553.33
+209.0, Indiyum Kaju Barfi 200g ,260.0,205.0,,,INDIYUM,200.0,g,1.0,55.0,21.15,1025.0
+210.0, Britannia NutriChoice Seeds Biscuits 75 g ,25.0,21.0,,,NUTRI CHOICE,75.0,g,1.0,4.0,16.0,280.0
+211.0, Haldiram Bhujiawala Navrattan Namkeen 800g | Delicious Spicy Flavour | Pack of 2 | 400 Grams Each ,260.0,220.0,,,HALDIRAM BHUJIAWALA,800.0,g,2.0,40.0,15.38,137.5
+212.0, Veganic Organic Mixture Namkin | Delicious Namkeen with Peanut | Tea Time Snacks 400g ,299.0,199.0,,,VEGANIC,400.0,g,1.0,100.0,33.44,497.5
+213.0, Bagrry's Original & Healthier Cornflakes Plus 800 g ,399.0,199.0,,,BAGRRY'S,800.0,g,1.0,200.0,50.13,248.75
+214.0, Knorr Manchow Veg Instant Cup-a-Soup 11 g ,10.0,10.0,,,KNORR,11.0,g,1.0,0.0,0.0,909.09
+215.0, Quaker Oats 400 g ,79.0,69.0,,,QUAKER,400.0,g,1.0,10.0,12.66,172.5
+216.0, Cadbury Dairy Milk Silk Chocolate 60 g ,80.0,74.0,,,CADBURY,60.0,g,1.0,6.0,7.5,1233.33
+217.0, Dukes Waffy Orange Wafers 60 g ,50.0,25.0,,,DUKES,60.0,g,1.0,25.0,50.0,416.67
+218.0, Sundrop Crunchy Peanut Butter 924 g ,285.0,256.0,,,SUNDROP,924.0,g,1.0,29.0,10.18,277.06
+219.0, Unibic Choco Kiss Cookies 250 g ,160.0,72.0,,,UNIBIC,250.0,g,1.0,88.0,55.0,288.0
+220.0, Chheda's Yellow Banana Chips 170 g ,100.0,59.0,,,CHHEDA'S,170.0,g,1.0,41.0,41.0,347.06
+221.0, Britannia NutriChoice Orange Oats Cookies 75 g ,25.0,21.0,,,BRITANNIA,75.0,g,1.0,4.0,16.0,280.0
+222.0, Mcvitie's Digestive Biscuits 200 g ,60.0,30.0,,,MCVITIE'S,200.0,g,1.0,30.0,50.0,150.0
+223.0, Candzey Orange Slices Candy 100 g ,40.0,20.0,,,CANDZEY,100.0,g,1.0,20.0,50.0,200.0
+224.0, Cadbury Dairy Milk Silk Fruit & Nut Chocolate 55 g ,85.0,74.0,,,CADBURY,55.0,g,1.0,11.0,12.94,1345.45
+225.0, Bambino Nutraawell Elbow Macaroni Pasta 850 g ,109.0,99.0,,,BAMBINO,850.0,g,1.0,10.0,9.17,116.47
+226.0, Knorr Classic Thick Tomato Soup 53 g ,60.0,45.0,,,KNORR,53.0,g,1.0,15.0,25.0,849.06
+227.0, Quaker Oats 1.5 kg ,292.0,208.0,,,QUAKER,1.5,kg,1.0,84.0,28.77,138.67
+228.0, Britannia Milk Bikis Milky Sandwich Biscuits 200 g ,50.0,46.0,,,BRITANNIA,200.0,g,1.0,4.0,8.0,230.0
+229.0, Bagrry's White Oats 1 kg ,210.0,135.0,,,BAGRRY'S,1.0,kg,1.0,75.0,35.71,135.0
+230.0, Snactac Aloo Bhujia 150 g ,72.0,36.0,,,SNACTAC,150.0,g,1.0,36.0,50.0,240.0
+231.0, Cadbury Chocobakes Choc Layered Cake 19 g ,10.0,10.0,,,CADBURY,19.0,g,1.0,0.0,0.0,526.32
+232.0, Act II Golden Sizzle Popcorn 60 g (3 pcs) ,60.0,49.0,,,ACT II,60.0,g,1.0,11.0,18.33,816.67
+233.0, Parle Hide & Seek Caffe Mocha Coffee & Chocolate Chip Cookies 100 g ,30.0,27.0,,,PARLE,100.0,g,1.0,3.0,10.0,270.0
+234.0, Cadbury 5 Star Chocolate 40 g ,20.0,16.0,,,CADBURY,200.0,g,1.0,4.0,20.0,80.0
+235.0, Ching's Secret Schezwan Instant Noodles 240 g ,80.0,45.0,,,CHING'S SECRET,240.0,g,1.0,35.0,43.75,187.5
+236.0, Milkybar Chocolate 12.5 g ,10.0,10.0,,,MILKYBAR,12.5,g,1.0,0.0,0.0,800.0
+237.0, Surabhi D-Lite Tomato Ketchup (No Onion No Garlic) 900 g ,135.0,67.0,,,SURABHI,900.0,g,1.0,68.0,50.37,74.44
+238.0, Cadbury Dairy Milk Silk Chocolate 150 g ,175.0,150.0,,,CADBURY,150.0,g,1.0,25.0,14.29,1000.0
+239.0," Yogabar High Protein Muesli 850g | Protein Food with Choco Almond & Cranberry | Protein Breakfast Cereals | Premium Whey Protein Isolate | Added Almonds & Probiotics with Dark Chocolate Muesli, Nuts, Seeds & Dry Fruits | 100% Vegan & No Preservatives ",825.0,599.0,,,YOGABAR,850.0,g,1.0,226.0,27.39,704.71
+240.0, Dukes Waffy Vanilla Wafers 60 g ,50.0,25.0,,,DUKES,60.0,g,1.0,25.0,50.0,416.67
+241.0, Knorr Sweet Corn Veg Instant Cup-a-Soup 10 g ,10.0,10.0,,,KNORR,10.0,g,1.0,0.0,0.0,1000.0
+242.0, Cadbury Fuse Chocolate 25 g ,20.0,18.0,,,CADBURY,25.0,g,1.0,2.0,10.0,720.0
+243.0, Britannia Jimjam Cream Biscuits 92 g (Buy 4 Get 1) ,100.0,93.0,,,BRITANNIA,92.0,g,1.0,7.0,7.0,1010.87
+244.0, Snactac Masala Noodles 560 g (8 in 1 Pack) ,150.0,75.0,,,SNACTAC,560.0,g,1.0,75.0,50.0,133.93
+245.0, Sunfeast Farmlite Digestive High Fibre Biscuits 100 g ,20.0,13.0,,,SUNFEAST FARMLITE,100.0,g,1.0,7.0,35.0,130.0
+246.0, Cadbury Gold Choclairs 520 g (Pack of 100) ,200.0,180.0,,,CADBURY,520.0,g,100.0,20.0,10.0,3.46
+247.0, Malkist Cheese Flavoured Cracker Biscuits (family pack) - 72g (Pack of 12 ) ,360.0,360.0,,,MALKIST,72.0,g,12.0,0.0,0.0,416.67
+248.0, Mayora Malkist Chocolate Cracker Biscuits 144 g ,60.0,45.0,,,MALKIST,144.0,g,1.0,15.0,25.0,312.5
+249.0, Dabur Hommade Tangy-Licious Imli Sauce 100 g ,35.0,17.0,,,HOMMADE,100.0,g,1.0,18.0,51.43,170.0
+250.0, Candzey Chatpati Candy 100 g ,40.0,20.0,,,CANDZEY,100.0,g,1.0,20.0,50.0,200.0
+251.0, Shree Misthan Kaju Besan Ladoo 400g ,280.0,175.0,,,SHREE MISTHAN,400.0,g,1.0,105.0,37.5,437.5
+252.0," Winola Milk Choco Biscuit Balls- Chocolate Munchies, Chocolate Balls (1 kg) ",1000.0,304.0,,,WINOLA,1.0,kg,1.0,696.0,69.6,304.0
+253.0, Too Yum Aloo Chat Potato Stix 70 g ,60.0,30.0,,,TOO YUMM,70.0,g,1.0,30.0,50.0,428.57
+254.0, Bambino Elbow Macaroni Pasta 400 g ,55.0,50.0,,,BAMBINO,400.0,g,1.0,5.0,9.09,125.0
+255.0, Pintola All Natural Crunchy Peanut Butter 1kg ,449.0,408.0,,,PINTOLA,1.0,kg,1.0,41.0,9.13,408.0
+256.0, Britannia NutriChoice Digestive Zero Biscuits 100 g ,35.0,30.0,,,BRITANNIA,100.0,g,1.0,5.0,14.29,300.0
+257.0, Dukes Choco Safari Chocolate 250 g ,160.0,99.0,,,DUKES,250.0,g,1.0,61.0,38.12,396.0
+258.0, Knorr Classic Hot & Sour Vegetable Soup 41 g ,60.0,45.0,,,KNORR,41.0,g,1.0,15.0,25.0,1097.56
+259.0, Delight Foods Original Agra Dry Petha 350g Indian Sweets Mithai ,207.0,130.0,,,DELIGHT FOODS,350.0,g,1.0,77.0,37.2,371.43
+260.0, LuvIt Chocwich White With Crunchy Wafers Coated with Rich White Chocolate| Pack of 1 -468g ,260.0,226.0,,,LUVIT,200.0,g,1.0,34.0,13.08,1130.0
+261.0, Candzey Mix Fruits Candy 100 g ,40.0,20.0,,,CANDZEY,100.0,g,1.0,20.0,50.0,200.0
+262.0, Knorr Pizza & Pasta Sauce 200 g ,65.0,43.0,,,KNORR,200.0,g,1.0,22.0,33.85,215.0
+263.0, Saffola Oats 1 kg ,235.0,209.0,,,SAFFOLA,1.0,kg,1.0,26.0,11.06,209.0
+264.0, Cadbury Dairy Milk Crispello Chocolate 35 g ,35.0,32.0,,,CADBURY,35.0,g,1.0,3.0,8.57,914.29
+265.0, Dukes Masala Nibbles 150 g ,60.0,40.0,,,DUKES,150.0,g,1.0,20.0,33.33,266.67
+266.0," Yogabar Dark Chocolate Muesli with Cranberry 700g (Pack of 2) | Healthy Protein Breakfast Cereal | Added Chocolate & Cranberry with Seeds, Dry Fruits & Whole Grains | High in Iron & Fiber | 100% Vegan & No Preservatives ",998.0,699.0,,,YOGA BAR,700.0,g,2.0,299.0,29.96,499.29
+267.0, Shree Misthan Kaju Katli 800g (200g X 4) ,1040.0,799.0,,,SHREE MISTHAN,800.0,g,1.0,241.0,23.17,998.75
+268.0, Uncle Chipps Spicy Treat Potato Chips 37 g ,20.0,18.0,,,UNCLE CHIPPS,37.0,g,1.0,2.0,10.0,486.49
+269.0," Snickers Peanut Filled Chocolate Bar 45g, (Pack of 12) ",600.0,407.0,,,SNICKERS,45.0,g,12.0,193.0,32.17,753.7
+270.0, APLENTY Fryums Mix - Ready To Fry Papad With Tastemaker - 400 GM | Holi Special Fryum Pack | Holee Special Snacks | Combo Pack Of Best Fryum ,299.0,195.0,,,APLENTY,400.0,gm,1.0,104.0,34.78,487.5
+271.0, Kissan Fresh Tomato Ketchup 1 kg ,156.0,140.0,,,KISSAN,1.0,kg,1.0,16.0,10.26,140.0
+272.0, Nutella Ferrero Hazelnut Spread With Cocoa 180 g ,239.0,186.0,,,NUTELLA,180.0,g,1.0,53.0,22.18,1033.33
+273.0, Sunfeast Yippee! Power Up Atta Noodles 280 g ,96.0,57.0,,,SUNFEAST,280.0,g,1.0,39.0,40.62,203.57
+274.0, Haldiram's Nagpur Bhujia Sev 200 g ,55.0,50.0,,,HALDIRAM’S NAGPUR,200.0,g,1.0,5.0,9.09,250.0
+275.0, Malkist Cheese Flavoured Cracker Biscuits (family pack) - 144g (Pack of 4 ) with Cash Back offer ,240.0,240.0,,,MALKIST,144.0,g,4.0,0.0,0.0,416.67
+276.0, LuvIt Goodies Chocolates Assorted Gift Pack | Gift Pack for Diwali Celebration | Pack of 1 - 148.5g ,140.0,127.0,,,LUVIT,200.0,g,1.0,13.0,9.29,635.0
+277.0, Parle Milano Hide & Seek Centre Filled Mixed Berries Biscuits 75 g ,40.0,30.0,,,PARLE,75.0,g,1.0,10.0,25.0,400.0
+278.0, Maggi Mushroom Penne Pazzta 68.5 g ,32.0,24.0,,,MAGGI,68.5,g,1.0,8.0,25.0,350.36
+279.0, Diwali Gift hampers with Dry Fruits/Dry Fruits Combo Pack/Dry fruits gift pack-Decorated Basket+2 Jars of Dry Fruits(Almond and Cashew)+handmade diary+2 designer Diya+4 Rangoli Colours+Diwali Card ,1400.0,599.0,,,MANTOUSS,200.0,g,1.0,801.0,57.21,2995.0
+280.0, McCain French Fries 420 g ,115.0,97.0,,,MCCAIN,420.0,g,1.0,18.0,15.65,230.95
+281.0, Snickers Peanut Chocolate 45 g ,50.0,39.0,,,SNICKERS,45.0,g,1.0,11.0,22.0,866.67
+282.0, Cornitos Cheese & Herbs Nacho Crisps 55 g ,35.0,28.0,,,CORNITOS,55.0,g,1.0,7.0,20.0,509.09
+283.0, Britannia Good Day Cashew Cookies 52.5 g ,10.0,10.0,,,BRITANNIA,52.5,g,1.0,0.0,0.0,190.48
+284.0, Ghasitaram's Bhavnagari Gathiya (400 GMS) ,200.0,123.0,,,GHASITARAM'S,400.0,gms,1.0,77.0,38.5,307.5
+285.0," Futurelife White Oats | Whole Grains Oats | With Targeted Minerals of Zinc, Chromium and Magnesium | Gluten-free | High Fiber and Protein | 100% Healthy & Natural | 1kg Pouch ",180.0,149.0,,,FUTURELIFE,1.0,kg,1.0,31.0,17.22,149.0
+286.0, Shree Misthan Soan Papdi 400g ,280.0,189.0,,,SHREE MISTHAN,400.0,g,1.0,91.0,32.5,472.5
+287.0, Unibic Choco Chip Cookies 500 g ,200.0,100.0,,,UNIBIC,500.0,g,1.0,100.0,50.0,200.0
+288.0, McCain Smiles Value Pack 750 g ,240.0,204.0,,,MCCAIN,750.0,g,1.0,36.0,15.0,272.0
+289.0, Parle Monaco Pizza Masala Crunch Biscuits 311 g ,130.0,65.0,,,PARLE,311.0,g,1.0,65.0,50.0,209.0
+290.0, Cadbury Oreo Choco Creme Biscuits 288.75 g ,85.0,59.0,,,OREO,288.75,g,1.0,26.0,30.59,204.33
+291.0, Parle Platina Hide & Seek Milano Chocolate Chip Biscuits 150 g ,120.0,60.0,,,PARLE,150.0,g,1.0,60.0,50.0,400.0
+292.0, SAMS Red Chilly Sauce + Soya Sauce + Green Chilly Sauce 300 g (Pack of 3) ,210.0,189.0,,,SAMS,300.0,g,3.0,21.0,10.0,210.0
+293.0, Sunfeast Yippee Creamy Corn Tricolor Instant Pasta 65 g ,28.0,26.0,,,YIPPEE,65.0,g,1.0,2.0,7.14,400.0
+294.0," Galaxy Fruit & Nut Silky Smooth Milk Chocolate Bar, 100% Cashback, 52g, (Pack of 8) ",640.0,470.0,,,GALAXY,52.0,g,8.0,170.0,26.56,1129.81
+295.0, Haldiram's Khatta Meetha 350 g ,75.0,65.0,,,HALDIRAM’S NAGPUR,350.0,g,1.0,10.0,13.33,185.71
+296.0, Haldiram Bhujiawala Pure Ghee Soan Papdi 1.5kg (500g X 3 pac) | Delicious Crispy & Flaky Premium | Sweet mithai | Diwali Sweets ,810.0,450.0,,,HALDIRAM BHUJIAWALA,1.5,kg,1.0,360.0,44.44,300.0
+297.0, Shree Misthan Milk Cake (Indian Mithai / Sweets Gift Pack / Box) Festive Gift Box 200g ,240.0,189.0,,,SHREE MISTHAN,200.0,g,1.0,51.0,21.25,945.0
+298.0, Parle-G Original Glucose Biscuit 200 g ,25.0,23.0,,,PARLE,200.0,g,1.0,2.0,8.0,115.0
+299.0, Yogabar 20g High Protein Oats 850g | Choco Almond Oatmeal | High Fiber | Breakfast cereal | Weight Management | Whey Protein | ,699.0,599.0,,,YOGABAR,20.0,g,1.0,100.0,14.31,29950.0
+300.0, Britannia 50-50 Maska Chaska Biscuits 105 g ,30.0,28.0,,,BRITANNIA,200.0,g,1.0,2.0,6.67,140.0
+301.0, Cadbury Dairy Milk Almond Bites 40 g ,75.0,63.0,,,CADBURY,40.0,g,1.0,12.0,16.0,1575.0
+302.0, McCain Chilli Garlic Potato Bites 700 g ,240.0,204.0,,,MCCAIN,700.0,g,1.0,36.0,15.0,291.43
+303.0, Maggi Pichkoo Rich Tomato Ketchup 80 g ,15.0,13.0,,,MAGGI,80.0,g,1.0,2.0,13.33,162.5
+304.0, Kellogg's Corn Flakes 70 g ,30.0,28.0,,,KELLOGG'S,70.0,g,1.0,2.0,6.67,400.0
+305.0, Sunfeast Tomato Cheese Instant Pasta Treat 65 g ,28.0,16.0,,,SUNFEAST,65.0,g,1.0,12.0,42.86,246.15
+306.0, Parle Festive Delights Black Bourbon Choco Creme Sandwich Biscuits 300 g ,150.0,75.0,,,PARLE,300.0,g,1.0,75.0,50.0,250.0
+307.0, Peppy Tomato Discs 60 g ,60.0,30.0,,,PEPPY,60.0,g,1.0,30.0,50.0,500.0
+308.0, Chheda's Golden Lightly Salted Potato Chips 170 g ,85.0,50.0,,,CHHEDA'S,170.0,g,1.0,35.0,41.18,294.12
+309.0, Parle Krack Jack Crackers 200 g ,40.0,37.0,,,PARLE,200.0,g,1.0,3.0,7.5,185.0
+310.0, BTW Gulab Jamun 1 Kg ,325.0,280.0,,,BTW,1.0,kg,1.0,45.0,13.85,280.0
+311.0, Hershey's Kisses Almond Chocolate 33.6 g ,50.0,46.0,,,HERSHEY'S,33.6,g,1.0,4.0,8.0,1369.05
+312.0, Parle Monaco Classic Cheeslings 300 g ,140.0,93.0,,,PARLE,300.0,g,1.0,47.0,33.57,310.0
+313.0, Lay's Spanish Tomato Tango Potato Chips 52 g ,20.0,18.0,,,LAY'S,52.0,g,1.0,2.0,10.0,346.15
+314.0, Haldiram's Nagpur Gulab Jamun 1 kg ,225.0,165.0,,,HALDIRAM’S NAGPUR,1.0,kg,1.0,60.0,26.67,165.0
+315.0, Cadbury Dairy Milk Silk Fruit & Nut Chocolate 137 g ,185.0,164.0,,,CADBURY,137.0,g,1.0,21.0,11.35,1197.08
+316.0, Ram Bandhu Mango Pickle 1 kg ,260.0,130.0,,,RAM BANDHU,1.0,kg,1.0,130.0,50.0,130.0
+317.0, Cadbury Oreo Choco Creme Biscuits 481.25 g ,159.0,99.0,,,OREO,481.25,g,1.0,60.0,37.74,205.71
+318.0, Sunfeast Yippee Noodlemagic Masala 360 g ,78.0,66.0,,,SUNFEAST YIPPEE!,360.0,g,1.0,12.0,15.38,183.33
+319.0, Patanjali Honey 1 kg ,410.0,348.0,,,PATANJALI,1.0,kg,1.0,62.0,15.12,348.0
+320.0, MyFitness Peanut Butter Chocolate Smooth Peanut Butter 1250 gms ,649.0,475.0,,,MYFITNESS PEANUT BUTTER,1250.0,gms,1.0,174.0,26.81,380.0
+321.0, Ching's Secret Manchurian Instant Noodles 240 g ,80.0,49.0,,,CHING'S SECRET,240.0,g,1.0,31.0,38.75,204.17
+322.0, Unibic Assorted Cookies 75 g (Pack of 6) ,180.0,113.0,,,UNIBIC,75.0,g,6.0,67.0,37.22,251.11
+323.0, McCain French Fries 1.25 kg ,330.0,297.0,,,MCCAIN,1.25,kg,1.0,33.0,10.0,237.6
+324.0, Indiyum Sweets Mithai Dhoda Kaju Burfi 400g ,440.0,249.0,,,INDIYUM,400.0,g,1.0,191.0,43.41,622.5
+325.0, Britannia Vita Marie Gold Biscuits 150 g ,30.0,27.0,,,BRITANNIA,150.0,g,1.0,3.0,10.0,180.0
+326.0, Healthy Treat Roasted 5 in 1 Super Seed Mix 150gm | Roasted Seeds Mix for eating | High Protein Snacks | Mixed Seeds for Weight Loss | Nutritious Roasted Super Seed Mix | A Delicious and Healthy Snack | Diet Food ,259.0,215.0,,,HEALTHY TREAT,200.0,g,1.0,44.0,16.99,1075.0
+327.0, Snac tac Mixed Fruit Jam 500 g ,170.0,85.0,,,SNACTAC,500.0,g,1.0,85.0,50.0,170.0
+328.0, Crave Eatables Premium Gulab Jamun 1 kg ,299.0,149.0,,,CRAVE,1.0,kg,1.0,150.0,50.17,149.0
+329.0, Haldirams Mysore Pak 200 g X 1 Box ,254.0,199.0,,,HALDIRAM''S BHUJIA (DE.),200.0,g,1.0,55.0,21.65,995.0
+330.0, Dukes Waffy Pineapple Wafers 60 g ,60.0,30.0,,,DUKES,60.0,g,1.0,30.0,50.0,500.0
+331.0, Lijjat Punjabi Masala Special Papad 200 g ,89.0,80.0,,,LIJJAT,200.0,g,1.0,9.0,10.11,400.0
+332.0, Haldiram Bhujiawala Kashmiri Mixture 800g | Tasty And Spicy | Pack of 2 | 400 gram Each ,304.0,259.0,,,HALDIRAM BHUJIAWALA,800.0,g,2.0,45.0,14.8,161.88
+333.0, Kurkure Solid Masti Masala Twisteez 61 g ,20.0,18.0,,,KURKURE,61.0,g,1.0,2.0,10.0,295.08
+334.0, Bambino Popular Vermicelli 400 g ,45.0,41.0,,,BAMBINO,400.0,g,1.0,4.0,8.89,102.5
+335.0, Saffola Veggie Twist Instant Masala Oats 500 g ,225.0,180.0,,,SAFFOLA,500.0,g,1.0,45.0,20.0,360.0
+336.0, Indiyum Bakarwadi 300g ,199.0,158.0,,,INDIYUM,300.0,g,1.0,41.0,20.6,526.67
+337.0, Trimurti Kings Sweet Corn Frozen 500 g ,110.0,55.0,,,TRIMURTI KINGS,500.0,g,1.0,55.0,50.0,110.0
+338.0, Funfoods Veg Mayonnaise 100 g ,45.0,41.0,,,FUNFOODS,100.0,g,1.0,4.0,8.89,410.0
+339.0, Parle Krackjack Butter Masala Biscuits 307.8 g ,130.0,65.0,,,PARLE,307.8,g,1.0,65.0,50.0,211.18
+340.0, MTR Rava Instant Idli Mix 1 kg ,250.0,169.0,,,MTR,1.0,kg,1.0,81.0,32.4,169.0
+341.0, Britannia Good Day Butter Cookies 600 g (Buy 4 Get 1) ,125.0,99.0,,,BRITANNIA,600.0,g,1.0,26.0,20.8,165.0
+342.0, McCain Aloo Tikki 760 g ,225.0,191.0,,,MCCAIN,760.0,g,1.0,34.0,15.11,251.32
+343.0, Alpenliebe Creamfills Center Filled Candy Butter Toffee 152 g (Pack of 40) ,50.0,45.0,,,ALPENLIEBE,152.0,g,40.0,5.0,10.0,7.4
+344.0, Britannia Vita Marie Gold Biscuits 978 g ,155.0,130.0,,,MARIEGOLD,978.0,g,1.0,25.0,16.13,132.92
+345.0, Maggi Nutri-licious Masala Veg Instant Atta Noodles 435 g ,168.0,143.0,,,MAGGI,435.0,g,1.0,25.0,14.88,328.74
+346.0, Pringles Sour Cream and Onion Potato Crisps 107 g ,115.0,99.0,,,PRINGLES,107.0,g,1.0,16.0,13.91,925.23
+347.0, Bikano Namkeen Mixture 90 g (Combo Pack) ,99.0,99.0,,,BIKANO,90.0,g,1.0,0.0,0.0,1100.0
+348.0, Ram Bandhu Udad Papad 200 g ,90.0,45.0,,,RAM BANDHU,200.0,g,1.0,45.0,50.0,225.0
+349.0, SAMS White Cooking Vinegar 700 ml ,66.0,33.0,,,SAMS,700.0,ml,1.0,33.0,50.0,47.14
+350.0, BTW Kaju Katli 400g ,599.0,399.0,,,BTW,400.0,g,1.0,200.0,33.39,997.5
+351.0, Ching's Secret Manchow Instant Soup 12 g ,30.0,30.0,,,CHING'S SECRET,12.0,g,1.0,0.0,0.0,2500.0
+352.0, Hey Grain Ragi & Oats Sugar Free Cookies - Pack of 2 ,250.0,225.0,,,HEY GRAIN,200.0,g,2.0,25.0,10.0,562.5
+353.0, Ching's Secret Dark Soy Sauce 210 g ,60.0,54.0,,,CHING'S SECRET,210.0,g,1.0,6.0,10.0,257.14
+354.0, Soulfull Millet Muesli With Fruits & Almonds 700 g ,529.0,264.0,,,SOULFULL,700.0,g,1.0,265.0,50.09,377.14
+355.0, Hershey's Chocolate Syrup 623 g ,230.0,180.0,,,HERSHEY'S,623.0,g,1.0,50.0,21.74,288.92
+356.0, Knorr Schezwan Sauce 200 g ,70.0,46.0,,,KNORR,200.0,g,1.0,24.0,34.29,230.0
+357.0, Weikfield Cornflour Starch 100 g ,30.0,25.0,,,WEIKFIELD,100.0,g,1.0,5.0,16.67,250.0
+358.0, McCain Veggie Fingers 400 g ,155.0,139.0,,,MCCAIN,400.0,g,1.0,16.0,10.32,347.5
+359.0, Ching's Secret Hot & Sour Instant Soup 12 g ,10.0,10.0,,,CHING'S SECRET,12.0,g,1.0,0.0,0.0,833.33
+360.0, Bhujialalji Bikaneri | Aloo bhujia | Khatta meetha | Navratna mix | Soya stick | Rajasthani Namkeen | indian Spices | Indian Tea Time Fresh & Mixture | Ready to eat | No Preservatives (Combo pack of 5) 150gm each ,256.0,230.0,,,BHUJIALALJI,200.0,g,5.0,26.0,10.16,230.0
+361.0, Ching's Secret Hot Garlic Instant Noodles 240 g ,80.0,40.0,,,CHING'S SECRET,240.0,g,1.0,40.0,50.0,166.67
+362.0," Yogabar Instant Oats 1Kg | Premium Oats, Ready to Cook, Gluten Free Oats with High Fibre, 100% Whole Grain, Non-GMO, 1Kg ",299.0,199.0,,,YOGABAR,1.0,kg,1.0,100.0,33.44,199.0
+363.0, Parle Rol . a . Cola Candy 100 g ,30.0,22.0,,,PARLE,100.0,g,1.0,8.0,26.67,220.0
+364.0," Uttam Besan ladoo 200 g Box, (pack of 4), Ready to Eat ",320.0,266.0,,,UTTAM,200.0,g,4.0,54.0,16.88,332.5
+365.0, Unibic Choco Nut Cookies 500 g (5 x 100 g) ,190.0,95.0,,,UNIBIC,500.0,g,1.0,95.0,50.0,190.0
+366.0, Cadbury Bournvita Biscuits 400 g ,120.0,90.0,,,BOURNVITA,400.0,g,1.0,30.0,25.0,225.0
+367.0, Too Yumm Tomato Twist Rings 70 g ,60.0,30.0,,,TOO YUMM,70.0,g,1.0,30.0,50.0,428.57
+368.0, Ghasitarams Gulab Jamun 1kg+ Rassogulla 1kg Combo (2 kg total) ,800.0,440.0,,,GHASITARAM,1.0,kg,1.0,360.0,45.0,440.0
+369.0, Unibic Sugar Free Cashew Cookies 75 g ,60.0,40.0,,,UNIBIC,75.0,g,1.0,20.0,33.33,533.33
+370.0, Kissan Mixed Fruit Jam 500 g ,180.0,167.0,,,KISSAN,500.0,g,1.0,13.0,7.22,334.0
+371.0, Britannia Treat Strawberry Creme Wafers Biscuits 55 g ,50.0,25.0,,,TREAT,55.0,g,1.0,25.0,50.0,454.55
+372.0, Haldiram's Khatta Meetha 1 kg ,200.0,155.0,,,HALDIRAM’S NAGPUR,1.0,kg,1.0,45.0,22.5,155.0
+373.0, Snactac All In One Mixture 150 g ,72.0,36.0,,,SNACTAC,150.0,g,1.0,36.0,50.0,240.0
+374.0, Haldiram Bhujiawala Desi Ghee Soan Papdi 500g | Crispy And Flaky Instant Ready To Eat | Sweet mithai | Diwali Sweets ,270.0,240.0,,,HALDIRAM BHUJIAWALA,500.0,g,1.0,30.0,11.11,480.0
+375.0, Funfoods Original Veg Mayonnaise 875 g ,219.0,169.0,,,FUNFOODS,875.0,g,1.0,50.0,22.83,193.14
+376.0, Unibic Choco Chip Cookies 75 g ,30.0,25.0,,,UNIBIC,75.0,g,1.0,5.0,16.67,333.33
+377.0, Indiyum Kaju Besan Laddu 400g ,280.0,220.0,,,INDIYUM,400.0,g,1.0,60.0,21.43,550.0
+378.0, Parle Hide & Seek Almond Chocolate Chip Cookies 100 g ,30.0,27.0,,,PARLE,100.0,g,1.0,3.0,10.0,270.0
+379.0, Unibic Cashew Cookies 75 g ,30.0,23.0,,,UNIBIC,75.0,g,1.0,7.0,23.33,306.67
+380.0, Inchi Veg Hakka Noodles 150 g ,40.0,20.0,,,INCHI,150.0,g,1.0,20.0,50.0,133.33
+381.0, MyFitness Peanut Butter Original crunchy Peanut Butter 510 gms ,320.0,224.0,,,MYFITNESS PEANUT BUTTER,510.0,gms,1.0,96.0,30.0,439.22
+382.0, Snactac Bikaneri Bhujia 150 g ,72.0,36.0,,,SNACTAC,150.0,g,1.0,36.0,50.0,240.0
+383.0, LANDMARK Landmark Mix Desi Mithai Box 250 Gram || Made with Pure Desi Ghee ,399.0,197.0,,,LANDMARK,250.0,gram,1.0,202.0,50.63,788.0
+384.0, Kinder Joy Blue Edition Surprise Chocolate 20 g ,45.0,41.0,,,KINDER JOY,20.0,g,1.0,4.0,8.89,2050.0
+385.0, Haldiram's Murukku 200 g ,65.0,60.0,,,HALDIRAM’S NAGPUR,200.0,g,1.0,5.0,7.69,300.0
+386.0," Shree Misthan Dodha Barfi (Burfi, Indian Mithai / Sweets Gift Pack / Box) Festive Gift Box 200g ",250.0,189.0,,,SHREE MISTHAN,200.0,g,1.0,61.0,24.4,945.0
+387.0, Aarambh Oats 1.5 kg ,330.0,165.0,,,AARAMBH,1.5,kg,1.0,165.0,50.0,110.0
+388.0, Cadbury Dairy Milk Hazelnut Bites 40 g ,75.0,52.0,,,CADBURY,40.0,g,1.0,23.0,30.67,1300.0
+389.0, Cadbury Celebrations Rich Dry Fruit Collection 110 g ,375.0,250.0,,,CADBURY,110.0,g,1.0,125.0,33.33,2272.73
+390.0, Cadbury Bournville Rich Cocoa Dark Chocolate 80 g ,100.0,90.0,,,BOURNVILLE,80.0,g,1.0,10.0,10.0,1125.0
+391.0, Bikaji Kuch-Kuch All In One Mixture 1 kg ,320.0,220.0,,,BIKAJI,1.0,kg,1.0,100.0,31.25,220.0
+392.0, Haldiram's Nagpur Lite Chiwda 200 g ,40.0,37.0,,,HALDIRAM’S NAGPUR,200.0,g,1.0,3.0,7.5,185.0
+393.0, Yogabar Super 100% Rolled Oats 1kg | Ideal Breakfast for Weight Loss | Gluten Free | Premium Oats | Healthy Protein Food & Breakfast cereal | High in Iron & Fibre | 100% Vegan & No Preservatives ,490.0,299.0,,,YOGABAR,1.0,kg,1.0,191.0,38.98,299.0
+394.0, Pringles Original Potato Crisps 134 g ,170.0,113.0,,,PRINGLES,134.0,g,1.0,57.0,33.53,843.28
+395.0, Unibic Choco Nut Cookies 75 g ,30.0,27.0,,,UNIBIC,75.0,g,1.0,3.0,10.0,360.0
+396.0, Hellmann's Creamy & Rich Real Mayonnaise 800 g ,205.0,165.0,,,HELLMANN'S,800.0,g,1.0,40.0,19.51,206.25
+397.0, Dabur Honey 250 g ,120.0,111.0,,,DABUR,250.0,g,1.0,9.0,7.5,444.0
+398.0, Parle Magix Orange Sandwich Biscuit 183.6 g ,60.0,30.0,,,PARLE MAGIX,183.6,g,1.0,30.0,50.0,163.4
+399.0, Cornitos Sizzlin Jalapeno Nacho Crisps 55 g ,35.0,28.0,,,CORNITOS,55.0,g,1.0,7.0,20.0,509.09
+400.0, Cadbury Dairy Milk Silk Bubbly Chocolate 50 g ,90.0,83.0,,,CADBURY,50.0,g,1.0,7.0,7.78,1660.0
+401.0, Kellogg's Chocos Fills Double Chocolaty 165 g ,99.0,92.0,,,KELLOGG'S,165.0,g,1.0,7.0,7.07,557.58
+402.0, Lay's Spanish Tomato Tango Potato Chips 73 g ,30.0,27.0,,,LAY'S,73.0,g,1.0,3.0,10.0,369.86
+403.0, Chheda's Salt & Pepper Banana Chips 170 g ,75.0,50.0,,,CHHEDA'S,170.0,g,1.0,25.0,33.33,294.12
+404.0, Ching's Secret Red Chilli Sauce 200 g ,60.0,45.0,,,CHING'S SECRET,200.0,g,1.0,15.0,25.0,225.0
+405.0, Cadbury Nutties 30 g ,45.0,41.0,,,CADBURY,30.0,g,1.0,4.0,8.89,1366.67
+406.0, 9am Mixed Fruit Jam (Pack of 2 - Each 450gm) ,360.0,175.0,,,9 AM,200.0,g,2.0,185.0,51.39,437.5
+407.0, Funfoods Original Veg Mayonnaise 250 g ,89.0,82.0,,,FUNFOODS,250.0,g,1.0,7.0,7.87,328.0
+408.0, Britannia Treat Choco Creme Wafers Biscuit 55 g ,50.0,25.0,,,TREAT,55.0,g,1.0,25.0,50.0,454.55
+409.0, Cadbury Choclairs Gold 137.5 g (Pack of 25) ,59.0,53.0,,,CADBURY,137.5,g,25.0,6.0,10.17,15.42
+410.0, Bhikharam Chandmal - Plain Bhujia - Namkeen - Indian Snacks - 375Gm (Pack of 1) ,200.0,161.0,,,BHIKHARAM CHANDMAL,375.0,gm,1.0,39.0,19.5,429.33
+411.0, Maggi Pazzta Masala Penne Family Saver Pack 139 g ,62.0,57.0,,,MAGGI,139.0,g,1.0,5.0,8.06,410.07
+412.0, Ching's Secret Green Chilli Sauce 190 g ,60.0,54.0,,,CHING'S SECRET,190.0,g,1.0,6.0,10.0,284.21
+413.0, Unibic Snappers Indi Spice Potato Crackers 75 g (Pack of 4) ,150.0,75.0,,,UNIBIC,75.0,g,4.0,75.0,50.0,250.0
+414.0, Cornitos Cheese And Herbs Nacho Crisps 75 g ,50.0,33.0,,,CORNITOS,75.0,g,1.0,17.0,34.0,440.0
+415.0, Weikfield Cocoa Powder 50 g ,70.0,60.0,,,WEIKFIELD,50.0,g,1.0,10.0,14.29,1200.0
+416.0, Saffola Peppy Tomato Instant Masala Oats 38 g ,17.0,15.0,,,SAFFOLA,38.0,g,1.0,2.0,11.76,394.74
+417.0, Parle Marie Biscuits 250 g ,40.0,27.0,,,PARLE,250.0,g,1.0,13.0,32.5,108.0
+418.0, Munch Max Chocolate 42 g ,20.0,18.0,,,MUNCH,42.0,g,1.0,2.0,10.0,428.57
+419.0, Lijjat Udad Papad 500 g ,190.0,161.0,,,LIJJAT,500.0,g,1.0,29.0,15.26,322.0
+420.0, Maggi Pazzta Cheese Macaroni (Family Saver Pack) 150 g ,62.0,57.0,,,MAGGI,150.0,g,1.0,5.0,8.06,380.0
+421.0, Snactac Khatta Meetha 150 g ,72.0,36.0,,,SNACTAC,150.0,g,1.0,36.0,50.0,240.0
+422.0, Kwality Muesli Crunchy Almond & Raisins 1kg Jar ,599.0,349.0,,,KWALITY,1.0,kg,1.0,250.0,41.74,349.0
+423.0, Add me Amla Murabba Vark Kesar Seed Less awla muraba 500G Pet Jar ,300.0,199.0,,,ADD ME,500.0,g,1.0,101.0,33.67,398.0
+424.0, Top Ramen Curry Noodles 280 g ,100.0,93.0,,,TOP RAMEN,280.0,g,1.0,7.0,7.0,332.14
+425.0, Dukes Waffy Strawberry Wafer Rolls 250 g ,190.0,95.0,,,DUKES,250.0,g,1.0,95.0,50.0,380.0
+426.0, Patanjali Honey 500 g ,210.0,160.0,,,PATANJALI,500.0,g,1.0,50.0,23.81,320.0
+427.0, Knorr International Italian Mushroom Instant Soup 46 g ,70.0,50.0,,,KNORR,46.0,g,1.0,20.0,28.57,1086.96
+428.0, Momsy Premium Atta Biscuits Desi Ghee Pure Handmade Aata Biscuits And Cookies (450gm) ,499.0,246.0,,,MOMSY,450.0,gm,1.0,253.0,50.7,546.67
+429.0, Sunfeast Dark Fantasy Choco Chip Cookies Family Pack 357.5 g (Pack of 5) ,140.0,70.0,,,SUNFEAST,357.5,g,5.0,70.0,50.0,39.16
+430.0, Haldiram's Nagpur Tasty Nuts 200 g ,80.0,74.0,,,HALDIRAM’S NAGPUR,200.0,g,1.0,6.0,7.5,370.0
+431.0, Bambino Roasted Vermicelli 425 g ,70.0,63.0,,,BAMBINO,425.0,g,1.0,7.0,10.0,148.24
+432.0, Britannia NutriChoice Essentials Ragi Cookies 150 g ,70.0,58.0,,,BRITANNIA,150.0,g,1.0,12.0,17.14,386.67
+433.0, Kellogg's Chocos 375 g ,199.0,185.0,,,KELLOGG'S,375.0,g,1.0,14.0,7.04,493.33
+434.0, Maggi 2-Minutes Masala Instant Noodles (No Onion No Garlic) 70 g ,20.0,18.0,,,MAGGI,200.0,g,1.0,2.0,10.0,90.0
+435.0, Haldiram's Mini Bhakharwadi 200 g ,65.0,60.0,,,HALDIRAM’S NAGPUR,200.0,g,1.0,5.0,7.69,300.0
+436.0, Lotte Rich Cocoa Choco Pie 28 g (12 pcs) ,480.0,432.0,,,LOTTE,28.0,g,1.0,48.0,10.0,15428.57
+437.0, Sundrop Creamy Peanut Butter 924 g ,285.0,256.0,,,SUNDROP,924.0,g,1.0,29.0,10.18,277.06
+438.0, Unibic Snappers Cream n Onion Potato Crackers 75 g (Pack of 4) ,150.0,75.0,,,UNIBIC,75.0,g,4.0,75.0,50.0,250.0
+439.0, MTR Instant Dosa Mix 500 g ,135.0,90.0,,,MTR,500.0,g,1.0,45.0,33.33,180.0
+440.0, Pintola HIGH Protein Peanut Butter (Dark Chocolate) (Crunchy) 510g ,399.0,349.0,,,PINTOLA,510.0,g,1.0,50.0,12.53,684.31
+441.0, Weikfield Baking Powder 100 g ,35.0,30.0,,,WEIKFIELD,100.0,g,1.0,5.0,14.29,300.0
+442.0, Weikfield Vanilla Flavour Custard Powder 100 g ,42.0,37.0,,,WEIKFIELD,100.0,g,1.0,5.0,11.9,370.0
+443.0, Bagrry's Fruit & Nut Crunchy Muesli With Cranberries 750 g ,540.0,365.0,,,BAGRRY'S,750.0,g,1.0,175.0,32.41,486.67
+444.0, Shree Misthan Dry Fruit Besan Ladoo 200g ,160.0,149.0,,,SHREE MISTHAN,200.0,g,1.0,11.0,6.88,745.0
+445.0, KWALITY Choco Flakes | Richness of Chocolate | Zero% Maida | Source of Protein and Fibre | Made with Whole Wheat | Chocos - 1 Kg ,550.0,329.0,,,KWALITY,1.0,kg,1.0,221.0,40.18,329.0
+446.0, Kurkure Masala Munch 122 g ,30.0,27.0,,,KURKURE,122.0,g,1.0,3.0,10.0,221.31
+447.0, Kinder Joy Creamy Milky & Crunchy 19 g ,25.0,23.0,,,KINDER,19.0,g,1.0,2.0,8.0,1210.53
+448.0, Parle-G Gold Biscuits 200 g ,30.0,27.0,,,PARLE,200.0,g,1.0,3.0,10.0,135.0
+449.0, Wingreens Farms Pizza & Pasta Sauce 180 g ,75.0,37.0,,,WINGREENS FARMS,180.0,g,1.0,38.0,50.67,205.56
+450.0, Pringles Pizza Flavour Potato Crisps 107 g ,115.0,100.0,,,PRINGLES,107.0,g,1.0,15.0,13.04,934.58
+451.0, Bagrry's Original & Healthier Cornflakes Plus 1.2 kg ,437.0,218.0,,,BAGRRY'S,1.2,kg,1.0,219.0,50.11,181.67
+452.0, Knorr Classic Mixed Vegetable Soup 40 g ,60.0,45.0,,,KNORR,40.0,g,1.0,15.0,25.0,1125.0
+453.0, Kellogg's Corn Flakes With Real Almond & Honey 1 kg ,615.0,460.0,,,KELLOGG'S,1.0,kg,1.0,155.0,25.2,460.0
+454.0, GONGLOO Homemade Dry Amla Candy | Regulates Metabolism | High in Vitamin C & Fibre | Hygienically Packed | Rich in Antioxidants | Improves Immunity | 300 GM ,289.0,184.0,,,GONGLOO,300.0,gm,1.0,105.0,36.33,613.33
+455.0, Britannia Good Day Chocochip Cookies 39 g ,10.0,10.0,,,BRITANNIA,39.0,g,1.0,0.0,0.0,256.41
+456.0, Jaiccha Ghasitaram Sweets-Sugarfree Assorted Mithai Box 200 gms ,451.0,359.0,,,JAICCHA,200.0,gms,1.0,92.0,20.4,1795.0
+457.0, GHASITARAM'S Indian Cuisine Healthy & Tasty kaju Katli | Kaju Barfi - Delicious Sweets Gift For Rakhi Gifts | Ready With Pure & Natural Ingredients (100g) with Rakhi Tikka ,250.0,225.0,,,GHASITARAM'S,100.0,g,1.0,25.0,10.0,2250.0
+458.0, Haldiram's Nagpur All In One Mixture 200 g ,60.0,55.0,,,HALDIRAM’S NAGPUR,200.0,g,1.0,5.0,8.33,275.0
+459.0, Mother's Recipe Mixed Pickle 1 kg ,240.0,200.0,,,MOTHER'S RECIPE,1.0,kg,1.0,40.0,16.67,200.0
+460.0, BTW Soan Papdi 400g ,280.0,280.0,,,BTW,400.0,g,1.0,0.0,0.0,700.0
+461.0, Bagrry's Choco+ 3 Great Grains 1.2 kg ,560.0,280.0,,,BAGRRY'S,200.0,g,1.0,280.0,50.0,1400.0
+462.0, Unibic Oatmeal Digestive Cookies 600 g ,180.0,90.0,,,UNIBIC,600.0,g,1.0,90.0,50.0,150.0
+463.0," Zandu Pure Honey || 100% Pure || No Added Sugar & Adulteration, 1KG ",475.0,351.0,,,ZANDU,1.0,kg,1.0,124.0,26.11,351.0
+464.0, Unibic Big & Bold Fruit Blast Cookies 300 g ,199.0,99.0,,,UNIBIC,300.0,g,1.0,100.0,50.25,330.0
+465.0, Unibic Sugar Free Oatmeal Cookies 75 g ,60.0,40.0,,,UNIBIC,75.0,g,1.0,20.0,33.33,533.33
+466.0, Maggi 2 Minutes Special Masala Noodles 280 g ,80.0,68.0,,,MAGGI,200.0,g,1.0,12.0,15.0,340.0
+467.0, Bikaji Bikaneri Bhujia 200 g ,60.0,49.0,,,BIKAJI,200.0,g,1.0,11.0,18.33,245.0
+468.0, Snactac Khatta Meetha 1 kg ,300.0,150.0,,,SNACTAC,1.0,kg,1.0,150.0,50.0,150.0
+469.0, 90's Mill Falhari Roasted Kerala Yellow Banana Chips Tasty Yummy Snack Healthy Snack - 500gm ,799.0,281.0,,,90'S MILL,200.0,g,1.0,518.0,64.83,1405.0
+470.0, Cadbury Celebrations 130.9 g + Aarvipure Assorted Flavored Chocolate Gift Box (8 Pcs) ,499.0,459.0,,,CADBURY,130.9,g,1.0,40.0,8.02,3506.49
+471.0, Hershey's Cocoa Spread With Almond 350 g ,320.0,220.0,,,HERSHEY'S,350.0,g,1.0,100.0,31.25,628.57
+472.0, Candzey Golgappa Candy 100 g ,40.0,20.0,,,CANDZEY,100.0,g,1.0,20.0,50.0,200.0
+473.0," HF, Surya 400gm Soan Papdi |Best Indian Sweet |Flavoured with Cardamom ",200.0,149.0,,,"HF, SURYA",400.0,gm,1.0,51.0,25.5,372.5
+474.0, Snac tac Instant Hot & Sour Soup 11 g ,15.0,7.0,,,SNACTAC,11.0,g,1.0,8.0,53.33,636.36
+475.0, Indiyum Besan Laddu 200g ,140.0,120.0,,,INDIYUM,200.0,g,1.0,20.0,14.29,600.0
+476.0, Haldiram's Nagpur Aloo Bhujia 200 g ,105.0,97.0,,,HALDIRAM’S NAGPUR,200.0,g,1.0,8.0,7.62,485.0
+477.0, BTW Rasgulla 1 Kg ,325.0,276.0,,,BTW,1.0,kg,1.0,49.0,15.08,276.0
+478.0, Ching's Secret Schezwan Chutney 30 g ,10.0,10.0,,,CHING'S SECRET,30.0,g,1.0,0.0,0.0,333.33
+479.0, Aashirvaad Instant Gulab Jamun Mix 160 g ,165.0,82.0,,,AASHIRVAAD,160.0,g,1.0,83.0,50.3,512.5
+480.0, Parle Platina Hide & Seek Black Bourbon Vanilla Cream Biscuits 300 g ,150.0,75.0,,,PARLE,300.0,g,1.0,75.0,50.0,250.0
+481.0, Parle Fab Jam-In Mixed Fruit Sandwich Biscuits 495 g ,180.0,90.0,,,PARLE,495.0,g,1.0,90.0,50.0,181.82
+482.0, Parle 20-20 Nice Sugar Sprinkled Coconut Biscuits 500 g ,150.0,75.0,,,PARLE 20-20,200.0,g,1.0,75.0,50.0,375.0
+483.0," Gits Instant Gulab Jamun Dessert Mix, Makes 40 per Pack, Pure Veg, Delicious Indian Dessert and Mithai, 600g (Pack of 3, 200g Each) ",345.0,310.0,,,GITS,200.0,g,3.0,35.0,10.14,516.67
+484.0, Weikfield Baking Soda 100 g ,32.0,29.0,,,WEIKFIELD,100.0,g,1.0,3.0,9.38,290.0
+485.0, Lijjat Moong Papad 200 g ,77.0,69.0,,,LIJJAT,200.0,g,1.0,8.0,10.39,345.0
+486.0, Alpenliebe Eclairs Plus Choco Caramel Chewy Toffee 136 g ,50.0,46.0,,,ALPENLIEBE,136.0,g,1.0,4.0,8.0,338.24
+487.0," Snac tac 3 in 1 Pineapple, Mango and Mixed Fruit Jam 100 g (Buy 2 Get 1 Free) ",90.0,90.0,,,SNACTAC,200.0,g,1.0,0.0,0.0,450.0
+488.0, Crave Eatables Bachubhai`s Premium Rasgulla 1 kg ,299.0,149.0,,,CRAVE,1.0,kg,1.0,150.0,50.17,149.0
+489.0, BTW Kaju Katli 1kg (200g X 5) ,1300.0,899.0,,,BTW,1.0,kg,1.0,401.0,30.85,899.0
+490.0," Dharmasut Black Currant, Rose, Strawberry, Rajbhog, Pista Ice Cream Powder, 100 G Each (Combo Of 5) ",500.0,389.0,,,DHARMASUT,100.0,g,1.0,111.0,22.2,3890.0
+491.0, BTW Kaju Katli 400g (200g X 2) ,520.0,349.0,,,BTW,400.0,g,1.0,171.0,32.88,872.5
+492.0, Baidyanath Honey 500 g ,240.0,120.0,,,BAIDYANATH,500.0,g,1.0,120.0,50.0,240.0
+493.0, Haldiram Bhujiawala Chatak Bhujia Namkeen -1.2Kg (Pack of 3 *400 Grams each) ,390.0,350.0,,,HALDIRAM BHUJIAWALA,1.2,kg,3.0,40.0,10.26,97.22
+494.0, LuvIt Luscious Fruit & Nut Chocolate Bars| Deliciously Smooth Chocolates| Pack of 20 - 46g Each ,1500.0,789.0,,,LUVIT,200.0,g,20.0,711.0,47.4,197.25
+495.0, Yogabar Dark Chocolate Oatmeal 1kg | Dark Chocolate Oats | Healthy Chocolate Protein Food & Breakfast Cereal | Gluten Free Oats | High in Fibre & Antioxidants | 100%Vegan & No Preservatives ,549.0,449.0,,,YOGABAR,1.0,kg,1.0,100.0,18.21,449.0
+496.0, Candzey Nimboo Masala Candy 100 g ,40.0,20.0,,,CANDZEY,100.0,g,1.0,20.0,50.0,200.0
+497.0, Kellogg's Original Corn Flakes 275 g ,99.0,92.0,,,KELLOGG'S,275.0,g,1.0,7.0,7.07,334.55
+498.0, Act II Butter Delite Instant Popcorn 70 g ,35.0,32.0,,,ACT II,70.0,g,1.0,3.0,8.57,457.14
+499.0, Sumeru Classiques Malabar Paratha 300 g ,129.0,116.0,,,SUMERU,300.0,g,1.0,13.0,10.08,386.67
+500.0, Unibic Oatmeal Digestive Cookies 150 g (Buy 1 Get 1) ,50.0,50.0,,,UNIBIC,150.0,g,1.0,0.0,0.0,333.33
+501.0, Saffola Eggless Mayonnaise With Milk Cream (Super Saver Pack) 700 g ,250.0,125.0,,,SAFFOLA,700.0,g,1.0,125.0,50.0,178.57
+502.0, Popcorn & Company Popcorn Kernels -450 g ,200.0,135.0,,,POPCORN & COMPANY,450.0,g,1.0,65.0,32.5,300.0
+503.0," HF, Surya 400gm Choco Chip Soan Papdi (Pack of 2; 200gm x 2) | Best Indian Sweet ",200.0,149.0,,,"HF, SURYA",400.0,gm,2.0,51.0,25.5,186.25
+504.0, Sunfeast All Rounder Cream & Herb Thin Potato Biscuits 75 g ,20.0,13.0,,,SUNFEAST,75.0,g,1.0,7.0,35.0,173.33
+505.0, Ferrero Rocher Moments Chocolate 92.8 g ,249.0,186.0,,,FERRERO ROCHER,92.8,g,1.0,63.0,25.3,2004.31
+506.0, Shree Misthan Dry Petha 400g ,220.0,149.0,,,SHREE MISTHAN,400.0,g,1.0,71.0,32.27,372.5
+507.0, Cadbury Bournville Rich Cocoa Dark Chocolate 31 g ,50.0,46.0,,,CADBURY,31.0,g,1.0,4.0,8.0,1483.87
+508.0," Bhujialalji Aloo Bhujia | Namkeen made of potatoes,gram flour,Spices and herbs | Indian Tea Time Fresh & Healthy Snack Mixture | Ready to eat | No Preservatives | Crsipy & Light snacks (pack of 1) 1kg. ",280.0,199.0,,,BHUJIALALJI,200.0,g,1.0,81.0,28.93,995.0
+509.0, Lay's Classic Salted Potato Chips 40 g ,20.0,18.0,,,LAY'S,40.0,g,1.0,2.0,10.0,450.0
+510.0, Haldiram's Nagpur Rasgulla 1 kg ,225.0,209.0,,,HALDIRAM’S NAGPUR,1.0,kg,1.0,16.0,7.11,209.0
+511.0, True Elements Rolled Oats 1kg - 100% Wholegrain Breakfast | Gluten Free Oats ,400.0,260.0,,,TRUE ELEMENTS,1.0,kg,1.0,140.0,35.0,260.0
+512.0, Cornitos Tikka Masala Nacho Crisps 55 g ,35.0,28.0,,,CORNITOS,55.0,g,1.0,7.0,20.0,509.09
+513.0, Saffola Oats 500 g ,95.0,88.0,,,SAFFOLA,500.0,g,1.0,7.0,7.37,176.0
+514.0, Parle Nutricrunch Honey & Oats Digestive Cookies 600 g ,180.0,90.0,,,PARLE,600.0,g,1.0,90.0,50.0,150.0
+515.0, Disano Crunchy Peanut Butter 924 g ,285.0,199.0,,,DISANO,924.0,g,1.0,86.0,30.18,215.37
+516.0, Dukes Nibbles Salted Crackers 150 g ,69.0,46.0,,,DUKES,150.0,g,1.0,23.0,33.33,306.67
+517.0, Snactac Boondi 150 g ,70.0,35.0,,,SNACTAC,150.0,g,1.0,35.0,50.0,233.33
+518.0, Balaji Farali Chevdo 450 g ,95.0,88.0,,,BALAJI WAFERS,450.0,g,1.0,7.0,7.37,195.56
+519.0, Snac tac Mixed Veg Tomato Insta Soup 13 g ,15.0,7.0,,,SNACTAC,13.0,g,1.0,8.0,53.33,538.46
+520.0, McCain Potato Cheese Shotz 400 g ,240.0,216.0,,,MCCAIN,400.0,g,1.0,24.0,10.0,540.0
+521.0, Monsoon Harvest Crunchy Dark Chocolate & Espresso Granola Bars 40 g ,50.0,25.0,,,MONSOON HARVEST,40.0,g,1.0,25.0,50.0,625.0
+522.0, MANTOUSS Diwali dry fruits gift box/Diwali Gift hamper/Dry Fruits Diwali gift pack/Dry fruits gift pack-Decorated Basket+1 Jar of mixed dry fruits+Handmade diary+2 beautiful diya+4 Rangoli Colour+Diwali Card ,999.0,499.0,,,MANTOUSS,200.0,g,1.0,500.0,50.05,2495.0
+523.0, Quaker Oats| Rolled Oats| Natural Wholegrain| Breakfast cereals| Dalia Porridge| 1 Kg ,370.0,370.0,,,QUAKER,1.0,kg,1.0,0.0,0.0,370.0
+524.0, Ching's Secret Tomato Instant Soup with Croutons 15 g ,10.0,10.0,,,CHING'S SECRET,15.0,g,1.0,0.0,0.0,666.67
+525.0, Top Ramen Curry Flat Instant Noodles 70 g ,25.0,23.0,,,TOP RAMEN,70.0,g,1.0,2.0,8.0,328.57
+526.0, Ghotaram Famous Namkeen Dal sev (Dalmoth)|Dalmoth Mixture Namkeen Snack|Dal Biji Mixture|Namkeen|Classic Taste of Rajasthani Flavour|Spicy & Savoury in Flavour|Evening Snacks-250*1Pack ,499.0,224.0,,,GHOTARAM,200.0,g,1.0,275.0,55.11,1120.0
+527.0, Kwality Muesli Fruit n Nut 1kg Jar ,599.0,349.0,,,KWALITY,1.0,kg,1.0,250.0,41.74,349.0
+528.0, Funfoods Pasta & Pizza Sauce 325 g ,99.0,92.0,,,FUNFOODS,325.0,g,1.0,7.0,7.07,283.08
+529.0," UNIBIC Cookies, Assorted (750 g, Pk of 10) ",300.0,280.0,,,UNIBIC,750.0,g,1.0,20.0,6.67,373.33
+530.0, Snactac Navratan Mix 150 g ,72.0,36.0,,,SNACTAC,150.0,g,1.0,36.0,50.0,240.0
+531.0, Knorr Mast Masala Soupy Noodles 280 g (Pack of 4) ,80.0,74.0,,,KNORR,280.0,g,4.0,6.0,7.5,66.07
+532.0, Parle 20-20 Butter Cookies 200 g ,30.0,27.0,,,PARLE,200.0,g,1.0,3.0,10.0,135.0
+533.0, Snactac Masala Boondi 150 g ,72.0,36.0,,,SNACTAC,150.0,g,1.0,36.0,50.0,240.0
+534.0, Shree Misthan Dodha Barfi 400g (200g X 2) ,500.0,349.0,,,SHREE MISTHAN,400.0,g,1.0,151.0,30.2,872.5
+535.0, Maggi Rich Tomato Sauce 1 kg ,175.0,157.0,,,MAGGI,1.0,kg,1.0,18.0,10.29,157.0
+536.0, Ching's Secret Veg Hakka Noodles 560 g ,120.0,90.0,,,CHING'S SECRET,560.0,g,1.0,30.0,25.0,160.71
+537.0, Cadbury Dairy Milk Silk Oreo Chocolate 130 g ,185.0,166.0,,,CADBURY,130.0,g,1.0,19.0,10.27,1276.92
+538.0, Paper Boat Peanut Chikki 96 g (Family Pack) ,42.0,35.0,,,PAPER BOAT,96.0,g,1.0,7.0,16.67,364.58
+539.0, Tata I-Shakti Cooking Soda 100 g ,20.0,18.0,,,TATA,100.0,g,1.0,2.0,10.0,180.0
+540.0, McCain Masala Fries 375 g ,150.0,114.0,,,MCCAIN,375.0,g,1.0,36.0,24.0,304.0
+541.0, Cornitos Sizzlin Jalapeno Nacho Crisps 75 g ,50.0,33.0,,,CORNITOS,75.0,g,1.0,17.0,34.0,440.0
+542.0, Hershey's Chocolate Syrup 200 g ,100.0,87.0,,,HERSHEY'S,200.0,g,1.0,13.0,13.0,435.0
+543.0, Dukes Waffy Creamy & Crunchy Wafers Assorted Pack 60 g (Pack of 6) ,155.0,155.0,,,DUKES,60.0,g,6.0,0.0,0.0,430.56
+544.0, Bhikharam Chandmal - Kaju Cornflakes Mixture - Kaju Mixture - Mix Namkeen - Indian Snacks - 375Gm (Pack of 1) ,249.0,183.0,,,BHIKHARAM CHANDMAL,375.0,gm,1.0,66.0,26.51,488.0
+545.0," Food Library The Magic of Nature Gourmet Diwali Food Gift Hamper Basket, 32.14 G (Set Of 14) ",1250.0,698.0, Imported ,,FOOD LIBRARY THE MAGIC OF NATURE,32.14,g,14.0,552.0,44.16,1551.25
+546.0, Nestle Bar One Chocolate 12 g ,5.0,5.0,,,BAR ONE,12.0,g,1.0,0.0,0.0,416.67
+547.0, Too Yumm Multigrain Dahi Papdi Chaat Chips 75 g ,35.0,23.0,,,TOO YUMM,75.0,g,1.0,12.0,34.29,306.67
+548.0," Slurrp Farm Millet Noodles - No Maida, Not Fried, Foxtail Millet and Little Millet Noodles, 192 g each (Pack of 2) ",258.0,258.0,,,SLURRP FARM,192.0,g,2.0,0.0,0.0,671.88
+549.0, Surabhi Classic Tomato Ketchup 900 g ,140.0,70.0,,,SURABHI,900.0,g,1.0,70.0,50.0,77.78
+550.0, Saffola Peppy Tomato Instant Masala Oats 500 g ,225.0,180.0,,,SAFFOLA,500.0,g,1.0,45.0,20.0,360.0
+551.0, Pringles Original Potato Crisps 107 g ,115.0,99.0,,,PRINGLES,107.0,g,1.0,16.0,13.91,925.23
+552.0, Sunfeast Yippee Magic Masala Instant Noodles 25 g ,5.0,5.0,,,YIPPEE,25.0,g,1.0,0.0,0.0,200.0
+553.0, Maggi Hot & Sweet Tomato Chilli Sauce 80 g ,22.0,20.0,,,MAGGI,80.0,g,1.0,2.0,9.09,250.0
+554.0," Rathi's Gulab Jamun And Rasgulla, 1000 Grams (Pack Of 2) ",430.0,290.0,,,"RATHI""S",200.0,g,2.0,140.0,32.56,725.0
+555.0, Britannia Milk Bikis Milk Sandwich Biscuits 100 g ,30.0,27.0,,,BRITANNIA,100.0,g,1.0,3.0,10.0,270.0
+556.0, Weikfield Cornflour 500 g ,90.0,80.0,,,WEIKFIELD,500.0,g,1.0,10.0,11.11,160.0
+557.0, Jayashri Nandini Special Farsan 500 g ,155.0,77.0,,,JAYASHRI NANDINI,500.0,g,1.0,78.0,50.32,154.0
+558.0, Archita Shudhi Gulab Jamun Powder Mix (Buy 2 Get 2 FREE) - Easy to cook & Delicious ,300.0,300.0,,,ARCHITA SHUDHI,200.0,g,1.0,0.0,0.0,1500.0
+559.0, Pintola All Natural Creamy Peanut Butter 350g ,175.0,165.0,,,PINTOLA,350.0,g,1.0,10.0,5.71,471.43
+560.0, Suhana Chakali Bhajani Peeth 500 g ,150.0,105.0,,,SUHANA,500.0,g,1.0,45.0,30.0,210.0
+561.0, DiSano Filtered Apple Cider Vinegar 500 ml ,240.0,110.0,,,DISANO,500.0,ml,1.0,130.0,54.17,220.0
+562.0, MyFitness Peanut Butter Original crunchy Peanut Butter 1250 gms ,649.0,454.0,,,MYFITNESS PEANUT BUTTER,1250.0,gms,1.0,195.0,30.05,363.2
+563.0, Kellogg's Fruit & Nut Crunchy Muesli 500 g ,360.0,310.0,,,KELLOGG'S,500.0,g,1.0,50.0,13.89,620.0
+564.0, Wingreens Farms Thousand Island Dressing 180 g ,75.0,48.0,,,WINGREENS FARMS,180.0,g,1.0,27.0,36.0,266.67
+565.0, LuvIt Smackers Dual Fruit Flavoured Assorted Lollipops | Strawberry Lemon and Lychee Red Apple | Big Stick Lollipops | Pack of 60 - 9g Each ,300.0,225.0,,,LUVIT,200.0,g,60.0,75.0,25.0,18.75
+566.0, Haldiram's Nagpur Rassagulla 500 g ,125.0,116.0,,,HALDIRAM’S NAGPUR,500.0,g,1.0,9.0,7.2,232.0
+567.0, Veeba Crunchy Peanut Butter 340 g ,169.0,99.0,,,VEEBA,340.0,g,1.0,70.0,41.42,291.18
+568.0, Piknik Tomato Chilli Sticks 60 g ,60.0,30.0,,,PIKNIK,60.0,g,1.0,30.0,50.0,500.0
+569.0, Sams Veg Hakka Noodles 180 g (Buy 1 Get 1) ,42.0,42.0,,,SAMS,180.0,g,1.0,0.0,0.0,233.33
+570.0, Soulfull Ragi Bites Assorted Combo Pack 108 g (Pack of 6) ,60.0,49.0,,,SOULFULL,108.0,g,6.0,11.0,18.33,75.62
+571.0," Bambino Soan Papdi Assorted Combo Each 200 Gm X Pack of 4 ( 800 Gms ) Badam, Butterscotch, Chocolate, Coconut ",360.0,289.0,,,BAMBINO,200.0,gm,4.0,71.0,19.72,361.25
+572.0, Pintola Choco Spread Crunchy Peanut Butter 350g ,199.0,185.0,,,PINTOLA,350.0,g,1.0,14.0,7.04,528.57
+573.0, Parle 20-20 Gold Choco Chip Cookies 400 g ,150.0,75.0,,,PARLE 20-20,200.0,g,1.0,75.0,50.0,375.0
+574.0, Bonn Americana Hi-Fibre Digestive Cookies 1kg (495g x 2) ,250.0,165.0,,,BONN,1.0,kg,1.0,85.0,34.0,165.0
+575.0, Chheda's Masala Butter Chakli 100 g ,55.0,27.0,,,CHHEDA'S,100.0,g,1.0,28.0,50.91,270.0
+576.0, Chupa Chups Mixed Fruit Flavour Sour Bites 61.6 g ,36.0,33.0,,,CHUPA CHUPS,61.6,g,1.0,3.0,8.33,535.71
+577.0, Mother's Recipe Mango Pickle 1 kg ,240.0,200.0,,,MOTHER'S RECIPE,1.0,kg,1.0,40.0,16.67,200.0
+578.0, Yummiez Tandoori Paneer Nuggets 300 g ,195.0,123.0,,,YUMMIEZ,300.0,g,1.0,72.0,36.92,410.0
+579.0, Haldiram Bhujiawala Delicious Crispy & Flaky Premium Rose Soan Papdi - Pack of 3 (500 Grams) Each ,465.0,380.0,,,HALDIRAM BHUJIAWALA,200.0,g,3.0,85.0,18.28,633.33
+580.0, Hershey's Kisses Almond Chocolate 100.8 g ,140.0,95.0,,,HERSHEY'S,100.8,g,1.0,45.0,32.14,942.46
+581.0, Bhujialalji Khatta Meetha | Namkeen Snacks Tasty & Crunchy Tea-time Namkeen | Indian Tea Time Fresh Healthy Snack Mixture | Ready to eat | No Preservatives | Crsipy & Light snacks | (pack of 1) 1kg. ,280.0,199.0,,,BHUJIALALJI,200.0,g,1.0,81.0,28.93,995.0
+582.0, Pintola All Natural Creamy Peanut Butter 1kg ,449.0,408.0,,,PINTOLA,1.0,kg,1.0,41.0,9.13,408.0
+583.0, LuvIt Crazy Pops | Button Shaped Treats | Gems | Loved by Kids | Colored Chocolaty Pop | Pack of 1 - 350g ,450.0,199.0,,,LUVIT,200.0,g,1.0,251.0,55.78,995.0
+584.0, Kellogg's Original Corn Flakes 475 g ,195.0,181.0,,,KELLOGG'S,475.0,g,1.0,14.0,7.18,381.05
+585.0, LANDMARK Sweets Chandrakala Sweet Pure Freshly Mithai Perfect for Holi Diwali Dussehra Festival Pooja Bhog ,340.0,188.0,,,LANDMARK,1.0,na,1.0,152.0,44.71,
+586.0, McCain Aloo Tikki 400 g ,120.0,108.0,,,MCCAIN,400.0,g,1.0,12.0,10.0,270.0
+587.0, Cadbury Oreo Strawberry Creme Biscuits 113.75 g ,35.0,32.0,,,OREO,113.75,g,1.0,3.0,8.57,281.32
+588.0, Parle-G Gold Biscuits 500 g ,75.0,67.0,,,PARLE,500.0,g,1.0,8.0,10.67,134.0
+589.0, Bounty Coconut Chocolate Bar Coconut Filled Chocolate Premium Chocolate for Sharing 57g (Pack of 12) ,840.0,587.0,,,BOUNTY,57.0,g,12.0,253.0,30.12,858.19
+590.0, Maggi Hot & Sweet Tomato Chilli Sauce 500 g ,125.0,116.0,,,MAGGI,500.0,g,1.0,9.0,7.2,232.0
+591.0, MTR 3 Minute Breakfast Khatta Meetha Poha Mix 60 g ,27.0,25.0,,,MTR,1.0,na,1.0,2.0,7.41,
+592.0, Bagrry's White Oats 100% Whole Grain 500 g ,99.0,84.0,,,BAGRRY'S,500.0,g,1.0,15.0,15.15,168.0
+593.0, LANDMARK Sweet Touch Pure Kaju Katli (Kaju Burfi/Barfi)/Indian Mithai Box 400grms ,1200.0,475.0,,,LANDMARK,1.0,na,1.0,725.0,60.42,
+594.0, Saffola Oodles Yummy Masala Noodles 46 g ,22.0,20.0,,,SAFFOLA,46.0,g,1.0,2.0,9.09,434.78
+595.0, 90's Mill Falhari Roasted Kerala Yellow Banana Chips Tasty Yummy Snack Healthy Snack- 200gm(Pack of 2x 100gm) ,599.0,225.0,,,90'S MILL,1.0,na,2.0,374.0,62.44,
+596.0, Bonn Americana Premium Sandwich Bourbonn Cookies Family Pack 1kg ,300.0,179.0,,,BONN,1.0,kg,1.0,121.0,40.33,179.0
+597.0, Kissan Twist Sweet & Spicy Tomato Sauce 425 g ,80.0,70.0,,,KISSAN,425.0,g,1.0,10.0,12.5,164.71
+598.0, Momsy 100% Natural and Premium California Almonds| Quality Badam Giri| - Badam - Bold Size (250gm) ,799.0,364.0,,,MOMSY,250.0,gm,1.0,435.0,54.44,1456.0
+599.0, Cadbury Bournville Cranberry Chocolate 80 g ,110.0,99.0,,,CADBURY,80.0,g,1.0,11.0,10.0,1237.5
+600.0, Funfoods Veg Burger Mayonnaise 250 g ,90.0,83.0,,,FUNFOODS,250.0,g,1.0,7.0,7.78,332.0
+601.0, Haldiram's Ready to Eats ( Combo Pack ) 1800 g ,640.0,640.0,,,HALDIRAM'S NAGPUR,1800.0,g,1.0,0.0,0.0,355.56
+602.0, Momsy Premium Roasted & Salted Jumbo Size Pistachios Nut | Pista Dry Fruit | Super Crunchy (250gm) ,599.0,456.0,,,MOMSY,250.0,gm,1.0,143.0,23.87,1824.0
+603.0," GHASITARAM'S Punjabi Halwai Diwali Special Mawa Peda Kesari with Free Plated Coin, 200gms ",350.0,269.0,,,GHASITARAM'S,200.0,gms,1.0,81.0,23.14,1345.0
+604.0, Aarambh Muesli Fruit and Nuts 750 g ,480.0,240.0,,,AARAMBH,750.0,g,1.0,240.0,50.0,320.0
+605.0, Britannia Jimjam Cream Biscuits 92 g ,25.0,23.0,,,BRITANNIA,92.0,g,1.0,2.0,8.0,250.0
+606.0, Bikaji Moong Dal 200 g ,60.0,49.0,,,BIKAJI,200.0,g,1.0,11.0,18.33,245.0
+607.0, Kellogg's Chocos Crunchy Bites 24 g ,10.0,10.0,,,KELLOGG'S,24.0,g,1.0,0.0,0.0,416.67
+608.0, Mother's Recipe Mango Pickle 500 g ,149.0,74.0,,,MOTHER'S RECIPE,500.0,g,1.0,75.0,50.34,148.0
+609.0, Kellogg's Moons & Stars Chocos 24 g ,30.0,30.0,,,KELLOGG'S,24.0,g,1.0,0.0,0.0,1250.0
+610.0, Kellogg's Corn Flakes With Real Almond & Honey 300 g ,199.0,185.0,,,KELLOGG'S,300.0,g,1.0,14.0,7.04,616.67
+611.0," Food Library The Magic of Nature Assorted Snacks Chocolate Diwali Gift Hamper Basket For All Occasions, 20 G (Set Of 15) ",1200.0,850.0, Imported ,,FOOD LIBRARY THE MAGIC OF NATURE,20.0,g,15.0,350.0,29.17,2833.33
+612.0, LuvIt Luscious Choco Spread | Smooth & Delicious | Made with Cocoa | Pack of 1 - 310g ,249.0,176.0,,,LUVIT,1.0,na,1.0,73.0,29.32,
+613.0, Act II Classic Salted Instant Popcorn 90 g ,35.0,32.0,,,ACT II,90.0,g,1.0,3.0,8.57,355.56
+614.0, KitKat Dessert Delight Rich Chocolate Fudge 150 g ,170.0,145.0,,,KIT KAT,150.0,g,1.0,25.0,14.71,966.67
+615.0, Cadbury Dairy Milk Silk Roast Almond Chocolate 58 g ,85.0,79.0,,,CADBURY,58.0,g,1.0,6.0,7.06,1362.07
+616.0, McCain Smiles 415 g ,135.0,114.0,,,MCCAIN,415.0,g,1.0,21.0,15.56,274.7
+617.0, Saffola Yummy Masala Oodles 184 g (Pack of 4) ,100.0,84.0,,,SAFFOLA,184.0,g,4.0,16.0,16.0,114.13
+618.0, McVitie's Oat Cookies 120 g ,50.0,25.0,,,MCVITIE'S,120.0,g,1.0,25.0,50.0,208.33
+619.0, Wai Wai Masala Delight X-press Instant Noodles 330 g ,104.0,52.0,,,WAI WAI,330.0,g,1.0,52.0,50.0,157.58
+620.0," Kesar Sweets| Special Rajasthani Paneer Sweet Ghevar in Beautiful Lehariya Gift Box- 300g, Pure Desi Ghee Mithai, Homemade Sweets Gifts Pack for Family, Friends & Staff ",597.0,499.0,,,KESAR,300.0,g,1.0,98.0,16.42,1663.33
+621.0, Unibic Butter Cookies 75 g ,30.0,27.0,,,UNIBIC,75.0,g,1.0,3.0,10.0,360.0
+622.0, Yoga Bar Dark Chocolate + Cranberry Muesli 400 g ,359.0,179.0,,,YOGA BAR,400.0,g,1.0,180.0,50.14,447.5
+623.0, Lal Sweets Mysore Pak Signature 400g (Pack Of 1) || Made With Pure Desi Ghee || Mysuru Pak ,699.0,399.0,,,LAL,400.0,g,1.0,300.0,42.92,997.5
+624.0, Delight Foods Original Agra Kesar Dry Petha 350g Indian Sweets Mithai ,217.0,140.0,,,DELIGHT FOODS,350.0,g,1.0,77.0,35.48,400.0
+625.0, Britannia Treat Coconut Creme Wafers Biscuit 55 g ,50.0,25.0,,,TREAT,55.0,g,1.0,25.0,50.0,454.55
+626.0, Veeba Eggless Mayonnaise 100 g ,45.0,35.0,,,VEEBA,100.0,g,1.0,10.0,22.22,350.0
+627.0, Haldiram's Nagpur Boondi 200 g ,52.0,48.0,,,HALDIRAM’S NAGPUR,200.0,g,1.0,4.0,7.69,240.0
+628.0, Unibic Milk Cookies 500 g ,160.0,76.0,,,UNIBIC,500.0,g,1.0,84.0,52.5,152.0
+629.0, Ram Bandhu Mixed Pickle 1 kg ,260.0,130.0,,,RAM BANDHU,1.0,kg,1.0,130.0,50.0,130.0
+630.0, Britannia NutriChoice Hi-Fibre Digestive Biscuits 150 g ,50.0,46.0,,,BRITANNIA,150.0,g,1.0,4.0,8.0,306.67
+631.0, Wrigley's Doublemint Peppermint Classic Gum 13 g ,10.0,10.0,,,WRIGLEY'S,13.0,g,1.0,0.0,0.0,769.23
+632.0, Cadbury Fuse Chocolate bar 45 g ,40.0,36.0,,,CADBURY,45.0,g,1.0,4.0,10.0,800.0
+633.0," 90's mill Mixture Namkeen, Homemade and Ready to Eat, Spicy Namkeen, Namkeen And Snacks, 300GM ",599.0,225.0,,,90'S MILL,1.0,na,1.0,374.0,62.44,
+634.0, Trimurti King's Premium Frozen Sweet Corn 1 kg ,200.0,110.0,,,TRIMURTI KINGS,1.0,kg,1.0,90.0,45.0,110.0
+635.0, Alpino Chocolate Peanut Butter Smooth 1 KG ,479.0,359.0,,,ALPINO,1.0,kg,1.0,120.0,25.05,359.0
+636.0, Cornitos Peri Peri Nacho Crisps 55 g ,35.0,28.0,,,CORNITOS,55.0,g,1.0,7.0,20.0,509.09
+637.0," Taste Good Karela Biscuits High Fiber, Tasty and Healthy Sugar Free Snacks, 400 g - Pack of 4 ",208.0,177.0,,,TASTE GOOD,400.0,g,4.0,31.0,14.9,110.62
+638.0, Wingreens Farms Cheesy Sauce 450 g ,199.0,87.0,,,WINGREENS FARMS,450.0,g,1.0,112.0,56.28,193.33
+639.0, Haldiram Bhujiawala Bhujia Namkeen Snacks For Satisfying Hunger- 800 gm ,300.0,199.0,,,HALDIRAM BHUJIAWALA,800.0,gm,1.0,101.0,33.67,248.75
+640.0, Snac tac Instant Tomato Soup 13 g ,15.0,7.0,,,SNACTAC,13.0,g,1.0,8.0,53.33,538.46
+641.0, Ching's Secret Sweet Corn Veg Instant Soup 13 g ,10.0,10.0,,,CHING'S SECRET,13.0,g,1.0,0.0,0.0,769.23
+642.0, Haldiram's Nagpur Moong Dal 200 g ,55.0,48.0,,,HALDIRAM’S NAGPUR,200.0,g,1.0,7.0,12.73,240.0
+643.0, Bikaji Tana Tan Aloo Bhujia 200 g ,60.0,49.0,,,BIKAJI,200.0,g,1.0,11.0,18.33,245.0
+644.0," Aakash Namkeen Ratlami Sev With Kali Mirch, Ajwain And Laung 900g ",260.0,260.0,,,AAKASH NAMKEEN,900.0,g,1.0,0.0,0.0,288.89
+645.0, Knorr International Mexican Tomato Corn Soup 50 g ,70.0,50.0,,,KNORR,50.0,g,1.0,20.0,28.57,1000.0
+646.0," Yogabar Fruit & Nut Muesli 700g | Healthy Protein Breakfast Cereal | Added Cranberry & Apricot with Seeds, Dry Fruits & Whole Grains | High in Iron & Fiber | 100%Vegan & No Preservatives ",499.0,349.0,,,YOGABAR,700.0,g,1.0,150.0,30.06,498.57
+647.0, Dukes Creme 4 Fun Cream Biscuits 450 g (Pack of 3) ,70.0,70.0,,,DUKES,1.0,na,3.0,0.0,0.0,
+648.0, LuvIt Loca Chocolate Caramel with Nougat Bars| Pack of 2 - 815 g Each ,840.0,648.0,,,LUVIT,1.0,na,2.0,192.0,22.86,
+649.0, Sams Tomato Ketchup 1 kg ,140.0,70.0,,,SAMS,1.0,kg,1.0,70.0,50.0,70.0
+650.0, KOPIKO Cappuccino Coffee Candy - World's No 1 Coffee Candy - Pocket Pack -504g (24+1 Units X 6 Pieces in Each)(Pack of 1 ) ,240.0,240.0,,,KOPIKO,1.0,na,1.0,0.0,0.0,
+651.0," Nutella Hazelnut Spread, 350 Gm Imported ",453.75,375.0, Imported ,,NUTELLA,350.0,gm,1.0,78.75,17.36,1071.43
+652.0, Act II Golden Sizzle Instant Popcorn 90 g ,36.0,33.0,,,ACT II,90.0,g,1.0,3.0,8.33,366.67
+653.0, Lal Sweets Diwali Special Royal Delight 400g || Made With Fresh Cashew Nuts||Pure Desi Ghee Mysore Pak||Kaju Mithai || Diwali Sweets || Diwali Gift ,750.0,399.0,,,LAL,400.0,g,1.0,351.0,46.8,997.5
+654.0, Polo Mint 2B Rings 12 g ,5.0,5.0,,,POLO,1.0,na,1.0,0.0,0.0,
+655.0, Top Ramen New Masala Instant Noodles 480 g ,108.0,73.0,,,TOP RAMEN,480.0,g,1.0,35.0,32.41,152.08
+656.0, Hershey's Exotic Dark Blueberry & Acai Flavoured Center Chocolate 100 g ,160.0,106.0,,,BROOKSIDE,100.0,g,1.0,54.0,33.75,1060.0
+657.0, Pickwick Strawberry Creamy Wafer Biscuits 75 g ,60.0,30.0,,,PICKWICK,75.0,g,1.0,30.0,50.0,400.0
+658.0, Haldiram's Nagpur Bhel Puri 150 g ,60.0,55.0,,,HALDIRAM’S NAGPUR,150.0,g,1.0,5.0,8.33,366.67
+659.0, Punjabi Ghasitaram Halwai Holi Special Sugarfree Dryfruit NutKhut Mithai Box (200gms) ,499.0,407.0,,,GHASITARAM'S,200.0,gms,1.0,92.0,18.44,2035.0
+660.0, Safal Frozen Sweet Corn 500 g ,100.0,76.0,,,SAFAL,500.0,g,1.0,24.0,24.0,152.0
+661.0, LuvIt Luscious Dark Love Delights-Heart Shaped Dark Chocolate| Pack of 2 - 180g Each ,600.0,288.0,,,LUVIT,1.0,na,2.0,312.0,52.0,
+662.0, Cadbury Chocobakes Cookies 12.5 g (Pack of 12) ,80.0,74.0,,,CADBURY,12.5,g,12.0,6.0,7.5,493.33
+663.0," BTW Dodha Special Barfi (Burfi, Indian Mithai / Sweets Gift Pack / Box) Festive Gift Box 200g ",250.0,220.0,,,BTW,200.0,g,1.0,30.0,12.0,1100.0
+664.0," LuvIt Choco Spread | Smooth & Delicious | Made with Cocoa | Best for Chocolate Bread, Cakes, Shakes, Dosa, Roti | Pack of 5 - 310g Each ",1245.0,529.0,,,LUVIT,1.0,na,5.0,716.0,57.51,
+665.0, Lal Sweets Diwali Special Kaju Katli 200g ( Pack Of 1) | | Pure Desi Ghee| | Sweets| | Kaju burfi| | Diwali Sweets Box || Sweets Gift ,449.0,249.0,,,LAL,200.0,g,1.0,200.0,44.54,1245.0
+666.0, Lawrence Mills Corn Flakes 500 g ,135.0,99.0,,,LAWRENCE MILLS,500.0,g,1.0,36.0,26.67,198.0
+667.0, McCain Chilli Garlic Potato Bites 420 g ,150.0,135.0,,,MCCAIN,420.0,g,1.0,15.0,10.0,321.43
+668.0, Cadbury Dairy Milk Fruit & Nut Chocolate 80 g ,90.0,83.0,,,CADBURY,80.0,g,1.0,7.0,7.78,1037.5
+669.0," Cadbury Dairy Milk Milk Chocolate, 160 Gm ",340.0,280.0, Imported ,,CADBURY,160.0,gm,1.0,60.0,17.65,1750.0
+670.0, Act II Butter Lover's Microwave Popcorn 33 g ,27.0,25.0,,,ACT II,33.0,g,1.0,2.0,7.41,757.58
+671.0, Safal Frozen Green Peas 1 kg ,240.0,135.0,,,SAFAL,1.0,kg,1.0,105.0,43.75,135.0
+672.0," HF, Surya 400gm Coconut Soan Papdi, with real Coconut (Pack of 2; 200gm x 2) |Indian Sweet |Coconut Flavoured ",200.0,149.0,,,"HF, SURYA",400.0,gm,2.0,51.0,25.5,186.25
+673.0, Kissan Creamy Peanut Butter 350 g ,175.0,135.0,,,KISSAN,350.0,g,1.0,40.0,22.86,385.71
+674.0, Sunfeast Dark Fantasy Bourbon Chocolate Cream Biscuits 150 g (Buy 3 Get 1 Extra) ,90.0,90.0,,,SUNFEAST,150.0,g,1.0,0.0,0.0,600.0
+675.0, Cornitos Sweet Chili Nacho Crisps 75 g ,50.0,33.0,,,CORNITOS,75.0,g,1.0,17.0,34.0,440.0
+676.0, Pringles South African Style Peri Peri Potato Crisps 107 g ,115.0,105.0,,,PRINGLES,107.0,g,1.0,10.0,8.7,981.31
+677.0, ITC Master Chef Veggie Pizza Pocket 340 g ,190.0,171.0,,,ITC MASTER CHEF,340.0,g,1.0,19.0,10.0,502.94
+678.0," HF, Surya 400gm Orange Soan Papdi |Best Indian Sweet ",200.0,149.0,,,"HF, SURYA",400.0,gm,1.0,51.0,25.5,372.5
+679.0, Snickers Peanut Chocolate 22 g ,20.0,18.0,,,SNICKERS,22.0,g,1.0,2.0,10.0,818.18
+680.0, McVitie's HobNobs Oats Biscuits 153.85 g ,65.0,43.0,,,MCVITIE'S,153.85,g,1.0,22.0,33.85,279.49
+681.0, Hershey's Kisses Milk Chocolate 108 g ,140.0,112.0,,,HERSHEY'S,108.0,g,1.0,28.0,20.0,1037.04
+682.0, Bikaji Kuch Kuch All In One Mixture 200 g ,60.0,49.0,,,BIKAJI,200.0,g,1.0,11.0,18.33,245.0
+683.0," Uttam Soan Papdi 400 g (Pack of 2 ), Ready to Eat ",260.0,206.0,,,UTTAM,400.0,g,2.0,54.0,20.77,257.5
+684.0," Ghotaram Farali Chiwda/Upwas, Vrat, Fast Mixture Namkeen/Aloo Lachha Mungfali Sabudana Mix/Farali/Falhari Potato Mixture PHALHARI CHIWDA Farsan with Goodness Of Black Pepper-150g*2Pack ",499.0,234.0,,,GHOTARAM,150.0,g,1.0,265.0,53.11,1560.0
+685.0, Parle Kaccha Mango Bite Candy 198 g ,50.0,46.0,,,KACCHA MANGO,198.0,g,1.0,4.0,8.0,232.32
+686.0," Haldiram's Nagpur Peda Combo Pack (Rajasthani Peda, Kesar Peda, Mathura Peda, Special Malai Peda) 250g x 4 ",755.0,755.0,,,HALDIRAM'S NAGPUR,250.0,g,1.0,0.0,0.0,3020.0
+687.0, Top Ramen Fiery Chilli Noodles 240 g ,60.0,55.0,,,TOP RAMEN,240.0,g,1.0,5.0,8.33,229.17
+688.0, Chheda's Tomato Banana Chips 170 g ,75.0,50.0,,,CHHEDA'S,170.0,g,1.0,25.0,33.33,294.12
+689.0, Yogabar Rolled Oats 400g | Healthy Protein Food & Breakfast Cereal | Premium Golden 100% Rolled Oats | Gluten Free Oatmeal | High in Iron & Fibre | 100%Vegan & No Preservatives ,199.0,149.0,,,YOGABAR,400.0,g,1.0,50.0,25.13,372.5
+690.0, Velvet Fine Chocolates Diwali Gift Hamper with Premium Chocolates with Designer Diya ,799.0,499.0,,,VELVET FINE CHOCOLATES,1.0,na,1.0,300.0,37.55,
+691.0, Laxmi Narayan Chiwda 500 g ,216.0,194.0,,,LAXMINARAYAN,500.0,g,1.0,22.0,10.19,388.0
+692.0," Shrego Khari Sing Premium Roasted Salted Peanut, Snack & Namkeen, 360G (2X180G Vacuum Packed) ",198.0,195.0,,,SHREGO,360.0,g,1.0,3.0,1.52,541.67
+693.0, Yummiez Veg Cheese Fingers 400 g ,250.0,160.0,,,YUMMIEZ,400.0,g,1.0,90.0,36.0,400.0
+694.0, Haldiram's Nagpur Ratlami Sev 150 g ,47.0,43.0,,,HALDIRAM’S NAGPUR,150.0,g,1.0,4.0,8.51,286.67
+695.0, Yogabar Rolled Oats | Healthy Protein Food & Breakfast Cereal | Premium Golden 100% Rolled Oats | Gluten Free Oatmeal | High in Iron & Fibre | 1kg Jar & 1kg Refill Pack | 100%Vegan & No Preservatives ,980.0,490.0,,,YOGABAR,1.0,kg,1.0,490.0,50.0,490.0
+696.0, Kissan Fresh Tomato Ketchup 200 g ,65.0,60.0,,,KISSAN,200.0,g,1.0,5.0,7.69,300.0
+697.0," HF, SURYA 800gm SOAN PAPDI (PACK OF 4; 200gm x 4) |FLAVOURED WITH CARDAMOM |Indian Sweet ",400.0,229.0,,,"HF, SURYA",800.0,gm,4.0,171.0,42.75,71.56
+698.0, Snac tac Plain Vermicelli 450 g ,46.0,41.0,,,SNACTAC,450.0,g,1.0,5.0,10.87,91.11
+699.0, Veeba Eggless Mayonnaise 250 g ,89.0,69.0,,,VEEBA,250.0,g,1.0,20.0,22.47,276.0
+700.0, Del Monte Food Craft Fusilli Pasta 450 g ,160.0,80.0,,,DEL MONTE,450.0,g,1.0,80.0,50.0,177.78
+701.0, Mother's Recipe Moong Papad 200 g ,70.0,63.0,,,MOTHER'S RECIPE,200.0,g,1.0,7.0,10.0,315.0
+702.0, Act II Classic Salted Popcorn 60 g (3 pcs) ,60.0,49.0,,,ACT II,60.0,g,1.0,11.0,18.33,816.67
+703.0, Hellmann's Real Mayonnaise 250 g ,90.0,80.0,,,HELLMANN'S,250.0,g,1.0,10.0,11.11,320.0
+704.0, Bambino Premium Gulab Jamun Tin 1 Kg ,250.0,210.0,,,BAMBINO,1.0,kg,1.0,40.0,16.0,210.0
+705.0, Haldiram's Motichoor Ladoo 200 g X 1 Box ,304.0,243.0,,,"HALDIRAM""S BHUJIA (DE.)",200.0,g,1.0,61.0,20.07,1215.0
+706.0, Crave Eatables Bachubhai's Kala Jamun 1 kg ,279.0,139.0,,,CRAVE EATABLES BACHUBHAI'S,1.0,kg,1.0,140.0,50.18,139.0
+707.0, McVitie's Ginger Cookies 120 g ,50.0,25.0,,,MCVITIE'S,120.0,g,1.0,25.0,50.0,208.33
+708.0," ANP BEE Raw Unpasteurized Pure Honey 1Kg Pack I 100% Pure, NMR Tested, Pure Natural Original Honey I Unprocessed and Unfiltered Honey ",475.0,305.0,,,ANP BEE TM,1.0,kg,1.0,170.0,35.79,305.0
+709.0, MANOHARLAL AGRA PAN PETHA ,500.0,299.0,,,MANOHAR LAL DAULAT RAM GARG,1.0,na,1.0,201.0,40.2,
+710.0, Kissan Fresh Tomato Ketchup 2 kg Pouch with small stainless steel spoon and bowl ,530.0,449.0,,,KISSAN,2.0,kg,1.0,81.0,15.28,224.5
+711.0, Haldiram's Nagpur Salted Peanuts 200 g ,55.0,51.0,,,HALDIRAM’S NAGPUR,200.0,g,1.0,4.0,7.27,255.0
+712.0, Easy Fun Meetha & Namkeen Mazzaa Gift Pack ,700.0,350.0,,,EASYFUN,1.0,na,1.0,350.0,50.0,
+713.0, LuvIt Chocorich Classic Eclairs Chocolate | Birthday Party Pack | Pack of 2 - 390g Each ,300.0,249.0,,,LUVIT,1.0,na,2.0,51.0,17.0,
+714.0, Haldiram's Nagpur Mixture 200 g ,45.0,41.0,,,HALDIRAM’S NAGPUR,200.0,g,1.0,4.0,8.89,205.0
+715.0, Easy Fun Navratan Mixture Namkeen 1kg ,410.0,220.0,,,EASYFUN,1.0,kg,1.0,190.0,46.34,220.0
+716.0, Indiyum Soan Papdi 400g ,240.0,147.0,,,INDIYUM,400.0,g,1.0,93.0,38.75,367.5
+717.0," GHASITARAM'S Traditional Mysore Pak For Every Occasions like Diwali, Holi, Bhai Dooj Etc. (200g) ",245.0,245.0,,,GHASITARAM'S,200.0,g,1.0,0.0,0.0,1225.0
+718.0, Top Ramen New Masala Instant Noodles 240 g ,53.0,49.0,,,TOP RAMEN,240.0,g,1.0,4.0,7.55,204.17
+719.0, Malkist Cheese Flavoured Cracker Biscuits (family pack) - 144g (Pack of 8 ) With Cash Back Offer ,480.0,480.0,,,MALKIST,144.0,g,8.0,0.0,0.0,416.67
+720.0," Kesar Sweets | Assorted Indian Sweets Gift Pack for All Occasions - 1000 g Handmade Sweets - Pure Desi Ghee Indian Mithai, Sweets Mithai Gifts Box, Fresh Sweets for Family, Friends & Staff ",1250.0,999.0,,,KESAR,1000.0,g,1.0,251.0,20.08,999.0
+721.0, Safal Frozen Green Peas 500 g ,135.0,105.0,,,SAFAL,500.0,g,1.0,30.0,22.22,210.0
+722.0," 90's mill Mini Samosa Namkeen Tasty Crispy Samosa Delightful Ready to Eat Snacks , 300gm ",699.0,215.0,,,90'S MILL,1.0,na,1.0,484.0,69.24,
+723.0, Center Fresh Xtra Gum 20 g ,10.0,10.0,,,PERFETTI,20.0,g,1.0,0.0,0.0,500.0
+724.0," Nutella Hazelnut Spread, 750 Gm Imported ",852.5,720.0, Imported ,,NUTELLA,750.0,gm,1.0,132.5,15.54,960.0
+725.0, Sunfeast Glucose Biscuits 96 g ,10.0,10.0,,,SUNFEAST,96.0,g,1.0,0.0,0.0,104.17
+726.0, APLENTY Raw Peanut (Whole) | Groundnut | Moongfali | Mungfali Dana 200G ,299.0,179.0,,,APLENTY,200.0,g,1.0,120.0,40.13,895.0
+727.0," Galaxy Cookie Crumble Milk Chocolate Bar, 100% Cashback, 50g, (Pack of 8) ",640.0,467.0,,,GALAXY,50.0,g,8.0,173.0,27.03,1167.5
+728.0, Bounty Coconut Miniatures Chocolate Pack Coconut Filled Chocolates 17 Treats Inside 170g (Pack of 3) ,597.0,414.0,,,BOUNTY,1.0,na,3.0,183.0,30.65,
+729.0, Weikfield Penne Pasta 400 g ,175.0,87.0,,,WEIKFIELD,400.0,g,1.0,88.0,50.29,217.5
+730.0, Britannia Good Day Butter Cookies 150 g ,25.0,23.0,,,GOOD DAY,150.0,g,1.0,2.0,8.0,153.33
+731.0, Hyfun French Fries 425 g ,120.0,80.0,,,HYFUN,425.0,g,1.0,40.0,33.33,188.24
+732.0, Boomer Strawberry Bubblegum 18.6 g ,10.0,10.0,,,BOOMER,18.6,g,1.0,0.0,0.0,537.63
+733.0, Dabur Hommade Schezwan Chutney 250 g ,110.0,55.0,,,DABUR HOMMADE,250.0,g,1.0,55.0,50.0,220.0
+734.0, Desi Ghee Atta Biscuits | Premium Handmade Cookies | 100% Pure Desi Ghee Used | 300 Gram ,170.0,162.0,,,MIDBREAK,300.0,gram,1.0,8.0,4.71,540.0
+735.0, Kellogg's Chocos Crunchy Bites 375 g ,205.0,190.0,,,KELLOGG'S,375.0,g,1.0,15.0,7.32,506.67
+736.0, ITC Master Chef Crispy French Fries 420 g ,120.0,102.0,,,ITC MASTER CHEF,420.0,g,1.0,18.0,15.0,242.86
+737.0, Baidyanath Honey 1 kg ,475.0,237.0,,,BAIDYANATH,1.0,kg,1.0,238.0,50.11,237.0
+738.0, Britannia Good Day Chocochip Cookies 100 g ,30.0,27.0,,,BRITANNIA,100.0,g,1.0,3.0,10.0,270.0
+739.0," Leonz Dark Choco Chips Premium for Decoration of Cakes, Ice Creams 100g (Pack of 2) ",170.0,153.0,,,LEONZ,100.0,g,2.0,17.0,10.0,765.0
+740.0, Bikano Khatta Meetha 1 kg ,272.0,192.0,,,BIKANO,1.0,kg,1.0,80.0,29.41,192.0
+741.0, Ferrero Rocher Chocolate 100 g ,299.0,224.0,,,FERRERO ROCHER,100.0,g,1.0,75.0,25.08,2240.0
+742.0, Ram Bandhu Punjabi Papad 200 g ,96.0,48.0,,,RAM BANDHU,200.0,g,1.0,48.0,50.0,240.0
+743.0, Bagrry's Crunchy Almonds Raisins & Honey Muesli 750 g ,490.0,299.0,,,BAGRRY'S,750.0,g,1.0,191.0,38.98,398.67
+744.0," Snickers Peanut Filled Milk Chocolate Bar, 22g (Pack of 24) ",480.0,360.0,,,SNICKERS,22.0,g,24.0,120.0,25.0,681.82
+745.0, KitKat Share and Snap Chocolate 57 g ,50.0,46.0,,,KIT KAT,57.0,g,1.0,4.0,8.0,807.02
+746.0," Kesar Sweets| Boondi Ladoo| Indian Sweets Mithai| Boondi Laddu - 400gm, Pure Desi Ghee Mithai, Homemade Sweets Gifts Pack for Family, Friends & Staff ",654.0,379.0,,,KESAR,400.0,gm,1.0,275.0,42.05,947.5
+747.0, Sunfeast Dark Fantasy Expressions Choco Cookies Collection 318 g ,225.0,112.0,,,SUNFEAST,318.0,g,1.0,113.0,50.22,352.2
+748.0, LuvIt Goodies Chocolates Assorted Gift Pack for Diwali Celebration| Pack of 5 - 127.9g Each ,500.0,470.0,,,LUVIT,1.0,na,5.0,30.0,6.0,
+749.0, Chef's Basket Durum Wheat Penne Pasta 500 g ,175.0,87.0,,,CHEF'S BASKET,500.0,g,1.0,88.0,50.29,174.0
+750.0," Red cliff Premium Kaju Katli (Sweets, Indian Mithai) (Kaju Katli| |200g| ",599.0,249.0,,,RED CLIFF,200.0,g,1.0,350.0,58.43,1245.0
+751.0, Shree Misthan Dry Fruit Besan Ladoo 400g (200g X 2) ,320.0,199.0,,,SHREE MISTHAN,400.0,g,1.0,121.0,37.81,497.5
+752.0, Cadbury Dairy Milk Silk Mousse Chocolate 50 g ,85.0,79.0,,,CADBURY,50.0,g,1.0,6.0,7.06,1580.0
+753.0, Bikaji Sub Kuch Navratna Mixture 200 g ,60.0,49.0,,,BIKAJI,200.0,g,1.0,11.0,18.33,245.0
+754.0, SAMS White Cooking Vinegar 190 ml ,35.0,17.0,,,SAMS,190.0,ml,1.0,18.0,51.43,89.47
+755.0," GHASITARAM'S Tasty And Healthy Soan Papdi(Orange), Indian Dessert Soft Flaky Sweets, Indian Sweets, For Every Occasion (250g) ",175.0,166.0,,,GHASITARAM'S,250.0,g,1.0,9.0,5.14,664.0
+756.0, Yummiez Cheese Corn Nuggets 400 g ,250.0,160.0,,,YUMMIEZ,400.0,g,1.0,90.0,36.0,400.0
+757.0, Mother's Recipe Potato Papad 70 g ,34.0,30.0,,,MOTHER'S RECIPE,70.0,g,1.0,4.0,11.76,428.57
+758.0, Cadbury Dairy Milk Silk Hazelnut Chocolate 143 g ,185.0,172.0,,,CADBURY,143.0,g,1.0,13.0,7.03,1202.8
+759.0, Lijjat Mini Udad Papad 200 g ,77.0,60.0,,,LIJJAT,200.0,g,1.0,17.0,22.08,300.0
+760.0, GHASITARAM'S Indian Cuisine Healthy & Tasty Kaju Katli | Kaju Barfi - Delicious Sweets Gift For Every Occasion | Ready With Pure & Natural Ingredients (400g) ,660.0,500.0,,,GHASITARAM'S,400.0,g,1.0,160.0,24.24,1250.0
+761.0, Nature Prime Phool Makhana 1kg ,1499.0,699.0,,,NATURE PRIME,1.0,kg,1.0,800.0,53.37,699.0
+762.0, Tata Soulfull Masala Oats+ Mast Masala 500 g ,239.0,164.0,,,SOULFULL,500.0,g,1.0,75.0,31.38,328.0
+763.0, Ching's Secret Mix Vegetable Instant Soup 12 g ,10.0,10.0,,,CHING'S SECRET,12.0,g,1.0,0.0,0.0,833.33
+764.0, McCain Chilli Garlic Potato Bites 1.24 Kg ,390.0,351.0,,,MCCAIN,1.24,kg,1.0,39.0,10.0,283.06
+765.0, Sunfeast Yippee Power Up Masala Instant Atta Noodles 70 g ,24.0,22.0,,,SUNFEAST,70.0,g,1.0,2.0,8.33,314.29
+766.0, Parle Platina Nutricrunch Lite Crackers 200 g ,30.0,27.0,,,PARLE,200.0,g,1.0,3.0,10.0,135.0
+767.0, Ambriona Dark Chocolate with Blueberry (70% Cocoa) | Vegan and Gluten Free | Daarzel chocolate bar | ,185.0,149.0,,,DAARZEL,1.0,na,1.0,36.0,19.46,
+768.0, Indiyum Besan Laddu 400g (200g X 2) ,300.0,189.0,,,INDIYUM,400.0,g,1.0,111.0,37.0,472.5
+769.0, Alpenliebe Guava Just Jelly 166.5 g ,50.0,45.0,,,ALPENLIEBE,166.5,g,1.0,5.0,10.0,270.27
+770.0, LaxmiNarayan Best Chiwda 250 g ,108.0,100.0,,,LAXMINARAYAN,250.0,g,1.0,8.0,7.41,400.0
+771.0," Denali Foods Dark Chocolate Compound Slab| Decoration for cakes, muffins, mousse| 400g ",230.0,185.0,,,LOVEJOY,400.0,g,1.0,45.0,19.57,462.5
+772.0," Cadbury Dairy Milk Daim Chocolate Bar, 120 Gm ",343.75,250.0, Imported ,,CADBURY,120.0,gm,1.0,93.75,27.27,2083.33
+773.0, True Elements No Added Sugar Muesli 1.2kg ,835.0,484.0,,,TRUE ELEMENTS,1.2,kg,1.0,351.0,42.04,403.33
+774.0, Dukes Bourbon Premium Sandwich Biscuits 405 g (Buy 3 Get 2) ,108.0,108.0,,,DUKES,405.0,g,1.0,0.0,0.0,266.67
+775.0, Hyfun Aloo Tikki 400 g ,100.0,80.0,,,HYFUN,400.0,g,1.0,20.0,20.0,200.0
+776.0, Hersheys Cocoa Powder 70 g (Pet) ,105.0,97.0,,,HERSHEY'S,70.0,g,1.0,8.0,7.62,1385.71
+777.0," GHASITARAM'S Pure Chum Chum Tin, For Every Indian Traditional Festival, Indian Mithai, Famous Indian Sweets(500g) ",350.0,225.0,,,GHASITARAM'S,500.0,g,1.0,125.0,35.71,450.0
+778.0, Bhujialalji Navratan Mixture | Indian Tea Time Fresh & Healthy Snack Mixture | Ready to eat | No Preservatives | Crsipy & Light snacks | (pack of 1) 1kg. ,280.0,199.0,,,BHUJIALALJI,1.0,na,1.0,81.0,28.93,
+779.0, Pillsbury Vanilla Custard Powder 100 g ,44.0,22.0,,,PILLSBURY,100.0,g,1.0,22.0,50.0,220.0
+780.0, Kellogg's Corn Flakes With Real Strawberry Puree 300 g ,175.0,162.0,,,KELLOGG'S,300.0,g,1.0,13.0,7.43,540.0
+781.0, Oasis Baklawa Handmade Baklawa Sweets Box 20.83 G (Each) 12 Pc l Handmade Sweets l Sweets l Homemade Sweets l Gifts l Indian Sweets l Traditional Sweets l Baklava l Baklava Sweets ,850.0,569.0,,,OASIS BAKLAWA,20.83,g,1.0,281.0,33.06,27316.37
+782.0, Kellogg's Chocos 125 g ,65.0,60.0,,,KELLOGG'S,125.0,g,1.0,5.0,7.69,480.0
+783.0, Lal Sweets Milk Peda 400g Pack Of 1 || Made With Milk Solids ||Doodh Sweet || Doodh Peda || Indian Sweets ,599.0,349.0,,,LAL,400.0,g,1.0,250.0,41.74,872.5
+784.0, Lijjat Pepper Udad Papad 1 kg ,366.0,329.0,,,LIJJAT,1.0,kg,1.0,37.0,10.11,329.0
+785.0, Fruit-tella Strawberry Toffee 36 g ,35.0,32.0,,,FRUITELLA,36.0,g,1.0,3.0,8.57,888.89
+786.0, Parle Krack Jack Butter Masala Biscuits 100 g ,50.0,25.0,,,PARLE,100.0,g,1.0,25.0,50.0,250.0
+787.0, Uncle Chipps Plain Salted Potato Chips 37 g ,20.0,18.0,,,UNCLE CHIPPS,37.0,g,1.0,2.0,10.0,486.49
+788.0," 5:15PM Fresh Crispy Yellow Banana Wafers Chips 400g, Classic Salted Flavour ",499.0,240.0,,,5:15PM,400.0,g,1.0,259.0,51.9,600.0
+789.0, Yogabar Choco Cereal 345g | No Maida Chocos for Kids | Delicious Chocolate Chocos | Healthy Protein Food & Breakfast Cereal | 100%Vegan & No Preservatives ,260.0,199.0,,,YOGABAR,345.0,g,1.0,61.0,23.46,576.81
+790.0, Ching's Secret Manchow Soup 55 g ,60.0,40.0,,,CHING'S SECRET,55.0,g,1.0,20.0,33.33,727.27
+791.0, Bikaji Kuch-Kuch All In One Mixture 400 g ,120.0,99.0,,,BIKAJI,400.0,g,1.0,21.0,17.5,247.5
+792.0, Desi Treat Soya Paneer (Tofu) 800g ,280.0,246.0,,,DESI TREAT,800.0,g,1.0,34.0,12.14,307.5
+793.0, Mother's Recipe Punjabi Masala Papad 200 g ,82.0,74.0,,,MOTHER'S RECIPE,200.0,g,1.0,8.0,9.76,370.0
+794.0, Parle Platina Hide & Seek Milano Centre Filled Cream Biscuits 75 g ,40.0,37.0,,,PARLE,75.0,g,1.0,3.0,7.5,493.33
+795.0, RAAJALI Rice MURUKKU ,160.0,130.0,,,RAAJALI,1.0,na,1.0,30.0,18.75,
+796.0, Kissan Fresh Tomato Ketchup 500 g ,110.0,102.0,,,KISSAN,500.0,g,1.0,8.0,7.27,204.0
+797.0," Yogabar Desi Masala Oats 400g | Healthy Snacks | Premium Oats | 3x more Vegetables, Pumpkin, Watermelon and Chia Seeds for Eating | Indian Spices | Gluten Free | Diet food for Weight Loss ",199.0,149.0,,,YOGABAR,400.0,g,1.0,50.0,25.13,372.5
+798.0, Galaxy Smooth Milk Chocolate 80 g (Pack of 8) ,99.0,92.0,,,GALAXY,80.0,g,8.0,7.0,7.07,143.75
+799.0, Bambino Roasted Vermicelli 180 g ,30.0,27.0,,,BAMBINO,180.0,g,1.0,3.0,10.0,150.0
+800.0, Maggi Hot & Sweet Tomato Chilli Sauce 200 g ,75.0,69.0,,,MAGGI,200.0,g,1.0,6.0,8.0,345.0
+801.0, Taali Pudina Punch Protien Puffs 60 g ,59.0,39.0,,,TAALI,60.0,g,1.0,20.0,33.9,650.0
+802.0," GHASITARAM'S Halwa,Perfect For Occasion Like Diwali,Rakshabandhan Etc (200g) ",185.0,147.0,,,GHASITARAM'S,200.0,g,1.0,38.0,20.54,735.0
+803.0, Haldiram Bhujiawala Moong Dal 800g | Namkeen Salty Flavour | Pack of 2 | 400 Grams Each ,260.0,240.0,,,HALDIRAM BHUJIAWALA,800.0,g,2.0,20.0,7.69,150.0
+804.0, JOYTOSS One Pcs Chips Challenge NEW Pack (1) ,229.0,158.0,,,JOYTOSS,1.0,na,1.0,71.0,31.0,
+805.0, Britannia Good Day Pista Badam Cookies 200 g ,55.0,51.0,,,BRITANNIA,200.0,g,1.0,4.0,7.27,255.0
+806.0, Yogabar Energy Bars Chocolate Chunk | Multigrain Daily Protein Snack | High Energy & Nutrition Bars | 8g Protein & 7g Fibre Protein bars | High in Iron & Fibre | Pack of 10 x 38g Energy Bars | 100%Vegan & No Preservatives ,400.0,299.0,,,YOGA BAR,8.0,g,10.0,101.0,25.25,3737.5
+807.0, Creamooz Tandoori Mayonnaise 1kg ,215.0,185.0,,,CREAMOOZ,1.0,kg,1.0,30.0,13.95,185.0
+808.0, Funfoods Burger Veg Mayonnaise 100 g ,45.0,41.0,,,FUNFOODS,100.0,g,1.0,4.0,8.89,410.0
+809.0," Chocolate Celebrations Pack |Chocolate Gift for Diwali, Anniversary, Valentine's Day, Birthday, Christmas ",379.0,259.0,,,SURPRISEFORU,1.0,na,1.0,120.0,31.66,
+810.0," Mars Twix Caramel Cookie Chocolate Bar, Premium Chocolate, 50g, Pack of 12 ",840.0,539.0,,,MARS,50.0,g,12.0,301.0,35.83,898.33
+811.0, Rajlaxmi Garlic Namkeen Mixture 400 g ,160.0,52.0,,,RAJLAXMI,400.0,g,1.0,108.0,67.5,130.0
+812.0, Weikfield Double Action Baking Powder 50 g ,25.0,23.0,,,WEIKFIELD,50.0,g,1.0,2.0,8.0,460.0
+813.0, Knorr Chinese Manchurian Gravy Mix 55 g ,60.0,50.0,,,KNORR,55.0,g,1.0,10.0,16.67,909.09
+814.0, 9am Green Chilli Pickle Green Chilli Pickle 1kg ,170.0,141.0,,,9AM,1.0,na,1.0,29.0,17.06,
+815.0, Galaxy Smooth Milk Chocolate 20 g ,20.0,18.0,,,GALAXY,20.0,g,1.0,2.0,10.0,900.0
+816.0, Lijjat Garlic Papad 200 g ,77.0,69.0,,,LIJJAT,200.0,g,1.0,8.0,10.39,345.0
+817.0, Yogabar Dark Chocolate Peanut Butter 400g | Creamy & Chocolatey | Slow Roasted | Non-GMO Premium Peanuts ,294.0,199.0,,,YOGABAR,400.0,g,1.0,95.0,32.31,497.5
+818.0, MTR Instant Rava Idli Mix 500 g ,130.0,86.0,,,MTR,500.0,g,1.0,44.0,33.85,172.0
+819.0, 9am Assorted Sauces Combo Pack of 10 (Each - 90gm) + Eggless Mayonnaise Pack of 2 ( Each - 100gm) ,230.0,197.0,,,9 AM,1.0,na,10.0,33.0,14.35,
+820.0, MOMENT DELIGHTS HEART WAFFY TRUFFLES 3 PC ,120.0,76.0,,,MOMENT DELIGHTS,1.0,na,1.0,44.0,36.67,
+821.0, Center Fruit Chewing Gum 27.2 g ,10.0,10.0,,,CENTER FRUIT,27.2,g,1.0,0.0,0.0,367.65
+822.0, Dabur Honey 50 g ,42.0,39.0,,,DABUR,50.0,g,1.0,3.0,7.14,780.0
+823.0, Cadbury Dairy Milk Silk Hazelnut Chocolate 58 g ,130.0,120.0,,,CADBURY,58.0,g,1.0,10.0,7.69,2068.97
+824.0, KWALITY Corn Flakes with Almond & Honey - Made with Golden Corns | 99% Fat-Free | No Preservatives or Colors | High in Protein | Zero Cholesterol - Perfect with Mixed Fruits [1Kg Pouch] ,675.0,399.0,,,KWALITY,1.0,na,1.0,276.0,40.89,
+825.0," Bhujialalji Bikaneri Bhujia | Rajasthani Bhujia Namkeen with Dew beans,gram flour and indian Spices | Indian Tea Time Fresh & Healthy Snack Mixture|Ready to eat | No Preservatives ( pack of 2) 400gm each. ",240.0,199.0,,,BHUJIALALJI,1.0,na,2.0,41.0,17.08,
+826.0," FERRERO ROCHER Chocolate, 200 g (Pack Of 16) ",669.0,574.0, Imported ,,FERRERO ROCHER,200.0,g,16.0,95.0,14.2,179.38
+827.0, Unibic Caramel & Cinnamon Flavour Biscott 250 g ,120.0,60.0,,,UNIBIC,250.0,g,1.0,60.0,50.0,240.0
+828.0, Funfoods Original Veg Mayonnaise 500 g ,149.0,138.0,,,FUNFOODS,500.0,g,1.0,11.0,7.38,276.0
+829.0, Chheda's Soya Snax 170 g ,65.0,32.0,,,CHHEDA'S,170.0,g,1.0,33.0,50.77,188.24
+830.0, MTR Rice Instant Idli Mix 500 g ,135.0,115.0,,,MTR,500.0,g,1.0,20.0,14.81,230.0
+831.0, Ching's Secret Hot Garlic Instant Noodles 60 g ,20.0,18.0,,,CHING'S SECRET,60.0,g,1.0,2.0,10.0,300.0
+832.0, Dabur Honey 100 g ,68.0,63.0,,,DABUR,100.0,g,1.0,5.0,7.35,630.0
+833.0, Lal Sweets Diwali Special Festive Wishes 400g || Mysore Pak || Dhawar Peda || Diwali Gift ,499.0,449.0,,,LAL,400.0,g,1.0,50.0,10.02,1122.5
+834.0, Sunfeast Bounce Choco Creme Biscuits 58 g ,10.0,10.0,,,SUNFEAST,58.0,g,1.0,0.0,0.0,172.41
+835.0, Double Horse Synthetic Vinegar 500ml x Pack of 2 (1000ml) ,90.0,90.0,,,DOUBLE HORSE,500.0,ml,2.0,0.0,0.0,90.0
+836.0, LuvIt Cocoa Crush Dark Choco Chips | Rich Taste | Ideal for Baking | Cake Decoration| Milk Shakes & Smoothies| Gluten Free | Vegan | Pack of 1 - 350gms ,700.0,231.0,,,LUVIT,1.0,na,1.0,469.0,67.0,
+837.0, Gits Khaman Dhokla Snack Mix 180 g ,75.0,50.0,,,GITS,180.0,g,1.0,25.0,33.33,277.78
+838.0," Bagrry's Crunchy Muesli with Almonds, Raisins and Honey 425 g ",399.0,159.0,,,BAGRRY'S,425.0,g,1.0,240.0,60.15,374.12
+839.0, Pintola Whole Brown Rice Cake 130gm(Multigrain) ,160.0,149.0,,,PINTOLA,130.0,gm,1.0,11.0,6.88,1146.15
+840.0, Kellogg's Chocos 52 g ,20.0,18.0,,,KELLOGG'S,52.0,g,1.0,2.0,10.0,346.15
+841.0, MyFitness Peanut Butter Chocolate Crispy Peanut Butter 510 gms ,320.0,259.0,,,MYFITNESS PEANUT BUTTER,510.0,gms,1.0,61.0,19.06,507.84
+842.0, Bagrry's Crunchy Fruit & Nut Muesli with Cranberries 375 g ,399.0,159.0,,,BAGRRY'S,375.0,g,1.0,240.0,60.15,424.0
+843.0, Cadbury Chocobakes Choc-Filled Cookies 75 g ,40.0,37.0,,,CADBURY,75.0,g,1.0,3.0,7.5,493.33
+844.0, Easy Fun Khao Khilao Gift Pack ,450.0,250.0,,,EASYFUN,1.0,na,1.0,200.0,44.44,
+845.0, Testobite Yellow Chana 500 g ,150.0,75.0,,,TESTOBITE,500.0,g,1.0,75.0,50.0,150.0
+846.0," BTW Panjeeri Laddu 250g, Navratan Mix 200g, Aloo Bhujia 200g, Soan Papdi 500g Utsav Gift Pack 1150gm ",799.0,799.0,,,BTW,250.0,g,1.0,0.0,0.0,3196.0
+847.0, Charlie's Til Laddu 150 g ,96.0,48.0,,,CHARLIE'S,150.0,g,1.0,48.0,50.0,320.0
+848.0, SAMS Red Chilly Sauce 700 g ,90.0,45.0,,,SAMS,700.0,g,1.0,45.0,50.0,64.29
+849.0, LuvIt Goodies Chocolates Assorted Gift Pack | Best Gift for Diwali | Diwali Celebration Pack | Pack of 2 - 148.5g ,280.0,225.0,,,LUVIT,1.0,na,2.0,55.0,19.64,
+850.0, McCain Aloo Tikki 1.24 Kg ,335.0,301.0,,,MCCAIN,1.24,kg,1.0,34.0,10.15,242.74
+851.0, Kellogg's Chocos Fills 250 g ,205.0,190.0,,,KELLOGG'S,250.0,g,1.0,15.0,7.32,760.0
+852.0, HUNGRY HARVEST Marshmallows 100% Vegan - Assorted Fruit Flavours 50 Pieces [Jar Pack] ,399.0,213.0,,,HUNGRY HARVEST,1.0,na,1.0,186.0,46.62,
+853.0, Bambino Soan Papdi 1 Kg Assorted Combo Pack Each 200 Gms X Pack of 5 ,450.0,350.0,,,BAMBINO,1.0,kg,5.0,100.0,22.22,70.0
+854.0, Hershey's Cookies N Cream Kisses 33.6 g ,50.0,46.0,,,HERSHEY'S,33.6,g,1.0,4.0,8.0,1369.05
+855.0," Yogabar Wholegrain Breakfast Muesli - Dark Chocolate + Cranberry,400g| Healthy Breakfast Cereals | Granola | Gluten Free | Antioxidant Rich | Healthy Food for Breakfast | Protein Rich ",359.0,249.0,,,YOGABAR,400.0,g,1.0,110.0,30.64,622.5
+856.0, Pintola Classic Crunchy Peanut butter 1kg ,399.0,375.0,,,PINTOLA,1.0,kg,1.0,24.0,6.02,375.0
+857.0, HITVIK Diwali Cracker Shape Chocolate Gift Box Exotic Choco Gift Box Fire Cracker Shape Chocolates 100g ,1299.0,249.0,,,HITVIK,100.0,g,1.0,1050.0,80.83,2490.0
+858.0, MyFitness Peanut Butter Chocolate Crunchy Peanut Butter 1250 gms ,649.0,475.0,,,MYFITNESS PEANUT BUTTER,1250.0,gms,1.0,174.0,26.81,380.0
+859.0, Dukes Creme 4 Fun Strawberry Sandwich Biscuits 150 g ,35.0,26.0,,,DUKES,1.0,na,1.0,9.0,25.71,
+860.0, Act II Butter Pepper Instant Popcorn 70 g ,35.0,32.0,,,ACT II,70.0,g,1.0,3.0,8.57,457.14
+861.0," Gits Open & Eat Gulab Jamun + Rasgulla, 16 Pieces Per Can, Mouth-Watering Indian Mithai, 2Kg (2000gram)(1Kg Gulab Jamun Tin + 1Kg Rasgulla Tin) ",510.0,474.0,,,GITS,1.0,na,1.0,36.0,7.06,
+862.0, Inchi Soy Sauce 210 g ,70.0,35.0,,,INCHI,210.0,g,1.0,35.0,50.0,166.67
+863.0, Amul Frozen Rasmalai 100 g ,45.0,40.0,,,AMUL,100.0,g,1.0,5.0,11.11,400.0
+45.0,40.00,,,AMUL,100.0,g,1.0,,,,,
+864.0, Bambino Soan Papdi Sugar Free Each 200 Gms X Pack of 2 (400 Gms) ,160.0,149.0,,,BAMBINO,200.0,gms,2.0,11.0,6.88,372.5
+865.0, Pintola All Natural CrunchyPeanut Butter 350g ,175.0,165.0,,,PINTOLA,350.0,g,1.0,10.0,5.71,471.43
+866.0, Funfoods Pizza Topping 325 g ,99.0,92.0,,,FUNFOODS,325.0,g,1.0,7.0,7.07,283.08
+867.0, Brown & Polson Vanilla Custard Powder 100 g ,40.0,37.0,,,BROWN & POLSON,100.0,g,1.0,3.0,7.5,370.0
+868.0, Chheda's Kachori 150 g ,60.0,49.0,,,CHHEDA'S,150.0,g,1.0,11.0,18.33,326.67
+869.0, Lal Sweets Diwali Special Royal Celebration 800g || Diwali Gift || Sweets Gift || Gift Hampers ,599.0,599.0,,,LAL,800.0,g,1.0,0.0,0.0,748.75
+870.0, Galaxy Fusions Silky Smooth Dark Chocolate Bar Made with 70% Cocoa Smooth 56g (Pack of 6) ,594.0,415.0,,,GALAXY,56.0,g,6.0,179.0,30.13,1235.12
+871.0, Haldiram Bhujiawala Soan Papdi Crispy & Flaky 1kg | Pack of 5 - 200 gm each ,349.0,249.0,,,HALDIRAM BHUJIAWALA,1.0,kg,5.0,100.0,28.65,49.8
+872.0, Shareat Foochka Ready to Fry Puri Papad with Pudina Pani Maker 200 g ,119.0,43.0,,,SHAREAT,200.0,g,1.0,76.0,63.87,215.0
+873.0, Snactac Chatpata Masala Potato Chips 78 g ,40.0,26.0,,,SNACTAC,78.0,g,1.0,14.0,35.0,333.33
+874.0, Maggi Vegetarian Magic Cubes 40 g ,35.0,32.0,,,MAGGI,40.0,g,1.0,3.0,8.57,800.0
+875.0, Snactac All In One Mixture 1 kg ,380.0,190.0,,,SNACTAC,1.0,kg,1.0,190.0,50.0,190.0
+876.0, MTR Instant Upma Mix 160 g ,55.0,51.0,,,MTR,160.0,g,1.0,4.0,7.27,318.75
+877.0, MTR Roasted Vermicelli 850 g ,115.0,99.0,,,MTR,850.0,g,1.0,16.0,13.91,116.47
+878.0, Haldiram's Bhujia Range 750 gm Pack of 5 ,370.0,370.0,,,HALDIRAM'S NAGPUR,750.0,gm,5.0,0.0,0.0,98.67
+879.0, Inchi Veg Hakka Noodles 900 g ,220.0,110.0,,,INCHI,900.0,g,1.0,110.0,50.0,122.22
+880.0, Kellogg's Corn Flakes 250 g ,115.0,106.0,,,KELLOGG'S,250.0,g,1.0,9.0,7.83,424.0
+881.0, Harika Foods Homemade Ready to Eat MASALA CHAKLI | Kerala Special Ari Murukku Snacks Namkeen (200gm) ,899.0,215.0,,,HARIKA FOODS,200.0,gm,1.0,684.0,76.08,1075.0
+882.0, Pringles Fusion Chutney Flavoured Potato Crisps 107 g ,115.0,105.0,,,PRINGLES,107.0,g,1.0,10.0,8.7,981.31
+883.0, Act II Tandoori Tadka Instant Popcorn 70 g ,35.0,32.0,,,ACT II,70.0,g,1.0,3.0,8.57,457.14
+884.0, MANTOUSS Diwali dry fruits tray/diwali dry fruits gift box/diwali dry fruits gift hamper/Diwali gift hamper-Decorated tray+200 gms of cashew+200 gms of almonds+200gms of raisins+Diwali greeting card ,1800.0,999.0,,,MANTOUSS,200.0,gms,1.0,801.0,44.5,4995.0
+885.0," Puzzles Crispy Soya Sticks (Diet - Low Oil) Namkeen with Indian Spices | India's Favourite Snack Made with All-Natural Ingredients | Snacks for Tea, Coffee, or Cold Drinks | Pack of 2 ",110.0,110.0,,,PUZZLES,2.0,none,2.0,0.0,0.0,
+886.0, YFP Bikaneri Sponge Rasgulla Tin Pack 1kg (Pack of 2) ,470.0,450.0,,,YFP BIKANERI,1.0,kg,2.0,20.0,4.26,225.0
+887.0, Weikfield Red Chilli Sauce 200 g ,60.0,40.0,,,WEIKFIELD,200.0,g,1.0,20.0,33.33,200.0
+888.0, Parle Monaco Pizza Flavour Masala Crunch Biscuits 100 g ,50.0,25.0,,,PARLE,100.0,g,1.0,25.0,50.0,250.0
+889.0," Jain Combo Without Onion/garlic/Potato Soya Sauce (200gm),green Chilli Sauce (200gm),Red Chilli Sauce (200gm) (Pack of 3) ",270.0,170.0,,,K3 MASALA,200.0,gm,3.0,100.0,37.04,283.33
+890.0," Yogabar Instant Oats 1kg Pack of 2 | Premium Oats, Ready to Cook, Gluten Free Oats with High Fibre, 100% Whole Grain, Non-GMO, 2Kg ",598.0,399.0,,,YOGABAR,1.0,kg,2.0,199.0,33.28,199.5
+891.0, Snactac Sour Cream & Onion Potato Chips 78 g ,40.0,26.0,,,SNACTAC,78.0,g,1.0,14.0,35.0,333.33
+892.0, Cadbury Bournvita Biscuits Super Value Pack 120 g ,35.0,32.0,,,BOURNVITA,120.0,g,1.0,3.0,8.57,266.67
+893.0, Kellogg's Muesli With Almonds & Raisins Nut Delight 500 g ,360.0,323.0,,,KELLOGG'S,500.0,g,1.0,37.0,10.28,646.0
+894.0," Galaxy Silky Smooth Milk Chocolate Bar 56g, (Pack of 8) ",640.0,465.0,,,GALAXY,56.0,g,8.0,175.0,27.34,1037.95
+895.0, Ching's Secret Schezwan Instant Noodles 60 g ,20.0,18.0,,,CHING'S SECRET,60.0,g,1.0,2.0,10.0,300.0
+896.0, Garden Nylon Sev 150 g ,55.0,39.0,,,GARDEN,150.0,g,1.0,16.0,29.09,260.0
+897.0, Haldiram's Kaju Katli 400 g X 1 Box ,625.0,545.0,,,HALDIRAM''S BHUJIA (DE.),400.0,g,1.0,80.0,12.8,1362.5
+898.0," Meishi Vietnamese Gluten Free Spring Rice Paper Roll, 340gm (22 cm) ",345.0,294.0,,,MEISHI,340.0,gm,1.0,51.0,14.78,864.71
+899.0, Fabbites Cracker Shape Chocolate And Dry Fruit Gift Box Handmade 280 G ,799.0,499.0,,,FABBITES,280.0,g,1.0,300.0,37.55,1782.14
+900.0, Denali Foods Premium Dark & White Compound Slab Bars Combo (2 x 400 g) ,490.0,259.0,,,DENALI FOODS,2.0,none,1.0,231.0,47.14,
+901.0, Cadbury Temptations Almond Treat Chocolate 72 g ,110.0,102.0,,,CADBURY,72.0,g,1.0,8.0,7.27,1416.67
+902.0, Cadbury Temptations Rum & Raisins Chocolate 72 g ,110.0,102.0,,,CADBURY,72.0,g,1.0,8.0,7.27,1416.67
+903.0, Kellogg's Moons & Stars Chocos 375 g ,215.0,199.0,,,KELLOGG'S,375.0,g,1.0,16.0,7.44,530.67
+904.0," Gulab Jamun Powder Instant Mix 1Kg (Tasty, Soft & Delicious Indian Dessert, Easy to cook) (Pouch) ",480.0,269.0,,,ARCHITA SHUDHI,1.0,kg,1.0,211.0,43.96,269.0
+905.0, Wingreens Farms Chipotle Mayo 180 g ,75.0,49.0,,,WINGREENS FARMS,180.0,g,1.0,26.0,34.67,272.22
+906.0, Pillsbury Eggless Choco Cooker Cake Mix 159 g ,135.0,90.0,,,PILLSBURY,159.0,g,1.0,45.0,33.33,566.04
+907.0, Desi Kitchen Maharashtrian Mixed Veg Pickle 400 g ,125.0,62.0,,,DESI KITCHEN,400.0,g,1.0,63.0,50.4,155.0
+908.0, Kwality Corn Flakes 1kg Pouch ,490.0,399.0,,,KWALITY,1.0,kg,1.0,91.0,18.57,399.0
+909.0, Virgo Instant Dry Yeast 130 gms ,299.0,129.0,,,VIRGO,130.0,gms,1.0,170.0,56.86,992.31
+910.0, Kellogg's Almonds & Cranberries Crunchy Granola 460 g ,380.0,353.0,,,KELLOGG'S,460.0,g,1.0,27.0,7.11,767.39
+911.0, Yogabar Breakfast Bars Variety Pack of 2 | Daily Protein Snack | High Energy & Nutrition Bars | 8g Protein & 7g Fibre Protein bars | Pack of 12 x 50g Energy Bars | 100%Vegan & No Preservatives ,598.0,299.0,,,YOGABAR,8.0,g,2.0,299.0,50.0,18687.5
+912.0, Shareat Foochka Ready To Fry Panipuri Water Balls 200 g ,69.0,25.0,,,SHAREAT,200.0,g,1.0,44.0,63.77,125.0
+913.0, Lal Sweets Mysore Pak Signature 200g(Pack Of 1) || Sweets || Cow Ghee || Indian Sweets || Mithai ,349.0,229.0,,,LAL,200.0,g,1.0,120.0,34.38,1145.0
+914.0, Sartaj Sweet Petha Tin Pack | Indian Sweets | Agra Petha Mithai | 1kg Tin Pack ,220.0,195.0,,,SARTAJ,1.0,kg,1.0,25.0,11.36,195.0
+915.0, Parle 20-20 Nice Coconut Biscuits 150 g ,30.0,27.0,,,PARLE,150.0,g,1.0,3.0,10.0,180.0
+916.0, Bambino Instant Gulab Jamun Mix 1kg ,300.0,290.0,,,BAMBINO,1.0,kg,1.0,10.0,3.33,290.0
+917.0," Marwar Papad Moong Dal Special (Handmade, Medium Spicy & Rajasthani Flavor) Special 400gm Zipper Pack of 1 ",220.0,199.0,,,MARWAR,400.0,gm,1.0,21.0,9.55,497.5
+918.0, Kellogg's Chocos Duet 24 g ,10.0,10.0,,,KELLOGG'S,24.0,g,1.0,0.0,0.0,416.67
+919.0," Momsy Premium Home Made, Mother Hand Made Herbal Amla Murabba (450gm) ",299.0,169.0,,,MOMSY,450.0,gm,1.0,130.0,43.48,375.56
+920.0, Inchi Rice Hakka Noodles 150 g ,55.0,27.0,,,INCHI,150.0,g,1.0,28.0,50.91,180.0
+921.0, Rasna Healthy Day Pure Honey 250 g ,115.0,57.0,,,RASNA,250.0,g,1.0,58.0,50.43,228.0
+922.0, Amul Margherita Pizza 210 g ,130.0,118.0,,,AMUL,210.0,g,1.0,12.0,9.23,561.9
+923.0, Pickwick Dark Chocolate Wafer Rolls 150 g ,185.0,92.0,,,PICKWICK,150.0,g,1.0,93.0,50.27,613.33
+924.0, Cadbury Cocoa Powder 150 g ,255.0,217.0,,,CADBURY,150.0,g,1.0,38.0,14.9,1446.67
+925.0, Hershey's Kisses Milk Chocolate 36 g ,50.0,46.0,,,HERSHEY'S,36.0,g,1.0,4.0,8.0,1277.78
+926.0, Haldiram Bhujiawala Chatak Bhujia Namkeen - Pack of 4 (400 Grams) Each ,520.0,460.0,,,HALDIRAM BHUJIAWALA,4.0,each,4.0,60.0,11.54,
+927.0," Bake King Instant Dry Yeast Powder for kulchas, naans, pizza, pao, breads making Yeast Powder (100 g) ",300.0,140.0,,,BAKE KING,100.0,g,1.0,160.0,53.33,1400.0
+928.0, Sunfeast Farmlite Active Oats Biscuits With Raisins 150 g ,65.0,60.0,,,SUNFEAST FARMLITE,150.0,g,1.0,5.0,7.69,400.0
+929.0, Dabur Hommade Rajasthan Garlic Chutney 200 g ,95.0,47.0,,,DABUR HOMMADE,200.0,g,1.0,48.0,50.53,235.0
+930.0, True Elements Rolled Oats 1.2kg -Buy 1 Get 1 FREE - Rolled Oats that Keeps you Full till Lunch |100% Natural and Gluten Free Oats |Oats for Weight Loss Management ,960.0,575.0,,,TRUE ELEMENTS,1.2,kg,1.0,385.0,40.1,479.17
+931.0," Thanjai Natural Karuppu Kavuni Noodles 180 Grams of Homemade Natural Millet Noodles( No Preservatives, No Chemicals, No Artificial Extract) ",299.0,162.0,,,THANJAI NATURAL,4.0,each,1.0,137.0,45.82,
+932.0, Del Monte Food Craft Penne Pasta 450 g ,160.0,80.0,,,DEL MONTE,450.0,g,1.0,80.0,50.0,177.78
+933.0, Kissan Crunchy Peanut Butter 350 g ,175.0,135.0,,,KISSAN,350.0,g,1.0,40.0,22.86,385.71
+934.0," Haldiram's Nagpur Kaju Katli, Badam Katli, Mini Kaju Katli (Pack of 3-250 gm Each) ",913.0,913.0,,,HALDIRAM'S NAGPUR,1.0,na,3.0,0.0,0.0,
+935.0, Denali Premium Milk & Dark Compound Slab Bars (2 x 0.4 kg) ,480.0,275.0,,,DENALI FOODS,1.0,na,1.0,205.0,42.71,
+936.0, Kellogg's Fruit & Nut Crunchy Muesli 240 g ,185.0,172.0,,,KELLOGG'S,240.0,g,1.0,13.0,7.03,716.67
+937.0, Momsy Premium Ajwain Multigrain Biscuit | High Fibre Digestive Cookies | No Refined Sugar (450gm) ,599.0,256.0,,,MOMSY,450.0,gm,1.0,343.0,57.26,568.89
+938.0, Archita Shudhi Gulab Jamun Powder Mix (Buy 1 Get 1 FREE) - Easy to make & Delicious ,180.0,175.0,,,ARCHITA SHUDHI,1.0,na,1.0,5.0,2.78,
+939.0," LuvIt Dairy Rich Chocolates Bar | Combo Pack of Milk, Fruit & Nut, Roasted Almond | Pack of 6 - 210g ",240.0,190.0,,,LUVIT,210.0,g,6.0,50.0,20.83,150.79
+940.0, Priyagold Snacks Zig Zag Biscuits 150 g ,45.0,30.0,,,PRIYAGOLD,150.0,g,1.0,15.0,33.33,200.0
+941.0, Veeba Creamy Peanut Butter 340 g ,169.0,99.0,,,VEEBA,340.0,g,1.0,70.0,41.42,291.18
+942.0, MidBreak - Sugar Free Atta Biscuits | Sugar Free Atta Cookies | Atta Biscuits | Premium Handmade Cookies | 300 Gm | Pack of 1 ,210.0,189.0,,,MIDBREAK,300.0,gm,1.0,21.0,10.0,630.0
+943.0, Funfoods Cheese & Chilli Sandwich Spread 250 g ,89.0,82.0,,,FUNFOODS,250.0,g,1.0,7.0,7.87,328.0
+944.0, True Elements Rolled Oats 1 kg -Buy 1 Get 1 FREE - Rolled Oats that Keeps you Full till Lunch |100% Natural and Gluten Free Oats |Oats for Weight Loss Management ,800.0,478.0,,,TRUE ELEMENTS,1.0,kg,1.0,322.0,40.25,478.0
+945.0," Okhli Musal Brand Khari Puff, Tea Time Snacks, Namkeen Snacks ,Family Pack ,Cookies Biscuit - 150gm|Fan Khari, Crunchy Tea Time Snack Biscuits, Fan biscuit, Cookies ",599.0,204.0,,,OKHLI MUSAL BRAND,150.0,gm,1.0,395.0,65.94,1360.0
+946.0, Saffola Karara Crunch Masala Oats 42 g ,18.0,16.0,,,SAFFOLA,42.0,g,1.0,2.0,11.11,380.95
+947.0," HF, Surya 400gm Rose Soan Papdi, with real rose petals |Best Indian Sweet ",200.0,149.0,,,"HF, SURYA",400.0,gm,1.0,51.0,25.5,372.5
+948.0, Galaxy Smooth Milk Chocolate 30 g ,50.0,46.0,,,GALAXY,30.0,g,1.0,4.0,8.0,1533.33
+949.0," Gift Pack Combo Chocolate Eclair, Milk Eclair, Hazelnut Eclair, Butter Toffee & Cn Joy Gift Pack ",300.0,285.0,,,MULBERRY,210.0,g,1.0,15.0,5.0,1357.14
+950.0, Haldiram s Nagpur Mathura peda (250g*2) (Pack of 2) ,380.0,380.0,,,HALDIRAM'S NAGPUR,250.0,g,2.0,0.0,0.0,760.0
+951.0, Aakash Ratlami Sev 900 g ,260.0,215.0,,,AAKASH,900.0,g,1.0,45.0,17.31,238.89
+952.0, Quaker Oats| Rolled Oats| Natural Wholegrain| 1 Kg Each| Pack of 2| 2 Kg ,595.0,595.0,,,QUAKER,1.0,kg,2.0,0.0,0.0,297.5
+953.0, Center Fresh Mints 3 Layer Peppermint Sugarfree Lozenges 4.5 g (15 pcs) ,10.0,10.0,,,CENTER FRESH,210.0,g,1.0,0.0,0.0,47.62
+954.0," LuvIt Chocorich Assorted Eclairs| Hazelnut, Dark Choco & Classic| Pack of 4 - 480g Each ",960.0,459.0,,,LUVIT,480.0,g,4.0,501.0,52.19,239.06
+955.0, BABUS Laxminarayan Poha Chiwda 0.75kg ( 250g * pack of 3 ) ,300.0,300.0,,,BABUS LAXMINARAYAN,0.75,kg,3.0,0.0,0.0,133.33
+956.0, Kissan Pineapple Jam 500 g ,160.0,148.0,,,KISSAN,500.0,g,1.0,12.0,7.5,296.0
+957.0, Dukes Creme 4 Fun Chocolate Sandwich Biscuits 150 g ,35.0,26.0,,,DUKES,1.0,na,1.0,9.0,25.71,
+958.0, Lijjat Pepper Udad Papad 250 g ,96.0,86.0,,,LIJJAT,250.0,g,1.0,10.0,10.42,344.0
+959.0, MyFitness Peanut Butter High Protein Dark Chocolate Peanut Butter Smooth 1000G Olympia Edition ,649.0,454.0,,,MYFITNESS PEANUT BUTTER,1000.0,g,1.0,195.0,30.05,454.0
+960.0, LuvIt ChocoPops| Chocolate Coated Balls With Crunchy Rice Crispies| Gems| Pack of 1- 344.25g ,225.0,201.0,,,LUVIT,344.25,g,1.0,24.0,10.67,583.88
+961.0, Wingreen Farms Schezwan Chilli Garlic Sauce 450 g ,149.0,74.0,,,WINGREENS FARMS,450.0,g,1.0,75.0,50.34,164.44
+962.0, MyFitness Peanut Butter High Protein Dark Chocolate Peanut Butter Crispy 1000G Olympia Edition ,649.0,454.0,,,MYFITNESS PEANUT BUTTER,1000.0,g,1.0,195.0,30.05,454.0
+963.0, Haldiram Bhujiawala Khatta Meetha 800g | Tasty Sweet & Salty Namkeen | Pack of 2 | 400 grams Each ,260.0,225.0,,,HALDIRAM BHUJIAWALA,800.0,g,2.0,35.0,13.46,140.62
+964.0, Cornitos Tomato Mexicana Nacho Crisps 55 g ,35.0,28.0,,,CORNITOS,55.0,g,1.0,7.0,20.0,509.09
+965.0, Agra petha store Cherry petha-500gm ,199.0,140.0,,,AGRA PETHA STORE,500.0,gm,1.0,59.0,29.65,280.0
+966.0, Manna Instant Oats 1Kg - White Oats | High in Fibre and Protein | Helps Maintain Cholesterol ,299.0,235.0,,,MANNA,1.0,kg,1.0,64.0,21.4,235.0
+967.0, Unibic Shortbread Pure Butter Scottish Cookie 150 g ,120.0,60.0,,,UNIBIC,150.0,g,1.0,60.0,50.0,400.0
+968.0, Bagrry's Choco Fills 250 g ,215.0,107.0,,,BAGRRY'S,250.0,g,1.0,108.0,50.23,428.0
+969.0, Open Secret Special Assorted Gift Box ,350.0,315.0,,,OPEN SECRET,344.25,g,1.0,35.0,10.0,915.03
+970.0, Laxmi Narayan Best Cornflakes Chiwda 250 g ,108.0,100.0,,,LAXMINARAYAN,250.0,g,1.0,8.0,7.41,400.0
+971.0, Mother's Recipe Tamarind Date Chutney 200 g ,60.0,54.0,,,MOTHER'S RECIPE,200.0,g,1.0,6.0,10.0,270.0
+972.0, Ching's Secret Schezwan Sauce 250 g ,90.0,83.0,,,CHING'S SECRET,250.0,g,1.0,7.0,7.78,332.0
+973.0, DNV Mixed Pickle 1 kg ,220.0,110.0,,,DNV,1.0,kg,1.0,110.0,50.0,110.0
+974.0, Sartaj Gulab Jamun Tin Pack | Indian Sweets | 1kg Tin Pack ,280.0,251.0,,,SARTAJ,1.0,kg,1.0,29.0,10.36,251.0
+975.0, Beyond Snack Peri Peri Banana Chips 100 g (pack of 3) ,270.0,213.0,,,BEYOND SNÁCK,100.0,g,3.0,57.0,21.11,710.0
+976.0," Organic Purify Imli Candy, Khatti, Methi Imli, Tamarind Twist Candy, Tamarind Candy, 250g jar Pack ",400.0,169.0,,,ORGANIC PURIFY,250.0,g,1.0,231.0,57.75,676.0
+977.0, Weikfield Fusilli Pasta 400 g ,150.0,75.0,,,WEIKFIELD,400.0,g,1.0,75.0,50.0,187.5
+978.0, Dr. Brand Cooking Soda 100 g ,18.0,17.0,,,DR. BRAND,100.0,g,1.0,1.0,5.56,170.0
+979.0, Open Secret Choco Almond Healthy Cookies Biscuits-Pack of 24 - 420gm ,420.0,306.0,,,OPEN SECRET,420.0,gm,24.0,114.0,27.14,30.36
+980.0, Haldiram Bhujiawala SUGAR FREE Soan Papdi 1.5kg (Pack of 3 -500g each) | Delicious Crispy & Flaky Premium Sugar free soan papdi ,810.0,585.0,,,HALDIRAM BHUJIAWALA,1.5,kg,3.0,225.0,27.78,130.0
+981.0, Tic Tac Mint 7.7 g ,15.0,13.0,,,TIC TAC,7.7,g,1.0,2.0,13.33,1688.31
+982.0, Galaxy Fusions Dark Chocolate Bar | With 70% Cocoa | 110g (Pack of 4) ,700.0,475.0,,,GALAXY,110.0,g,4.0,225.0,32.14,1079.55
+983.0, Yummiez Veg Sticks 320 g ,140.0,87.0,,,YUMMIEZ,320.0,g,1.0,53.0,37.86,271.88
+984.0, Sams Green Chilly Sauce 200 g ,60.0,30.0,,,SAMS,200.0,g,1.0,30.0,50.0,150.0
+985.0, Haldiram's Nagpur Kaju Katli (Pack of 2 X 500 g) ,1060.0,1060.0,,,HALDIRAM'S NAGPUR,110.0,g,2.0,0.0,0.0,4818.18
+986.0, Hershey's Cocoa Spreads 350 g ,320.0,219.0,,,HERSHEY'S,350.0,g,1.0,101.0,31.56,625.71
+987.0, Haldirams Chana Dry Fruit Burfi 400 g ,280.0,279.0,,,HALDIRAM'S,400.0,g,1.0,1.0,0.36,697.5
+988.0, Mother's Recipe Sabudana Papad with Rock Salt 75 g ,34.0,30.0,,,MOTHER'S RECIPE,75.0,g,1.0,4.0,11.76,400.0
+989.0, Indiyum Kaju Barfi 800g (200g X 4) ,1040.0,605.0,,,INDIYUM,800.0,g,1.0,435.0,41.83,756.25
+990.0, Swadeshi Farms Gujarati Khakhra - Methi ,300.0,159.0,,,SWADESHI FARMS,110.0,g,1.0,141.0,47.0,1445.45
+991.0, Parle 20-20 Cashew Cookies 200 g ,35.0,32.0,,,PARLE 20-20,200.0,g,1.0,3.0,8.57,160.0
+992.0, Parle Hide & Seek Black Bourbon Vanilla Cream Biscuits 100 g ,30.0,27.0,,,PARLE,100.0,g,1.0,3.0,10.0,270.0
+993.0," Denali Premium Dark Compound, Delicious Chocolate Bars for Cooking/Baking Cakes, Muffins, Mousse (400 Grams, 2 Slabs) Bars ",460.0,249.0,,,DENALI FOODS,200.0,g,1.0,211.0,45.87,1245.0
+994.0," Gits Instant Gulab Jamun Dessert Mix, Pure Veg, Indian Dessert and Mithai, 800g (Pack of 4, 200g Each) ",460.0,423.0,,,GITS,800.0,g,4.0,37.0,8.04,132.19
+995.0, Maggi Rich Tomato Sauce 500 g ,120.0,111.0,,,MAGGI,500.0,g,1.0,9.0,7.5,222.0
+996.0, Kellogg's Muesli (No Added Sugar) 500 g ,370.0,344.0,,,KELLOGG'S,500.0,g,1.0,26.0,7.03,688.0
+997.0, Sundrop Creamy Peanut Butter 462 g ,225.0,190.0,,,SUNDROP,462.0,g,1.0,35.0,15.56,411.26
+998.0, Ganesh Premium Appalams 180 g ,99.0,49.0,,,GANESH,180.0,g,1.0,50.0,50.51,272.22
+999.0, Lijjat Punjabi Masala Special Papad 250 g ,110.0,102.0,,,LIJJAT,250.0,g,1.0,8.0,7.27,408.0
+1000.0, Funfoods Eggless Cucumber & Carrot Sandwich Spread 300 g ,89.0,82.0,,,FUNFOODS,300.0,g,1.0,7.0,7.87,273.33
+1001.0, Shree Misthan Kaju Besan Ladoo 800g (400g X 2) ,560.0,399.0,,,SHREE MISTHAN,800.0,g,1.0,161.0,28.75,498.75
+1002.0, Taali Masala Mania Protein Puffs 60 g ,59.0,39.0,,,TAALI,60.0,g,1.0,20.0,33.9,650.0
+1003.0, Keya Gourmet Spirali Fusilli Durum Wheat Pasta 500 gm x 1 ,160.0,157.0,,,KEYA,500.0,gm,1.0,3.0,1.88,314.0

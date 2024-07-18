@@ -1,0 +1,998 @@
+,Sr.No.,Grocery_Name,Brand_Name,MRP_Price,Discount_Price,Total Disc,Percetage Disc,Quantity,strip_qua,Only_Numeric_Part,Quantity_upd,Converted_Quantity,Price_per_unit(gm/ml/pc)
+0,0,Premium Panchmewa Superfood Farmley Jar,Farmley,519,415.2,103.8,20,450 gm - Jar,450 gm ,,450 gm ,450,0.922666667
+1,1,Atta/Godihittu - Whole Wheat,Aashirvaad,294,226.92,67.08,22.82,5 kg ,5 kg ,,5 kg ,5000,0.045384
+2,2,Moong Chilka,AHAAR,167,158.65,8.35,5,500 g ,500 g ,,500 g ,500,0.3173
+3,3,Pure Ghee,Nandini,1300,1300,0,0,2 x 1 L - Multipack,2*1 L ,"(2, 'L')",2 L,2000,0.65
+4,4,"Sona Masoori Raw Rice/Akki - Super Premium, 12 + Months Old",BB Royal,1875,1638,237,12.64,25 kg - (18 + Months Old),25 kg ,,25 kg ,25000,0.06552
+5,5,Unpolished Toor Dal/Arhar Dal,Tata Sampann,1420,1249.6,170.4,12,5 kg ,5 kg ,,5 kg ,5000,0.24992
+6,6,Tur/Arhar Dal,AHAAR,162,153.9,8.1,5,500 g ,500 g ,,500 g ,500,0.3078
+7,7,Sona Masoori Raw Rice (12 + Months Old),BB Royal,1820,1612,208,11.43,26 kg - Bag,26 kg ,,26 kg ,26000,0.062
+8,8,Refined Sunflower Oil,Sunpure ,390,354.78,35.22,9.03,3 x 1 L - Multipack,3*1 L ,"(3, 'L')",3 L,3000,0.11826
+9,9,Chitra Rajma,AHAAR,133,119.7,13.3,10,500 g ,500 g ,,500 g ,500,0.2394
+10,10,Pooja Oil,Anandam,180,113.23,66.77,37.09,890 g ,890 g ,,890 g ,890,0.127224719
+11,11,Sunlite Sunflower Refined Oil,Fortune ,375,330,45,12,3x910 g - Multipack,3*910 g ,"(2730, 'g')",2730 g,2730,0.120879121
+12,12,Ghee,GRB,850,740,110,12.94,2 x 500 ml - Multipack,2*500 ml ,"(1000, 'ml')",1000 ml,1000,0.74
+13,13,Toor Dal/Togari Bele - Desi,BB Royal,250,207,43,17.2,1 kg - Pouch,1 kg ,,1 kg ,1000,0.207
+14,14,Kabuli Chana,AHAAR,126,117.18,8.82,7,500 g ,500 g ,,500 g ,500,0.23436
+15,15,Cumin/Jeera/Jeerige - Whole,BB Royal,1200,743,457,38.08,1 kg ,1 kg ,,1 kg ,1000,0.743
+16,16,Peanuts/Kadalekayi - Raw,BB Royal,230,179,51,22.17,1 kg - Pouch,1 kg ,,1 kg ,1000,0.179
+17,17,Cashew/Godambi - Whole,BB Popular,1500,783,717,47.8,1 kg ,1 kg ,,1 kg ,1000,0.783
+18,18,Urad Dal/Uddina Bele - Split,BB Popular,200,186,14,7,1 kg - Pouch,1 kg ,,1 kg ,1000,0.186
+19,19,Sooji Ordinary/Bombay Rava,BB Royal,325,265,60,18.46,5x1 kg - Multipack,5*1 kg ,"(5, 'kg')",5 kg,5000,0.053
+20,20,White Label Sugar,Parry's,300,235.75,64.25,21.42,5 Kg - Sulphur Free Process,5 Kg ,,5 Kg ,5000,0.04715
+21,21,Salt/Uppu - Iodized,Tata Salt,55,55,0,0,2 kg ,2 kg ,,2 kg ,2000,0.0275
+22,22,"Sugar - Pure & Hygienic, Fine Grain, Natural, Sulphur Free",Madhur,65,52.04,12.96,19.94,1 kg ,1 kg ,,1 kg ,1000,0.05204
+23,23,Fried Gram/Huri Kadale,BB Royal,180,135,45,25,1 kg - Pouch,1 kg ,,1 kg ,1000,0.135
+24,24,Select Atta/Godihittu,Aashirvaad,326,286.88,39.12,12,5 kg - Pouch,5 kg ,,5 kg ,5000,0.057376
+25,25,Toor/Arhar Dal 5 kg,BB Super Saver,1200,1038,162,13.5,5 kg ,5 kg ,,5 kg ,5000,0.2076
+26,26,Oil - Gingelly,Idhayam,503,495,8,1.59,1 L - Pouch,1 L ,,1 L ,1000,0.495
+27,27,Refined - Sunflower Oil,Dhara ,420,343.2,76.8,18.29,3x1 L - Multipack,3*1 L ,"(3, 'L')",3 L,3000,0.1144
+28,28,Sugar,BB Popular,30,25,5,16.67,500 g ,500 g ,,500 g ,500,0.05
+29,29,Peanuts/Kadalekayi - Raw,BB Popular,220,180,40,18.18,1 kg - Pouch,1 kg ,,1 kg ,1000,0.18
+30,30,"Almond/Badam - Californian, Giri",BB Popular,1200,698,502,41.83,2x500 g - Multipack,2*500 g ,"(1000, 'g')",1000 g,1000,0.698
+31,31,Atta with Multigrains - High Fibre,Aashirvaad,670,562.8,107.2,16,10 kg ,10 kg ,,10 kg ,10000,0.05628
+32,32,Moong Dal/Hesaru Bele,Tata Sampann,214,207.58,6.42,3,1 kg - Pouch,1 kg ,,1 kg ,1000,0.20758
+33,33,Organic - Toor Dal/Togari Bele,BB Royal,1200,1160,40,3.33,5 kg ,5 kg ,,5 kg ,5000,0.232
+34,34,Refined Sugar (Sulphurless)/Sakkare,BB Royal,325,285,40,12.31,5 kg ,5 kg ,,5 kg ,5000,0.057
+35,35,Moong Dal/Hesaru Bele,BB Royal,190,156,34,17.89,1 kg - Pouch,1 kg ,,1 kg ,1000,0.156
+36,36,Organic - Almond/Badam,BB Royal,675,527,148,21.93,500 g ,500 g ,,500 g ,500,1.054
+37,37,Chana Dal/Kadale Bele,BB Royal,68,55,13,19.12,500 g - Pouch,500 g ,,500 g ,500,0.11
+38,38,Bullet Raw Rice,BB Royal,900,778,122,13.56,10 kg ,10 kg ,,10 kg ,10000,0.0778
+39,39,Sona masoori Raw Rice ( 6 + Months  Old),BB Popular,1700,1482,218,12.82,26 kg - (6 + Months Old),26 kg ,,26 kg ,26000,0.057
+40,40,Rice Bran Health Physically Refined Oil,Fortune ,390,339.9,50.1,12.85,3x1 L - Multipack,3*1 L ,"(3, 'L')",3 L,3000,0.1133
+41,41,"Urad Gota - Desi, Unpolished Mature Pulses For Easy Cooking & Rich Flavour",BB Royal,210,159,51,24.29,1 kg - Pouch,1 kg ,,1 kg ,1000,0.159
+42,42,Poha/Avalakki/Aval - Thick,BB Royal,100,66,34,34,1 kg - Pouch,1 kg ,,1 kg ,1000,0.066
+43,43,"Green Moong Whole - Desi, Unpolished Mature Pulses For Easy Cooking & Rich Flavour",BB Royal,90,63.46,26.54,29.49,500 g - Pouch,500 g ,,500 g ,500,0.12692
+44,44,Gold Refined Cooking oil | Blended Rice Bran & Sunflower oil | Helps Keeps Heart Healthy,Saffola,180,156,24,13.33,1 L - Pouch,1 L ,,1 L ,1000,0.156
+45,45,Sunlite - Refined Sunflower Oil,Fortune ,480,272.14,207.86,43.3,2 L - Pet Bottle,2 L ,,2 L ,2000,0.13607
+46,46,Premium Kachi Ghani Pure Mustard Oil,Fortune ,43,31.98,11.02,25.63,200 ml - Pet Bottle,200 ml ,,200 ml ,200,0.1599
+47,47,Nakshatra Pooja Oil,Mr. Gold,105,86.88,18.12,17.26,500 ml ,500 ml ,,500 ml ,500,0.17376
+48,48,Olive Oil For Indian Cooking - Frying & Baking,BORGES,950,639.25,310.75,32.71,500 ml - Glass Bottle,500 ml ,,500 ml ,500,1.2785
+49,49,Urad Dal/Uddina Bele - Split,BB Royal,210,151,59,28.1,1 kg - Pouch,1 kg ,,1 kg ,1000,0.151
+50,50,Bansi Sooji/Kesari Rava,BB Royal,75,59,16,21.33,1 kg - Pouch,1 kg ,,1 kg ,1000,0.059
+51,51,Maida,BB Royal,325,225,100,30.77,5x1 kg - Multipack,5*1 kg ,"(5, 'kg')",5 kg,5000,0.045
+52,52,Amrit - Brown Sugar,Parry's,100,90,10,10,2x500 g - Multipack,2*500 g ,"(1000, 'g')",1000 g,1000,0.09
+53,53,Organic - Kismis,BB Royal,599,372,227,37.9,1 kg ,1 kg ,,1 kg ,1000,0.372
+54,54,Surti Kolam - Rice (12 + Months Old),BB Royal,2300,1921,379,16.48,26 kg - (12 + Months Old),26 kg ,,26 kg ,26000,0.073884615
+55,55,"Chilli - Byadagi, Stemless",BB Royal,240,216,24,10,200 g ,200 g ,,200 g ,200,1.08
+56,56,Black Pepper/Kari Menasu,BB Popular,280,183,97,34.64,200 g - Pouch,200 g ,,200 g ,200,0.915
+57,57,Organic - Cumin/Jeera/Jeerige,BB Royal,600,427,173,28.83,500 g ,500 g ,,500 g ,500,0.854
+58,58,Filtered Groundnut Oil,Safal,207,207,0,0,1 L - pouch,1 L ,,1 L ,1000,0.207
+59,59,Powder - Asafoetida,LG,883,883,0,0,500 g - Jar,500 g ,,500 g ,500,1.766
+60,60,Toor/Arhar Dal,BB Popular,1225,951,274,22.37,5 kg - Pouch,5 kg ,,5 kg ,5000,0.1902
+61,61,Organic - Brown Sugar/Sakkare,BB Royal,225,147,78,34.67,2 kg ,2 kg ,,2 kg ,2000,0.0735
+62,62,Urad Dal/Uddina Bele Whole White,Tata Sampann,224,217.28,6.72,3,1 Kg ,1 Kg ,,1 Kg ,1000,0.21728
+63,63,Atta/Godihittu - Chakki Fresh,Pillsbury,576,441.74,134.26,23.31,10 kg - Pouch,10 kg ,,10 kg ,10000,0.044174
+64,64,Coriander Seeds/Kottambari Beeja,BB Royal,250,130,120,48,500 g ,500 g ,,500 g ,500,0.26
+65,65,Refined Sunflower - Oil,Sunpure ,675,577.7,97.3,14.41,5 L - Can,5 L ,,5 L ,5000,0.11554
+66,66,Fine Besan/Kadale Hittu - 100% Chana Dal,Tata Sampann,149,134.1,14.9,10,1 kg ,1 kg ,,1 kg ,1000,0.1341
+67,67,Dosa Rice/Akki,Super Saver,275,257,18,6.55,5 kg ,5 kg ,,5 kg ,5000,0.0514
+68,68,Unpolished Chana Dal,Tata Sampann,154,129,25,16.23,1 kg - Pouch,1 kg ,,1 kg ,1000,0.129
+69,69,Walnut/Akhrot - Kernels,BB Popular,360,225,135,37.5,200 g - Pouch,200 g ,,200 g ,200,1.125
+70,70,Superior-Mp-Sharbati-Atta/Godihittu - Fortified,BB Royal,650,515.64,134.36,20.67,10 kg - Pouch,10 kg ,,10 kg ,10000,0.051564
+71,71,Rice Flour,BB Royal,60,49,11,18.33,1 kg - Pouch,1 kg ,,1 kg ,1000,0.049
+72,72,"White Thick Poha - High In Fibre, For Breakfast & Evening Tea",Tata Sampann,212,180,32,15.09,2x1kg - Multipack,2*1kg ,"(2, 'kg')",2 kg,2000,0.09
+73,73,Idli/Idly Rice,BB Royal,70,55,15,21.43,1 kg - Pouch,1 kg ,,1 kg ,1000,0.055
+74,74,Organic - Raw Peanuts,BB Royal,538,452,86,15.99,2x1 kg - Multipack,2*1 kg ,"(2, 'kg')",2 kg,2000,0.226
+75,75,Coconut Oil - 100% Pure,Parachute ,4440,3996,444,10,12x1 L - Multipack,12*1 L ,"(12, 'L')",12 L,12000,0.333
+76,76,Cow Ghee/Tuppa,Aashirvaad Svasti,840,798,42,5,1 L - Pet Jar,1 L ,,1 L ,1000,0.798
+77,77,"Refined Sunflower Oil - Trans Fat Free, Healthy Cooking Oil",Fiona ,128,107.86,20.14,15.73,1 L - Pouch,1 L ,,1 L ,1000,0.10786
+78,78,Kabuli Chana/Kabuli Kadale,BB Popular,240,185,55,22.92,1 kg - Pouch,1 kg ,,1 kg ,1000,0.185
+79,79,Masala - Puliogare Powder,MTR,135,122,13,9.63,200 g - Pouch,200 g ,,200 g ,200,0.61
+80,80,Amrit Powdered Jaggery,Parry's,110,80,30,27.27,2x500 g - Multipack,2*500 g ,"(1000, 'g')",1000 g,1000,0.08
+81,81,Tamarind/Hunisehannu/Imli Seedless Cake,BB Royal,400,232,168,42,1 kg ,1 kg ,,1 kg ,1000,0.232
+82,82,Sona Masoori Raw Rice/Akki,Super Saver,275,258.5,16.5,6,5 kg ,5 kg ,,5 kg ,5000,0.0517
+83,83,Tasty Refined Cooking oil | Blended Rice bran & Corn oil | Pro Fitness Conscious,Saffola,150,138,12,8,1 L - Pouch,1 L ,,1 L ,1000,0.138
+84,84,Oil - Groundnut,Freedom,210,179.56,30.44,14.5,1 L ,1 L ,,1 L ,1000,0.17956
+85,85,"Gold - Refined Cooking Oil, Blend Of Rice Bran & Sunflower Oil, Helps Keeps Heart Healthy",Saffola,675,499,176,26.07,3 L - Jar,3 L ,,3 L ,3000,0.166333333
+86,86,Cashew/Kaju - Whole,Super Saver,1000,754,246,24.6,1 kg ,1 kg ,,1 kg ,1000,0.754
+87,87,Iodised Crystal Salt,Tata Salt,44,44,0,0,2x1kg - Multipack,2*1kg ,"(2, 'kg')",2 kg,2000,0.022
+88,88,Chiroti/Barik Sooji,BB Royal,65,56,9,13.85,1 kg - Pouch,1 kg ,,1 kg ,1000,0.056
+89,89,Mustard/Sasive/Rai - Small,BB Popular,150,86,64,42.67,500 g ,500 g ,,500 g ,500,0.172
+90,90,Chilli - Guntur with Stem,BB Royal,350,255,95,27.14,500 g ,500 g ,,500 g ,500,0.51
+91,91,Original Extra Virgin Olive Oil,BORGES,1400,1099,301,21.5,1 L - Pet Bottle,1 L ,,1 L ,1000,1.099
+92,92,Jaggery - Square,BB Royal,100,86,14,14,1 kg ,1 kg ,,1 kg ,1000,0.086
+93,93,Cow Ghee/Tuppa,Aashirvaad Svasti,840,798,42,5,1 L - Pet Jar,1 L ,,1 L ,1000,0.798
+94,94,Chana - Brown/Kadale Kaalu,BB Popular,35,24,11,31.43,200 g - Pouch,200 g ,,200 g ,200,0.12
+95,95,Kurnool Sona Masoori Raw Rice  (12 + Months Old),BB Royal,350,295,55,15.71,5 kg - (12 + Months Old),5 kg ,,5 kg ,5000,0.059
+96,96,Moong Dal/Hesaru Bele,BB Popular,190,138,52,27.37,1 kg - Pouch,1 kg ,,1 kg ,1000,0.138
+97,97,Cold Pressed Groundnut Cooking Oil - Cooks Indian Dishes,BB Royal Organic,1500,1056.99,443.01,29.53,3x1L - Multipack,3*1L ,"(3, 'L')",3 L,3000,0.35233
+98,98,Gingelly Oil,Mr. Gold,375,353.92,21.08,5.62,1 L ,1 L ,,1 L ,1000,0.35392
+99,99,Fenugreek/Methi/Menthya,BB Popular,60,32,28,46.67,200 g ,200 g ,,200 g ,200,0.16
+100,100,Chana Dal/Kadale Bele,BB Popular,130,120,10,7.69,1 kg - Pouch,1 kg ,,1 kg ,1000,0.12
+101,101,Cold Pressed Sunflower Cooking Oil - Cooks Indian Dishes,BB Royal Organic,1350,1026.99,323.01,23.93,3x1L - Multipack,3*1L ,"(3, 'L')",3 L,3000,0.34233
+102,102,New Rice/Akki - Sona Masoori,BB Popular,325,299,26,8,5 kg ,5 kg ,,5 kg ,5000,0.0598
+103,103,Rice/Akki - Dosa,BB Royal,60,51,9,15,1 kg - Pouch,1 kg ,,1 kg ,1000,0.051
+104,104,Rice Flour,Vijay,58,56.84,1.16,2,1 kg ,1 kg ,,1 kg ,1000,0.05684
+105,105,Organic - Cardamom Green/Elakki,BB Royal,449,444,5,1.11,100 g ,100 g ,,100 g ,100,4.44
+106,106,Unpolished Green Moong Dal - Whole,Tata Sampann,198,192.06,5.94,3,2 x 500 g - Multipack,2*500 g ,"(1000, 'g')",1000 g,1000,0.19206
+107,107,Coconut Oil,Kpl Shudhi,145,125.34,19.66,13.56,500 ml - Pouch,500 ml ,,500 ml ,500,0.25068
+108,108,Urad Gota/Whole,BB Super Saver,380,302,78,20.53,2 kg ,2 kg ,,2 kg ,2000,0.151
+109,109,"Organic - Moong Dal/Hesaru Bele, Unpolished",BB Royal,449,354,95,21.16,2 kg ,2 kg ,,2 kg ,2000,0.177
+110,110,Idli/Idly Rice,Super Saver,600,507,93,15.5,10 kg ,10 kg ,,10 kg ,10000,0.0507
+111,111,Organic Jaggery/Bella Powder,BB Royal,95,56,39,41.05,500 g - Jar,500 g ,,500 g ,500,0.112
+112,112,Oil - Groundnut,Dhara ,250,219.78,30.22,12.09,1 L - Pouch,1 L ,,1 L ,1000,0.21978
+113,113,Himalayan Pink Rock Salt/Uppu Powder,GoodDiet,110,87,23,20.91,1 kg ,1 kg ,,1 kg ,1000,0.087
+114,114,Anjeer/Figs/Atti Hannu,BB Popular,1250,656,594,47.52,500 g ,500 g ,,500 g ,500,1.312
+115,115,Refined Oil - Sunflower,Freedom,139,114,25,17.99,1 L - Pouch,1 L ,,1 L ,1000,0.114
+116,116,Pureit Refined Sunflower Oil,Gemini,700,549,151,21.57,5 l - Jar,5 l ,,5 l ,5000,0.1098
+117,117,Salt/Uppu - Crystal,AKAR,26,18.27,7.73,29.73,1 kg - Pouch,1 kg ,,1 kg ,1000,0.01827
+118,118,Phool Makhana,BB Popular,120,95,25,20.83,100 g - Pouch,100 g ,,100 g ,100,0.95
+119,119,Raisins/Ona Drakshi - Indian,BB Popular,500,279,221,44.2,1 kg - Pouch,1 kg ,,1 kg ,1000,0.279
+120,120,Fennel/Saunf/Sompu - Big,BB Popular,80,57,23,28.75,100 g ,100 g ,,100 g ,100,0.57
+121,121,Ghee/Tuppa,Amul,3130,3130,0,0,5 L ,5 L ,,5 L ,5000,0.626
+122,122,Mustard/Sasive/Rai - Small,BB Royal,60,38,22,36.67,200 g ,200 g ,,200 g ,200,0.19
+123,123,Phool Makhana,BB Royal,300,247,53,17.67,200 g ,200 g ,,200 g ,200,1.235
+124,124,Superlite Advanced Oil - Sunflower,Sundrop,489,479.22,9.78,2,3 L - Can,3 L ,,3 L ,3000,0.15974
+125,125,Basmati Rice/Basmati Akki - Dubar,India Gate,164,133,31,18.9,1 kg - Pouch,1 kg ,,1 kg ,1000,0.133
+126,126,Salt/Uppu - Iodised,Aashirvaad,25,16,9,36,1 kg - Pouch,1 kg ,,1 kg ,1000,0.016
+127,127,Maida,BB Super Saver,31,22,9,29.03,500 g ,500 g ,,500 g ,500,0.044
+128,128,Coconut Oil,Mr. Gold,265,147,118,44.53,1 L ,1 L ,,1 L ,1000,0.147
+129,129,Tamarind/Hunisehannu/Imli - Seedless,BB Popular,300,174,126,42,1 kg - Pouch,1 kg ,,1 kg ,1000,0.174
+130,130,Tamil Ponni Boiled - Rice,BB Royal,1900,1678,222,11.68,26 kg - Bag,26 kg ,,26 kg ,26000,0.064538462
+131,131,"Lite - 15% Low Sodium Iodised Salt, Helps Blood Pressure & For Healthy Lifestyle",Tata Salt,50,47,3,6,1 kg - Pouch,1 kg ,,1 kg ,1000,0.047
+132,132,Basmati Rice/Basmati Akki - Rozana Super 90,Daawat,98,87.63,10.37,10.58,1 kg ,1 kg ,,1 kg ,1000,0.08763
+133,133,Organic - Sona Masoori Raw Rice,BB Royal,2000,1534,466,23.3,2x10 kg - Multipack,2*10 kg ,"(20, 'kg')",20 kg,20000,0.0767
+134,134,HMT Kolam Rice/Akki,BB Royal,475,374,101,21.26,5 kg - (12 + Months Old),5 kg ,,5 kg ,5000,0.0748
+135,135,Mustard/Sasive/Rai - Big,BB Royal,300,162,138,46,1 kg ,1 kg ,,1 kg ,1000,0.162
+136,136,"Chilli - Guntur, Stemless",BB Royal,400,253,147,36.75,500 g ,500 g ,,500 g ,500,0.506
+137,137,MTR Hingh Powder,MTR,90,72,18,20,50 gm ,50 gm ,,50 gm ,50,1.44
+138,138,Cow Desi Ghee/Tuppa,Fresho Organic,2600,1658,942,36.23,2x1 L - (Multipack),2*1 L ,"(2, 'L')",2 L,2000,0.829
+139,139,Organic - Chana Brown/Kadale Kaalu,BB Royal,33,30,3,9.09,200 g ,200 g ,,200 g ,200,0.15
+140,140,Rock Salt/Uppu,Tata Salt,120,88.8,31.2,26,1 kg - Pouch,1 kg ,,1 kg ,1000,0.0888
+141,141,Dates/Kharjura - Deseeded,Lion,149,149,0,0,500 g - Cup,500 g ,,500 g ,500,0.298
+142,142,Jeera/Jeerige - Whole,Catch,280,215.6,64.4,23,200 g ,200 g ,,200 g ,200,1.078
+143,143,High Aroma Cow Ghee,Amul,1450,1425.06,24.94,1.72,2 x 1 L - Multipack,2*1 L ,"(2, 'L')",2 L,2000,0.71253
+144,144,Active - Pro Weight Watchers,Saffola,480,363,117,24.38,3x1 L - Multipack,3*1 L ,"(3, 'L')",3 L,3000,0.121
+145,145,Pista Magaj - Plain Kernel,BB Royal,1500,1334,166,11.07,500 g ,500 g ,,500 g ,500,2.668
+146,146,Kabuli Chana/Kabuli Kadale,Tata Sampann,319,299.86,19.14,6,1 kg - Pouch,1 kg ,,1 kg ,1000,0.29986
+147,147,Lobia/Alasandee Kaalu - Red,BB Royal,30,29,1,3.33,200 g - Pouch,200 g ,,200 g ,200,0.145
+148,148,"Organic - Mustard/Sasive/Rai, Small",BB Royal,21,20,1,4.76,100 g ,100 g ,,100 g ,100,0.2
+149,149,Pure Ghee,Fresho,1600,1379,221,13.81,2x1 L - Multipack,2*1 L ,"(2, 'L')",2 L,2000,0.6895
+150,150,Sabudana - White Medium,BB Royal,150,130,20,13.33,1 kg - Pouch,1 kg ,,1 kg ,1000,0.13
+151,151,Til/Ellu - White,BB Royal,500,356,144,28.8,1 kg ,1 kg ,,1 kg ,1000,0.356
+152,152,Organic - Cinnamon/Chakke,BB Royal,61,39.35,21.65,35.49,50 g ,50 g ,,50 g ,50,0.787
+153,153,Turmeric Powder/Arisina Pudi,Tata Sampann,180,153,27,15,500 g ,500 g ,,500 g ,500,0.306
+154,154,Cumin/Jeera/Jeerige - Whole,BB Popular,500,360,140,28,500 g ,500 g ,,500 g ,500,0.72
+155,155,Basmati Rice/Basmati Akki - Feast Rozzana,India Gate,118,98,20,16.95,1 kg - Pouch,1 kg ,,1 kg ,1000,0.098
+156,156,Hommade - Coconut Milk,Dabur,225,203.06,21.94,9.75,3x200 ml - Multipack,3*200 ml ,"(600, 'ml')",600 ml,600,0.338433333
+157,157,Besan Fine/Kadale Hittu,BB Royal,150,93,57,38,1 kg - Pouch,1 kg ,,1 kg ,1000,0.093
+158,158,Powder - Tikhalal Chilly,Everest,660,660,0,0,1 kg - Pouch,1 kg ,,1 kg ,1000,0.66
+159,159,Jaggery - Bucket,BB Royal,100,65,35,35,900 g ,900 g ,,900 g ,900,0.072222222
+160,160,Organic Kabuli Chana/Kabuli Kadale,BB Royal,270,249,21,7.78,1 kg ,1 kg ,,1 kg ,1000,0.249
+161,161,Horse Gram/Hurali Kaalu,BB Royal,36,33,3,8.33,200 g - Pouch,200 g ,,200 g ,200,0.165
+162,162,Masoor Dal/Mysore Bele,BB Royal,37,28,9,24.32,200 g ,200 g ,,200 g ,200,0.14
+163,163,Turmeric Powder,MTR,81,73,8,9.88,250 Gm ,250 Gm ,,250 Gm ,250,0.292
+164,164,Jaggery/Bella - Kolhapuri,BB Royal,112,95,17,15.18,900 g ,900 g ,,900 g ,900,0.105555556
+165,165,"Sona Masuri Raw Rice/Akki - 12 Months, Pesticide Free",Safe Harvest,525,430.5,94.5,18,5 kg ,5 kg ,,5 kg ,5000,0.0861
+166,166,Atta - Chakki Fresh,Fortune ,74,60.36,13.64,18.43,1 kg ,1 kg ,,1 kg ,1000,0.06036
+167,167,Ragi Flour/Ragi Hittu,BB Super Saver,90,54,36,40,1 kg ,1 kg ,,1 kg ,1000,0.054
+168,168,Organic - Methi/Menthya,BB Royal,21,19,2,9.52,100 g ,100 g ,,100 g ,100,0.19
+169,169,Organic - Pumpkin Seeds/Kumbalakayi Bija,BB Royal,475,404,71,14.95,500 g ,500 g ,,500 g ,500,0.808
+170,170,Ginger Garlic Paste,Mother's Recipe,119,89.25,29.75,25,500 g ,500 g ,,500 g ,500,0.1785
+171,171,Tasty - Pro Fitness Conscious Edible Oil,Saffola,450,414,36,8,3X1 L - Multipack,3*1 L ,,3 L,3000,0.138
+172,172,"Almond/Badam - Californian, Giri",Super Saver,1000,669,331,33.1,1 kg ,1 kg ,,1 kg ,1000,0.669
+173,173,"Poha/Avalakki - Extra Thick, Mota",BB Royal,100,70,30,30,1 kg ,1 kg ,,1 kg ,1000,0.07
+174,174,Organic Whole Wheat Atta,Aashirvaad,75,65,10,13.33,1 kg ,1 kg ,,1 kg ,1000,0.065
+175,175,Basmati Rice/Basmati Akki - Classic,India Gate,235,222.72,12.28,5.23,1 kg - Pouch,1 kg ,,1 kg ,1000,0.22272
+176,176,Organic - Black Pepper/Kali Mirchi,BB Royal,500,400,100,20,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,1
+177,177,Chilli Powder,Aashirvaad,250,175,75,30,500 g ,500 g ,,500 g ,500,0.35
+178,178,Masala - Sambar Powder,MTR,130,114,16,12.31,200 g - Pouch,200 g ,,200 g ,200,0.57
+179,179,Idli Rava,Vijay,58,56.84,1.16,2,1 kg ,1 kg ,,1 kg ,1000,0.05684
+180,180,Oil - Mantra GroundNut,Idhayam,246,246,0,0,1 L - Pouch,1 L ,,1 L ,1000,0.246
+181,181,Green Peas,BB Royal,70,35,35,50,200 g - Pouch,200 g ,,200 g ,200,0.175
+182,182,Organic Cow Ghee/Tuppa,AKSHAYAKALPA,750,750,0,0,490 ml ,490 ml ,,490 ml ,490,1.530612245
+183,183,Idli Sooji/Rava,BB Royal,60,47,13,21.67,1 kg - Pouch,1 kg ,,1 kg ,1000,0.047
+184,184,Coconad - Pure Coconut Oil,Klf ,185,175.75,9.25,5,1 L ,1 L ,,1 L ,1000,0.17575
+185,185,Organic - Maida,BB Royal,170,116,54,31.76,2x1 kg - (Multipack),2*1 kg ,"(2, 'kg')",2 kg,2000,0.058
+186,186,Coriander Powder,Tata Sampann,155,131.75,23.25,15,500 g ,500 g ,,500 g ,500,0.2635
+187,187,Rice/Akki - Jeera,India Gate,135,114.07,20.93,15.5,1 kg ,1 kg ,,1 kg ,1000,0.11407
+188,188,Mustard Oil,Patanjali,145,145,0,0,1 L - Bottle,1 L ,,1 L ,1000,0.145
+189,189,Sundrop Super Lite Advanced - Sunflower Oil Pouch,Sundrop,180,180,0,0,1 L - Pouch,1 L ,,1 L ,1000,0.18
+190,190,Roasted Sooji/Rava,BB Royal,40,30,10,25,500 g - Pouch,500 g ,,500 g ,500,0.06
+191,191,Basmati Rice - Rozana Premium,BB Royal,1150,874.95,275.05,23.92,2x5 Kg - Multipack,2*5 Kg ,"(10, 'Kg')",10 Kg,10000,0.087495
+192,192,Organic - Chia Seeds,BB Royal,205,99,106,51.71,200 g ,200 g ,,200 g ,200,0.495
+193,193,Khus Khus/Posta Dana,BB Royal,2000,1197,803,40.15,500 g ,500 g ,,500 g ,500,2.394
+194,194,Basmati Rice/Basmati Akki - Biryani,Daawat,1170,1011.16,158.84,13.58,5 kg - Bag,5 kg ,,5 kg ,5000,0.202232
+195,195,"Masoor Dal/Mysore Bele - Whole, Unpolished",Tata Sampann,159,154.23,4.77,3,1 kg - Pouch,1 kg ,,1 kg ,1000,0.15423
+196,196,Rice Bran Health Physically Refined Oil,Fortune ,775,708.4,66.6,8.59,5 L - Jar,5 L ,,5 L ,5000,0.14168
+197,197,Ragi Flour,Vijay,68,66.64,1.36,2,1 kg ,1 kg ,,1 kg ,1000,0.06664
+198,198,Rice Bran Oil - Physically Refined,Sunpure ,290,219.76,70.24,24.22,2 X 1 ltr - Multipack,2*1 ltr ,,2 ltr,2000,0.10988
+199,199,Cashew/Godambi - Broken,BB Popular,1200,845,355,29.58,1 kg ,1 kg ,,1 kg ,1000,0.845
+200,200,Medium Poha,Vijay,88,86.24,1.76,2,1 kg ,1 kg ,,1 kg ,1000,0.08624
+201,201,Sooji/Bombay Rava,BB Super Saver,31,22,9,29.03,500 g ,500 g ,,500 g ,500,0.044
+202,202,Wheat Dalia/Lapsi rava,BB Royal,80,55,25,31.25,1 kg - Pouch,1 kg ,,1 kg ,1000,0.055
+203,203,Organic - Sugar/Sakkare,BB Royal,110,60,50,45.45,1 kg ,1 kg ,,1 kg ,1000,0.06
+204,204,Green Moong//Hesaru Kaalu - Whole,BB Super Saver,160,140,20,12.5,1 kg ,1 kg ,,1 kg ,1000,0.14
+205,205,Masoor Dal/Mysore Bele,BB Popular,750,519,231,30.8,5 kg ,5 kg ,,5 kg ,5000,0.1038
+206,206,Organic - Byadagi Chilli Whole,BB Royal,199,194,5,2.51,200 g ,200 g ,,200 g ,200,0.97
+207,207,Black Raisins/Ona Drakshi - Seedless,BB Royal,120,92,28,23.33,200 g - Pouch,200 g ,,200 g ,200,0.46
+208,208,Organic - Cashew/Godambi Whole Bold,BB Royal,1499,1162,337,22.48,1 kg ,1 kg ,,1 kg ,1000,1.162
+209,209,Basmati Rice/Basmati Akki - Rozana Gold,Daawat,560,429,131,23.39,5 kg - Pouch,5 kg ,,5 kg ,5000,0.0858
+210,210,Lobia/Alasandee Kaalu - White,BB Royal,80,59,21,26.25,500 g - Pouch,500 g ,,500 g ,500,0.118
+211,211,Fried Gram - Whole/Huri Kadale,BB Royal,180,159,21,11.67,1 kg ,1 kg ,,1 kg ,1000,0.159
+212,212,Masala - Bisibelebath Powder,MTR,80,65,15,18.75,100 g - Pouch,100 g ,,100 g ,100,0.65
+213,213,Oil - Groundnut,Dhara ,1275,1106.95,168.05,13.18,5 L - Can,5 L ,,5 L ,5000,0.22139
+214,214,Chakki-Fresh-Wheat-Atta/Godihittu - Fortified,BB Royal,550,418.42,131.58,23.92,10 kg ,10 kg ,,10 kg ,10000,0.041842
+215,215,Wheat - Sharbati,BB Royal,70,59,11,15.71,1 kg - Pouch,1 kg ,,1 kg ,1000,0.059
+216,216,Ponni Raw Rice  (12 + Months Old),BB Royal,350,325,25,7.14,5 kg - Pouch,5 kg ,,5 kg ,5000,0.065
+217,217,Filtered Groundnut Oil,Mr. Gold,240,204.95,35.05,14.6,1 L - Pouch,1 L ,,1 L ,1000,0.20495
+218,218,"100% Natural & Pure Groundnut Oil - Unrefined, Cold-Pressed",Nature Way,1750,1662.5,87.5,5,5 L ,5 L ,,5 L ,5000,0.3325
+219,219,Palakkad Red Matta Boiled Rice - Unda,BB Royal,1820,1596,224,12.31,26 kg - Bag,26 kg ,,26 kg ,26000,0.061384615
+220,220,Thick Poha,Vijay,85,83.3,1.7,2,1 kg ,1 kg ,,1 kg ,1000,0.0833
+221,221,"Cow's Pure Ghee - Source Of Calcium, Boosts Overall Health",Sri Sri Tattva,3575,3575,0,0,5 L - Tin,5 L ,,5 L ,5000,0.715
+222,222,Multigrain Atta - Fortified,BB Royal,660,570.63,89.37,13.54,2x5 kg - Multipack,2*5 kg ,"(10, 'kg')",10 kg,10000,0.057063
+223,223,Double Roasted Rava,Double Horse,110,110,0,0,1 kg ,1 kg ,,1 kg ,1000,0.11
+224,224,Besan/Kadale Hittu,BB Super Saver,60,45,15,25,500 g ,500 g ,,500 g ,500,0.09
+225,225,"Organic - Foxtail Millet / Italian, Thinai Rice",BB Royal,72,62,10,13.89,500 g ,500 g ,,500 g ,500,0.124
+226,226,Organic Walnut/Akrodu Kernels,BB Royal,1099,860,239,21.75,500 g ,500 g ,,500 g ,500,1.72
+227,227,Whole Wheat Atta,24 Mantra Organic,930,651.9,278.1,29.9,3x5 kg - Multipack,3*5 kg ,"(15, 'kg')",15 kg,15000,0.04346
+228,228,Rajma/Capparadavare - White/Chitra,BB Royal,55,47,8,14.55,200 g - Pouch,200 g ,,200 g ,200,0.235
+229,229,"Pistachios - Roasted & Salted, Premium Californian",Happilo,790,699.16,90.84,11.5,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,1.7479
+230,230,Ponni Raw Rice - Super Premium,BB Royal,1950,1638,312,16,26 kg - (18 + Months  Old),26 kg ,,26 kg ,26000,0.063
+231,231,Cashew/Godambi - Split,BB Royal,900,466,434,48.22,500 g ,500 g ,,500 g ,500,0.932
+232,232,Refined Oil - Rice Bran,Mr. Gold,140,112.02,27.98,19.99,1 L - Pouch,1 L ,,1 L ,1000,0.11202
+233,233,Bombay Sooji,Vijay,70,68.6,1.4,2,1 kg ,1 kg ,,1 kg ,1000,0.0686
+234,234,Chilli Powder,MTR,170,145,25,14.71,250 Gm ,250 Gm ,,250 Gm ,250,0.58
+235,235,Jaggery/Bella Powder/Nattu Sakkarai,BB Royal,60,44,16,26.67,500 g ,500 g ,,500 g ,500,0.088
+236,236,Gold Palmolein Oil,RUCHI,125,95,30,24,870 g - Pouch,870 g ,,870 g ,870,0.109195402
+237,237,Organic - Little Millet/Samai Rice,BB Royal,349,278,71,20.34,2 kg ,2 kg ,,2 kg ,2000,0.139
+238,238,Organic Ragi Flour,BB Royal,349,314.1,34.9,10,5 Kg ,5 Kg ,,5 Kg ,5000,0.06282
+239,239,Super Saver Palakkad Red Matta Boiled Rice,Super Saver,650,598,52,8,10 kg ,10 kg ,,10 kg ,10000,0.0598
+240,240,"Walnuts - Kernels, Premium 100% Natural Kashmiri",Happilo,910,773.5,136.5,15,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,1.93375
+241,241,Organic - Cloves/Lavanga,BB Royal,49,46,3,6.12,20 g ,20 g ,,20 g ,20,2.3
+242,242,Mixed Dry fruits,BB Royal,750,567,183,24.4,500 g - Pouch,500 g ,,500 g ,500,1.134
+243,243,Organic - Rice Flour,BB Royal,198,126,72,36.36,2x1 kg - Multipack,2*1 kg ,"(2, 'kg')",2 kg,2000,0.063
+244,244,Tilnad Sesame Oil,Klf ,430,422.52,7.48,1.74,1 L ,1 L ,,1 L ,1000,0.42252
+245,245,Vadi Matta Rice,Double Horse,480,379,101,21.04,5 kg - Bag,5 kg ,,5 kg ,5000,0.0758
+246,246,"Kashmiri Chilli Powder - Perfect Colour, Smell & Taste",Eastern,540,330,210,38.89,2x250 g - Multipack,2*250 g ,"(500, 'g')",500 g,500,0.66
+247,247,Powder - Green Coriander,Everest,200,200,0,0,500 g - Pouch,500 g ,,500 g ,500,0.4
+248,248,"Rice/Akki - Steam, Sona Masoori",BB Popular,70,59,11,15.71,1 kg - Pouch,1 kg ,,1 kg ,1000,0.059
+249,249,Soya - Mini Chunk,Nutrela,60,57,3,5,200 g - 0,200 g ,,200 g ,200,0.285
+250,250,Unpolished Urad Dal - Split,Tata Sampann,224,217.28,6.72,3,1 kg ,1 kg ,,1 kg ,1000,0.21728
+251,251,Organic - Urad Whole Gota Unpolished,BB Royal,805,724.5,80.5,10,5 kg ,5 kg ,,5 kg ,5000,0.1449
+252,252,Refined Oil - Groundnut,Safal,220,220,0,0,1 L - Pouch,1 L ,,1 L ,1000,0.22
+253,253,Idli/Idly Rice,BB Popular,650,526,124,19.08,10 kg ,10 kg ,,10 kg ,10000,0.0526
+254,254,Masala - Rasam Powder,MTR,135,119,16,11.85,200 g - Pouch,200 g ,,200 g ,200,0.595
+255,255,100% Natural Premium Californian Almonds - Value Pack,Happilo,1350,966.6,383.4,28.4,1 kg ,1 kg ,,1 kg ,1000,0.9666
+256,256,Basmati Rice - Super,Daawat,220,138.86,81.14,36.88,1 kg - Pouch,1 kg ,,1 kg ,1000,0.13886
+257,257,GTS Original Vada Colam Raw Rice,Bullet,1080,877.5,202.5,18.75,10 kg ,10 kg ,,10 kg ,10000,0.08775
+258,258,"Pink Salt - With 100% Natural Sendha Salt, For Everyday Cooking, Iodised Rock Salt",Tata Salt,80,72,8,10,1 kg - Pouch,1 kg ,,1 kg ,1000,0.072
+259,259,Dates/Kharjura,Lion,170,170,0,0,500 g - Buy 1 Get 1 Free,500 g ,,500 g ,500,0.34
+260,260,Organic - Channa Dal Unpolished,BB Royal,77,65,12,15.58,500 g ,500 g ,,500 g ,500,0.13
+261,261,Organic - Brown Rice,BB Royal,960,798,162,16.88,2x5 kg - Multipack,2*5 kg ,"(10, 'kg')",10 kg,10000,0.0798
+262,262,Ponni Boiled Rice,BB Popular,1800,1386,414,23,26 kg - Bag,26 kg ,,26 kg ,26000,0.053307692
+263,263,Pure Cow Ghee,Gowardhan,1450,1450,0,0,2 x 1 L - Multipack,2*1 L ,"(2, 'L')",2 L,2000,0.725
+264,264,Rice Flour/Akki Hittu,BB Super Saver,28,22,6,21.43,500 g ,500 g ,,500 g ,500,0.044
+265,265,Tur/Arhar Dal,24 Mantra Organic,580,510.4,69.6,12,2x1 kg - Multipack,2*1 kg ,"(2, 'kg')",2 kg,2000,0.2552
+266,266,Refined Palmolein Oil - Imported,Palmpure,101,93.79,7.21,7.14,1 L ,1 L ,,1 L ,1000,0.09379
+267,267,Asafoetida - Powder,Ssp,310,310,0,0,10 g - Jar,10 g ,,10 g ,10,31
+268,268,"Masala-Ae-Magic - Seasoning With Aromatic Roasted Spices, Enhances Flavour",MAGGI ,60,51,9,15,6 g - (Pack of 12),6 g ,,6 g ,6,8.5
+269,269,Masala - Garam,Everest,200,200,0,0,200 g ,200 g ,,200 g ,200,1
+270,270,Cow Ghee/Tuppa,Patanjali,2925,2925,0,0,5 L ,5 L ,,5 L ,5000,0.585
+271,271,Sugar Release Control Atta/Godihittu,Aashirvaad,385,338.8,46.2,12,5 kg ,5 kg ,,5 kg ,5000,0.06776
+272,272,Kabuli Chana/Kabuli Kadale,BB Super Saver,230,207,23,10,1 kg ,1 kg ,,1 kg ,1000,0.207
+273,273,Organic - Idly/Idli Rice,BB Royal,838,680,158,18.85,2x5 kg - Multipack,2*5 kg ,"(10, 'kg')",10 kg,10000,0.068
+274,274,Rajma/Capparadavare - Kashmiri,BB Royal,40,39,1,2.5,200 g - Pouch,200 g ,,200 g ,200,0.195
+275,275,Sugar,24 Mantra Organic,435,309.6,125.4,28.83,3x1 kg - Multipack,3*1 kg ,"(3, 'kg')",3 kg,3000,0.1032
+276,276,Sonamasuri Rice,24 Mantra Organic,1770,1203.6,566.4,32,3x5 kg - Multipack,3*5 kg ,"(15, 'kg')",15 kg,15000,0.08024
+277,277,Organic - Jowar Flour,BB Royal,190,162,28,14.74,2x1 kg - Multipack,2*1 kg ,"(2, 'kg')",2 kg,2000,0.081
+278,278,"100% Pure Premium Cashews Whole - Premium Quality Kaju, Rich In Protein, Magnesium, & Phosphorus, Premium Nuts & Dry Fruits|",Tata Sampann,1170,1100.85,69.15,5.91,1 kg - Pouch,1 kg ,,1 kg ,1000,1.10085
+279,279,Walnut/Akhrot- Kernels,BB Royal,400,307,93,23.25,200 g - Vacuum Packed,200 g ,,200 g ,200,1.535
+280,280,Schezwan Fried Rice Masala,Chings,100,100,0,0,10 x 20 g - Multipack,10*20 g ,"(200, 'g')",200 g,200,0.5
+281,281,Refined - Sunflower Oil,Dhara ,725,577.5,147.5,20.34,5 L - Can,5 L ,,5 L ,5000,0.1155
+282,282,Coriander Seeds/Kottambari Beeja,BB Popular,80,49,31,38.75,200 g ,200 g ,,200 g ,200,0.245
+283,283,Til/Ellu - Black,BB Royal,100,77,23,23,200 g ,200 g ,,200 g ,200,0.385
+284,284,Chilli Powder/Menasina Pudi,Tata Sampann,360,277.2,82.8,23,500 g ,500 g ,,500 g ,500,0.5544
+285,285,Himalayan Pink Rock Salt/Uppu - Crystal,GoodDiet,110,99,11,10,1 kg ,1 kg ,,1 kg ,1000,0.099
+286,286,Coconut Milk - UHT Natural,Kara,320,320,0,0,4x200 ml - Multi Pack,4*200 ml ,"(800, 'ml')",800 ml,800,0.4
+287,287,Powder - Kashmirilal,Everest,255,255,0,0,200 g ,200 g ,,200 g ,200,1.275
+288,288,Anjeer/Figs/Atti Hannu,BB Royal,1500,931,569,37.93,500 g ,500 g ,,500 g ,500,1.862
+289,289,Pure Cow Ghee,Gowardhan,770,692,78,10.13,2 x 500 ml - Multipack,2*500 ml ,"(1000, 'ml')",1000 ml,1000,0.692
+290,290,Gingelly Oil,Kpl Shudhi,415,379.71,35.29,8.5,1 L - Bottle,1 L ,,1 L ,1000,0.37971
+291,291,"Double Roasted Suji Rava - Less Moisture, More Quantity, Made From MP Wheat",Aashirvaad,77,73.15,3.85,5,1 kg ,1 kg ,,1 kg ,1000,0.07315
+292,292,White Peas/Bili Batani,BB Royal,180,118,62,34.44,1 kg - Pouch,1 kg ,,1 kg ,1000,0.118
+293,293,Ghee/Tuppa,Milky Mist,450,375,75,16.67,500 ml - Pet Jar,500 ml ,,500 ml ,500,0.75
+294,294,"Multigrain Atta - 7 Grains, High Fibre Flour, High Protein Atta",Pillsbury,734,580,154,20.98,2 x 5 kg - Multipack,2*5 kg ,"(10, 'kg')",10 kg,10000,0.058
+295,295,Premium Natural Californian Almonds,Happilo,550,421,129,23.45,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,1.0525
+296,296,Iodized Crystal Salt/Uppu,Aashirvaad,22,19.8,2.2,10,1 kg ,1 kg ,,1 kg ,1000,0.0198
+297,297,"Dry Dates/Kharjura - Chuwara, Kharik",BB Royal,80,44,36,45,100 g - Pouch,100 g ,,100 g ,100,0.44
+298,298,Powder - Cumin,MTR,75,71.25,3.75,5,100 g - Pouch,100 g ,,100 g ,100,0.7125
+299,299,Cardamom/Elaichi - Green,BB Royal,250,228,22,8.8,50 g ,50 g ,,50 g ,50,4.56
+300,300,Brown Chana,BB Super Saver,130,90,40,30.77,1 kg ,1 kg ,,1 kg ,1000,0.09
+301,301,Sona Masoori Steam Rice/Akki,Super Saver,70,62,8,11.43,1 kg ,1 kg ,,1 kg ,1000,0.062
+302,302,Active - Goodness Of Olive Oil,Oleev,1395,1217,178,12.76,5 L - Jar,5 L ,,5 L ,5000,0.2434
+303,303,Rice Bran Oil Physically Refined,Freedom,143,119.87,23.13,16.17,1 L - Pouch,1 L ,,1 L ,1000,0.11987
+304,304,Organic - Ragi Whole/Finger Millet,BB Royal,160,134,26,16.25,2x1 kg - Multipack,2*1 kg ,"(2, 'kg')",2 kg,2000,0.067
+305,305,"Cashew/Godambi - Whole,Standy Ziplock Pouch",BB Royal,2000,864,1136,56.8,500 gm - (Pack of 500x2),500 gm ,,500 gm ,500,1.728
+306,306,"Almond/Badam - Californian, Giri Bold",BB Royal,1500,1024,476,31.73,1 kg - Pouch,1 kg ,,1 kg ,1000,1.024
+307,307,White Poha - Thin,Tata Sampann,57,55.86,1.14,2,500 g ,500 g ,,500 g ,500,0.11172
+308,308,Poppy Seed,JK,618,618,0,0,250 g ,250 g ,,250 g ,250,2.472
+309,309,Chana Dal,BB Super Saver,63,54,9,14.29,500 g ,500 g ,,500 g ,500,0.108
+310,310,Jeera/Gobind Bhog Rice/Akki,Super Saver,600,491,109,18.17,5 kg ,5 kg ,,5 kg ,5000,0.0982
+311,311,Mustard/Sasive/Rai - Big,BB Popular,60,32,28,46.67,200 g ,200 g ,,200 g ,200,0.16
+312,312,Palakkad Red Matta Boiled Rice - Vadi,BB Royal,400,373,27,6.75,5 kg - Pouch,5 kg ,,5 kg ,5000,0.0746
+313,313,Organic - Bay Leaf/Lavangada Ele,BB Royal,13,11,2,15.38,20 g ,20 g ,,20 g ,20,0.55
+314,314,Active Refined Cooking oil | Blended Rice Bran & SoyaBean oil | Pro Weight Watchers,Saffola,805,649,156,19.38,5 L - Jar,5 L ,,5 L ,5000,0.1298
+315,315,Masala - Vangibath Powder,MTR,155,155,0,0,200 g - Pouch,200 g ,,200 g ,200,0.775
+316,316,"Green Moong/Hesaru Kaalu - Split, Chilka",BB Royal,200,164,36,18,1 kg - Pouch,1 kg ,,1 kg ,1000,0.164
+317,317,"Extra Virgin Olive Oil- 100% Natural and Cold Extracted- Perfect for Salad, Paratha, Marinade - Imported from Spain",Figaro,1999,1473.99,525.01,26.26,1 L - Pet Bottle,1 L ,,1 L ,1000,1.47399
+318,318,Organic Kodo Millet - Varagu Rice,BB Royal,79,70,9,11.39,500 g ,500 g ,,500 g ,500,0.14
+319,319,Active Oil,Oleev,747,730.12,16.88,2.26,3x1 L - Multipack,3*1 L ,"(3, 'L')",3 L,3000,0.243373333
+320,320,HMT Kolam Raw Rice/Akki,Super Saver,90,78,12,13.33,1 kg ,1 kg ,,1 kg ,1000,0.078
+321,321,Organic Tamarind/Hunisehannu,BB Royal,180,179,1,0.56,500 g ,500 g ,,500 g ,500,0.358
+322,322,Cold Pressed Pure Mustard Oil,Dabur,620,432.14,187.86,30.3,2 x 1 L - Multipack,2*1 L ,"(2, 'L')",2 L,2000,0.21607
+323,323,Oil - Mustard (Kachi Ghani),Dhara ,170,142.06,27.94,16.44,1 L - Bottle,1 L ,,1 L ,1000,0.14206
+324,324,Fennel/Saunf/Sompu - Small,BB Popular,80,62,18,22.5,100 g ,100 g ,,100 g ,100,0.62
+325,325,Powder - Sambar,Sakthi,132,125.4,6.6,5,200 g - Pouch,200 g ,,200 g ,200,0.627
+326,326,Poha/Avalakki/Aval/Chivda - Thin,BB Popular,80,77,3,3.75,1 kg ,1 kg ,,1 kg ,1000,0.077
+327,327,Organic - Poha,BB Royal,238,164,74,31.09,2x1 kg - Multipack,2*1 kg ,"(2, 'kg')",2 kg,2000,0.082
+328,328,Dal Powder/Paruppu Podi - Rich In Taste & Flavour,BB Royal,60,40,20,33.33,100 g ,100 g ,,100 g ,100,0.4
+329,329,Chana - Kabuli/Kabuli Kadale,BB Royal,58,49,9,15.52,200 g - Pouch,200 g ,,200 g ,200,0.245
+330,330,A2 Desi Cow Ghee,Fresho Organic,1500,699,801,53.4,500 ml ,500 ml ,,500 ml ,500,1.398
+331,331,Dry Coconut/Gadi/Gola,BB Royal,250,207,43,17.2,500 g ,500 g ,,500 g ,500,0.414
+332,332,Gold Low Calorie Sweetener,Sugar Free,150,144,6,4,100 g - Jar,100 g ,,100 g ,100,1.44
+333,333,Turmeric Powder/Arisina Pudi,Aashirvaad,180,149.4,30.6,17,500 g ,500 g ,,500 g ,500,0.2988
+334,334,Organic Sona Masoori Semi Brown Rice/Akki - Handpounded,BB Royal,949,745,204,21.5,10 Kg ,10 Kg ,,10 Kg ,10000,0.0745
+335,335,Ginger Garlic Paste,Smith & Jones,200,188,12,6,4 x200 g - Multipack,4 *200 g ,,4 *200 g ,,
+336,336,Hommade - Tomato Puree,Dabur,81,77,4,4.94,3x200 g - Multipack,3*200 g ,"(600, 'g')",600 g,600,0.128333333
+337,337,Mustard Oil - Kachi Ghani,Dalda ,165,136.62,28.38,17.2,1 L - Bottle,1 L ,,1 L ,1000,0.13662
+338,338,Plain Puffed Rice/Kadle Puri/Murmure,BB Royal,40,39,1,2.5,200 g - Pouch,200 g ,,200 g ,200,0.195
+339,339,Coriander Powder,MTR,86,74,12,13.95,250 Gm ,250 Gm ,,250 Gm ,250,0.296
+340,340,Organic - Barnyard Millet/Kudiraivali Rice,BB Royal,399,315,84,21.05,2 kg ,2 kg ,,2 kg ,2000,0.1575
+341,341,"Organic - Urad Dal/Uddina Bele, White (Split), Unpolished",BB Royal,210,177.2,32.8,15.62,1 kg ,1 kg ,,1 kg ,1000,0.1772
+342,342,Dates/Kharjura - Desert King,Lion,247,247,0,0,500 gm - Cup,500 gm ,,500 gm ,500,0.494
+343,343,Ajwain/Om Kalu - Whole,BB Popular,50,45,5,10,100 g ,100 g ,,100 g ,100,0.45
+344,344,Gingelly/Sesame Cooking Oil,BB Royal Organic,600,459,141,23.5,1 L - Spout Pack,1 L ,,1 L ,1000,0.459
+345,345,Ananas Flower/Ananas Huvu,BB Royal,200,159,41,20.5,100 g ,100 g ,,100 g ,100,1.59
+346,346,Buffalo Ghee/Tuppa - Special Grade with Milk Fat,Heritage,370,342.21,27.79,7.51,500 ml - Pouch,500 ml ,,500 ml ,500,0.68442
+347,347,"Pista - California, Roasted & Salted",Super Saver,385,258,127,32.99,200 g ,200 g ,,200 g ,200,1.29
+348,348,Organic - Turmeric Powder/Arisina Pudi,BB Royal,61,49,12,19.67,200 g ,200 g ,,200 g ,200,0.245
+349,349,"Refined Sunflower Oil - with Vitamins A, D & E",Freedom,144,125.4,18.6,12.92,1 L - Bottle,1 L ,,1 L ,1000,0.1254
+350,350,Coconut Powder - Desiccated,BB Royal,100,67,33,33,200 g ,200 g ,,200 g ,200,0.335
+351,351,"Jaggery - Rich In Iron, Treats Anemia",Super Saver,90,73,17,18.89,1 kg ,1 kg ,,1 kg ,1000,0.073
+352,352,Jeera Powder,Catch,270,202.5,67.5,25,2x100 g - Multipack,2*100 g ,"(200, 'g')",200 g,200,1.0125
+353,353,Organic - Kasuri Methi,BB Royal,129,129,0,0,200 g ,200 g ,,200 g ,200,0.645
+354,354,Watermelon Seeds/Kallangadi Bija,BB Royal,160,119,41,25.62,100 g ,100 g ,,100 g ,100,1.19
+355,355,Seeds - Flax,BB Royal,60,29,31,51.67,200 g ,200 g ,,200 g ,200,0.145
+356,356,Fenugreek Seeds,24 Mantra Organic,56,49.2,6.8,12.14,2x100 g - Multipack,2*100 g ,"(200, 'g')",200 g,200,0.246
+357,357,Groundnut Oil,24 Mantra Organic,1485,1262.1,222.9,15.01,3x1 L - Multipack,3*1 L ,"(3, 'L')",3 L,3000,0.4207
+358,358,"Cashews - Whole, 100% Natural Premium",Happilo,670,502.5,167.5,25,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,1.25625
+359,359,Khus Khus/Posta Dana,Super Saver,350,214,136,38.86,100 g ,100 g ,,100 g ,100,2.14
+360,360,Heart Oil - Vegetable,Sundrop,429,416.13,12.87,3,3 L - Jar,3 L ,,3 L ,3000,0.13871
+361,361,Turmeric Powder/Arisina Pudi,Everest,180,180,0,0,500 g - Pouch,500 g ,,500 g ,500,0.36
+362,362,Tamarind Paste,Mother's Recipe,156,156,0,0,3X200 g - Multipack,3*200 g ,,600 g,600,0.26
+363,363,Soya Chunks,BB Royal,55,25,30,54.55,200 g ,200 g ,,200 g ,200,0.125
+364,364,GTS Original Vada Colum Raw Rice,Bullet,3240,2427.6,812.4,25.07,30 kg - Bag,30 kg ,,30 kg ,30000,0.08092
+365,365,Green Pumpkin Seeds/Kumbalakayi Bija,BB Royal,100,81,19,19,100 g - Pouch,100 g ,,100 g ,100,0.81
+366,366,Moong Dal,BB Super Saver,360,273,87,24.17,2 kg ,2 kg ,,2 kg ,2000,0.1365
+367,367,Powder - Black Pepper,Everest,148,148,0,0,100 g - Carton,100 g ,,100 g ,100,1.48
+368,368,"Refined Sunflower Oil - with Vitamins A, D & E",Freedom,720,598,122,16.94,5 L - Can,5 L ,,5 L ,5000,0.1196
+369,369,"Cow Ghee - Intense Aroma & Flavour, Rich Texture, Immunity Booster",Aashirvaad Svasti,1570,1384.74,185.26,11.8,2x1 L - Multipack,2*1 L ,"(2, 'L')",2 L,2000,0.69237
+370,370,Pure Ghee,Amul,1240,1240,0,0,2 x 1 L - Multipack,2*1 L ,"(2, 'L')",2 L,2000,0.62
+371,371,Masala - Garam,MTR,55,44,11,20,50 g - Pouch,50 g ,,50 g ,50,0.88
+372,372,"Poppy Seed - Gluten Free, No Preservatives",Zoff,860,377.37,482.63,56.12,200 g ,200 g ,,200 g ,200,1.88685
+373,373,"Olive Oil- Pure Olive Oil-Daily Cooking Oil- Perfect for Indian Dishes- Curries, Gravy- Imported from Spain",Figaro,1670,1415.7,254.3,15.23,1 L - Tin,1 L ,,1 L ,1000,1.4157
+374,374,"100% Pure California Almonds Whole - Premium Quality Badam Giri, Rich In Protein, Magnesium, Phosphorus, & Dietary Fibre, Premium Nuts & Dry Fruits",Tata Sampann,1310,1078.39,231.61,17.68,1 kg - Pouch,1 kg ,,1 kg ,1000,1.07839
+375,375,Wheat - Whole,BB Royal,350,274,76,21.71,5 kg - Bag,5 kg ,,5 kg ,5000,0.0548
+376,376,Oil - Primio Refined Groundnut,Rro,1275,1275,0,0,5 L - Can,5 L ,,5 L ,5000,0.255
+377,377,Green Moong Whole/Sabut,BB Popular,85,75,10,11.76,500 g - Pouch,500 g ,,500 g ,500,0.15
+378,378,"Pista - Irani, Roasted & Salted",BB Royal,1250,917,333,26.64,500 g ,500 g ,,500 g ,500,1.834
+379,379,Ponni Raw - Rice ( 6 + Months  Old),BB Popular,1690,1482,208,12.31,26 kg - (6 + Months Old),26 kg ,,26 kg ,26000,0.057
+380,380,"Urad Balck, Whole - Desi, Unpolished Mature Pulses For Easy Cooking & Rich Flavour",BB Royal,40,31,9,22.5,200 g - Pouch,200 g ,,200 g ,200,0.155
+381,381,Poha/Avalakki/Aval - Thick,BB Popular,80,64,16,20,1 kg - Pouch,1 kg ,,1 kg ,1000,0.064
+382,382,Bansi Sooji,Vijay,65,63.7,1.3,2,1 kg ,1 kg ,,1 kg ,1000,0.0637
+383,383,Coconut Oil - Virgin (Cold Pressed),Maxcare,375,330,45,12,500 ml ,500 ml ,,500 ml ,500,0.66
+384,384,Organic - Barley,BB Royal,150,149,1,0.67,1 kg ,1 kg ,,1 kg ,1000,0.149
+385,385,"Garam Masala - With Natural Oils, Crafted By Chef Sanjeev Kapoor",Tata Sampann,104,85.28,18.72,18,100 g ,100 g ,,100 g ,100,0.8528
+386,386,Chilli/Mirchi Powder,BB Royal,300,178,122,40.67,500 g ,500 g ,,500 g ,500,0.356
+387,387,Seeds - Sunflower,BB Royal,100,82,18,18,200 g ,200 g ,,200 g ,200,0.41
+388,388,Organic - Puffed Rice/Kadle Puri,BB Royal,45,42,3,6.67,200 g ,200 g ,,200 g ,200,0.21
+389,389,Wheat Flour (Atta),Organic Tattva,375,300,75,20,5 kg - Pouch,5 kg ,,5 kg ,5000,0.06
+390,390,Urad Dal/Uddina Bele - Split,BB Super Saver,380,329,51,13.42,2 kg ,2 kg ,,2 kg ,2000,0.1645
+391,391,Organic - Flax Seeds,BB Royal,50,34,16,32,200 g ,200 g ,,200 g ,200,0.17
+392,392,Mustard Big,24 Mantra Organic,64,60.8,3.2,5,2x100 g - Multipack,2*100 g ,"(200, 'g')",200 g,200,0.304
+393,393,Cloves/Lavanga,BB Royal,40,39,1,2.5,20 g ,20 g ,,20 g ,20,1.95
+394,394,"Organic - Green Moong/Hesaru Kaalu, Whole",BB Royal,179,153,26,14.53,1 kg ,1 kg ,,1 kg ,1000,0.153
+395,395,Popcorn Seeds,BB Royal,150,119,31,20.67,1 kg ,1 kg ,,1 kg ,1000,0.119
+396,396,Total Refined Cooking oil | Blended Rice Bran & Safflower oil | Helps Manage Cholesterol,Saffola,1100,899,201,18.27,5 L - Jar,5 L ,,5 L ,5000,0.1798
+397,397,Masala - Spicy Sambar Powder,MTR,130,115,15,11.54,200 g ,200 g ,,200 g ,200,0.575
+398,398,Organic - Puffed Rice/Kadle Puri,24 Mantra Organic,45,45,0,0,200 g - Pouch,200 g ,,200 g ,200,0.225
+399,399,"Sambar Powder - 100% Natural, Spice Blend, No Preservatives",Eastern,112,112,0,0,250 g - Pouch,250 g ,,250 g ,250,0.448
+400,400,Organic - Red Poha Medium,BB Royal,125,104,21,16.8,1 kg ,1 kg ,,1 kg ,1000,0.104
+401,401,Cardamom Green/Elakki,BB Popular,250,149,101,40.4,50 g - Pouch,50 g ,,50 g ,50,2.98
+402,402,"Organic - Red Masoor Dal/Mysore Bele, Unpolished",BB Royal,349,285,64,18.34,2 kg ,2 kg ,,2 kg ,2000,0.1425
+403,403,Organic Cashew/Godambi - Whole,BB Royal,750,449,301,40.13,500 g ,500 g ,,500 g ,500,0.898
+404,404,Sugar - Low GI,BB Gooddiet,280,196,84,30,4x500 g - Multipack,4*500 g ,"(2000, 'g')",2000 g,2000,0.098
+405,405,Corn Flour/ Starch,BB Royal,50,39,11,22,500 g - Pouch,500 g ,,500 g ,500,0.078
+406,406,Jaggery Powder,24 Mantra Organic,240,204,36,15,3x500 g - Multipack,3*500 g ,"(1500, 'g')",1500 g,1500,0.136
+407,407,Gingelly Oil - Tilnad 100% Pure,Klf ,420,410.97,9.03,2.15,1000 ml - Pouch,1000 ml ,,1000 ml ,1000,0.41097
+408,408,Masoor Dal,BB Super Saver,280,204,76,27.14,2 kg - PP,2 kg ,,2 kg ,2000,0.102
+409,409,Ragi - Huri Hittu,Indira's,75,75,0,0,400 g - Pouch,400 g ,,400 g ,400,0.1875
+410,410,"Gold Atta - 100% MP Sharbati Wheat, 12-Hour Softness, High Fibre Atta",Pillsbury,702,550,152,21.65,2 x 5 kg - Multipack,2*5 kg ,"(10, 'kg')",10 kg,10000,0.055
+411,411,Bansi Sooji,Super Saver,70,54,16,22.86,1 kg ,1 kg ,,1 kg ,1000,0.054
+412,412,"Corn Starch Powder Cornflour - Gluten Free Product, Makes A Smooth Paste",Weikfield,90,90,0,0,500 g - Carton,500 g ,,500 g ,500,0.18
+413,413,Organic Sunflower Seeds/Suryakanti Bija,BB Royal,130,100,30,23.08,200 g ,200 g ,,200 g ,200,0.5
+414,414,Fennel/Saunf/Sompu - Small,BB Royal,90,83,7,7.78,100 g ,100 g ,,100 g ,100,0.83
+415,415,"100% Premium Pistachios Roasted & Salted - Premium Quality Pista, Rich In Protein, Phosphorus, & Dietary Fibre, Premium Nuts & Dry Fruits",Tata Sampann,345,311.05,33.95,9.84,200 g - Pouch,200 g ,,200 g ,200,1.55525
+416,416,Pomace Olive Oil - For All Types Of Cooking,Oleev,3999,2411.89,1587.11,39.69,5 L ,5 L ,,5 L ,5000,0.482378
+417,417,Organic - Quinoa,BB Royal,699,598,101,14.45,2 kg ,2 kg ,,2 kg ,2000,0.299
+418,418,Bansi Rava - Made From Durum Wheat,Aashirvaad,66,62.7,3.3,5,1 kg ,1 kg ,,1 kg ,1000,0.0627
+419,419,Saffola Total 1L- Pack of 3,Saffola,600,507,93,15.5,3 x 1 L - Multipack,3*1 L ,"(3, 'L')",3 L,3000,0.169
+420,420,Organic Sona Masoori White Rice/Akki,BB Royal,949,763,186,19.6,10 kg ,10 kg ,,10 kg ,10000,0.0763
+421,421,Basmati Rice/Basmati Akki - Rozana,Fortune ,130,96,34,26.15,1 kg - Pouch,1 kg ,,1 kg ,1000,0.096
+422,422,Samba Wheat Broken,Double Horse,115,115,0,0,500 g - Pouch,500 g ,,500 g ,500,0.23
+423,423,Coriander/Dhania Powder,BB Royal,200,116,84,42,500 g ,500 g ,,500 g ,500,0.232
+424,424,Cumin/Jeera - Whole,Super Saver,500,392,108,21.6,500 g ,500 g ,,500 g ,500,0.784
+425,425,"Masoor Black, Whole",BB Royal,35,26,9,25.71,200 g - Pouch,200 g ,,200 g ,200,0.13
+426,426,Oil - Mustard (Kachi Ghani),Dhara ,825,812,13,1.58,5 L - Can,5 L ,,5 L ,5000,0.1624
+427,427,Hommade - Ginger Garlic Paste,Dabur,100,82.8,17.2,17.2,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,0.207
+428,428,Organic Fried Gram/Huri Kadale,BB Royal,37,34,3,8.11,200 g ,200 g ,,200 g ,200,0.17
+429,429,Cloves/Lavanga,BB Popular,180,162,18,10,100 g ,100 g ,,100 g ,100,1.62
+430,430,Premium Diwali Gift Box,BB Royal,449,320,129,28.73,"300 g - (Almonds, Raisins, Cashews, Apricots, 75 g each)",300 g ,,300 g ,300,1.066666667
+431,431,Asafoetida - Crystal,Ssp,260,260,0,0,10 g - Jar,10 g ,,10 g ,10,26
+432,432,Pure Desi Cow Ghee,Fresho,205,149,56,27.32,200 ml - Jar,200 ml ,,200 ml ,200,0.745
+433,433,Tasty Refined Cooking oil | Blended Rice bran & Corn oil | Pro Fitness Conscious,Saffola,755,729,26,3.44,5 L - Jar,5 L ,,5 L ,5000,0.1458
+434,434,Urad Gota/Whole,BB Popular,200,166,34,17,1 kg - Pouch,1 kg ,,1 kg ,1000,0.166
+435,435,"100% Pure Premium Raisins Seedless - Premium Quality Kishmish, Source Of Potassium, Premium Dry Fruits",Tata Sampann,103,90.85,12.15,11.8,200 g - Pouch,200 g ,,200 g ,200,0.45425
+436,436,Poha/Avalakki - Thick,Super Saver,80,61.75,18.25,22.81,1 kg ,1 kg ,,1 kg ,1000,0.06175
+437,437,Organic - Red Chilli - Whole,BB Royal,399,282,117,29.32,500 g ,500 g ,,500 g ,500,0.564
+438,438,"Refined Sunflower Oil - Trans Fat Free, Healthy Cooking Oil",Fiona ,666,566.72,99.28,14.91,5 L - Jar,5 L ,,5 L ,5000,0.113344
+439,439,Mix Dal,BB Royal,240,126,114,47.5,1 kg - Pouch,1 kg ,,1 kg ,1000,0.126
+440,440,Powder - Sambar,Aachi,47,39.95,7.05,15,100 g - Pouch,100 g ,,100 g ,100,0.3995
+441,441,Pure Ghee,Amul,1270,1270,0,0,2 x 1 L - Multipack,2*1 L ,"(2, 'L')",2 L,2000,0.635
+442,442,Gold - Pro Healthy Lifestyle Edible Oil,Saffola,750,644,106,14.13,2x2 L - Multipack,2*2 L ,"(4, 'L')",4 L,4000,0.161
+443,443,Besan Flour,Vijay,62,60.76,1.24,2,500 g ,500 g ,,500 g ,500,0.12152
+444,444,Indian Raisins/Ona Drakshi,BB Royal,600,269,331,55.17,1 kg ,1 kg ,,1 kg ,1000,0.269
+445,445,Organic - Jaggery,BB Royal,218,180,38,17.43,2x800 g - Multipack,2*800 g ,"(1600, 'g')",1600 g,1600,0.1125
+446,446,Sabudana - White Small,BB Royal,150,133,17,11.33,1 kg - Pouch,1 kg ,,1 kg ,1000,0.133
+447,447,Unpolished Moong Dal Chilka,Tata Sampann,109,105.73,3.27,3,500 g - Pouch,500 g ,,500 g ,500,0.21146
+448,448,Kasuri Methi,Catch,92,71.76,20.24,22,2x50 g - Multipack,2*50 g ,"(100, 'g')",100 g,100,0.7176
+449,449,Masala - Chat,Everest,158,148.52,9.48,6,200 g ,200 g ,,200 g ,200,0.7426
+450,450,Ponni Boiled - Rice,BB Royal,75,67,8,10.67,1 kg - (12 - 17 Months Old),1 kg ,,1 kg ,1000,0.067
+451,451,"Xpert - Total Balance Oil, Blend Of Rice Bran, Soyabean & Flaxseeds, Rich In Omega 3",Fortune ,160,129,31,19.38,1 L - Pouch,1 L ,,1 L ,1000,0.129
+452,452,Kitchen King Masala,Everest,42,39.48,2.52,6,50 g - Carton,50 g ,,50 g ,50,0.7896
+453,453,Powder - Kutilal Red Chilli,Everest,68,68,0,0,100 g - Pouch,100 g ,,100 g ,100,0.68
+454,454,"100% Natural & Pure Gingelly Oil - Unrefined, Cold-Pressed",Nature Way,460,437,23,5,1 L ,1 L ,,1 L ,1000,0.437
+455,455,Raw Rice/Akki - Kolam,BB Royal,400,359,41,10.25,5 kg - Bag,5 kg ,,5 kg ,5000,0.0718
+456,456,Soya - Chunks,Nutrela,210,156.22,53.78,25.61,1 kg - 0,1 kg ,,1 kg ,1000,0.15622
+457,457,Broken Rice,BB Royal,50,49,1,2,1 kg - Pouch,1 kg ,,1 kg ,1000,0.049
+458,458,Dates Syrup,Lion,378,378,0,0,1 kg ,1 kg ,,1 kg ,1000,0.378
+459,459,Basmati Rice/Basmati Akki - Brown (Quick Cooking),Daawat,185,161.25,23.75,12.84,1 kg - Jar,1 kg ,,1 kg ,1000,0.16125
+460,460,Ginger Garlic Paste,Catch,100,75,25,25,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,0.1875
+461,461,Natural Jaggery/Bella Powder,Forgreen,159,159,0,0,1 kg ,1 kg ,,1 kg ,1000,0.159
+462,462,Sweet Care - Low GI Sugar,Parry's,60,40,20,33.33,500 g ,500 g ,,500 g ,500,0.08
+463,463,White Puttu Podi,Double Horse,69,69,0,0,1 kg - Pouch,1 kg ,,1 kg ,1000,0.069
+464,464,Oil - Heart Pouch,Sundrop,600,600,0,0,3x1 L - Multipack,3*1 L ,"(3, 'L')",3 L,3000,0.2
+465,465,Organic - Sooji/Rava,BB Royal,169,129,40,23.67,2 kg ,2 kg ,,2 kg ,2000,0.0645
+466,466,Refined Oil - Sunflower,Mr. Gold,125,109.88,15.12,12.1,1 L - Pouch,1 L ,,1 L ,1000,0.10988
+467,467,Powder - Chilly (Kashmiri),Mdh,49,46.06,2.94,6,50 g - Carton,50 g ,,50 g ,50,0.9212
+468,468,Olive Pomace Oil,Leonardo,2699,1424.74,1274.26,47.21,3 L - Tin,3 L ,,3 L ,3000,0.474913333
+469,469,Olive Pomace Oil,Leonardo,399,359.61,39.39,9.87,500 ml - Bottle,500 ml ,,500 ml ,500,0.71922
+470,470,Moth/Patanga Huruli - Whole,BB Royal,100,74,26,26,500 g - Pouch,500 g ,,500 g ,500,0.148
+471,471,Biryani Basmati Rice/Basmati Akki - Extra Long,BB Royal,910,731.09,178.91,19.66,5 kg - Pouch,5 kg ,,5 kg ,5000,0.146218
+472,472,Organic Rajma/Capparadavare Chitra,BB Royal,240,216,24,10,1 kg ,1 kg ,,1 kg ,1000,0.216
+473,473,Jaggery/Bella - Cubes,BB Royal,80,60,20,25,400 g ,400 g ,,400 g ,400,0.15
+474,474,Anjeer - Figs,Super Saver,400,246,154,38.5,200 g ,200 g ,,200 g ,200,1.23
+475,475,Organic - Masoor Black Whole,BB Royal,189,147,42,22.22,1 kg ,1 kg ,,1 kg ,1000,0.147
+476,476,Powder - Cumin,Everest,136,127.84,8.16,6,100 g - Carton,100 g ,,100 g ,100,1.2784
+477,477,Cold Pressed Virgin Coconut Oil,Chekko,469,408.03,60.97,13,1 L ,1 L ,,1 L ,1000,0.40803
+478,478,Green Peas/Matar,BB Super Saver,240,154,86,35.83,1 kg ,1 kg ,,1 kg ,1000,0.154
+479,479,Powder - Dry Mango,Everest,96,96,0,0,100 g - Carton,100 g ,,100 g ,100,0.96
+480,480,Premium Dried Afghani Anjeer,Happilo,990,871.2,118.8,12,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,2.178
+481,481,"Sunflower Oil - Cold Pressed, Zero Cholesterol, 100% Natural",Natureland Organics,1950,1657.5,292.5,15,5 l ,5 l ,,5 l ,5000,0.3315
+482,482,Cashew/Godambi - Split,BB Popular,1500,855,645,43,1 kg ,1 kg ,,1 kg ,1000,0.855
+483,483,Basmati Rice/Basmati Akki - Mogra/Broken,India Gate,415,361.85,53.15,12.81,5 kg - Bag,5 kg ,,5 kg ,5000,0.07237
+484,484,Organic Suji,Organic Tattva,60,48,12,20,500 g - Pouch,500 g ,,500 g ,500,0.096
+485,485,Kachi Ghani Mustard Oil,Emami Healthy & Tasty,160,143.75,16.25,10.16,1 L - Bottle,1 L ,,1 L ,1000,0.14375
+486,486,Cooking Soda,BB Royal,30,18,12,40,100 g ,100 g ,,100 g ,100,0.18
+487,487,Surti Kolam Raw Rice/Akki,Super Saver,800,755,45,5.62,10 kg ,10 kg ,,10 kg ,10000,0.0755
+488,488,Seeds - Sabja,BB Royal,160,99,61,38.12,200 g ,200 g ,,200 g ,200,0.495
+489,489,Hing - Yellow,Everest,240,240,0,0,100 g - Bottle,100 g ,,100 g ,100,2.4
+490,490,Super Garam Masala - Adds Flavour & Aroma,Catch,55,46.75,8.25,15,100 g - Pouch,100 g ,,100 g ,100,0.4675
+491,491,Akki Tari,Vijay,58,56.84,1.16,2,1 kg ,1 kg ,,1 kg ,1000,0.05684
+492,492,Cardamom/Elaichi - Green,Super Saver,240,179,61,25.42,50 g ,50 g ,,50 g ,50,3.58
+493,493,Asafoetida Cake,LG,91,91,0,0,50 g - Box,50 g ,,50 g ,50,1.82
+494,494,Sesame/Till - White,Super Saver,40,31,9,22.5,100 g ,100 g ,,100 g ,100,0.31
+495,495,Chicken Kabab Powder,Teju,150,150,0,0,500 g ,500 g ,,500 g ,500,0.3
+496,496,Organic - Whole Wheat Atta,BB Royal,698,504,194,27.79,2x5 kg - Multipack,2*5 kg ,"(10, 'kg')",10 kg,10000,0.0504
+497,497,Rajma/Capparadavare - Red,BB Royal,240,216,24,10,1 kg - Pouch,1 kg ,,1 kg ,1000,0.216
+498,498,Tamarind Concentrate,Indira's,72,67.68,4.32,6,150 g - 0,150 g ,,150 g ,150,0.4512
+499,499,Chhole Masala,Everest,84,78.96,5.04,6,100 g - Carton,100 g ,,100 g ,100,0.7896
+500,500,Masala Paste - Puliogare Paste,MTR,100,100,0,0,200 g - 0,200 g ,,200 g ,200,0.5
+501,501,Refined Oil - Rice Bran (Natural Oryzanol & Vitamin E),Dhara ,480,363.12,116.88,24.35,3x1 L - Multipack,3*1 L ,"(3, 'L')",3 L,3000,0.12104
+502,502,Asafoetida - Special,Ssp,442,442,0,0,10 g - Jar,10 g ,,10 g ,10,44.2
+503,503,S&J Pasta Masala,Smith & Jones,5,5,0,0,7g - Pouch,7g ,,7g ,7,0.714285714
+504,504,Unpolished Kala Chana,Tata Sampann,149,111,38,25.5,1 kg - Pouch,1 kg ,,1 kg ,1000,0.111
+505,505,Groundnut,Safe Harvest,149,125.16,23.84,16,500 g ,500 g ,,500 g ,500,0.25032
+506,506,Chiroti/Barik Sooji,BB Super Saver,60,56,4,6.67,1 kg ,1 kg ,,1 kg ,1000,0.056
+507,507,Premium International Omani Dates,Happilo,549,450.18,98.82,18,680 g ,680 g ,,680 g ,680,0.662029412
+508,508,Olive Oil - Extra Virgin,Disano,2190,1230.84,959.16,43.8,2x500 ml - Multipack,2*500 ml ,"(1000, 'ml')",1000 ml,1000,1.23084
+509,509,Seeds - Chia,BB Royal,400,223,177,44.25,500 g ,500 g ,,500 g ,500,0.446
+510,510,Rice Powder,Elite,84,84,0,0,1 kg - Pillow Pouch,1 kg ,,1 kg ,1000,0.084
+511,511,Sonamasuri Brown Rice,24 Mantra Organic,1180,885,295,25,2x5 kg - Multipack,2*5 kg ,"(10, 'kg')",10 kg,10000,0.0885
+512,512,Red Chilli Powder/Menasina Pudi,Catch,300,225,75,25,500 g - Pouch,500 g ,,500 g ,500,0.45
+513,513,Organic Cashew Split - 2 Pieces,BB Royal,160,115,45,28.12,100 g ,100 g ,,100 g ,100,1.15
+514,514,"American Pistachios - Roasted & Salted, 100% Natural, Premium, No Additives",Grocery Farm,399,279.3,119.7,30,200 g ,200 g ,,200 g ,200,1.3965
+515,515,Basmati Rice/Basmati Akki - Biryani Special,Fortune ,1050,763.98,286.02,27.24,5 kg - Pouch,5 kg ,,5 kg ,5000,0.152796
+516,516,"Groundnut Oil - Filtered, Rich In Antioxidants & Vitamins, Chemical Free",Sunpure ,210,204.52,5.48,2.61,1 L ,1 L ,,1 L ,1000,0.20452
+517,517,Organic - Red Raw Rice/Akki,BB Royal,110,91,19,17.27,1 kg ,1 kg ,,1 kg ,1000,0.091
+518,518,"Organic Cow Ghee - Rich In Aroma, No Pesticide Residues & Antibiotics",Aashirvaad Svasti,725,652.5,72.5,10,500 ml - Jar,500 ml ,,500 ml ,500,1.305
+519,519,Misri / Sugar/Sakkare Diamond,BB Royal,40,27,13,32.5,200 g ,200 g ,,200 g ,200,0.135
+520,520,Organic - Dosa Rice,BB Royal,449,337,112,24.94,5 Kg ,5 Kg ,,5 Kg ,5000,0.0674
+521,521,Super Saver Ponni Raw Rice,Super Saver,1620,1458,162,10,26 kg - Bag,26 kg ,,26 kg ,26000,0.056076923
+522,522,"Organic Misri - Whole, Sugar/Sakkare Candy",BB Royal,23,16,7,30.43,100 g ,100 g ,,100 g ,100,0.16
+523,523,Brown Sugar/Sakkare,Organic Tattva,160,136,24,15,1 kg - Pouch,1 kg ,,1 kg ,1000,0.136
+524,524,Saffron/Kesar,BB Royal,400,208,192,48,1 g ,1 g ,,1 g ,1,208
+525,525,Samba Wheat Broken - Fine,Double Horse,117,117,0,0,500 g - Pouch,500 g ,,500 g ,500,0.234
+526,526,Gobind Bhog Rice,BB Royal,2600,1977,623,23.96,20 kg ,20 kg ,,20 kg ,20000,0.09885
+527,527,Soya Bean,BB Royal,40,23,17,42.5,200 g - Pouch,200 g ,,200 g ,200,0.115
+528,528,Raw Peanut,24 Mantra Organic,680,598.4,81.6,12,2x1 kg - Multipack,2*1 kg ,"(2, 'kg')",2 kg,2000,0.2992
+529,529,"Chilli Flakes - Natural,Spicy Sprinkler For Pizza, Pasta, Snacks",SNAPIN,10,9.5,0.5,5,7 g ,7 g ,,7 g ,7,1.357142857
+530,530,Organic - Ajwain/Om Kalu,BB Royal,275,261.25,13.75,5,500 g ,500 g ,,500 g ,500,0.5225
+531,531,Roasted Sooji - Pesticide Free,Safe Harvest,114,88.92,25.08,22,1 kg ,1 kg ,,1 kg ,1000,0.08892
+532,532,Organic - Horse Gram/Hurali Kaalu,BB Royal,189,169,20,10.58,1 kg ,1 kg ,,1 kg ,1000,0.169
+533,533,"Oregano Pizza Seasoning - Italian Herbs Blend  Adds Flavour for Snacks, Marinades",SNAPIN,10,9.5,0.5,5,10 g ,10 g ,,10 g ,10,0.95
+534,534,Organic Cinnamon/Chakke Bark,Pro Nature,70,63,7,10,50 g - Pouch,50 g ,,50 g ,50,1.26
+535,535,Aval/Poha Red Thick,BB Royal,150,94,56,37.33,1 kg ,1 kg ,,1 kg ,1000,0.094
+536,536,Masala - Garam,Aachi,39,33.15,5.85,15,50 g - Pouch,50 g ,,50 g ,50,0.663
+537,537,Organic - Jowar/Sorghum Millet,BB Royal,110,87,23,20.91,1 kg ,1 kg ,,1 kg ,1000,0.087
+538,538,Premium Diwali Gift Box,BB Royal,199,151,48,24.12,"150 g - (Almonds, Raisins, Cashews, 50 g each)",150 g ,,150 g ,150,1.006666667
+539,539,Masala - Tomato Rice Powder,MTR,25,21,4,16,50 g ,50 g ,,50 g ,50,0.42
+540,540,Organic - Roasted Chana Dal/Kadale Bele,Pro Nature,124,111.6,12.4,10,500 g - Pouch,500 g ,,500 g ,500,0.2232
+541,541,Sona Masoori Boiled - Rice,BB Royal,75,48,27,36,1 kg - Pouch,1 kg ,,1 kg ,1000,0.048
+542,542,Barley/Jau,BB Royal,15,14,1,6.67,100 g - Pouch,100 g ,,100 g ,100,0.14
+543,543,Arhar/Toor Dal,Organic Tattva,295,250.75,44.25,15,1 kg - Pouch,1 kg ,,1 kg ,1000,0.25075
+544,544,Organic - Cardamom/Elaichi Black,BB Royal,59,48,11,18.64,20 g ,20 g ,,20 g ,20,2.4
+545,545,Marathi Moggu,BB Royal,100,77,23,23,50 g ,50 g ,,50 g ,50,1.54
+546,546,"Prasadam Makhana Fox Nuts - Big Size Phool Makhana, Rich In Protein, Indian Snacks",Farmley,149,119.2,29.8,20,100 g ,100 g ,,100 g ,100,1.192
+547,547,Soya Health Refined Soyabean Oil,Fortune ,130,114,16,12.31,1 L - Pouch,1 L ,,1 L ,1000,0.114
+548,548,Secret Chowmein Hakka Noodles Masala,Chings,10,10,0,0,20 g ,20 g ,,20 g ,20,0.5
+549,549,Black Pepper Powder,BB Royal,135,121,14,10.37,100 g ,100 g ,,100 g ,100,1.21
+550,550,SuperLite Advanced - Sunflower Oil,Sundrop,1340,1340,0,0,5 L - Can,5 L ,,5 L ,5000,0.268
+551,551,Cumin/Jeera,24 Mantra Organic,510,459,51,10,3x100 g - Multipack,3*100 g ,"(300, 'g')",300 g,300,1.53
+552,552,Premium Seedless Green Raisins,Happilo,330,280.5,49.5,15,2x250 g - Multipack,2*250 g ,"(500, 'g')",500 g,500,0.561
+553,553,"Organic Sunflower Oil - Rich In Health Benefits, Cold Pressed",Phalada Pure & Sure,1800,1710,90,5,5 L ,5 L ,,5 L ,5000,0.342
+554,554,Shahjeera,BB Royal,120,101,19,15.83,100 g ,100 g ,,100 g ,100,1.01
+555,555,Xpert Pro Immunity Oil - Blend Of Rice Bran & Sunflower Oil,Fortune ,150,119,31,20.67,1 L - Pouch,1 L ,,1 L ,1000,0.119
+556,556,"Big Fennel - Whole, Rich In Vitamin C & Antioxidants",Zoff,90,58,32,35.56,100 g ,100 g ,,100 g ,100,0.58
+557,557,Turmeric - Sticks,BB Royal,40,39,1,2.5,100 g ,100 g ,,100 g ,100,0.39
+558,558,Basmati Rice/Basmati Akki - Sehat Mini Mogra,Daawat,620,549,71,11.45,10 kg ,10 kg ,,10 kg ,10000,0.0549
+559,559,Extra Light Olive Oil,Disano,1095,672.14,422.86,38.62,500 ml ,500 ml ,,500 ml ,500,1.34428
+560,560,100% Natural Premium Whole Cashews - Value Pack,Happilo,1550,992,558,36,1 kg ,1 kg ,,1 kg ,1000,0.992
+561,561,Chilli - Cherry/Gundu With Stem,BB Royal,500,315,185,37,500 g ,500 g ,,500 g ,500,0.63
+562,562,Groundnut Oil,Sunpure ,420,409.04,10.96,2.61,2 X 1 ltr - Multipack,2*1 ltr ,,2 ltr,2000,0.20452
+563,563,Wheat Flour (Atta/Godihittu),Super Saver,475,392.26,82.74,17.42,10 kg - Pouch,10 kg ,,10 kg ,10000,0.039226
+564,564,Organic Powder - Jaggery/Bella,Organic Tattva,90,72,18,20,500 g - Pouch,500 g ,,500 g ,500,0.144
+565,565,"Walnut/Akhrot - Kernels, Quarters",Super Saver,300,211,89,29.67,200 g ,200 g ,,200 g ,200,1.055
+566,566,Chana Sattu Refreshing Drink Powder,Manna,189,151.2,37.8,20,500 g ,500 g ,,500 g ,500,0.3024
+567,567,Bandhani Hing,Patanjali,50,50,0,0,25 g ,25 g ,,25 g ,25,2
+568,568,Atta/Godihittu - Chakki Fresh,Vivatta,360,249.98,110.02,30.56,5 kg - Pouch,5 kg ,,5 kg ,5000,0.049996
+569,569,Organic - Cashew/Godambi Broken,BB Royal,170,103,67,39.41,100 g ,100 g ,,100 g ,100,1.03
+570,570,Ragi Flour,24 Mantra Organic,195,175.5,19.5,10,3x500 g - Multipack,3*500 g ,"(1500, 'g')",1500 g,1500,0.117
+571,571,Lobia Dal - Black Eyes Peas,BB Royal,90,81,9,10,500 g - Pouch,500 g ,,500 g ,500,0.162
+572,572,Double Roasted Rava,Elite,105,105,0,0,1 kg - Pillow Pouch,1 kg ,,1 kg ,1000,0.105
+573,573,100% Pure California Almonds/Badam - Whole,Tata Sampann,275,234.47,40.53,14.74,200 g ,200 g ,,200 g ,200,1.17235
+574,574,Ponni Boiled Rice - Super Premium,BB Royal,2080,1732,348,16.73,26 kg - Bag,26 kg ,,26 kg ,26000,0.066615385
+575,575,"Pure & Unrefined Cold Pressed Groundnut Oil - Naturally, Cholesterol Free, With A Real Rich Aroma & Flavour",Tata Simply Better,500,400,100,20,1 L ,1 L ,,1 L ,1000,0.4
+576,576,Sesame Oil,Patanjali,360,360,0,0,1 L - Bottle,1 L ,,1 L ,1000,0.36
+577,577,Mace/Javitri,BB Royal,250,194,56,22.4,50 g ,50 g ,,50 g ,50,3.88
+578,578,Red Raw Rice/Akki,BB Popular,80,79,1,1.25,1 kg ,1 kg ,,1 kg ,1000,0.079
+579,579,"Pistachios - Roasted & Salted, Premium Iranian",Happilo,790,655.7,134.3,17,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,1.63925
+580,580,Bay Leaf/Lavangada Ele,BB Royal,10,9,1,10,20 g ,20 g ,,20 g ,20,0.45
+581,581,Kalonji/Mangraila,BB Royal,40,24,16,40,50 g ,50 g ,,50 g ,50,0.48
+582,582,Organic Dal - Green Moong Whole//Hesaru Kaalu,24 Mantra Organic,250,250,0,0,1 kg - Pouch,1 kg ,,1 kg ,1000,0.25
+583,583,Coconut Oil - Nirmal Cold Press Virgin,Klf ,195,174.99,20.01,10.26,250 ml - Bottle,250 ml ,,250 ml ,250,0.69996
+584,584,Masala - Chicken,Everest,182,182,0,0,200 g ,200 g ,,200 g ,200,0.91
+585,585,Salted Puffed Rice/Kadle Puri/Murmure,BB Royal,80,57,23,28.75,500 g - Pouch,500 g ,,500 g ,500,0.114
+586,586,"Bellar Dal/Avarekalu - Whole, Brown",BB Royal,60,52,8,13.33,200 g ,200 g ,,200 g ,200,0.26
+587,587,Organic Chilli Powder/Menasina Pudi,BB Royal,275,223,52,18.91,500 g ,500 g ,,500 g ,500,0.446
+588,588,Organic - Saunf/Sompu,BB Royal,165,160,5,3.03,200 g ,200 g ,,200 g ,200,0.8
+589,589,"Tata Sampann Dry Fruits & Nuts Mix (Contains Almonds, Black Raisins, Cashews, Cranberries, Green raisins, and Pistachio kernels), 100% Premium Hand-picked Dry Fruits & Nuts, up to 20 Quality Parameters Tested",Tata Sampann,285,234.61,50.39,17.68,200 g ,200 g ,,200 g ,200,1.17305
+590,590,Raisins/Kishmish - Indian,Super Saver,225,145,80,35.56,500 g ,500 g ,,500 g ,500,0.29
+591,591,"Chat Masala Powder - Sprinkler, Used As Seasoning",Catch,45,42.3,2.7,6,50 g - Can,50 g ,,50 g ,50,0.846
+592,592,Coconut Powder - Desiccated,BB Popular,80,61,19,23.75,200 g ,200 g ,,200 g ,200,0.305
+593,593,Coconad - Coconut Milk Powder,Klf ,98,87.11,10.89,11.11,100 g ,100 g ,,100 g ,100,0.8711
+594,594,Mustard Small,24 Mantra Organic,114,108.3,5.7,5,3x100 g - Multipack,3*100 g ,"(300, 'g')",300 g,300,0.361
+595,595,Powder - Chilli,Sakthi,135,91,44,32.59,200 g - Pouch,200 g ,,200 g ,200,0.455
+596,596,Tamarind/Hunisehannu,Eastern,63,63,0,0,200 g ,200 g ,,200 g ,200,0.315
+597,597,"Cumin Seeds - Highly Nutritious, Increase Appetite, Boosts Overall Health",Sri Sri Tattva,120,120,0,0,100 g ,100 g ,,100 g ,100,1.2
+598,598,Organic Seeds - Black Mustard/Sasive,Organic Tattva,40,34,6,15,100 g - Pouch,100 g ,,100 g ,100,0.34
+599,599,Sampann Unpolished Rajma/Capparadavare,Tata Sampann,124,120.28,3.72,3,500 g ,500 g ,,500 g ,500,0.24056
+600,600,Tur Dal,Safe Harvest,225,202.5,22.5,10,1 kg ,1 kg ,,1 kg ,1000,0.2025
+601,601,Organic Khapli Wheat/Emmer Flour - 100% Natural,Jiwa,245,175,70,28.57,1 kg ,1 kg ,,1 kg ,1000,0.175
+602,602,Saunf/Sompu - Sweet,Top,38,37,1,2.63,100 g - Pouch,100 g ,,100 g ,100,0.37
+603,603,Basmati Rice/Basmati Akki - Premium,BB Royal,700,598.54,101.46,14.49,5 kg ,5 kg ,,5 kg ,5000,0.119708
+604,604,Powder - Pure Chilli,Aachi,312,265.2,46.8,15,500 g - Pouch,500 g ,,500 g ,500,0.5304
+605,605,"Extra Light Tasting Olive Oil- Deep Frying- Neutral Taste-Deep Fry, Shallow Fry -Italian",Bertolli,1000,661.5,338.5,33.85,500 ml - Bottle,500 ml ,,500 ml ,500,1.323
+606,606,Basmati Rice/Basmati Akki - Pulav,Daawat,820,696.25,123.75,15.09,5 kg - Pouch,5 kg ,,5 kg ,5000,0.13925
+607,607,Healthy Nutmix - Premium International,Happilo,730,605.9,124.1,17,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,1.51475
+608,608,Salt/Uppu - Free Flow,AKAR,25,18.21,6.79,27.16,1 kg - Pouch,1 kg ,,1 kg ,1000,0.01821
+609,609,"Tata Salt Super Lite Iodized Salt - 30 % Less Sodium, 1 Kg (PACK OF 2)",bb Combo,130,120.9,9.1,7,2 x 1 Kg - Multipack,2*1 Kg ,"(2, 'Kg')",2 Kg,2000,0.06045
+610,610,Roasted & Salted Pumpkin Seeds,Cornitos,40,37.6,2.4,6,30 g - Pouch,30 g ,,30 g ,30,1.253333333
+611,611,Chana Dal,24 Mantra Organic,300,264,36,12,3x500 g - Multipack,3*500 g ,"(1500, 'g')",1500 g,1500,0.176
+612,612,Almond/Badam - Sonora,BB Royal,180,171,9,5,100 g - Pouch,100 g ,,100 g ,100,1.71
+613,613,"Coriander/Dhaniya Powder - Exotic, Pure Spices, For Cooking",Catch,190,142.5,47.5,25,500 g - Pouch,500 g ,,500 g ,500,0.285
+614,614,Cashew/Godambi - Broken,BB Royal,750,441,309,41.2,500 g - Pouch,500 g ,,500 g ,500,0.882
+615,615,Olive Oil - Extra Virgin,Del Monte ,2200,1769.26,430.74,19.58,2x500 ml - Multipack,2*500 ml ,"(1000, 'ml')",1000 ml,1000,1.76926
+616,616,Soya chunks,Fortune ,120,101.24,18.76,15.63,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,0.2531
+617,617,Sunflower Oil - Cold Pressed,Pro Nature,244,219.6,24.4,10,500 ml ,500 ml ,,500 ml ,500,0.4392
+618,618,Organic Toor Dal/Togari Bele,Tata Sampann,370,351.5,18.5,5,1 kg ,1 kg ,,1 kg ,1000,0.3515
+619,619,Jowar Flour,24 Mantra Organic,210,189,21,10,3x500 g - Multipack,3*500 g ,"(1500, 'g')",1500 g,1500,0.126
+620,620,Sundrop Super Lite Advanced - Sunflower Oil Pet,Sundrop,185,185,0,0,1 L - Bottle,1 L ,,1 L ,1000,0.185
+621,621,Masala - Chicken,Aachi,30,25.5,4.5,15,50 g - pouch,50 g ,,50 g ,50,0.51
+622,622,Mustard Oil,Patanjali,140,140,0,0,1 L ,1 L ,,1 L ,1000,0.14
+623,623,Organic Maida,Organic Tattva,65,55.25,9.75,15,500 g - Pouch,500 g ,,500 g ,500,0.1105
+624,624,Organic Cold Pressed Coconut Oil,GoodDiet,495,325,170,34.34,500 ml ,500 ml ,,500 ml ,500,0.65
+625,625,Refined Sunflower Oil,Emami Healthy & Tasty,775,666.26,108.74,14.03,5 L - Can,5 L ,,5 L ,5000,0.133252
+626,626,"Organic - Urad Dal/Uddina Bele, Black (Split)",BB Royal,210,187,23,10.95,1 kg ,1 kg ,,1 kg ,1000,0.187
+627,627,Cooking Soda,Tata I Shakti,82,82,0,0,1 Kg - Pouch,1 Kg ,,1 Kg ,1000,0.082
+628,628,Sabu Dana,Dnv,96,96,0,0,500 g ,500 g ,,500 g ,500,0.192
+629,629,"Sona Masoori - Premium, Light Weight & Aromatic",Daawat,412,356.27,55.73,13.53,5 kg ,5 kg ,,5 kg ,5000,0.071254
+630,630,Rice Puttupodi,Elite,105,105,0,0,1 kg - Pillow Pouch,1 kg ,,1 kg ,1000,0.105
+631,631,Soya Chunks,Fortune ,200,150,50,25,1 kg - Pouch,1 kg ,,1 kg ,1000,0.15
+632,632,Masala - Lemon Rice Powder,MTR,25,21,4,16,50 g ,50 g ,,50 g ,50,0.42
+633,633,Masala - Garam,Mdh,84,84,0,0,100 g - Carton,100 g ,,100 g ,100,0.84
+634,634,"Basmati Rice/Basmati Akki - Royale, Authentic Biryani",Kohinoor,1125,690,435,38.67,5 kg ,5 kg ,,5 kg ,5000,0.138
+635,635,White Peas/Matar,BB Super Saver,160,106,54,33.75,1 kg ,1 kg ,,1 kg ,1000,0.106
+636,636,Dry Mango Powder,BB Royal,80,37,43,53.75,100 g ,100 g ,,100 g ,100,0.37
+637,637,Sonamasuri Hand Pounded,Organic Tattva,595,523.6,71.4,12,5 kg - Pouch,5 kg ,,5 kg ,5000,0.10472
+638,638,Besan/Kadale Hittu,Fortune ,80,55.46,24.54,30.67,500 g - Pouch,500 g ,,500 g ,500,0.11092
+639,639,"Magic Cube - Vegetarian Masala, Adds Flavour To A Variety Of Dishes",MAGGI ,35,35,0,0,40 g - (Pack of 10),40 g ,,40 g ,40,0.875
+640,640,Kashmiri Mirch Powder,Catch,250,212.5,37.5,15,2x100 g - Multipack,2*100 g ,"(200, 'g')",200 g,200,1.0625
+641,641,"Coconut Milk Powder - Fresh Aroma, No Preservatives",MAGGI ,125,125,0,0,100 g - Carton,100 g ,,100 g ,100,1.25
+642,642,Puffed Rice/Kadle Puri - Pesticide Free,Safe Harvest,112,106.4,5.6,5,500 g ,500 g ,,500 g ,500,0.2128
+643,643,"Sprouted Ragi Powder, 100% Natural Ragi/Nachni, No Sugar, No Salt, No Milk",Slurrp Farm,900,837,63,7,3x250 g - Multipack,3*250 g ,"(750, 'g')",750 g,750,1.116
+644,644,Saffron,Everest,340,340,0,0,1 g - Carton,1 g ,,1 g ,1,340
+645,645,Roasted Chana Whole with skin,BB Royal,100,79,21,21,500 g - Pouch,500 g ,,500 g ,500,0.158
+646,646,Urad Dal White Whole,24 Mantra Organic,465,409.2,55.8,12,3x500 g - Multipack,3*500 g ,"(1500, 'g')",1500 g,1500,0.2728
+647,647,Organic - Maize flour/Makka Atta,BB Royal,89,75,14,15.73,1 kg ,1 kg ,,1 kg ,1000,0.075
+648,648,Extra Virgin Olive Oil,La Espanola,1799,1159,640,35.58,1 L - Glass Bottle,1 L ,,1 L ,1000,1.159
+649,649,Unpolished Masoor Dal - Split,Tata Sampann,86,83.42,2.58,3,500 g ,500 g ,,500 g ,500,0.16684
+650,650,Unpolished Brown Rice/Akki,Safe Harvest,525,446.25,78.75,15,5 kg ,5 kg ,,5 kg ,5000,0.08925
+651,651,Virgin Groundnut Oil,Patanjali,220,220,0,0,1 L - Pouch,1 L ,,1 L ,1000,0.22
+652,652,Satrangi Mix Mouth Freshener,BB Royal,80,54,26,32.5,100 g ,100 g ,,100 g ,100,0.54
+653,653,Sprouted Ragi Flour/Ragi Hittu,Manna,289,231.2,57.8,20,1 kg ,1 kg ,,1 kg ,1000,0.2312
+654,654,100% Natural & Pure Coconut Oil - Unrefined,Nature Way,325,292.5,32.5,10,1 L ,1 L ,,1 L ,1000,0.2925
+655,655,Organic - Besan/Kadale Hittu,BB Royal,76,63,13,17.11,500 g ,500 g ,,500 g ,500,0.126
+656,656,Organic Tur/Toor Dal/Togari Bele - Unpolished,BB Royal,559,453,106,18.96,2 kg ,2 kg ,,2 kg ,2000,0.2265
+657,657,"Raisins/Ona Drakshi - Black, With Seeds",BB Royal,60,51,9,15,100 g - Pouch,100 g ,,100 g ,100,0.51
+658,658,Poppy Seed,Dnv,490,465.5,24.5,5,200 g - Pouch,200 g ,,200 g ,200,2.3275
+659,659,Organic - Brown Top Millet,BB Royal,111,105.45,5.55,5,500 g ,500 g ,,500 g ,500,0.2109
+660,660,Hand Pound Rice/Akki,BB Royal,80,66,14,17.5,1 kg - Pouch,1 kg ,,1 kg ,1000,0.066
+661,661,Amla Dry Fruit,Fresho Signature,130,112.1,17.9,13.77,2x50 g - Multipack,2*50 g ,"(100, 'g')",100 g,100,1.121
+662,662,"Prunes - Dried & Pitted, Premium Californian",Happilo,590,513.3,76.7,13,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,1.28325
+663,663,Double Beans - White,BB Royal,80,79,1,1.25,200 g - Pouch,200 g ,,200 g ,200,0.395
+664,664,Turmeric Powder/Arisina Pudi,Catch,330,247.5,82.5,25,1 Kg - Pouch,1 Kg ,,1 Kg ,1000,0.2475
+665,665,Idli Sooji/Rava,BB Super Saver,110,89,21,19.09,2 kg ,2 kg ,,2 kg ,2000,0.0445
+666,666,Fenugreek/Methi,Super Saver,20,17,3,15,100 g ,100 g ,,100 g ,100,0.17
+667,667,Black Salt/Kala Namak - Powder,BB Royal,15,9,6,40,100 g ,100 g ,,100 g ,100,0.09
+668,668,Organic - Bajra Atta,BB Royal,50,33,17,34,500 g ,500 g ,,500 g ,500,0.066
+669,669,Basmati Rice - Pulav Premium,BB Royal,340,272.26,67.74,19.92,2x1 Kg - Multipack,2*1 Kg ,"(2, 'Kg')",2 Kg,2000,0.13613
+670,670,Coconut Milk Powder,Kpl Shudhi,640,640,0,0,1 kg - Pouch,1 kg ,,1 kg ,1000,0.64
+671,671,Dry Red Chilli - Whole,Dnv,64,60.8,3.2,5,100 g - Pouch,100 g ,,100 g ,100,0.608
+672,672,Palakadan Unda Matta Rice,Double Horse,728,691.6,36.4,5,10 kg ,10 kg ,,10 kg ,10000,0.06916
+673,673,Premium International Queen Kalmi Dates,Happilo,450,339.15,110.85,24.63,350 g ,350 g ,,350 g ,350,0.969
+674,674,Natural Tomato Paste,Indira's,139,139,0,0,450 g ,450 g ,,450 g ,450,0.308888889
+675,675,Jowar Whole,BB Royal,180,138,42,23.33,2 kg ,2 kg ,,2 kg ,2000,0.069
+676,676,Powder - Turmeric,Aachi,163,138.55,24.45,15,500 g - Pouch,500 g ,,500 g ,500,0.2771
+677,677,100% Pure Premium Walnuts,Tata Sampann,402,354.56,47.44,11.8,200 g ,200 g ,,200 g ,200,1.7728
+678,678,Chemba Puttu Podi,Double Horse,129,129,0,0,1 kg ,1 kg ,,1 kg ,1000,0.129
+679,679,"Coriander Powder - Perfect Colour, Smell & Taste",Eastern,172,172,0,0,2x250 g - Multipack,2*250 g ,"(500, 'g')",500 g,500,0.344
+680,680,Methi/ Fenugreek Seeds,Organic Tattva,40,34,6,15,100 g - Pouch,100 g ,,100 g ,100,0.34
+681,681,"Govind Bhog Rice/Akki - Premium, Aromatic",BONGO BHOG,190,170.62,19.38,10.2,1 kg - Pouch,1 kg ,,1 kg ,1000,0.17062
+682,682,Desi Ghee,BB Popular,1440,1233,207,14.37,1 L - (Pack of 2),1 L ,,1 L ,1000,1.233
+683,683,Sabji Masala,Everest,56,56,0,0,100 g - Carton,100 g ,,100 g ,100,0.56
+684,684,Organic - Bajra Wild/ Pearl Millet,BB Royal,172,140,32,18.6,2x1 kg - Multipack,2*1 kg ,"(2, 'kg')",2 kg,2000,0.07
+685,685,Basmati Rice/Basmati Akki - Traditional,Daawat,1050,1050,0,0,5 kg - Pouch,5 kg ,,5 kg ,5000,0.21
+686,686,Canola Oil,BORGES,3000,1751.5,1248.5,41.62,5 L - Bottle,5 L ,,5 L ,5000,0.3503
+687,687,Turmeric Powder/Arisina Pudi,BB Royal,200,101,99,49.5,500 g ,500 g ,,500 g ,500,0.202
+688,688,Gum,BB Royal,60,36,24,40,100 g ,100 g ,,100 g ,100,0.36
+689,689,Quinoa,India Gate,225,225,0,0,500 g - 0,500 g ,,500 g ,500,0.45
+690,690,Pav Bhaji Masala,Everest,84,78.96,5.04,6,100 g - Carton,100 g ,,100 g ,100,0.7896
+691,691,Chironji,BB Royal,300,274,26,8.67,100 g ,100 g ,,100 g ,100,2.74
+692,692,Appam Idiyappam Pathiri,Double Horse,55,49.5,5.5,10,500 g - Pouch,500 g ,,500 g ,500,0.099
+693,693,White Poha - Pesticide Free,Safe Harvest,65,59.8,5.2,8,500 g ,500 g ,,500 g ,500,0.1196
+694,694,Urad Dal White Split,24 Mantra Organic,435,382.8,52.2,12,3x500 g - Multipack,3*500 g ,"(1500, 'g')",1500 g,1500,0.2552
+695,695,Salted Sunflower Seeds,Tong Garden,360,360,0,0,12x30 g - Multipack,12*30 g ,"(360, 'g')",360 g,360,1
+696,696,Baskati - Rice,BB Royal,450,360,90,20,5 kg ,5 kg ,,5 kg ,5000,0.072
+697,697,Idly Rice,24 Mantra Organic,240,216,24,10,2x1 kg - Multipack,2*1 kg ,"(2, 'kg')",2 kg,2000,0.108
+698,698,7 Grain Atta/Multigrain,24 Mantra Organic,550,440,110,20,5x1 kg - Multipack,5*1 kg ,"(5, 'kg')",5 kg,5000,0.088
+699,699,Dates/Kharjura - Red,BB Royal,300,130,170,56.67,500 g ,500 g ,,500 g ,500,0.26
+700,700,Masala - Shahi Biryani,Everest,332,332,0,0,200 g ,200 g ,,200 g ,200,1.66
+701,701,Hing,Mdh,110,110,0,0,10 g - Carton,10 g ,,10 g ,10,11
+702,702,Olive Oil- Pure Olive Oil- Ideal for Indian Dishes- Imported from Spain,Figaro,599,405.56,193.44,32.29,250 ml - Bottle,250 ml ,,250 ml ,250,1.62224
+703,703,Organic - Rice/Akki Surti Kolam,BB Royal,1149,1016,133,11.58,10 kg ,10 kg ,,10 kg ,10000,0.1016
+704,704,Organic Seeds - Ajwain/Om Kalu,Organic Tattva,90,76.5,13.5,15,100 g - Pouch,100 g ,,100 g ,100,0.765
+705,705,Organic - Jeera/Jeeraga Samba Rice,BB Royal,1399,1213,186,13.3,10 kg ,10 kg ,,10 kg ,10000,0.1213
+706,706,Jaggery/Bella Powder - Pesticide Free,Safe Harvest,80,65.6,14.4,18,500 g ,500 g ,,500 g ,500,0.1312
+707,707,Organic Desi Cow Ghee - Rich Aroma,AKSHAYAKALPA,660,660,0,0,300 ml - Bottle,300 ml ,,300 ml ,300,2.2
+708,708,Muskmelon/Kharbooja -Seeds,BB Royal,80,68,12,15,50 g - Pouch,50 g ,,50 g ,50,1.36
+709,709,Premium Californian Almonds Roasted & Salted,Happilo,670,482.4,187.6,28,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,1.206
+710,710,Brown Rice Weight Watcher,India Gate,152,139.52,12.48,8.21,1 kg - Jar,1 kg ,,1 kg ,1000,0.13952
+711,711,"Paneer Masalas Mixed - Variety Pack, Kadhai Paneer, Mutter Paner, Palak Paneer, Ready In 15 Minutes",MTR,30,20,10,33.33,36 g - (3 N x 12 g each),36 g ,,36 g ,36,0.555555556
+712,712,"Chatpata Chat Masala Powder - Spices & Herbs Blend, For Fruits, Salads",Catch,75,56.25,18.75,25,100 g - Carton,100 g ,,100 g ,100,0.5625
+713,713,Kuttu Atta,BB Royal,135,106,29,21.48,500 g ,500 g ,,500 g ,500,0.212
+714,714,"Black Pepper - Whole, Rich In Antioxidants, Treats Cold & Cough",Zoff,170,95.2,74.8,44,100 g ,100 g ,,100 g ,100,0.952
+715,715,Ghee/Tuppa,RKG AGMARK GHEE,870,870,0,0,1 L - Pet Jar,1 L ,,1 L ,1000,0.87
+716,716,"Organic - Green Moong Dal/Dal, Split",BB Royal,179,173,6,3.35,1 kg ,1 kg ,,1 kg ,1000,0.173
+717,717,Himalayan Pink Salt Powder,Ramyeon,130,99,31,23.85,1 kg ,1 kg ,,1 kg ,1000,0.099
+718,718,Organic Arhar/Tur Dal,Aashirvaad,260,182,78,30,1 kg ,1 kg ,,1 kg ,1000,0.182
+719,719,Pizza Oregano - Seasoning For Italian & Home-Cooked Food,Keya,79,79,0,0,35 g ,35 g ,,35 g ,35,2.257142857
+720,720,Powder - Cumin,Eastern,95,81.5,13.5,14.21,100 g - Pouch,100 g ,,100 g ,100,0.815
+721,721,"Xpert - Total Balance Oil, Blend Of Rice Bran, Soyabean & Flaxseeds, Rich In Omega 3",Fortune ,800,666,134,16.75,5 L ,5 L ,,5 L ,5000,0.1332
+722,722,Bajra,BB Royal,80,62,18,22.5,1 kg - Pouch,1 kg ,,1 kg ,1000,0.062
+723,723,"Magic Cube - Chicken Masala, Adds Flavour To A Variety Of Dishes",MAGGI ,40,40,0,0,40 g - (Pack of 10),40 g ,,40 g ,40,1
+724,724,Lite - Cooking Oil,Sundrop,190,190,0,0,1 L - Pet Bottle,1 L ,,1 L ,1000,0.19
+725,725,Organic - Urad Black Whole,BB Royal,126,92,34,26.98,500 g ,500 g ,,500 g ,500,0.184
+726,726,"Urad Black, Split Dal - Desi, Unpolished Mature Pulses For Easy Cooking & Rich Flavour",BB Royal,90,88,2,2.22,500 g - Pouch,500 g ,,500 g ,500,0.176
+727,727,Powder - Coriander,Sakthi,76,68.4,7.6,10,200 g - Pouch,200 g ,,200 g ,200,0.342
+728,728,100% Natural Premium Californian Inshell Walnut,Happilo,575,428.38,146.62,25.5,500 g ,500 g ,,500 g ,500,0.85676
+729,729,Extra Light Olive Oil for Indian Cooking - Deep Frying & Baking,La Espanola,3199,2159,1040,32.51,2 L - Bottle,2 L ,,2 L ,2000,1.0795
+730,730,Agmarked-Cow ghee,Heritage,390,359.9,30.1,7.72,500 ml - Jar,500 ml ,,500 ml ,500,0.7198
+731,731,Palm Candy - Made From Palm Sugar,mypalm,110,110,0,0,250 g ,250 g ,,250 g ,250,0.44
+732,732,Stone Flower,BB Royal,90,78,12,13.33,50 g ,50 g ,,50 g ,50,1.56
+733,733,Organic Moong Dal/Dhuli,Organic Tattva,285,228,57,20,1 kg - Pouch,1 kg ,,1 kg ,1000,0.228
+734,734,Sprinkler- Oregano Pizza Italian,Keya,119,113.05,5.95,5,80 g - Canister,80 g ,,80 g ,80,1.413125
+735,735,"California Almonds - Premium, Roasted & Lightly Salted, Protein Packed",BB Royal,150,120,30,20,100 g - Standy Ziplock Pouch,100 g ,,100 g ,100,1.2
+736,736,Organic - Saunf/Sompu,Pro Nature,125,87.5,37.5,30,100 g - Pouch,100 g ,,100 g ,100,0.875
+737,737,Powder - Puliyogare,Sanketi Adukale,125,125,0,0,200 g ,200 g ,,200 g ,200,0.625
+738,738,Green Sweetener With Stevia Pellets,Sugar Free,550,495.88,54.12,9.84,2x300 pcs - Multipack,2*300 pcs ,"(600, 'pcs')",600 pcs,600,0.826466667
+739,739,Organic Coconut Oil - Cold Pressed,Forgreen,439,439,0,0,1 L - Bottle,1 L ,,1 L ,1000,0.439
+740,740,Matta Broken,Double Horse,83,83,0,0,1 kg - Pouch,1 kg ,,1 kg ,1000,0.083
+741,741,Ragi Special Huri Hittu,Indira's,145,145,0,0,400 g - Pouch,400 g ,,400 g ,400,0.3625
+742,742,Flax Seeds,24 Mantra Organic,160,152,8,5,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,0.38
+743,743,"Piri-Piri Mix - Spicy Tangy Seasoning, Sprinkler For Snacks, Marinades",SNAPIN,10,9.5,0.5,5,12 g ,12 g ,,12 g ,12,0.791666667
+744,744,Organic - Ponni Raw Rice/Akki,BB Royal,949,744,205,21.6,10 kg ,10 kg ,,10 kg ,10000,0.0744
+745,745,Organic - Green Peas/Ona Batani,BB Royal,149,95,54,36.24,500 g ,500 g ,,500 g ,500,0.19
+746,746,Salted Peanuts,Tong Garden,700,644,56,8,2x400 g - Multipack,2*400 g ,"(800, 'g')",800 g,800,0.805
+747,747,Instant Idiyappam,Double Horse,49,49,0,0,100 g - Pouch,100 g ,,100 g ,100,0.49
+748,748,Wheat Broken/Dalia/Lapsi Rava,BB Super Saver,70,57,13,18.57,1 kg ,1 kg ,,1 kg ,1000,0.057
+749,749,"Olive Oil - Pure, Classic",BORGES,1350,1162.5,187.5,13.89,1 L - Bottle,1 L ,,1 L ,1000,1.1625
+750,750,Just Berries,Fresho Signature,250,218.5,31.5,12.6,2x50 g - Multipack,2*50 g ,"(100, 'g')",100 g,100,2.185
+751,751,Red Rice Poha - Thick,Tata Sampann,63,61.74,1.26,2,500 g ,500 g ,,500 g ,500,0.12348
+752,752,Filtered Groundnut Oil,Gemini,1250,1149,101,8.08,5 L - Jar,5 L ,,5 L ,5000,0.2298
+753,753,"Idli Karam Podi - Chutney Powder, Source Of Protein",MTR,45,35,10,22.22,100 g ,100 g ,,100 g ,100,0.35
+754,754,Tamarind/Hunisehannu - Pesticide Free,Safe Harvest,215,165.55,49.45,23,500 g ,500 g ,,500 g ,500,0.3311
+755,755,Powder - Black Pepper,MTR,165,165,0,0,100 g - Pouch,100 g ,,100 g ,100,1.65
+756,756,Dhaniya/ Coriander - Whole,Organic Tattva,70,59.5,10.5,15,100 g - Pouch,100 g ,,100 g ,100,0.595
+757,757,Organic Moong Dal/Hesaru Bele,Tata Sampann,280,266,14,5,1 kg ,1 kg ,,1 kg ,1000,0.266
+758,758,Organic - Coriander Powder,BB Royal,149,120,29,19.46,500 g ,500 g ,,500 g ,500,0.24
+759,759,Bajra Flour,BB Royal,100,69,31,31,1 kg ,1 kg ,,1 kg ,1000,0.069
+760,760,Jeera/Jeerige - Pesticide Free,Safe Harvest,240,240,0,0,200 g ,200 g ,,200 g ,200,1.2
+761,761,Multimillet (Multigrain) Atta,Manna,169,101.4,67.6,40,1 kg - Pouch,1 kg ,,1 kg ,1000,0.1014
+762,762,Roasted Bengal Gram/Chana Dal,24 Mantra Organic,360,316.8,43.2,12,3x500 g - Multipack,3*500 g ,"(1500, 'g')",1500 g,1500,0.2112
+763,763,Kasuri Methi,Eastern,25,25,0,0,25 g ,25 g ,,25 g ,25,1
+764,764,Til/Ellu - Nylon,BB Royal,250,212,38,15.2,500 g ,500 g ,,500 g ,500,0.424
+765,765,Paneer Chilli Masala,Ching's Secret,100,100,0,0,10 x 20 g - Multipack,10*20 g ,"(200, 'g')",200 g,200,0.5
+766,766,Organic - Rice Rava,BB Royal,45,40,5,11.11,500 g ,500 g ,,500 g ,500,0.08
+767,767,Besan/Kadale Hittu - Fine,Tata Sampann,32,32,0,0,200 g ,200 g ,,200 g ,200,0.16
+768,768,"Kashmiri Walnuts Premium Kernel - Whole, Rich In Fibre, Protein, Zero Cholesterol",BB Royal,1000,641,359,35.9,500 g - Airtight Pack. Freshness Locked,500 g ,,500 g ,500,1.282
+769,769,"Dates - Red, With Seeds",BB Royal,300,236,64,21.33,1 kg ,1 kg ,,1 kg ,1000,0.236
+770,770,Natura Sweet Drops Sweetener,Sugar Free,280,246.96,33.04,11.8,2x10 ml - Multipack,2*10 ml ,"(20, 'ml')",20 ml,20,12.348
+771,771,Ragi/nachni Flour,BB Popular,100,56,44,44,1 kg - Pouch,1 kg ,,1 kg ,1000,0.056
+772,772,Organic Wheat Dalia,Organic Tattva,70,59.5,10.5,15,500 g - Pouch,500 g ,,500 g ,500,0.119
+773,773,Organic - Wheat Flour,Phalada Pure & Sure,345,327.75,17.25,5,5 kg - Pouch,5 kg ,,5 kg ,5000,0.06555
+774,774,Xpert Pro Sugar Conscious Edible Oil - Blend Of Rice Bran & Sesame Oil,Fortune ,540,417,123,22.78,3 x 1 L - Multipack,3*1 L ,"(3, 'L')",3 L,3000,0.139
+775,775,Organic - Nutmeg/Jayikayi,BB Royal,39,38,1,2.56,20 g ,20 g ,,20 g ,20,1.9
+776,776,Turmeric Powder,24 Mantra Organic,130,102,28,21.54,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,0.255
+777,777,Rice Bran Oil,Emami Healthy & Tasty,140,116.52,23.48,16.77,1 L - Pouch,1 L ,,1 L ,1000,0.11652
+778,778,100% Pure Afghani Black Raisins Seedless | Kali Kishmish | Kali Draksh | Dry Fruits | Flavourful & Delicious Snack | Source of Potassium & Dietary Fibre,Tata Sampann,175,144.06,30.94,17.68,200 g ,200 g ,,200 g ,200,0.7203
+779,779,Refined - Sunflower Oil,Sunrich,402,330,72,17.91,3x1 L - Multipack,3*1 L ,"(3, 'L')",3 L,3000,0.11
+780,780,Healthy Organic Gluten Free Quinoa Grains,GoodDiet,225,139,86,38.22,250 g ,250 g ,,250 g ,250,0.556
+781,781,Organic Sulphurless Sugar/Sakkare,24 Mantra Organic,135,135,0,0,1 kg - Pouch,1 kg ,,1 kg ,1000,0.135
+782,782,Boiled Rice/Beyisida Akki - Rajabogham,BB Royal,800,607,193,24.12,10 kg ,10 kg ,,10 kg ,10000,0.0607
+783,783,Nature's Super Foods - Ragi Flour/Ragi Hittu,Aashirvaad,100,85,15,15,1 kg - Pouch,1 kg ,,1 kg ,1000,0.085
+784,784,"A2 Desi Hallikar Cow Ghee - Vedic Bilona Churned From Curd, 1 L Each",Anveshan,4320,3716.28,603.72,13.97,2x1 L - Multipack,2*1 L ,"(2, 'L')",2 L,2000,1.85814
+785,785,Aval - Red,Double Horse,78,78,0,0,500 g - Pouch,500 g ,,500 g ,500,0.156
+786,786,Khandsari Sugar/Sakkare - Pesticide Free,Safe Harvest,149,120.69,28.31,19,1 kg ,1 kg ,,1 kg ,1000,0.12069
+787,787,Chilli Flakes - Red,Keya,99,96.03,2.97,3,40 g - Bottle,40 g ,,40 g ,40,2.40075
+788,788,Oil - Mustard (Kachi Ghani),Dhara ,165,162.4,2.6,1.58,1 L - Carton,1 L ,,1 L ,1000,0.1624
+789,789,"Turkish Apricots - Premium & Hand Picked, 100% Natural",Grocery Farm,349,244.3,104.7,30,200 g ,200 g ,,200 g ,200,1.2215
+790,790,Masala - Tea,Everest,126,126,0,0,100 g - Carton,100 g ,,100 g ,100,1.26
+791,791,Lite Oil,Sundrop,1190,1154.3,35.7,3,5 L - Can,5 L ,,5 L ,5000,0.23086
+792,792,Salt/Uppu,Saffola,50,37.5,12.5,25,1 kg - Pouch,1 kg ,,1 kg ,1000,0.0375
+793,793,Low GI 7 White Rice - Diabetic Friendly/Akki,Sugar Watchers,1890,1663.2,226.8,12,2 x 5 kg - Multipack,2*5 kg ,"(10, 'kg')",10 kg,10000,0.16632
+794,794,"Fenugreek Seeds - Rich In Vitamins, Lowers Cholesterol",Zoff,50,20.5,29.5,59,100 g ,100 g ,,100 g ,100,0.205
+795,795,"Afghan Dried Figs - Premium & Hand Picked, 100% Natural",Grocery Farm,599,419.3,179.7,30,200 g ,200 g ,,200 g ,200,2.0965
+796,796,Hing - Enhances Flavour & Aroma,Catch,275,206.25,68.75,25,100 g - Plastic Bottle,100 g ,,100 g ,100,2.0625
+797,797,Organic - Garlic Powder - Dehydrated,BB Royal,29,18,11,37.93,50 g ,50 g ,,50 g ,50,0.36
+798,798,Masoor Malka/Red Whole,BB Royal,320,230,90,28.12,2 kg ,2 kg ,,2 kg ,2000,0.115
+799,799,Pani Puri Masala,Everest,40,40,0,0,50 g - Carton,50 g ,,50 g ,50,0.8
+800,800,Spring Rolls Sheets - 8x8,Switz,220,190,30,13.64,2x20 pcs - Multipack,2*20 pcs ,"(40, 'pcs')",40 pcs,40,4.75
+801,801,Basmati Rice/Basmati Akki - Super,India Gate,1120,825.01,294.99,26.34,5 kg - Bag,5 kg ,,5 kg ,5000,0.165002
+802,802,Flaxseed Hull Powder - Lignans,Health 1st,945,945,0,0,150 g - (30 Sachets x 5 g each),150 g ,,150 g ,150,6.3
+803,803,"Chilli Powder - Perfect Colour, Smell & Taste",Eastern,335,335,0,0,500 g ,500 g ,,500 g ,500,0.67
+804,804,"Star Anise - Whole, Rich In Vitamins, Relieve Menopause Symptoms",Zoff,70,31.3,38.7,55.29,20 g ,20 g ,,20 g ,20,1.565
+805,805,Amla Masti,BB Royal,220,156,64,29.09,280 g - No,280 g ,,280 g ,280,0.557142857
+806,806,Bellar Dal/Avarebele - Split,BB Royal,65,64,1,1.54,200 g ,200 g ,,200 g ,200,0.32
+807,807,Organic - Mustard/Sasive/Rai Big,BB Royal,49,39,10,20.41,200 g ,200 g ,,200 g ,200,0.195
+808,808,Idly Rava,24 Mantra Organic,55,55,0,0,500 g - Pouch,500 g ,,500 g ,500,0.11
+809,809,Daliya,Patanjali,30,30,0,0,500 g ,500 g ,,500 g ,500,0.06
+810,810,"Puliyogare Masala - Natural Tamarind, Authentic South Indian Taste",Tata Sampann,70,63,7,10,100 g ,100 g ,,100 g ,100,0.63
+811,811,Super Garam Masala,Eastern,105,94.5,10.5,10,200 g - Pouch,200 g ,,200 g ,200,0.4725
+812,812,Boiled Rice Rajabogham Deluxe,BB Royal,1820,1464,356,19.56,26 kg - Yes,26 kg ,,26 kg ,26000,0.056307692
+813,813,Sabudana,Vijay,65,63.7,1.3,2,500 g ,500 g ,,500 g ,500,0.1274
+814,814,Sprinklers - Black Pepper,Catch,195,195,0,0,100 g - can,100 g ,,100 g ,100,1.95
+815,815,Coriander Powder,Aashirvaad,230,167.9,62.1,27,500 g ,500 g ,,500 g ,500,0.3358
+816,816,Organic - Mixed Dal,BB Royal,200,185,15,7.5,1 kg ,1 kg ,,1 kg ,1000,0.185
+817,817,Virgin Cold Pressed Groundnut Oil,Chekko,2200,2046,154,7,5 L ,5 L ,,5 L ,5000,0.4092
+818,818,"Chekku Gingelly/Sesame Oil - Argemone Oil Free, No Preservatives, For Cooking Use",RAS CHEKKU OIL,1018,967.1,50.9,5,2 l ,2 l ,,2 l ,2000,0.48355
+819,819,Organic - Black Rice/Akki,BB Royal,139,106,33,23.74,500 g ,500 g ,,500 g ,500,0.212
+820,820,Organic Seeds - Cumin,Organic Tattva,180,171,9,5,100 g - Pouch,100 g ,,100 g ,100,1.71
+821,821,Semi Brown Rice,24 Mantra Organic,1180,1003,177,15,2x5 kg - Multipack,2*5 kg ,"(10, 'kg')",10 kg,10000,0.1003
+822,822,Bengali Sona Masoor Dal,BB Royal,260,198,62,23.85,1 kg - Pouch,1 kg ,,1 kg ,1000,0.198
+823,823,"Fenugreek Seeds - Aids In Weight Loss, Great For Hair & Skin",Sri Sri Tattva,30,30,0,0,100 g ,100 g ,,100 g ,100,0.3
+824,824,Basmati Rice - Golden Sella (Parboiled),BB Royal,250,207.77,42.23,16.89,2x1 kg - Multipack,2*1 kg ,"(2, 'kg')",2 kg,2000,0.103885
+825,825,Hazelnut,BB Royal,200,194,6,3,100 g - Pouch,100 g ,,100 g ,100,1.94
+826,826,Pitted Prunes,REGENCY,295,236,59,20,240 g ,240 g ,,240 g ,240,0.983333333
+827,827,Vanaspati,Dalda ,83,75.6,7.4,8.92,500 ml - Pouch,500 ml ,,500 ml ,500,0.1512
+828,828,Black Salt Sprinklers - Adds Flavour & Aroma,Catch,45,45,0,0,200 g - can,200 g ,,200 g ,200,0.225
+829,829,Organic Powder - Jaggery/Bella,Pro Nature,86,60.2,25.8,30,400 g - Pouch,400 g ,,400 g ,400,0.1505
+830,830,Soya Granules - High Protein,Nutrela,210,179,31,14.76,1 kg - Poly Pack,1 kg ,,1 kg ,1000,0.179
+831,831,Whole Wheat Atta/Godihittu - Pesticide Free,Safe Harvest,365,317.55,47.45,13,5 kg ,5 kg ,,5 kg ,5000,0.06351
+832,832,Palm Jaggery - Eco Box,mypalm,220,220,0,0,500 g ,500 g ,,500 g ,500,0.44
+833,833,Masala - Chana,Mdh,780,780,0,0,10x100 g - Multipack,10*100 g ,"(1000, 'g')",1000 g,1000,0.78
+834,834,Gold Maida/Processed Wheat Flour,Vijay,65,63.7,1.3,2,1 kg ,1 kg ,,1 kg ,1000,0.0637
+835,835,Amchur Powder,Catch,180,135,45,25,2x100 g - Multipack,2*100 g ,"(200, 'g')",200 g,200,0.675
+836,836,Chilli Powder,24 Mantra Organic,210,165,45,21.43,3x100 g - Multipack,3*100 g ,"(300, 'g')",300 g,300,0.55
+837,837,Premium Roasted & Salted Californian Pistachios,Happilo,925,804.75,120.25,13,500 g ,500 g ,,500 g ,500,1.6095
+838,838,Cardamom Powder,SNAPIN,199,179.1,19.9,10,45 g ,45 g ,,45 g ,45,3.98
+839,839,"Biryani Masala - Perfect Colour, Smell & Taste",Eastern,176,137.28,38.72,22,2x100 g - Multipack,2*100 g ,"(200, 'g')",200 g,200,0.6864
+840,840,Kismiss,24 Mantra Organic,70,70,0,0,100 g - Pouch,100 g ,,100 g ,100,0.7
+841,841,Virgin Groundnut Oil,Patanjali,225,225,0,0,1 L - Bottle,1 L ,,1 L ,1000,0.225
+842,842,Premium Cow Ghee - For Better Digestion & Immunity,Sri Sri Tattva,3380,3380,0,0,4x1 L - (Multipack),4*1 L ,"(4, 'L')",4 L,4000,0.845
+843,843,Kashmiri Mirch Powder - Traditionally Sundried & Cleaned,Aashirvaad,140,112,28,20,100 g ,100 g ,,100 g ,100,1.12
+844,844,Red Chilli Flakes,HappyChef,99,69,30,30.3,60 g ,60 g ,,60 g ,60,1.15
+845,845,Bengali Sona Moong Dal,BB Royal,280,198,82,29.29,1 kg - Pouch,1 kg ,,1 kg ,1000,0.198
+846,846,Organic Cardamom Powder,BB Royal,91,89,2,2.2,20 g ,20 g ,,20 g ,20,4.45
+847,847,Black Chia Seeds,GoodDiet,225,149,76,33.78,150 g ,150 g ,,150 g ,150,0.993333333
+848,848,"Kashmiri Red Chilli Powder with Natural Oils, Natural Red Colour",Tata Sampann,140,140,0,0,100 gm ,100 gm ,,100 gm ,100,1.4
+849,849,"Premium Cranberries - Californian, Sliced Dried & Sweet",Happilo,100,98,2,2,2x35 g - Multipack,2*35 g ,"(70, 'g')",70 g,70,1.4
+850,850,Dhania - Dal,BB Royal,120,85,35,29.17,200 g ,200 g ,,200 g ,200,0.425
+851,851,Hing - Compounded Asafoetida,BB Royal,80,70,10,12.5,50 g ,50 g ,,50 g ,50,1.4
+852,852,"Walnuts/Akhrot - Rich In Antioxidant & Omega 3, Cholesterol Free",Everyday Four,465,465,0,0,200 g - Box,200 g ,,200 g ,200,2.325
+853,853,Whole Wheat Atta,Sri Sri Tattva,315,315,0,0,5 kg ,5 kg ,,5 kg ,5000,0.063
+854,854,Seeds Mix,Fresho Signature,130,62.98,67.02,51.55,2x50 g - Multipack,2*50 g ,"(100, 'g')",100 g,100,0.6298
+855,855,Rajgira Ke Atta - Gluten Free,Graminway,105,105,0,0,450 g ,450 g ,,450 g ,450,0.233333333
+856,856,Chilli Powder,Aashirvaad,400,360,40,10,500 g ,500 g ,,500 g ,500,0.72
+857,857,Organic - Broken Rice/Akki,BB Royal,79,59,20,25.32,1 kg ,1 kg ,,1 kg ,1000,0.059
+858,858,Olive Oil - Pomace,Disano,2790,1439.86,1350.14,48.39,2x1 L - Multipack,2*1 L ,"(2, 'L')",2 L,2000,0.71993
+859,859,Dry Ginger/Adrak,BB Royal,80,79,1,1.25,100 g ,100 g ,,100 g ,100,0.79
+860,860,"Low GI 7-Grain Atta, Diabetic Friendly Atta, Multigrain, High Fibre",Sugar Watchers,1690,1487.2,202.8,12,2 x 5 kg - Multipack,2*5 kg ,"(10, 'kg')",10 kg,10000,0.14872
+861,861,Low GI Rice,24 Mantra Organic,720,495,225,31.25,3x2 kg - Multipack,3*2 kg ,"(6, 'kg')",6 kg,6000,0.0825
+862,862,Powder - Haldi,Mdh,160,160,0,0,500 g - Pouch,500 g ,,500 g ,500,0.32
+863,863,"A2 Desi Cow Ghee - Vedic Bilona Method, Traditional Curd Churned",Auric,1200,1044,156,13,500 ml - Glass Jar,500 ml ,,500 ml ,500,2.088
+864,864,Dry Ginger Powder,BB Royal,80,68,12,15,100 g ,100 g ,,100 g ,100,0.68
+865,865,"Himalayan Cow Ghee - Original, Pure & Natural",Himalayan Natives,949,832.75,116.25,12.25,1 L ,1 L ,,1 L ,1000,0.83275
+866,866,Pulses Combo Pack - Unpolished Toor Dal/Arhar Dal & Unpolished Chana Dal,Tata Sampann,438,394.2,43.8,10,2 pcs - (1 kg each),2 pcs ,,2 pcs ,2,197.1
+867,867,Rock Salt/Sendha Namak - For A Healthy Life,Sri Sri Tattva,480,480,0,0,4x1 kg - (Multipack),4*1 kg ,"(4, 'kg')",4 kg,4000,0.12
+868,868,Organic - Mace Whole/Javitri,BB Royal,99,98,1,1.01,20 g ,20 g ,,20 g ,20,4.9
+869,869,Foxtail Millet - Kaon/Kang/Kangni/Kakum/Navani/Korralu/Korra/Thinai,Manna,189,141.75,47.25,25,500 g ,500 g ,,500 g ,500,0.2835
+870,870,Cold Pressed Kachi Ghani Mustard Cooking Oil,BB Royal Organic,1350,890.01,459.99,34.07,3x1L - Multipack,3*1L ,"(3, 'L')",3 L,3000,0.29667
+871,871,Nirmal Virgin Coconut Oil - Narrow Neck,Klf ,220,200,20,9.09,250 ml ,250 ml ,,250 ml ,250,0.8
+872,872,Organic - Cinnamon/Chakke Powder,BB Royal,149,143,6,4.03,200 g ,200 g ,,200 g ,200,0.715
+873,873,"Organic Groundnut Oil - Cold Pressed, Rich In Vitamin A, D & E",Phalada Pure & Sure,1900,1805,95,5,5 L ,5 L ,,5 L ,5000,0.361
+874,874,Double Beans - Red,BB Royal,110,109,1,0.91,200 g - Pouch,200 g ,,200 g ,200,0.545
+875,875,Kashmiri Lal Mirch (Sweet Red Chilli),JK,110,110,0,0,100 g ,100 g ,,100 g ,100,1.1
+876,876,Easy Idiyappam Powder,Double Horse,62,62,0,0,500 g - Pouch,500 g ,,500 g ,500,0.124
+877,877,Natureâ€™s Superfoods Multi Millet Mix - Rich In Dietary Fibre,Aashirvaad,160,136,24,15,1 kg - Pouch,1 kg ,,1 kg ,1000,0.136
+878,878,Organic - Sesame,Pro Nature,142,134.9,7.1,5,200 g - Pouch,200 g ,,200 g ,200,0.6745
+879,879,Green Chana,BB Royal,170,96,74,43.53,500 g - Pouch,500 g ,,500 g ,500,0.192
+880,880,Turmeric Powder/Arisina Pudi,Eastern,110,84,26,23.64,2x250 g - Multipack,2*250 g ,"(500, 'g')",500 g,500,0.168
+881,881,Organic - Jaggery/Bella Powder,Turn Organic,90,90,0,0,500 g - Pouch,500 g ,,500 g ,500,0.18
+882,882,Veg Manchurian Masala,Chings,50,50,0,0,5 x 20 g - Multipack,5*20 g ,"(100, 'g')",100 g,100,0.5
+883,883,"Refined Groundnut Oil, Primio",Rro,255,255,0,0,1 L - Bottle,1 L ,,1 L ,1000,0.255
+884,884,Organic - Barley Flour/Jave Godhi,BB Royal,78,59,19,24.36,500 g ,500 g ,,500 g ,500,0.118
+885,885,Pizza Oregano Spice Mix,HappyChef,99,69,30,30.3,75 g ,75 g ,,75 g ,75,0.92
+886,886,"Pure & Unrefined Cold Pressed Sesame Gingelly Oil - Naturally, Cholesterol Free, With Rich Aroma & Flavour",Tata Simply Better,649,551.65,97.35,15,1 L ,1 L ,,1 L ,1000,0.55165
+887,887,Gold Fried Gram/ Roasted Channa,Vijay,84,84,0,0,500 g ,500 g ,,500 g ,500,0.168
+888,888,Bandhani Hing/Compounded Asafoetida - Strong Flavour & Aroma,Tata Sampann,285,250.8,34.2,12,100 g ,100 g ,,100 g ,100,2.508
+889,889,Organic Seeds - Mustard/Sasive,Pro Nature,84,75.6,8.4,10,200 g - Pouch,200 g ,,200 g ,200,0.378
+890,890,Kodo Millet - Kodra/Varagu/Arikelu/Hark/Varigu,Manna,189,151.2,37.8,20,500 g ,500 g ,,500 g ,500,0.3024
+891,891,Organic Watermelon Seeds/Kallangadi Bija,BB Royal,161,144,17,10.56,100 g ,100 g ,,100 g ,100,1.44
+892,892,Roasted Rava,Elite,75,75,0,0,1 kg - Pillow Pouch,1 kg ,,1 kg ,1000,0.075
+893,893,Rajma Masala - Enhances Flavour,Catch,82,61.5,20.5,25,100 g - Carton,100 g ,,100 g ,100,0.615
+894,894,Jaya Boiled Rice,BB Royal,300,270,30,10,5 kg - Bag,5 kg ,,5 kg ,5000,0.054
+895,895,Chunky Chat,Mdh,85,85,0,0,100 g - Carton,100 g ,,100 g ,100,0.85
+896,896,Premium Pumpkin Seeds - All Natural,Happilo,550,467.5,82.5,15,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,1.16875
+897,897,Virgin Cold Pressed Sesame Oil,Chekko,3045,2892.75,152.25,5,5 L ,5 L ,,5 L ,5000,0.57855
+898,898,"Lashkari Kollam Premium Rice - Light Weight, Easy To Digest, Soft Texture",Sri Sri Tattva,90,90,0,0,1 kg ,1 kg ,,1 kg ,1000,0.09
+899,899,Broken Wheat - Daliya,Elite,42,42,0,0,500 g - Pillow Pouch,500 g ,,500 g ,500,0.084
+900,900,"Rice - Jeerasar, New Rice/Nava Chokha, Guj 17",BB Popular,0,0,0,,25 kg ,25 kg ,,25 kg ,25000,0
+901,901,"Apricots - Dried, Premium Turkish",Happilo,730,649.7,80.3,11,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,1.62425
+902,902,Basmati Rice - Everyday,BB Royal,990,737.75,252.25,25.48,2x5 Kg - Multipack,2*5 Kg ,"(10, 'Kg')",10 Kg,10000,0.073775
+903,903,Red Poha,24 Mantra Organic,190,171,19,10,2x500 g - Multipack,2*500 g ,"(1000, 'g')",1000 g,1000,0.171
+904,904,Masala - Sambhar,Everest,160,160,0,0,200 g ,200 g ,,200 g ,200,0.8
+905,905,Mix - Chicken Biryani,Mother's Recipe,165,135,30,18.18,3x100 g - (Multipack),3*100 g ,"(300, 'g')",300 g,300,0.45
+906,906,Turmeric Powder/Arisina Pudi,Sakthi,72,64.8,7.2,10,200 g - Pouch,200 g ,,200 g ,200,0.324
+907,907,Soya Chunks - Nano,Double Horse,67,67,0,0,200 g - 0,200 g ,,200 g ,200,0.335
+908,908,Wheat - Sihor,BB Royal,70,45,25,35.71,1 kg ,1 kg ,,1 kg ,1000,0.045
+909,909,"Coconut Milk Powder - Rich In Vitamins & Minerals, Thick, Tasty",KLF Coconad,850,850,0,0,1 Kg ,1 Kg ,,1 Kg ,1000,0.85
+910,910,Oil - Sesame,Idhayam,503,503,0,0,1 L - Can,1 L ,,1 L ,1000,0.503
+911,911,Rice Flour,24 Mantra Organic,130,114.4,15.6,12,2x500 g - Multipack,2*500 g ,"(1000, 'g')",1000 g,1000,0.1144
+912,912,Masala - Kulambu Chilly,Aachi,110,93.5,16.5,15,200 g - Pouch,200 g ,,200 g ,200,0.4675
+913,913,Kabuli Chana,24 Mantra Organic,450,362.1,87.9,19.53,3x500 g - Multipack,3*500 g ,"(1500, 'g')",1500 g,1500,0.2414
+914,914,Virgin Groundnut Oil,Patanjali,1125,1125,0,0,5 L - Jar,5 L ,,5 L ,5000,0.225
+915,915,"Green Long Raisin - Enriched With Vitamin A, Improves Eye Sight, Digestion",Farmley,239,191.2,47.8,20,500 g ,500 g ,,500 g ,500,0.3824
+916,916,Paste - Garlic,Mother's Recipe,22,20.9,1.1,5,100 g - Pouch,100 g ,,100 g ,100,0.209
+917,917,Masala - Fish Fry,Aachi,34,28.9,5.1,15,50 g - Pouch,50 g ,,50 g ,50,0.578
+918,918,Powder - Deggi Mirch,Mdh,125,125,0,0,100 g - Carton,100 g ,,100 g ,100,1.25
+919,919,100% Natural Nut Powder - No Added Sugar Or Preservatives,Slurrp Farm,499,499,0,0,100 g ,100 g ,,100 g ,100,4.99
+920,920,Dates/Kharjura - Medjool,BB Royal,1000,737,263,26.3,500 g ,500 g ,,500 g ,500,1.474
+921,921,"Halim Seeds - Healthy Seeds , For Weight Loss",True Elements,299,245.18,53.82,18,500 g ,500 g ,,500 g ,500,0.49036
+922,922,Maida,Fortune ,39,35.1,3.9,10,500 g - Pouch,500 g ,,500 g ,500,0.0702
+923,923,Super Saver Ponni Boiled Rice,Super Saver,1820,1452,368,20.22,26 kg - Yes,26 kg ,,26 kg ,26000,0.055846154
+924,924,Powder - Hingraj,Everest,275,275,0,0,100 g ,100 g ,,100 g ,100,2.75
+925,925,Organic - Coriander Whole,Pro Nature,119,107.1,11.9,10,200 g - Pouch,200 g ,,200 g ,200,0.5355
+926,926,Organic - Wheat Broken/Dhaliya,BB Royal,89,66,23,25.84,1 kg ,1 kg ,,1 kg ,1000,0.066
+927,927,Wheat Daliya - Pesticide Free,Safe Harvest,52,49.4,2.6,5,500 g ,500 g ,,500 g ,500,0.0988
+928,928,"Smart Edible Oil - Enriched With Vitamin A, D , E & K",Oleev,180,140.99,39.01,21.67,1 L ,1 L ,,1 L ,1000,0.14099
+929,929,"Pure & Unrefined Cold Pressed Virgin Coconut Oil - Naturally, Cholesterol Free",Tata Simply Better,699,559.2,139.8,20,1 L ,1 L ,,1 L ,1000,0.5592
+930,930,Premium Aromatic Govind Bhog Rice,BONGO BHOG,800,800,0,0,5 kg ,5 kg ,,5 kg ,5000,0.16
+931,931,Sugar/Sakkare - Brown,Pro Nature,154,130.9,23.1,15,1 kg ,1 kg ,,1 kg ,1000,0.1309
+932,932,Sampoorna Chakki Atta/Godihittu,Nature Fresh,475,440.73,34.27,7.21,10 Kg - Bag,10 Kg ,,10 Kg ,10000,0.044073
+933,933,Premium Diwali Gift Box,BB Royal,299,190,109,36.45,"200 g - (Almonds, Raisins, Cashews, Apricots, 50 g each)",200 g ,,200 g ,200,0.95
+934,934,Dates - Royal Zahidi,Apis,240,220,20,8.33,500 g - Buy 1 Get 1 Free,500 g ,,500 g ,500,0.44
+935,935,Mixed Fruit,Fresho Signature,195,169,26,13.33,150 g ,150 g ,,150 g ,150,1.126666667
+936,936,Besan Flour,24 Mantra Organic,285,228,57,20,3x500 g - Multipack,3*500 g ,"(1500, 'g')",1500 g,1500,0.152
+937,937,Olive Oil - Extra Light,Del Monte ,3500,2441.76,1058.24,30.24,2x1 L - Multipack,2*1 L ,"(2, 'L')",2 L,2000,1.22088
+938,938,Split Pigeon Pea Toor Dal - Rich In Protein & Folic Acid,Sri Sri Tattva,180,180,0,0,1 kg ,1 kg ,,1 kg ,1000,0.18
+939,939,Cow Ghee/Tuppa - Certified Organic,Nutriorg,670,670,0,0,500 ml ,500 ml ,,500 ml ,500,1.34
+940,940,"White Sesame Seeds Til - Highly Nutritious, Boosts Overall Health",Sri Sri Tattva,60,60,0,0,100 g ,100 g ,,100 g ,100,0.6
+941,941,"Quinoa - 100% Wholegrain, High Protein, Breakfast Cereal, Gluten Free, Diet Food",True Elements,1100,770,330,30,2 kg ,2 kg ,,2 kg ,2000,0.385
+942,942,Traditional Whole Wheat Chakki Atta,Patanjali,425,425,0,0,10 Kg ,10 Kg ,,10 Kg ,10000,0.0425
+943,943,Canola Oil - For All Types Of Cooking,Miller,1499,1018.44,480.56,32.06,5 L ,5 L ,,5 L ,5000,0.203688
+944,944,Cashew/Godambi - Roasted & Salted,BB Royal,200,116,84,42,100 g - Standy Ziplock Pouch,100 g ,,100 g ,100,1.16
+945,945,Moong Dal,Safe Harvest,135,112.05,22.95,17,500 g ,500 g ,,500 g ,500,0.2241
+946,946,Ragi Dosa Mix,Indira's,125,125,0,0,500 g - Pouch,500 g ,,500 g ,500,0.25
+947,947,Madras Sambar Powder,Eastern,56,56,0,0,100 g ,100 g ,,100 g ,100,0.56
+948,948,"Chhole Masala - With Natural Oils, Crafted By Chef Sanjeev Kapoor",Tata Sampann,80,76,4,5,100 g ,100 g ,,100 g ,100,0.76
+949,949,Organic - Castor Oil,Phalada Pure & Sure,140,133,7,5,250 ml - Bottle,250 ml ,,250 ml ,250,0.532
+950,950,Dried Cranberries,True Elements,500,460,40,8,2x125 g - Multipack,2*125 g ,"(250, 'g')",250 g,250,1.84
+951,951,"Organic - Urad Dal/Uddina Bele, Atta",BB Royal,99,93,6,6.06,500 g ,500 g ,,500 g ,500,0.186
+952,952,Amla Chatpata Dry Fruit,Fresho Signature,130,112.1,17.9,13.77,2x50 g - Multipack,2*50 g ,"(100, 'g')",100 g,100,1.121
+953,953,Baskati - Rice,BB Popular,800,634,166,20.75,10 kg ,10 kg ,,10 kg ,10000,0.0634
+954,954,Black Raisins - Premium Afghani Seedless,Happilo,490,392,98,20,2x250 g - Multipack,2*250 g ,"(500, 'g')",500 g,500,0.784
+955,955,Dry Fruit - Cherry,Kiara Foods,90,90,0,0,200 g ,200 g ,,200 g ,200,0.45
+956,956,Dates/Kharjura - Layina,Lion,220,206.8,13.2,6,500 gm ,500 gm ,,500 gm ,500,0.4136
+957,957,Everyday Basmati Rice/Basmati Akki,Fortune ,169,126.02,42.98,25.43,1 kg - Pouch,1 kg ,,1 kg ,1000,0.12602
+958,958,"Basmati Rice/Basmati Akki - Authentic, Super Value",Kohinoor,810,533.62,276.38,34.12,5 kg - (25% Extra),5 kg ,,5 kg ,5000,0.106724
+959,959,Masala - Kitchen King,Mdh,79,79,0,0,100 g - Carton,100 g ,,100 g ,100,0.79
+960,960,Chilli Powder,Aashirvaad,350,315,35,10,500 g ,500 g ,,500 g ,500,0.63
+961,961,Basmati Rice - Rozana Regular,BB Royal,990,786.31,203.69,20.57,10 Kg ,10 Kg ,,10 Kg ,10000,0.078631
+962,962,Raisins/Ona Drakshi - Afghan,BB Royal,750,461,289,38.53,500 g ,500 g ,,500 g ,500,0.922
+963,963,Rajma Chitra,BB Super Saver,200,169,31,15.5,1 kg ,1 kg ,,1 kg ,1000,0.169
+964,964,Cow Ghee Original - 100% Pure & Natural,Auric,999,899.1,99.9,10,1 L ,1 L ,,1 L ,1000,0.8991
+965,965,Organic Sesame Oil - Promotes Heart Health,Kapiva,424,334.96,89.04,21,500 ml - Plastic Bottle,500 ml ,,500 ml ,500,0.66992
+966,966,Charminar Rozana Basmati Rice/Basmati Akki,Kohinoor,560,337.48,222.52,39.74,5 kg ,5 kg ,,5 kg ,5000,0.067496
+967,967,Rice Bran Health Physically Refined Rice Bran Oil - Contains Natural Oryzanol & Natural Vitamins,Sunpure ,1050,621.6,428.4,40.8,5 L - Can,5 L ,,5 L ,5000,0.12432
+968,968,Organic - Proso Millet,BB Royal,85,75,10,11.76,500 g ,500 g ,,500 g ,500,0.15
+969,969,Premium Diwali Gift Box,BB Royal,749,525,224,29.91,"500 g - (Almonds, Cashews, Raisins, Pistachios, 125 g each)",500 g ,,500 g ,500,1.05
+970,970,Kabuli Chana/Kabuli Kadale - Pesticide Free,Safe Harvest,145,121.8,23.2,16,500 g ,500 g ,,500 g ,500,0.2436
+971,971,Powder - Rasam,Sakthi,52,49.4,2.6,5,50 g - Pouch,50 g ,,50 g ,50,0.988
+972,972,Apricots/Khumani,BB Popular,500,362,138,27.6,500 g ,500 g ,,500 g ,500,0.724
+973,973,Basmati Rice/Basmati Akki - Mini Mogra/Broken,India Gate,680,646.87,33.13,4.87,10 kg - Bag,10 kg ,,10 kg ,10000,0.064687
+974,974,"Sona Masuri Super Quality Steam Rice - Light Weight, Easy To Digest",Sri Sri Tattva,75,75,0,0,1 kg ,1 kg ,,1 kg ,1000,0.075
+975,975,Rock Salt - Powder/Uppu,BB Royal,200,74,126,63,1 kg ,1 kg ,,1 kg ,1000,0.074
+976,976,Organic Kala Chana/Kadale Kaalu,Pro Nature,102,86.7,15.3,15,500 g - Pouch,500 g ,,500 g ,500,0.1734
+977,977,Powder - Dry Ginger,Everest,90,90,0,0,100 g - Carton,100 g ,,100 g ,100,0.9
+978,978,Brazilian Nuts,BB Royal,400,327,73,18.25,100 g ,100 g ,,100 g ,100,3.27
+979,979,Xpert Pro Immunity Oil - Blend Of Rice Bran & Sunflower Oil,Fortune ,800,625,175,21.88,5 L - Jar,5 L ,,5 L ,5000,0.125
+980,980,Whole Wheat,24 Mantra Organic,375,330,45,12,5x1 kg - Multipack,5*1 kg ,"(5, 'kg')",5 kg,5000,0.066
+981,981,"Pav Bhaji Masala - With Natural Oils, Crafted By Chef Sanjeev Kapoor",Tata Sampann,94,89.3,4.7,5,100 g ,100 g ,,100 g ,100,0.893
+982,982,Safflower Oil,24 Mantra Organic,1650,1237.5,412.5,25,3x1 L - Multipack,3*1 L ,"(3, 'L')",3 L,3000,0.4125
+983,983,Kashmiri Rajma/Capparadavare,BB Super Saver,180,167,13,7.22,1 kg ,1 kg ,,1 kg ,1000,0.167
+984,984,Premium Dried Blueberry Cranberry Duet,Happilo,760,646,114,15,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,1.615
+985,985,"Organic Cardamom/Elaichi - Green, Small",Pro Nature,450,405,45,10,50 g ,50 g ,,50 g ,50,8.1
+986,986,"Cold Pressed Groundnut Cooking Oil - Perfect Blend of Health, Taste & Aroma, Promotes Heart Health & Lowers Cholesterol Levels",Dabur,499,454.09,44.91,9,1 L - Bottle,1 L ,,1 L ,1000,0.45409
+987,987,Sunflower Oil,Patanjali,120,120,0,0,1 L ,1 L ,,1 L ,1000,0.12
+988,988,Mitha Pan Mouth Freshener,BB Royal,80,60,20,25,90 g ,90 g ,,90 g ,90,0.666666667
+989,989,Masala - Tandoori,Everest,187,187,0,0,200 g ,200 g ,,200 g ,200,0.935
+990,990,Organic - Methi/Menthya/Fenugreek Powder,BB Royal,52,42,10,19.23,200 g ,200 g ,,200 g ,200,0.21
+991,991,Cold Pressed Organic Sunflower Oil,Nutriorg,2450,2450,0,0,5 L - Container,5 L ,,5 L ,5000,0.49
+992,992,"Strawberry Cereal - No Sugar, Instant Healthy Cereal With Ragi, Rice & Milk",Slurrp Farm,349,349,0,0,200 g ,200 g ,,200 g ,200,1.745
+993,993,"Dates - Black, With Seeds",BB Royal,600,379,221,36.83,1 kg ,1 kg ,,1 kg ,1000,0.379
+994,994,Walnut/Akhrot - Inshell,BB Royal,625,375,250,40,500 g ,500 g ,,500 g ,500,0.75
+995,995,Premium Cashews Toasted & Salted,Happilo,790,549.06,240.94,30.5,2x200 g - Multipack,2*200 g ,"(400, 'g')",400 g,400,1.37265
+996,996,Seasoning - Pasta,Keya,119,119,0,0,45 g ,45 g ,,45 g ,45,2.644444444

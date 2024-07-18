@@ -1,0 +1,902 @@
+,Sr.No.,Grocery_Name,Brand_Name,MRP_Price,Discount_Price,Total Disc,Percetage Disc,Quantity,strip_qua,Quantity_upd,Converted_Quantity,Price_per_unit(gm/ml/pc)
+0,0,Gulab Jamun Dessert Mix,Tata Sampann,145.0,133.4,11.599999999999994,8.0,175 g - (Buy 1 Get 1 Free),175 g ,175 g ,175.0,0.7622857142857143
+1,1,2-Min Masala Instant Noodles,MAGGI ,168.0,160.0,8.0,4.76,840 g - (12 Packs x 70 g),840 g ,840 g ,840.0,0.19047619047619047
+2,2,"Chocolate Muesli - With 57% Multigrain, Fruit, Nut & Seeds",Kelloggs,360.0,310.0,50.0,13.89,450 g ,450 g ,450 g ,450.0,0.6888888888888889
+3,3,"Marie Gold Biscuit - Crunchy, Light, Zero Trans Fat, Ready To Eat",Britannia,140.0,120.0,20.0,14.29,950 g ,950 g ,950 g ,950.0,0.12631578947368421
+4,4,Gluco Biscuits - Parle-G,Parle,120.0,108.0,12.0,10.0,12x130 g - Multipack,12*130 g ,1560 g,1560.0,0.06923076923076923
+5,5,Frozen Green Peas,Fresho,270.0,198.0,72.0,26.67,2x500 g - (Multipack),2*500 g ,1000 g,1000.0,0.198
+6,6,"Coconut Almond Ball With Peanut Butter Filling - Gluten-Free, No Refined Sugar Added",Wild Date,315.0,315.0,0.0,0.0,135 g ,135 g ,135 g ,135.0,2.3333333333333335
+7,7,"Digestive High Fibre Biscuits,",Britannia NutriChoice ,120.0,114.0,6.0,5.0,12x 41.7 g - Multipack,12*41.7 g ,12*41.7 g ,,
+8,8,Treat - Jim Jam Biscuits,Britannia,70.0,66.5,3.5,5.0,2x138 g - Multipack,2*138 g ,276 g,276.0,0.24094202898550723
+9,9,"Choco Date Ball With Hazelnut Butter Filling - Gluten-Free, No Refined Sugar Added",Wild Date,315.0,315.0,0.0,0.0,135 g ,135 g ,135 g ,135.0,2.3333333333333335
+10,10,Idly & Dosa Batter,iD Fresho,115.0,106.95,8.049999999999997,7.0,2 kg ,2 kg ,2 kg ,2000.0,0.053475
+11,11,Little Hearts Biscuits,Britannia,30.0,28.5,1.5,5.0,75 g ,75 g ,75 g ,75.0,0.38
+12,12,Instant Bhel,Haldiram's,60.0,60.0,0.0,0.0,6x44 g - Multipack,6*44 g ,264 g,264.0,0.22727272727272727
+13,13,Potato Chips - Calm Cream & Onion Flavour,Lays,60.0,60.0,0.0,0.0,6x30 g - Multipack,6*30 g ,180 g,180.0,0.3333333333333333
+14,14,Olive Oil Pickle - Carrot,ADF Soul,399.0,319.2,79.80000000000001,20.0,265 g ,265 g ,265 g ,265.0,1.2045283018867925
+15,15,Bourbon Cream Biscuit - Chocolate Flavor,Britannia,80.0,76.0,4.0,5.0,2x150 g - Multipack,2*150 g ,300 g,300.0,0.25333333333333335
+16,16,Chocolate Health Drink,Cadbury Bournvita,740.0,592.02,147.98000000000002,20.0,2x750 g - Multipack,2*750 g ,1500 g,1500.0,0.39468
+17,17,"Potato Chips - Hot & Sweet Chilli Flavour, Best Quality",Lays,60.0,60.0,0.0,0.0,6x24 g - Multipack,6*24 g ,144 g,144.0,0.4166666666666667
+18,18,Biscuits - Milk Bikis,Britannia,90.0,85.5,4.5,5.0,3x160 g - Multipack,3*160 g ,480 g,480.0,0.178125
+19,19,Namkeen - Bhujia Sev,Haldiram's,180.0,178.0,2.0,1.11,2x350 g - Multipack,2*350 g ,700 g,700.0,0.2542857142857143
+20,20,Namkeen - Moong Dal,Haldiram's,165.0,148.5,16.5,10.0,3x150 g - Multipack,3*150 g ,450 g,450.0,0.33
+21,21,"Digestive High Fibre Biscuits,",Britannia NutriChoice ,140.0,120.96,19.040000000000006,13.6,2x 250 g - Multipack,2*250 g ,500 g,500.0,0.24192
+22,22,Digestive Zero (No Maida & Zero Added Sugar),Britannia NutriChoice ,105.0,89.78,15.219999999999999,14.5,3x 100 g - Multipack,3*100 g ,300 g,300.0,0.2992666666666667
+23,23,Vanilla Flavour Creme Sandwich Biscuit,Cadbury Oreo,300.0,240.0,60.0,20.0,918.75 g - (7 Packs x 131.25 g Each),918.75 g ,918.75 g ,918.75,0.2612244897959184
+24,24,Frozen - Green Peas,Safal,240.0,192.0,48.0,20.0,1 kg - Pouch,1 kg ,1 kg ,1000.0,0.192
+25,25,Mixed Fruit Jam - Delicious & Flavourful,Kissan,300.0,295.0,5.0,1.67,1 kg ,1 kg ,1 kg ,1000.0,0.295
+26,26,Hide & Seek - Chocolate,Parle,120.0,90.0,30.0,25.0,2x200 g - Multipack,2*200 g ,400 g,400.0,0.225
+27,27,50-50 Maska Chaska,Britannia,90.0,82.8,7.200000000000003,8.0,300 g ,300 g ,300 g ,300.0,0.27599999999999997
+28,28,Dark Fantasy Bourbon Biscuits,Sunfeast,35.0,17.89,17.11,48.89,120 g ,120 g ,120 g ,120.0,0.14908333333333335
+29,29,Corn Flakes,Kelloggs,120.0,96.0,24.0,20.0,6x60 g - Multipack,6*60 g ,360 g,360.0,0.26666666666666666
+30,30,Namkeen - Aloo Bhujia,Haldiram's,220.0,220.0,0.0,0.0,1 kg - Pouch,1 kg ,1 kg ,1000.0,0.22
+31,31,"Treat Croissant - Cocoa Creme Filling, 100% Veg, Soft",Britannia,80.0,60.8,19.200000000000003,24.0,4x45 g - Multipack,4*45 g ,180 g,180.0,0.3377777777777778
+32,32,Soan Papdi,Haldiram's,1680.0,1680.0,0.0,0.0,24x250 g - Multipack,24*250 g ,6000 g,6000.0,0.28
+33,33,"Yumitos Potato Chips - Original Style, Chilli",Bingo,120.0,110.4,9.599999999999994,8.0,12x21 g - (Multipack),12*21 g ,252 g,252.0,0.4380952380952381
+34,34,"Nutri-Licious Masala Veg Atta Noodles - Herbs & Spice Blend, Iron & Fibre Rich",MAGGI ,168.0,150.0,18.0,10.71,435 g - (Pack of 6),435 g ,435 g ,435.0,0.3448275862068966
+35,35,Potato Chips - Indias Magic Masala,Lays,100.0,75.2,24.799999999999997,24.8,2 x 90 g - Multipack,2*90 g ,180 g,180.0,0.4177777777777778
+36,36,NutriChoice Sugar Free Cream Cracker,Britannia,100.0,91.2,8.799999999999997,8.8,2x300 g - Multipack,2*300 g ,600 g,600.0,0.152
+37,37,Cheese Balls,PEPPY,180.0,90.0,90.0,50.0,3x60 g - Multipack,3*60 g ,180 g,180.0,0.5
+38,38,Namkeen - Salted Peanut,Haldiram's,60.0,60.0,0.0,0.0,6x45 g - Multipack,6*45 g ,270 g,270.0,0.2222222222222222
+39,39,Namkeen - Masala Peanut,Haldiram's,60.0,60.0,0.0,0.0,6x50 g - Multipack,6*50 g ,300 g,300.0,0.2
+40,40,"Oats - Natural Wholegrain, Nutritious Breakfast Cereals, Dalia Porridge, Easy To Cook",Quaker,79.0,72.0,7.0,8.86,400 g - Pouch,400 g ,400 g ,400.0,0.18
+41,41,"Hot N Sour Veggie Overload Quikie Soup - Multigrain, No Maida",Rasna,120.0,120.0,0.0,0.0,12 x 15g - Multipack,12*15g ,180 g,180.0,0.6666666666666666
+42,42,Chocolate Flavour Creme Sandwich Biscuit,Cadbury Oreo,159.0,130.38,28.620000000000005,18.0,481.25 g - (5 Packs x 96.25 g Each),481.25 g ,481.25 g ,481.25,0.2709194805194805
+43,43,Dark Fantasy - Choco Fills,Sunfeast,420.0,279.0,141.0,33.57,3x300 g - (Multipack),3*300 g ,900 g,900.0,0.31
+44,44,Bounce Biscuits - Orange Creme Cookies,Sunfeast,60.0,57.0,3.0,5.0,6x58 g - Multipack,6*58 g ,348 g,348.0,0.16379310344827586
+45,45,Breakfast Mix - Rava Idli,MTR,215.0,185.0,30.0,13.95,1 kg - Pouch,1 kg ,1 kg ,1000.0,0.185
+46,46,Marie Gold Biscuits,Britannia,120.0,114.0,6.0,5.0,6x120 g - Multipack,6*120 g ,720 g,720.0,0.15833333333333333
+47,47,Krackjack,Parle,120.0,90.0,30.0,25.0,700 g ,700 g ,700 g ,700.0,0.12857142857142856
+48,48,Good Day Butter Cookies,Britannia,125.0,100.0,25.0,20.0,600 g ,600 g ,600 g ,600.0,0.16666666666666666
+49,49,"Muesli Breakfast Cereal - With Multigrain & 21% Fruit, Nut & Seeds",Kelloggs,490.0,440.0,50.0,10.2,750 g ,750 g ,750 g ,750.0,0.5866666666666667
+50,50,Vermicelli,Anil,51.0,51.0,0.0,0.0,450 g - Pouch,450 g ,450 g ,450.0,0.11333333333333333
+51,51,"Chikki, Peanut Bar",Paper Boat,126.0,102.06,23.939999999999998,19.0,3x96g - Multipack,3*96g ,288 g,288.0,0.354375
+52,52,Kitkat Coated Wafer Bar - Share Bag,Nestle ,120.0,120.0,0.0,0.0,138.6 g - (9 pcs x 15.4 g Each),138.6 g ,138.6 g ,138.6,0.8658008658008658
+53,53,Chocolate Bar,Cadbury Dairy Milk,130.0,114.4,15.599999999999994,12.0,134 g - Family Pack,134 g ,134 g ,134.0,0.8537313432835821
+54,54,Vermicelli,MTR,87.0,74.0,13.0,14.94,850 g - Pouch,850 g ,850 g ,850.0,0.08705882352941176
+55,55,"Treat Croissant - Vanilla Creme Filling, 100% Veg, Soft",Britannia,120.0,92.16,27.840000000000003,23.2,6x45 g - Multipack,6*45 g ,270 g,270.0,0.3413333333333333
+56,56,"Honey Squeezy - 100% Pure, Rich In Nutrients, No Sugar, Boosts Immunity",Dabur,625.0,437.5,187.5,30.0,700 g - (Buy 1 Get 1 Free),700 g ,700 g ,700.0,0.625
+57,57,YiPPee! Magic Masala Noodles,Sunfeast,112.0,95.2,16.799999999999997,15.0,2 x 240 g - (Pack of 2),2*240 g ,480 g,480.0,0.19833333333333333
+58,58,Hommade - Coconut Milk,Dabur,225.0,203.06,21.939999999999998,9.75,3x200 ml - Multipack,3*200 ml ,600 ml,600.0,0.33843333333333336
+59,59,Hazelnut Spread with Cocoa,Nutella,5535.0,5092.2,442.8000000000002,8.0,15x350 g - Multipack,15*350 g ,5250 g,5250.0,0.9699428571428571
+60,60,Potato Chips - Classic Salted,Lays,100.0,75.2,24.799999999999997,24.8,2 x 90 g - Multipack,2*90 g ,180 g,180.0,0.4177777777777778
+61,61,"Milkybar - Choo, Rich, Strawberry Flavour",Nestle ,5.0,5.0,0.0,0.0,10 g - Pouch,10 g ,10 g ,10.0,0.5
+62,62,Nice Time - Sugar Showered Coconut Biscuits,Britannia,150.0,135.38,14.620000000000005,9.75,6x143 g - Multipack,6*143 g ,858 g,858.0,0.1577855477855478
+63,63,Premium Bake Rusk,Britannia,100.0,85.5,14.5,14.5,2x273 g - Multipack,2*273 g ,546 g,546.0,0.1565934065934066
+64,64,Classic Tomato Chilli,Piknik,120.0,62.4,57.6,48.0,2 X 60 g - Multipack,2*60 g ,120 g,120.0,0.52
+65,65,Minis Chocolate Home Treats Pack,Cadbury Dairy Milk,447.0,396.9,50.10000000000002,11.21,3 x 119 g - Multipack,3*119 g ,357 g,357.0,1.111764705882353
+66,66,"Fresh Tomato Ketchup - Tasty, Yummy & Healthy",Kissan,150.0,139.0,11.0,7.33,1.1 kg - Pouch,1.1 kg ,1.1 kg ,1100.0,0.12636363636363637
+67,67,Monaco Classic,Parle,120.0,90.0,30.0,25.0,700 g ,700 g ,700 g ,700.0,0.12857142857142856
+68,68,"Tomato Veggie Overload Quikie Soup - Multigrain, No Maida",Rasna,120.0,120.0,0.0,0.0,12 x 18g - Multipack,12*18g ,216 g,216.0,0.5555555555555556
+69,69,ChocLayered Cakes,Cadbury Chocobakes,210.0,173.88,36.120000000000005,17.2,3x114 g - Multipack,3*114 g ,342 g,342.0,0.5084210526315789
+70,70,Rice Vermicelli,Anil,80.0,80.0,0.0,0.0,500 g - Pouch,500 g ,500 g ,500.0,0.16
+71,71,Frozen Sweet Corn,Fresho,200.0,139.0,61.0,30.5,1 kg - Pouch,1 kg ,1 kg ,1000.0,0.139
+72,72,Mom's Magic - Rich Cashew & Almond Cookies,Sunfeast,130.0,96.98,33.019999999999996,25.4,584 g - Pouch,584 g ,584 g ,584.0,0.16606164383561645
+73,73,Potato Chips Original Style - Salt Sprinkled,Bingo,60.0,55.2,4.799999999999997,8.0,6x21 g - Multipack,6*21 g ,126 g,126.0,0.4380952380952381
+74,74,Mad Angles Achaari Masti - Mango Pickle Flavour Crunchy Triangle Chips Pack,Bingo,100.0,76.5,23.5,23.5,2x117 g - Multipack,2*117 g ,234 g,234.0,0.3269230769230769
+75,75,Corn Flakes With Real Almond & Honey,Kelloggs,820.0,656.0,164.0,20.0,2x650 g - Multipack,2*650 g ,1300 g,1300.0,0.5046153846153846
+76,76,Dark Fantasy Sandwich Creme Biscuits - Dark Crunch With Choco Creme,Sunfeast,75.0,37.0,38.0,50.67,277.5 g - (3 pcs x 92.5 g),277.5 g ,277.5 g ,277.5,0.13333333333333333
+77,77,Kaju Katli / Kaju Barfi Premium Mithai / Sweet,Tasties,249.0,135.0,114.0,45.78,200 g ,200 g ,200 g ,200.0,0.675
+78,78,Treat - Orange Biscuits,Britannia,120.0,114.0,6.0,5.0,12x50 g - Multipack,12*50 g ,600 g,600.0,0.19
+79,79,Biscuits - Milk Bikis Milk Sandwich,Britannia,90.0,85.5,4.5,5.0,3x100 g - Multi Pack,3*100 g ,300 g,300.0,0.285
+80,80,Roast Almond Chocolate Bar,Cadbury Dairy Milk,360.0,335.16,24.839999999999975,6.9,8 x 36 g - Multipack,8*36 g ,288 g,288.0,1.16375
+81,81,Original Rava Idli Ready Mix,MTR,130.0,115.0,15.0,11.54,500 g - Pouch,500 g ,500 g ,500.0,0.23
+82,82,Dark Fantasy Sandwich Creme Biscuits - Vanilla,Sunfeast,100.0,50.0,50.0,50.0,277.5 g - (3 pcs x 92.5 g),277.5 g ,277.5 g ,277.5,0.18018018018018017
+83,83,Chocos - Moons & Stars,Kelloggs,720.0,432.0,288.0,40.0,1.2 Kg ,1.2 Kg ,1.2 Kg ,1200.0,0.36
+84,84,Namkeen - Lite Chiwda,Haldiram's,160.0,160.0,0.0,0.0,4x150 g - Multipack,4*150 g ,600 g,600.0,0.26666666666666666
+85,85,Fruit & Nut Chocolate Bar,Cadbury Dairy Milk Silk,555.0,484.51,70.49000000000001,12.7,3 x 137 g - Multipack,3*137 g ,411 g,411.0,1.1788564476885643
+86,86,"Honey - 100% Pure, No Sugar Adulteration",Dabur,610.0,454.45,155.55,25.5,1.3 kg - Pet Bottle,1.3 kg ,1.3 kg ,1300.0,0.34957692307692306
+87,87,French - Fries,McCain,315.0,315.0,0.0,0.0,1.25 kg ,1.25 kg ,1.25 kg ,1250.0,0.252
+88,88,Hot & Sweet - Tomato Chilli Sauce / Ketchup,MAGGI ,165.0,165.0,0.0,0.0,1 kg - Bottle,1 kg ,1 kg ,1000.0,0.165
+89,89,"Tomato Ketchup - Classic Blend, Rich & Thick Condiment",Del Monte ,125.0,95.2,29.799999999999997,23.84,900 g - Spout Pouch,900 g ,900 g ,900.0,0.10577777777777778
+90,90,Namkeen - Mixture,Haldiram's,45.0,45.0,0.0,0.0,200 g - Pouch,200 g ,200 g ,200.0,0.225
+91,91,Rich Cocoa 70% Dark Chocolate Bar,Cadbury Bournville,330.0,297.53,32.47000000000003,9.84,3 x 80 g - Multipack,3*80 g ,240 g,240.0,1.2397083333333332
+92,92,Madras Mixture,Townbus,55.0,55.0,0.0,0.0,135 g ,135 g ,135 g ,135.0,0.4074074074074074
+93,93,"Nutri Choice Seed Biscuits -  0% Maida, High In Fibre",Britannia,150.0,127.5,22.5,15.0,6 x 75 g - Multipack,6*75 g ,450 g,450.0,0.2833333333333333
+94,94,Soya Sticks,Haldiram's,45.0,45.0,0.0,0.0,200 g - Pouch,200 g ,200 g ,200.0,0.225
+95,95,"Whole Wheat Lachha/Paratha, 5 pcs",iD Fresho,190.0,169.1,20.900000000000006,11.0,2x400 g - Multipack,2*400 g ,800 g,800.0,0.21137499999999998
+96,96,50-50 Sweet & Salty Biscuits,Britannia,120.0,114.0,6.0,5.0,12x69 g - Multipack,12*69 g ,828 g,828.0,0.13768115942028986
+97,97,Malabar Parota,iD Fresho,180.0,160.0,20.0,11.11,2x400 g - Multipack,2*400 g ,800 g,800.0,0.2
+98,98,Namkeen - Tasty Nuts,Haldiram's,80.0,80.0,0.0,0.0,400 g - Pouch,400 g ,400 g ,400.0,0.2
+99,99,Instant Popcorn - Classic Salted,ACT II,30.0,30.0,0.0,0.0,3x30 g - Multipack,3*30 g ,90 g,90.0,0.3333333333333333
+100,100,Potato Chips Wafer Style - Sundried Chilli Flavour,Lays,60.0,54.0,6.0,10.0,3 x 40 g - Multipack,3*40 g ,120 g,120.0,0.45
+101,101,Original Style Potato Chips - Chilli Sprinkled,Bingo,100.0,80.75,19.25,19.25,2x90 g - Multipack,2*90 g ,180 g,180.0,0.4486111111111111
+102,102,Marie Light Vita Orange Biscuits - Tea Time Partner,Sunfeast,15.0,15.0,0.0,0.0,100 g - Pouch,100 g ,100 g ,100.0,0.15
+103,103,Chocolate Coated Wafer Home Treats,Cadbury Perk,297.0,221.62,75.38,25.38,3 x 126 g - Multipack,3*126 g ,378 g,378.0,0.5862962962962963
+104,104,Chocolate Shots,Cadbury Dairy Milk,10.0,10.0,0.0,0.0,18 g - Pouch,18 g ,18 g ,18.0,0.5555555555555556
+105,105,Tomato Discs,PEPPY,180.0,90.0,90.0,50.0,3x60 g - Multipack,3*60 g ,180 g,180.0,0.5
+106,106,Nutrichoice Thin Arrowroot Biscuits,Britannia,40.0,40.0,0.0,0.0,300 g ,300 g ,300 g ,300.0,0.13333333333333333
+107,107,Vanilla Flavour Creme Sandwich Biscuit,Cadbury Oreo,270.0,270.0,0.0,0.0,2 x 481.25 g - Multipack,2*481.25 g ,2*481.25 g ,,
+108,108,Vanilla Flavour Creme Sandwich Biscuit,Cadbury Oreo,198.0,198.0,0.0,0.0,3 x 288.75 g - Multipack,3*288.75 g ,3*288.75 g ,,
+109,109,Good Day Chocochip Cookies,Britannia,140.0,93.34,46.66,33.33,400 g ,400 g ,400 g ,400.0,0.23335
+110,110,Cup Noodles Mazedaar Masala,Nissin Food,150.0,133.86,16.139999999999986,10.76,3x70 g - Multipack,3*70 g ,210 g,210.0,0.6374285714285715
+111,111,Potato Chips - Spanish Tomato Tango,Lays,100.0,75.2,24.799999999999997,24.8,2 x 90 g - Multipack,2*90 g ,180 g,180.0,0.4177777777777778
+112,112,Namkeen - Kodubale,Townbus,55.0,55.0,0.0,0.0,135 g ,135 g ,135 g ,135.0,0.4074074074074074
+113,113,No Rulz Masala Curlz Corn Puffs,Bingo,150.0,99.75,50.25,33.5,3x80 g - Multipack,3*80 g ,240 g,240.0,0.415625
+114,114,"Kerala Banana Chips - Original Style, Thin & Crispy, Delicious",Beyond Snack,95.0,85.5,9.5,10.0,125 g ,125 g ,125 g ,125.0,0.684
+115,115,Hide & Seek Chocolate,Parle,60.0,60.0,0.0,0.0,6x33 g - Multi Pack,6*33 g ,198 g,198.0,0.30303030303030304
+116,116,Rich Tomato Ketchup - Made With Real Tomatoes,MAGGI ,150.0,134.0,16.0,10.67,970 g - Bottle,970 g ,970 g ,970.0,0.13814432989690723
+117,117,"Choco Pie - Original, With Rich Marshmallow, No Preservatives",Lotte,150.0,126.0,24.0,16.0,25 g - (Pack of 12),25 g ,25 g ,25.0,5.04
+118,118,Marie Light Biscuits - Active,Sunfeast,60.0,55.2,4.799999999999997,8.0,6x75 g - Multipack,6*75 g ,450 g,450.0,0.12266666666666667
+119,119,Hakka Noodles - Veg,Desi,150.0,150.0,0.0,0.0,800 g ,800 g ,800 g ,800.0,0.1875
+120,120,Tiger Biscuits - Glucose,Britannia,50.0,47.5,2.5,5.0,5x 85.3 g - Multipack,5*85.3 g ,5*85.3 g ,,
+121,121,"Milkybar - Choo, Classic",Nestle ,5.0,5.0,0.0,0.0,10 g ,10 g ,10 g ,10.0,0.5
+122,122,"Schezwan Pasta - Chinese Style, Fusilli, With Zingy Sauce Maker & Extra Spicy Sprinkler",Keya,79.0,39.5,39.5,50.0,95.5 g - Pouch,95.5 g ,95.5 g ,95.5,0.41361256544502617
+123,123,Frozen - Sweet Corn,Safal,180.0,144.0,36.0,20.0,1 kg - Pouch,1 kg ,1 kg ,1000.0,0.144
+124,124,"Rolled Oats - Gluten Free, High Protein & Fibre",True Elements,800.0,656.0,144.0,18.0,2x1 kg - Multipack,2*1 kg ,2 kg,2000.0,0.328
+125,125,"Namkeen - Chilli Chatka, Spicy, Unique Taste",Kurkure,175.0,175.0,0.0,0.0,75 g ,75 g ,75 g ,75.0,2.3333333333333335
+126,126,Vermicelli,Bambino,85.0,65.5,19.5,22.94,850 g - Pouch,850 g ,850 g ,850.0,0.07705882352941176
+127,127,Moms Magic - Fruit & Milk,Sunfeast,50.0,46.0,4.0,8.0,5x51.1 g - Multipack,5*51.1 g ,5*51.1 g ,,
+128,128,Hide & Seek Caffe Mocha Cookies,Parle,120.0,90.0,30.0,25.0,4 x 100 g - Multipack,4*100 g ,400 g,400.0,0.225
+129,129,"Oats Breakfast Cereal - Rich In Protein, Dietary Fibre, Nutritious, Easy To Cook",Quaker,398.0,368.0,30.0,7.54,2x1 Kg - Multipack,2*1 Kg ,2 Kg,2000.0,0.184
+130,130,Motichur Laddoo,Lal,99.0,99.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.495
+131,131,Durum Wheat Pasta - Penne Rigate,BORGES,598.0,309.46,288.54,48.25,2x500 g - Multipack,2*500 g ,1000 g,1000.0,0.30945999999999996
+132,132,Yummiez Green Peas,Godrej Yummiez,280.0,182.0,98.0,35.0,1 kg - Pouch,1 kg ,1 kg ,1000.0,0.182
+133,133,"50-50 Potazos - Masti Masala, Spicy Flavoured Crips, Teatime Snack (Pack Of 3)",Britannia,75.0,63.75,11.25,15.0,3 x71.5 g - Multipack,3*71.5 g ,3*71.5 g ,,
+134,134,"Mac & Cheese Pasta - American Style, Macaroni, With Creamy Sauce Maker & Extra Herby Sprinkler",Keya,79.0,39.5,39.5,50.0,95.5 g - Pouch,95.5 g ,95.5 g ,95.5,0.41361256544502617
+135,135,"Idly Dosa Batter - Mildly Salted, Perfect Breakfast, Ready To Cook",Asal,140.0,140.0,0.0,0.0,2 kg ,2 kg ,2 kg ,2000.0,0.07
+136,136,G Gold Biscuits,Parle,140.0,115.0,25.0,17.86,1 Kg ,1 Kg ,1 Kg ,1000.0,0.115
+137,137,Chocolate Home Treats Bar,Cadbury 5 Star,447.0,403.02,43.98000000000002,9.84,3x191.9 g - Multipack,3*191.9 g ,3*191.9 g ,,
+138,138,Curry Instant Noodles,Top Ramen ,200.0,194.0,6.0,3.0,8 x 70 g - Multipack,8*70 g ,560 g,560.0,0.3464285714285714
+139,139,Hakka Noodles - Veg,Chings,125.0,120.0,5.0,4.0,5x150 g - Multipack,5*150 g ,750 g,750.0,0.16
+140,140,Dark Chocolate- 55% Rich In Cocoa,Amul,110.0,110.0,0.0,0.0,150 g - Carton,150 g ,150 g ,150.0,0.7333333333333333
+141,141,Hommade - Tomato Puree,Dabur,81.0,77.0,4.0,4.94,3x200 g - Multipack,3*200 g ,600 g,600.0,0.12833333333333333
+142,142,"Oats - Natural Wholegrain, Nutritious Breakfast Cereals, Poha, Easy To Cook",BB Royal,398.0,278.0,120.0,30.15,2x1 kg - Multipack,2*1 kg ,2 kg,2000.0,0.139
+143,143,"50 50 Time Pass Biscuits - Simply Salted,",Britannia,60.0,57.0,3.0,5.0,6x69g - Multipack,6*69g ,414 g,414.0,0.13768115942028986
+144,144,Potato Chips - American Style Cream & Onion Flavour,Lays,100.0,75.2,24.799999999999997,24.8,2 x 90 g - Multipack,2*90 g ,180 g,180.0,0.4177777777777778
+145,145,Tiger Krunch Biscuits,Britannia,140.0,70.0,70.0,50.0,400 g ,400 g ,400 g ,400.0,0.175
+146,146,NutriChoice 5 Grain Digestive Multigrain Biscuits - High Fibre,Britannia,140.0,114.24,25.760000000000005,18.4,2 x 200 g - Multipack,2*200 g ,400 g,400.0,0.28559999999999997
+147,147,Butter Murukku,Townbus,55.0,55.0,0.0,0.0,135 g ,135 g ,135 g ,135.0,0.4074074074074074
+148,148,Instant Sweet Corn Cup-A-Soup,Knorr,100.0,100.0,0.0,0.0,10x10 g - Multipack,10*10 g ,100 g,100.0,1.0
+149,149,Papad - Punjabi Masala,Lijjat,422.0,422.0,0.0,0.0,1 kg - Pouch,1 kg ,1 kg ,1000.0,0.422
+150,150,"Nachos Sweet Chilli Crunchy, Nachos Chips, Snacks, Party Pack",Doritos,100.0,67.5,32.5,32.5,2x82.5 g - Multipack,2*82.5 g ,2*82.5 g ,,
+151,151,Tedhe Medhe Masala Tadka,Bingo,40.0,35.68,4.32,10.8,2 x 85 g - Multipack,2*85 g ,170 g,170.0,0.20988235294117646
+152,152,"Dark Fantasy Combi Pack - Choco Fills, Original Filled Cookies",Sunfeast,160.0,147.2,12.800000000000011,8.0,75 g - (Buy 4 get 1 Free),75 g ,75 g ,75.0,1.9626666666666666
+153,153,ChocFilled Cookies,Cadbury Chocobakes,480.0,423.94,56.06,11.68,6x150 g - Multipack,6*150 g ,900 g,900.0,0.47104444444444443
+154,154,Jimjam Cream Biscuits,Britannia,10.0,10.0,0.0,0.0,57 g ,57 g ,57 g ,57.0,0.17543859649122806
+155,155,"Honey - 100% Pure, With No Sugar Adulteration",BB Royal,950.0,550.0,400.0,42.11,2 x 1 kg - Multipack,2*1 kg ,2 kg,2000.0,0.275
+156,156,Namkeen - Mini Bhakarwadi,Haldiram's,130.0,130.0,0.0,0.0,2x200 g - Multipack,2*200 g ,400 g,400.0,0.325
+157,157,Milk Bikis Biscuits,Britannia,90.0,82.8,7.200000000000003,8.0,500 g ,500 g ,500 g ,500.0,0.1656
+158,158,Chocos Corn Flakes,Kelloggs,120.0,96.0,24.0,20.0,6x58 g - Multipack,6*58 g ,348 g,348.0,0.27586206896551724
+159,159,Chutney - Schezwan,Chings,270.0,263.93,6.069999999999993,2.25,3x250 g - Multipack,3*250 g ,750 g,750.0,0.3519066666666667
+160,160,Cheese Flavoured Cracker Biscuits - Family Pack,Malkist,300.0,300.0,0.0,0.0,720 g - (144 g x 5 N),720 g ,720 g ,720.0,0.4166666666666667
+161,161,Frozen Green Peas - Ready To Cook,Farmland,260.0,172.4,87.6,33.69,1 kg ,1 kg ,1 kg ,1000.0,0.1724
+162,162,Instant Popcorn - Golden Sizzle,ACT II,72.0,64.8,7.200000000000003,10.0,3x60 g - Multipack,3*60 g ,180 g,180.0,0.36
+163,163,"Cashews - Whole, 100% Natural Premium",Happilo,670.0,502.5,167.5,25.0,2x200 g - Multipack,2*200 g ,400 g,400.0,1.25625
+164,164,Muesli - With 0% Added Sugar,Kelloggs,740.0,694.0,46.0,6.22,2x500 g - Multipack,2*500 g ,1000 g,1000.0,0.694
+165,165,Masala Balls,Cheetos,50.0,46.0,4.0,8.0,5x28 g - Multipack,5*28 g ,140 g,140.0,0.32857142857142857
+166,166,Pazzta Cheese Macaroni - Made With 100% Suji/Rawa,MAGGI ,54.0,46.0,8.0,14.81,"150 g - Family Saver Pack, Pouch",150 g ,150 g ,150.0,0.30666666666666664
+167,167,Tiger Kreemz Sandwich Biscuits - Choco,Britannia,10.0,10.0,0.0,0.0,86 g - Pouch,86 g ,86 g ,86.0,0.11627906976744186
+168,168,"Cookies - Assorted Flavours, Tasty Teatime Snack",UNIBIC,300.0,225.0,75.0,25.0,75 g - (Pack of 10),75 g ,75 g ,75.0,3.0
+169,169,Chaat Papdi - Crispy,Tasties Origins,218.0,123.0,95.0,43.58,2x150 g - Multipack,2*150 g ,300 g,300.0,0.41
+170,170,Biscuits - Googly,Bisk Farm,60.0,60.0,0.0,0.0,2x200 g - Multipack,2*200 g ,400 g,400.0,0.15
+171,171,Bengaluru Special Mixture,Sowbhagya foods,330.0,165.0,165.0,50.0,2 x 500 g - Multipack,2*500 g ,1000 g,1000.0,0.165
+172,172,Ready To Eat Veg Masala Noodles,Wai Wai,45.0,42.75,2.25,5.0,3 x 70 g - Multipack,3*70 g ,210 g,210.0,0.20357142857142857
+173,173,"Marie Light Biscuits - With Oats & Wheat Fibre, Tea Time Partner",Sunfeast,10.0,9.4,0.5999999999999996,6.0,65 g ,65 g ,65 g ,65.0,0.14461538461538462
+174,174,Digestive Wholewheat Biscuits,McVitie's,225.0,185.51,39.49000000000001,17.55,253.3 g - (Multipack) (Pack of 3),253.3 g ,253.3 g ,253.3,0.7323726806158705
+175,175,Strawberry Flavour Creme Sandwich Biscuit,Cadbury Oreo,105.0,86.94,18.060000000000002,17.2,3 x 113.75 g - Multipack,3*113.75 g ,3*113.75 g ,,
+176,176,3 Minute Breakfast - Poha,MTR,81.0,69.0,12.0,14.81,3 x 60 g - Multipack,3*60 g ,180 g,180.0,0.38333333333333336
+177,177,Cheez Puffs,Cheetos,50.0,46.0,4.0,8.0,5x28 g - Multipack,5*28 g ,140 g,140.0,0.32857142857142857
+178,178,YiPPee! Mood Masala Instant Noodles,Sunfeast,120.0,91.2,28.799999999999997,24.0,2x260 g - (Pack of 2),2*260 g ,520 g,520.0,0.1753846153846154
+179,179,Vermicelli - Rice Sevai,MTR,50.0,50.0,0.0,0.0,400 g - Pouch,400 g ,400 g ,400.0,0.125
+180,180,Bounce Creme Biscuits - Orange,Sunfeast,0.0,0.0,0.0,,41 g ,41 g ,41 g ,41.0,0.0
+181,181,Maxx Macho Chilli,Lays,60.0,50.4,9.600000000000001,16.0,2 x 56  g - Multipack,2*56  g ,112 g,112.0,0.45
+182,182,2-Minute Instant Noodles - Special Masala,MAGGI ,240.0,216.0,24.0,10.0,840 g - (Pack of 12),840 g ,840 g ,840.0,0.2571428571428571
+183,183,Papad - Jeera,Lijjat,72.0,72.0,0.0,0.0,200 g - Pouch,200 g ,200 g ,200.0,0.36
+184,184,HiFi Cashew Butter Cookies,Sunfeast,5.0,5.0,0.0,0.0,35 g - pouch,35 g ,35 g ,35.0,0.14285714285714285
+185,185,"Peanut Butter - Crunchy, Rich In Protein, Spreads",Sundrop,250.0,225.0,25.0,10.0,924 g ,924 g ,924 g ,924.0,0.2435064935064935
+186,186,"Waffy Wafers - Orange Flavoured, Creamy & Crunchy",Dukes ,50.0,25.0,25.0,50.0,60 g - Pouch,60 g ,60 g ,60.0,0.4166666666666667
+187,187,Khara Boondi,Townbus,55.0,55.0,0.0,0.0,135 g ,135 g ,135 g ,135.0,0.4074074074074074
+188,188,"Tiger Kreemz - Elaichi Cream Biscuits, Teatime Snack",Britannia,5.0,5.0,0.0,0.0,33.4 g ,33.4 g ,33.4 g ,33.4,0.14970059880239522
+189,189,"Biscuits - Marie, Sugar Free",Bisk Farm,50.0,50.0,0.0,0.0,300 g - Packet,300 g ,300 g ,300.0,0.16666666666666666
+190,190,Kaju Katri,Amul,435.0,435.0,0.0,0.0,500 g ,500 g ,500 g ,500.0,0.87
+191,191,Funfoods Veg Mayonnaise - Original,Dr. Oetker,178.0,142.0,36.0,20.22,2 x 250 g - Multipack,2*250 g ,500 g,500.0,0.284
+192,192,Salted Peanut,Haldiram's,265.0,265.0,0.0,0.0,1 Kg ,1 Kg ,1 Kg ,1000.0,0.265
+193,193,Dark Soy Sauce,Ching's Secret,180.0,163.8,16.19999999999999,9.0,3x200 g - Multipack,3*200 g ,600 g,600.0,0.273
+194,194,Chocolate Pack,Cadbury Nutties,360.0,360.0,0.0,0.0,8 x 30 g - Multipack,8*30 g ,240 g,240.0,1.5
+195,195,Cup-A-Soup - Manchow Veg,Knorr,100.0,100.0,0.0,0.0,10x12 g - Multipack,10*12 g ,120 g,120.0,0.8333333333333334
+196,196,"Masala Oats - Tasty Evening Snack, Fibre Rich, Veggie Twist",Saffola,449.0,368.18,80.82,18.0,1 kg ,1 kg ,1 kg ,1000.0,0.36818
+197,197,Smiles Crispy - Happy Potatoes,McCain,370.0,370.0,0.0,0.0,1.25 kg ,1.25 kg ,1.25 kg ,1250.0,0.296
+198,198,Mithai Shankarpali Sweet - Crispy,Tasties Origins,109.0,65.0,44.0,40.37,150 g ,150 g ,150 g ,150.0,0.43333333333333335
+199,199,"Oats - Tasty Evening Snack, Fibre Rich, Masala & Coriander",Saffola,195.0,171.6,23.400000000000006,12.0,500 g ,500 g ,500 g ,500.0,0.3432
+200,200,Namkeen - All in One,Haldiram's,100.0,100.0,0.0,0.0,400 g - Pouch,400 g ,400 g ,400.0,0.25
+201,201,Cup-A-Soup - Hot & Sour Veg,Knorr,100.0,100.0,0.0,0.0,10x11 g - Multipack,10*11 g ,110 g,110.0,0.9090909090909091
+202,202,Besan Laddoo,Daadi's,240.0,120.0,120.0,50.0,2x200 g - Multipack,2*200 g ,400 g,400.0,0.3
+203,203,Farmlite Biscuit - Oats & Almonds,Sunfeast,195.0,152.49,42.50999999999999,21.8,3x150 g - (Multipack),3*150 g ,450 g,450.0,0.3388666666666667
+204,204,Besan Laddoo Mithai / Sweet,Tasties,160.0,85.0,75.0,46.88,200 g ,200 g ,200 g ,200.0,0.425
+205,205,"Nachos - Cheese Flavour, With Free Dip",Bingo,100.0,76.5,23.5,23.5,2 x 100 g - Multipack,2*100 g ,200 g,200.0,0.3825
+206,206,Frozen - Mixed Vegetables,Safal,150.0,127.5,22.5,15.0,1 Kg - Pouch,1 Kg ,1 Kg ,1000.0,0.1275
+207,207,Muesli Breakfast Cereal - With Multigrain & 21% Fruit & Nut,BB Royal,720.0,419.0,301.0,41.81,2x500 g - Multipack,2*500 g ,1000 g,1000.0,0.419
+208,208,"Milkybar Bar - Rich Taste, Creamy",Nestle ,10.0,10.0,0.0,0.0,12.5 g ,12.5 g ,12.5 g ,12.5,0.8
+209,209,Vermicelli - Made From Wheat,Aashirvaad,89.0,89.0,0.0,0.0,850 g ,850 g ,850 g ,850.0,0.10470588235294118
+210,210,"2 Minute Instant Noodles - Veggie Masala, Made With Quality Spices, Rich In Fibre",MAGGI ,60.0,60.0,0.0,0.0,248 g - Pouch,248 g ,248 g ,248.0,0.24193548387096775
+211,211,Namkeen - Mixture,Haldiram's,60.0,60.0,0.0,0.0,6x55 g - Multipack,6*55 g ,330 g,330.0,0.18181818181818182
+212,212,Nissin Geki - Hot & Spicy Korean Veg Flavour,Nissin,294.0,220.5,73.5,25.0,80 g - (Pack of 6),80 g ,80 g ,80.0,2.75625
+213,213,Potato Chips - American Style Cream & Onion Flavour,Lays,60.0,57.0,3.0,5.0,3x52 g - Multipack,3*52 g ,156 g,156.0,0.36538461538461536
+214,214,Minis Chocolate Home Treats Pack,Cadbury Dairy Milk Silk,600.0,541.44,58.559999999999945,9.76,3 x 153 g - Multipack,3*153 g ,459 g,459.0,1.179607843137255
+215,215,"Muesli - 20% Nuts Delight, Multigrain Breakfast Cereal, High In Iron & Fibre, Naturally Cholesterol Free",Kelloggs,790.0,529.0,261.0,33.04,1 kg ,1 kg ,1 kg ,1000.0,0.529
+216,216,Durum Wheat Pasta - Fusilli,BORGES,598.0,309.46,288.54,48.25,2x500 g - Multipack,2*500 g ,1000 g,1000.0,0.30945999999999996
+217,217,Green Chilly Sauce,Ching's Secret,180.0,163.8,16.19999999999999,9.0,3x190 g - Multipack,3*190 g ,570 g,570.0,0.2873684210526316
+218,218,Gulab Jamun,Haldiram's,675.0,675.0,0.0,0.0,3 x 1 kg - Multipack,3*1 kg ,3 kg,3000.0,0.225
+219,219,Marie Light Active - Original Biscuits,Sunfeast,90.0,81.0,9.0,10.0,3x186 g ,3*186 g ,558 g,558.0,0.14516129032258066
+220,220,Masala Rava Idli Ready Mix,MTR,130.0,120.0,10.0,7.69,500 g - Pouch,500 g ,500 g ,500.0,0.24
+221,221,Jim Jam Pops Biscuit,Britannia,100.0,85.0,15.0,15.0,350 g ,350 g ,350 g ,350.0,0.24285714285714285
+222,222,Treat - Crazy Pineapple Cream Biscuits,Britannia,120.0,114.0,6.0,5.0,12x64 g - Multipack,12*64 g ,768 g,768.0,0.1484375
+223,223,Veggi Manchow Instant Cup Noodles,Nissin,120.0,116.4,3.5999999999999943,3.0,3x70 g - Multipack,3*70 g ,210 g,210.0,0.5542857142857143
+224,224,Cranberry Dark Chocolate Bar,Cadbury Bournville,330.0,297.53,32.47000000000003,9.84,3 x 80 g - Multipack,3*80 g ,240 g,240.0,1.2397083333333332
+225,225,Namkeen - All In One Mixture,Tasties,294.0,199.02,94.97999999999999,32.31,6x150 g - Multipack,6*150 g ,900 g,900.0,0.22113333333333335
+226,226,"Banana Chocochip Pancake Mix - No Maida, Eggless Instant Healthy Breakfast",Slurrp Farm,447.0,415.71,31.29000000000002,7.0,3x150 g - Multipack,3*150 g ,450 g,450.0,0.9238
+227,227,Chocos,Kelloggs,515.0,515.0,0.0,0.0,1.15 Kg ,1.15 Kg ,1.15 Kg ,1150.0,0.44782608695652176
+228,228,"Minute Fresh Dosa Batter - No Added Preservatives, Soda, Colours Or Flavours, Authentic Taste",MTR FOODS,85.0,71.0,14.0,16.47,850 g ,850 g ,850 g ,850.0,0.08352941176470588
+229,229,Polo - The Mint With The Hole,Nestle ,5.0,5.0,0.0,0.0,12 g - Pouch,12 g ,12 g ,12.0,0.4166666666666667
+230,230,"Daily Pasta - Made From Durum Wheat, Elbow",Bambino,150.0,75.0,75.0,50.0,500 g ,500 g ,500 g ,500.0,0.15
+231,231,Fatafat Bhel,Haldiram's,270.0,270.0,0.0,0.0,6x65 g - Multipack,6*65 g ,390 g,390.0,0.6923076923076923
+232,232,3 Minute Breakfast Vegetable Upma,MTR,81.0,69.0,12.0,14.81,3 x 60 g - Multipack,3*60 g ,180 g,180.0,0.38333333333333336
+233,233,Crispello Chocolate Bar,Cadbury Dairy Milk,105.0,96.73,8.269999999999996,7.88,3x35 g - Multipack,3*35 g ,105 g,105.0,0.9212380952380953
+234,234,"Bites - Almond, Roasted & Chocolate Coated",Cadbury Dairy Milk,225.0,190.35,34.650000000000006,15.4,3 x 40 g - Multipack,3*40 g ,120 g,120.0,1.58625
+235,235,Mixed Vegetable Cup A Soup - No Added Preservatives,Knorr,10.0,10.0,0.0,0.0,9.5 g ,9.5 g ,9.5 g ,9.5,1.0526315789473684
+236,236,Roasted Vermicelli,BB Royal,130.0,74.0,56.0,43.08,2x400 g - Multipack,2*400 g ,800 g,800.0,0.0925
+237,237,Crackle Chocolate Bar,Cadbury Dairy Milk,360.0,335.16,24.839999999999975,6.9,8 x 36 g - Multipack,8*36 g ,288 g,288.0,1.16375
+238,238,Coconut Barfi Mithai / Sweet - Made With Desi Ghee,Tasties,199.0,85.0,114.0,57.29,200 g ,200 g ,200 g ,200.0,0.425
+239,239,Miniatures Chocolate,Snickers,199.0,169.15,29.849999999999994,15.0,180 g - Pouch,180 g ,180 g ,180.0,0.9397222222222222
+240,240,Happy Happy Choco-Chip Cookies,Parle,140.0,70.0,70.0,50.0,396 g ,396 g ,396 g ,396.0,0.17676767676767677
+241,241,"Chocolate Bar - Bar One, Nougat & Caramel Filled",Nestle ,20.0,20.0,0.0,0.0,38 g ,38 g ,38 g ,38.0,0.5263157894736842
+242,242,Namkeen - Tasty Nut Masala Coated,Tasties,294.0,159.0,135.0,45.92,6x150 g - Multipack,6*150 g ,900 g,900.0,0.17666666666666667
+243,243,Fruit & Nut Chocolate Bar,Cadbury Dairy Milk,540.0,502.74,37.25999999999999,6.9,6 x 80 g - Multipack,6*80 g ,480 g,480.0,1.047375
+244,244,Peanut Filled Chocolate Bar,Snickers,11520.0,9792.0,1728.0,15.0,288x45 g - Multipack,288*45 g ,12960 g,12960.0,0.7555555555555555
+245,245,Candy - Melody Chocolaty,Parle,100.0,100.0,0.0,0.0,391 g - Pouch,391 g ,391 g ,391.0,0.2557544757033248
+246,246,Murukku,Haldiram's,65.0,65.0,0.0,0.0,200 g - Pouch,200 g ,200 g ,200.0,0.325
+247,247,Waffy Wafers - Chocolate Flavoured Creamy & Crunchy,Dukes ,50.0,25.0,25.0,50.0,60 g - Pouch,60 g ,60 g ,60.0,0.4166666666666667
+248,248,Chocolate,Cadbury Dairy Milk,300.0,276.36,23.639999999999986,7.88,6x55 g - Multipack,6*55 g ,330 g,330.0,0.8374545454545455
+249,249,"Chocos - Variety Pack, With Protein & Fibre",Kelloggs,210.0,186.0,24.0,11.43,3x175 g - Multipack,3*175 g ,525 g,525.0,0.35428571428571426
+250,250,"Khova - Unsweetened, Creamy Texture, Milky Aroma",Milky Mist,95.0,95.0,0.0,0.0,200 g - Pouch,200 g ,200 g ,200.0,0.475
+251,251,Spiced Chicken Instant Cup Noodles,Nissin,150.0,133.86,16.139999999999986,10.76,3x70 g - Multipack,3*70 g ,210 g,210.0,0.6374285714285715
+252,252,Baking Soda,Weikfield,32.0,32.0,0.0,0.0,100 g - Jar,100 g ,100 g ,100.0,0.32
+253,253,Marie Biscuits,Parle,175.0,87.5,87.5,50.0,800 g ,800 g ,800 g ,800.0,0.109375
+254,254,Happala,Anil,80.0,80.0,0.0,0.0,200 g - Pouch,200 g ,200 g ,200.0,0.4
+255,255,Badam Laddoo - Made In Pure Ghee,Daadi's,380.0,190.0,190.0,50.0,2x200 g - Multipack,2*200 g ,400 g,400.0,0.475
+256,256,Durum Wheat Pasta - Spaghetti,HappyChef,350.0,182.36,167.64,47.9,2x500 g - Multipack,2*500 g ,1000 g,1000.0,0.18236000000000002
+257,257,Namkeen - All in One,Haldiram's,10.0,10.0,0.0,0.0,38 g - Pouch,38 g ,38 g ,38.0,0.2631578947368421
+258,258,Power Up Instant Atta Noodles,Sunfeast YiPPee!,112.0,89.6,22.400000000000006,20.0,280 g - (Pack of 4),280 g ,280 g ,280.0,0.32
+259,259,"Oats Multigrain Rolled Oats Wholegrain - High Protein & Fibre For Weight Loss, Dalia Porridge",Quaker,350.0,280.0,70.0,20.0,2 x 600 g - Multipack,2*600 g ,1200 g,1200.0,0.23333333333333334
+260,260,Potato Chips Original Style - Salt Sprinkled,Bingo,60.0,54.0,6.0,10.0,3x45 g - Multipack,3*45 g ,135 g,135.0,0.4
+261,261,"Wheat Chapathi - Soft, Tasty & Highly Nutritious, Just Heat",Asal,40.0,40.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.2
+262,262,Microwave Popcorn - Butter Lovers Flavor,ACT II,450.0,426.0,24.0,5.33,6x99 g - Multipack,6*99 g ,594 g,594.0,0.7171717171717171
+263,263,Makka Popcorn - Corn Kernels,4700BC,40.0,38.0,2.0,5.0,200 g ,200 g ,200 g ,200.0,0.19
+264,264,"Essentials Oats Cookies (No Added Sugar & Diabetic Friendly),",Britannia NutriChoice ,140.0,118.27,21.730000000000004,15.52,2x 150 g - Multipack,2*150 g ,300 g,300.0,0.3942333333333333
+265,265,"Peanut Chikki - Made With jaggery, Healthy Snack, Protein Rich",SDA ,85.0,85.0,0.0,0.0,200 g - POUCH,200 g ,200 g ,200.0,0.425
+266,266,Appalam - No 6,Ambika,60.0,60.0,0.0,0.0,100 g ,100 g ,100 g ,100.0,0.6
+267,267,Elbow Macaroni,BB Royal,120.0,74.0,46.0,38.33,2x400 g - Multipack,2*400 g ,800 g,800.0,0.0925
+268,268,Choco Pie - Chocolate Coated Soft Biscuit,Orion,340.0,244.8,95.19999999999999,28.0,336 g - (Pack of 2),336 g ,336 g ,336.0,0.7285714285714286
+269,269,Mast Masala Soupy Noodles,Knorr,60.0,60.0,0.0,0.0,3x70 g - Multipack,3*70 g ,210 g,210.0,0.2857142857142857
+270,270,"Oats - Tasty Evening Snack, Fibre Rich, Classic Masala",Saffola,449.0,368.18,80.82,18.0,1 kg - Pouch,1 kg ,1 kg ,1000.0,0.36818
+271,271,Potato Chips - Sizzlin Hot,Lays,20.0,20.0,0.0,0.0,40 g ,40 g ,40 g ,40.0,0.5
+272,272,"Multigrain Energy Bar - Chocolate Chunk Nut, Healthy, High In Protein & Fibre",Yoga Bar,40.0,35.0,5.0,12.5,38 g ,38 g ,38 g ,38.0,0.9210526315789473
+273,273,Papad - Urad,Lijjat,366.0,366.0,0.0,0.0,1 kg - Pouch,1 kg ,1 kg ,1000.0,0.366
+274,274,Namkeen - Masala Kaju,Haldiram's,100.0,100.0,0.0,0.0,2x35 g - Multipack,2*35 g ,70 g,70.0,1.4285714285714286
+275,275,Dharwad Peda,Lal sweets Pvt Ltd,130.0,130.0,0.0,0.0,200 g - Carton,200 g ,200 g ,200.0,0.65
+276,276,Treat Strawberry Wafers,Britannia Treat,100.0,50.0,50.0,50.0,2 x 55 g - (Multipack),2*55 g ,110 g,110.0,0.45454545454545453
+277,277,Mysore Pak Prem,Lal,250.0,250.0,0.0,0.0,400 g ,400 g ,400 g ,400.0,0.625
+278,278,"Natural Peanut Butter - Crunchy, Unsweetened",Pintola,425.0,384.0,41.0,9.65,1 kg ,1 kg ,1 kg ,1000.0,0.384
+279,279,Farmlite 5 Grain Digestive Biscuit - High Fibre,Sunfeast,240.0,120.12,119.88,49.95,800 g ,800 g ,800 g ,800.0,0.15015
+280,280,"Waffy Wafers - Vanilla Flavoured, Creamy & Crunchy",Dukes ,50.0,25.0,25.0,50.0,60 g - Pouch,60 g ,60 g ,60.0,0.4166666666666667
+281,281,"0% Added Sugar Millet Muesli, High Protein, Rich In Fibre",Tata Soulfull,529.0,343.85,185.14999999999998,35.0,700 g ,700 g ,700 g ,700.0,0.49121428571428577
+282,282,Rice Sevai,Manna,89.0,71.2,17.799999999999997,20.0,200 g - Pouch,200 g ,200 g ,200.0,0.35600000000000004
+283,283,Bounce Biscuits - Elaichi Creme Cookies,Sunfeast,60.0,57.0,3.0,5.0,6x58 gm - Multipack,6*58 gm ,348 gm,348.0,0.16379310344827586
+284,284,Farmlite Biscuit - Oats And Chocolate,Sunfeast,130.0,103.87,26.129999999999995,20.1,2x150 g - Multipack,2*150 g ,300 g,300.0,0.34623333333333334
+285,285,Chocolate Syrup,Hersheys ,300.0,285.0,15.0,5.0,3x200 g - Multipack,3*200 g ,600 g,600.0,0.475
+286,286,Namkeen Green Chutney Style,Kurkure,10.0,10.0,0.0,0.0,36 g ,36 g ,36 g ,36.0,0.2777777777777778
+287,287,Good Day Chunkies Chocolate Cookies,Britannia,80.0,60.0,20.0,25.0,120 g ,120 g ,120 g ,120.0,0.5
+288,288,Yummiez Nuggets - Chicken,Godrej Yummiez,350.0,325.0,25.0,7.14,500 g - Pouch,500 g ,500 g ,500.0,0.65
+289,289,"Dinamita Tortilla Chips - Fiery Crunchy, Nachos, Snacks, Lime & Chilli Flavour",Doritos,90.0,72.0,18.0,20.0,3 x 56g - Multipack,3*56g ,168 g,168.0,0.42857142857142855
+290,290,Namkeen - Corn Flakes Mixture,Townbus,10.0,10.0,0.0,0.0,30 g ,30 g ,30 g ,30.0,0.3333333333333333
+291,291,Motichoor Laddu Mithai / Sweet - Made With Desi Ghee,Tasties,199.0,125.0,74.0,37.19,200 g ,200 g ,200 g ,200.0,0.625
+292,292,"Minute Fresh Idli Batter - ConviPack, No Added Soda, Preservatives, Flavours Or Colours, Authentic Taste",MTR FOODS,85.0,71.0,14.0,16.47,750 g ,750 g ,750 g ,750.0,0.09466666666666666
+293,293,Bourbon - The Original Biscuits,Britannia,75.0,72.0,3.0,4.0,3x100 g - Multi Pack,3*100 g ,300 g,300.0,0.24
+294,294,Durum Wheat Pasta - Mini Penne Rigate,BORGES,320.0,165.6,154.4,48.25,2x350 g - Multipack,2*350 g ,700 g,700.0,0.23657142857142857
+295,295,"Masala Oats - Tasty Evening Snack, Fibre Rich, Curry & Pepper",Saffola,207.0,182.16,24.840000000000003,12.0,500 g ,500 g ,500 g ,500.0,0.36432
+296,296,Roasted Peanuts - Classic Salted,JABSONS,70.0,70.0,0.0,0.0,160 g - Pouch,160 g ,160 g ,160.0,0.4375
+297,297,Chocolate Gift Pack,Cadbury Celebrations,1200.0,900.0,300.0,25.0,59.8 g - Pack of 24,59.8 g ,59.8 g ,59.8,15.050167224080269
+298,298,Premium Laddoo - Besan,Lal,250.0,250.0,0.0,0.0,400 g ,400 g ,400 g ,400.0,0.625
+299,299,Cheese Licks,Bisk Farm,35.0,35.0,0.0,0.0,150 g - Pouch,150 g ,150 g ,150.0,0.23333333333333334
+300,300,"American Pistachios - Roasted & Salted, 100% Natural, Premium, No Additives",Grocery Farm,399.0,279.3,119.69999999999999,30.0,200 g ,200 g ,200 g ,200.0,1.3965
+301,301,Cocoa Powder,HappyChef,65.0,58.5,6.5,10.0,50 g ,50 g ,50 g ,50.0,1.17
+302,302,Classic Chocolate,Nestle ,20.0,20.0,0.0,0.0,34 g - Pouch,34 g ,34 g ,34.0,0.5882352941176471
+303,303,Red Chilli Sauce,Ching's Secret,180.0,163.8,16.19999999999999,9.0,3x200 g - Multipack,3*200 g ,600 g,600.0,0.273
+304,304,Chicken Instant Noodles,MAGGI ,72.0,72.0,0.0,0.0,284 g - Pouch,284 g ,284 g ,284.0,0.2535211267605634
+305,305,Crunchy Granola Almonds & Cranberries,Kelloggs,380.0,350.0,30.0,7.89,460 g ,460 g ,460 g ,460.0,0.7608695652173914
+306,306,"Butter Murukku - Fresh, Crunchy, South Indian Snack",Modern Kitchens,60.0,51.0,9.0,15.0,150 g ,150 g ,150 g ,150.0,0.34
+307,307,"Honey Active - From Sundarban Forest, 100% Pure, No Sugar Adulteration",Saffola,475.0,370.5,104.5,22.0,1 kg - Jar,1 kg ,1 kg ,1000.0,0.3705
+308,308,Ready Mix - Vermicelli Payasam,MTR,75.0,75.0,0.0,0.0,180 g - Pouch,180 g ,180 g ,180.0,0.4166666666666667
+309,309,Glucose Biscuits,Sunfeast,50.0,47.5,2.5,5.0,5x96 g - Multipack,5*96 g ,480 g,480.0,0.09895833333333333
+310,310,Namkeen - Ratlami Sev,Haldiram's,141.0,141.0,0.0,0.0,3x150 g - Multipack,3*150 g ,450 g,450.0,0.31333333333333335
+311,311,Chocolate Wafers,Britannia Treat,100.0,50.0,50.0,50.0,2x60 g - Multipack,2*60 g ,120 g,120.0,0.4166666666666667
+312,312,Mayonnaise - Eggless Spout,Del Monte ,438.0,298.02,139.98000000000002,31.96,2x900 g - Multipack,2*900 g ,1800 g,1800.0,0.16556666666666667
+313,313,Classic Corn Flakes,BB Royal,340.0,189.0,151.0,44.41,900 g ,900 g ,900 g ,900.0,0.21
+314,314,Soan Papdi - Real Cardamom,GRB,70.0,70.0,0.0,0.0,200 g - Pouch,200 g ,200 g ,200.0,0.35
+315,315,Pickle - Mango,Mother's Recipe,149.0,108.77,40.230000000000004,27.0,500 g - Pouch,500 g ,500 g ,500.0,0.21753999999999998
+316,316,Soan Papdi,Haldiram's,1560.0,1560.0,0.0,0.0,12x500 g - Multipack,12*500 g ,6000 g,6000.0,0.26
+317,317,Instant Popcorn - Tomato Chilli,ACT II,198.0,198.0,0.0,0.0,6x59 g - Multipack,6*59 g ,354 g,354.0,0.559322033898305
+318,318,Durum Wheat Pasta - Spaghetti,BORGES,299.0,154.73,144.27,48.25,500 g - Pouch,500 g ,500 g ,500.0,0.30945999999999996
+319,319,French Fries,Amul Happy Treats,180.0,180.0,0.0,0.0,2x425 g - Multipack,2*425 g ,850 g,850.0,0.21176470588235294
+320,320,Peanut & Caramel Filled Chocolate Bar,Cadbury Fuse,320.0,288.51,31.49000000000001,9.84,8x45 g - Multipack,8*45 g ,360 g,360.0,0.8014166666666667
+321,321,Milkybar White Chocolate,Nestle ,40.0,32.0,8.0,20.0,42 g - Box,42 g ,42 g ,42.0,0.7619047619047619
+322,322,Chocolate Bar,Cadbury Dairy Milk Silk,525.0,514.5,10.5,2.0,3x150 g - Multipack,3*150 g ,450 g,450.0,1.1433333333333333
+323,323,Original Potato Chips - Classic Salted Flavoured,Pringles,230.0,207.0,23.0,10.0,2x107 g - Multipack,2*107 g ,214 g,214.0,0.9672897196261683
+324,324,"Real Mayonnaise - Eggless Extra Creamy, World's No. 1 Brand",Hellmanns,90.0,82.8,7.200000000000003,8.0,250 g ,250 g ,250 g ,250.0,0.3312
+325,325,Fruit & Nut Dark Chocolate Bar,Cadbury Bournville,300.0,270.48,29.519999999999982,9.84,3 x 80 g - Multipack,3*80 g ,240 g,240.0,1.127
+326,326,Nissin Geki - Hot & Spicy Korean Chicken Flavour,Nissin,294.0,220.5,73.5,25.0,80 g - (Pack of 6),80 g ,80 g ,80.0,2.75625
+327,327,Instant Popcorn - Magic Butter Flavour,ACT II,10.0,10.0,0.0,0.0,30 g ,30 g ,30 g ,30.0,0.3333333333333333
+328,328,Assorted Choco Treats,Lindberg,549.0,375.0,174.0,31.69,200 g - (18 pcs),200 g ,200 g ,200.0,1.875
+329,329,Phalhari Chiwda Namkeen - Sweet & Salty,Haldiram's,47.0,47.0,0.0,0.0,200 g - Pouch,200 g ,200 g ,200.0,0.235
+330,330,Namkeen - Phalhari Chiwda,Haldiram's,10.0,10.0,0.0,0.0,45 g - Pouch,45 g ,45 g ,45.0,0.2222222222222222
+331,331,"Waffy Wafers - Strawberry Flavoured, Creamy & Crunchy",Dukes ,50.0,25.0,25.0,50.0,60 g - Pouch,60 g ,60 g ,60.0,0.4166666666666667
+332,332,Samosa Patti,Switz,100.0,82.0,18.0,18.0,2x25 Sheets - Multipack,2*25 Sheets ,50 Sheets,50.0,1.64
+333,333,"Fruit N Nut, Dark Chocolate- 55% Rich In Cocoa",Amul,110.0,110.0,0.0,0.0,150 g - Carton,150 g ,150 g ,150.0,0.7333333333333333
+334,334,Masala - Chutney Powder,MTR,155.0,145.0,10.0,6.45,200 g - Pouch,200 g ,200 g ,200.0,0.725
+335,335,"Veggie Fingers - Veggie Delight With Corn, Carrot & Peas",McCain,155.0,155.0,0.0,0.0,400 g ,400 g ,400 g ,400.0,0.3875
+336,336,Namkeen - Bhel Puri,Haldiram's,100.0,94.0,6.0,6.0,300 g - Pouch,300 g ,300 g ,300.0,0.31333333333333335
+337,337,"Little Millet Noodles - No Maida, Not Fried",Slurrp Farm,387.0,387.0,0.0,0.0,3x192 g - Multipack,3*192 g ,576 g,576.0,0.671875
+338,338,Rice Papad - Jeera,Mother's Recipe,25.0,25.0,0.0,0.0,75 g ,75 g ,75 g ,75.0,0.3333333333333333
+339,339,"Essentials Ragi Cookies - No Added Sugar & Diabetic Friendly, High Dietary Fibre",Britannia NutriChoice ,70.0,61.6,8.399999999999999,12.0,150 g ,150 g ,150 g ,150.0,0.4106666666666667
+340,340,Pazzta Masala Penne - Made With 100% Suji/Rawa,MAGGI ,54.0,46.0,8.0,14.81,"139 g - Family Saver Pack, Pouch",139 g ,139 g ,139.0,0.33093525179856115
+341,341,"Badam Drink Mix - Real Badam, Elaichi & Kesar",MTR,260.0,220.0,40.0,15.38,450 g ,450 g ,450 g ,450.0,0.4888888888888889
+342,342,"Oats Cookies Milk Almond,",Britannia NutriChoice ,75.0,60.56,14.439999999999998,19.25,3x 75 g - Multipack,3*75 g ,225 g,225.0,0.2691555555555556
+343,343,Super Snack - Cream & Onion,MR. MAKHANA,49.0,46.55,2.450000000000003,5.0,27.5 g ,27.5 g ,27.5 g ,27.5,1.6927272727272726
+344,344,Chocolate Gift Pack,Cadbury Celebrations,1194.0,1099.91,94.08999999999992,7.88,178.8 g - Pack of 6,178.8 g ,178.8 g ,178.8,6.15162192393736
+345,345,Namkeen - Green Chutney Rajasthani Style,Kurkure,60.0,60.0,0.0,0.0,3x90 g - Multipack,3*90 g ,270 g,270.0,0.2222222222222222
+346,346,"Sugar Free Biscuits - Cream Cracker, Crunchy, Teatime Snack",Bisk Farm,45.0,45.0,0.0,0.0,300 g - Pouch,300 g ,300 g ,300.0,0.15
+347,347,Veggie Stix - Sour Cream & Onion,Too Yumm!,60.0,55.2,4.799999999999997,8.0,3x45 g - Multipack,3*45 g ,135 g,135.0,0.4088888888888889
+348,348,Ultra Thin Banana Wafers - Classic Salt,A-1 Chips,110.0,110.0,0.0,0.0,180 g ,180 g ,180 g ,180.0,0.6111111111111112
+349,349,Gulab Jamun,MTR,270.0,230.0,40.0,14.81,1 kg - Tin,1 kg ,1 kg ,1000.0,0.23
+350,350,"Biscuits - Rich Marie, Light & Crunchy, Teatime Snack",Bisk Farm,40.0,37.6,2.3999999999999986,6.0,300 g - Pouch,300 g ,300 g ,300.0,0.12533333333333332
+351,351,Rich Dry Fruit Collection Chocolate Gift Pack,Cadbury Celebrations,1100.0,971.52,128.48000000000002,11.68,177 g - Pack of 2,177 g ,177 g ,177.0,5.4888135593220335
+352,352,Caramel Cookie Chocolate Bar,Twix,210.0,189.0,21.0,10.0,3x50 g - Multipack,3*50 g ,150 g,150.0,1.26
+353,353,Farmlite Biscuit - Oats & Raisins,Sunfeast,195.0,152.49,42.50999999999999,21.8,3x150 g ,3*150 g ,450 g,450.0,0.3388666666666667
+354,354,Organic - Apple Cider Vinegar,Bragg,2480.0,2108.0,372.0,15.0,2x946 ml - Multipack,2*946 ml ,1892 ml,1892.0,1.1141649048625792
+355,355,Golden Wheat Crisps - Methi Khakhra,Daadi's,80.0,80.0,0.0,0.0,180 g - Pouch,180 g ,180 g ,180.0,0.4444444444444444
+356,356,Cocoa Powder Mix,Cadbury,530.0,423.47,106.52999999999997,20.1,2x150 g - Multipack,2*150 g ,300 g,300.0,1.4115666666666669
+357,357,Bagrry`S Crunchy Muesli With Almonds  Raisins & Honey - 40 750 g Pouch,Bagrrys,490.0,357.7,132.3,27.0,750 g - Pouch,750 g ,750 g ,750.0,0.4769333333333333
+358,358,"Dark Fantasy - Yumfills, Rich Chocolate Pie Cake",Sunfeast,170.0,85.06,84.94,49.96,242 g ,242 g ,242 g ,242.0,0.35148760330578516
+359,359,Potato Chips - Sour Cream & Onion Flavoured,Pringles,230.0,207.0,23.0,10.0,2x107 g - Multipack,2*107 g ,214 g,214.0,0.9672897196261683
+360,360,"Waffy Wafers - Pineapple Flavoured, Creamy & Crunchy",Dukes ,50.0,25.0,25.0,50.0,60 g ,60 g ,60 g ,60.0,0.4166666666666667
+361,361,Appalam,Mother's Recipe,50.0,45.0,5.0,10.0,100 g - Pouch,100 g ,100 g ,100.0,0.45
+362,362,"Hashtags - Spicy Masala, Unique Flavour, Crispy",Bingo,30.0,28.33,1.6700000000000017,5.57,58 g - Pouch,58 g ,58 g ,58.0,0.48844827586206896
+363,363,Pickle - Mango Sliced,MTR,149.0,149.0,0.0,0.0,500 g - Jar,500 g ,500 g ,500.0,0.298
+364,364,Namkeen - Salted Banana Chips,Tasties,594.0,516.0,78.0,13.13,6x150 g - (Multipack),6*150 g ,900 g,900.0,0.5733333333333334
+365,365,Gulab Jamun Instant Mix,Aashirvaad,280.0,154.0,126.0,45.0,500 g - Pouch,500 g ,500 g ,500.0,0.308
+366,366,"Oats - Low In Sodium, Soluble Fibre, Reduce Cholesterol",Kelloggs,180.0,146.0,34.0,18.89,900 g ,900 g ,900 g ,900.0,0.1622222222222222
+367,367,Milano Cookies - Centre Filled With Mixed Berries,Parle,120.0,90.0,30.0,25.0,3x75 g - Multipack,3*75 g ,225 g,225.0,0.4
+368,368,"All Rounder - Thin, Light & Crunchy Potato Biscuit With Chatpata Masala Flavour",Sunfeast,75.0,71.25,3.75,5.0,75 g - (Pack of 3),75 g ,75 g ,75.0,0.95
+369,369,"Minute Fresh Signature Dosa Batter - Made From Red Rice, No Added Preservatives, Soda",MTR FOODS,90.0,81.0,9.0,10.0,850 g ,850 g ,850 g ,850.0,0.09529411764705882
+370,370,Ragi Sticks - Achari Masala,GoodDiet,125.0,69.25,55.75,44.6,5x30 g - (Multipack),5*30 g ,150 g,150.0,0.46166666666666667
+371,371,Roasted Vermicelli - Made From Wheat,Aashirvaad,59.0,55.46,3.539999999999999,6.0,400 g ,400 g ,400 g ,400.0,0.13865
+372,372,"Cuppa Noodles - Masala, 70 g, Pack of 3",MAGGI ,150.0,150.0,0.0,0.0,3x70 g - Multipack,3*70 g ,210 g,210.0,0.7142857142857143
+373,373,Nice - Sugar Sprinkled Biscuits,Sunfeast,75.0,71.25,3.75,5.0,3x142.8 g - (Multipack),3*142.8 g ,3*142.8 g ,,
+374,374,Cookies - Hide N Seek Milano,Parle,240.0,180.0,60.0,25.0,6x75 g - (Multipack),6*75 g ,450 g,450.0,0.4
+375,375,Instant Gojjavalakki Mix,Sanketi Adukale,109.0,109.0,0.0,0.0,250 g ,250 g ,250 g ,250.0,0.436
+376,376,"Original Special K - Low Fat, High In B Group Vitamins, Source Of Protein & Fibre, Breakfast Cereals",Kelloggs,470.0,447.25,22.75,4.84,935 g ,935 g ,935 g ,935.0,0.4783422459893048
+377,377,Sliced Black Olives,Del Monte ,330.0,300.3,29.69999999999999,9.0,450 g - Jar,450 g ,450 g ,450.0,0.6673333333333333
+378,378,"Tata Sampann Dry Fruits & Nuts Mix (Contains Almonds, Black Raisins, Cashews, Cranberries, Green raisins, and Pistachio kernels), 100% Premium Hand-picked Dry Fruits & Nuts, up to 20 Quality Parameters Tested",Tata Sampann,285.0,234.61,50.389999999999986,17.68,200 g ,200 g ,200 g ,200.0,1.1730500000000001
+379,379,Chef'S Special - Tomato Ketchup,VEEBA,99.0,84.15,14.849999999999994,15.0,900 g ,900 g ,900 g ,900.0,0.0935
+380,380,"Playz Puffcorn - Yummy Cheese, Namkeen",Kurkure,100.0,63.75,36.25,36.25,2 x 80 g - Multipack,2*80 g ,160 g,160.0,0.3984375
+381,381,Chocos Crunchy Bites,Kelloggs,410.0,382.5,27.5,6.71,2x 375 g - Multipack,2*375 g ,750 g,750.0,0.51
+382,382,Good Day Cookies - Rich Butter,Britannia,150.0,142.5,7.5,5.0,6x120 g - Multipack,6*120 g ,720 g,720.0,0.19791666666666666
+383,383,Ragi Idli & Dosa Batter,Batter Box,100.0,100.0,0.0,0.0,1 Kg ,1 Kg ,1 Kg ,1000.0,0.1
+384,384,Signature Minute Fresh Akki Rotti - Heat & Eat,MTR,95.0,90.0,5.0,5.26,420 g ,420 g ,420 g ,420.0,0.21428571428571427
+385,385,"Peanut Chikki Nice - Made With jaggery, Healthy Snack, Protein Rich",SDA ,85.0,85.0,0.0,0.0,200 g - POUCH,200 g ,200 g ,200.0,0.425
+386,386,"Masala Oats - Karara Crunch, Classic Masala, Tasty Recipe",Saffola,212.0,169.6,42.400000000000006,20.0,500 g ,500 g ,500 g ,500.0,0.3392
+387,387,Quinoa Puffs - Onion Masala,GoodDiet,125.0,69.25,55.75,44.6,5x30 g - (Multipack),5*30 g ,150 g,150.0,0.46166666666666667
+388,388,Oreo Chocolate Bar,Cadbury Dairy Milk Silk,525.0,499.06,25.939999999999998,4.94,3 x 130 g - Multipack,3*130 g ,390 g,390.0,1.2796410256410256
+389,389,Wild Honey,24 Mantra Organic,580.0,452.4,127.60000000000002,22.0,2x500 g - Multipack,2*500 g ,1000 g,1000.0,0.45239999999999997
+390,390,"Khatta Meetha - Premium Quality, Guilt-free Snack, Authentic Taste",Haldiram's,200.0,180.0,20.0,10.0,1 kg - Pouch,1 kg ,1 kg ,1000.0,0.18
+391,391,"Dark Chocolate - Single Origin, India",Amul,160.0,80.0,80.0,50.0,125 g ,125 g ,125 g ,125.0,0.64
+392,392,"Choco Ragi Puff - Healthy Snacks For Kids, School Tiffin & Travel Friendly",Slurrp Farm,200.0,190.0,10.0,5.0,8x20 g - Multipack,8*20 g ,160 g,160.0,1.1875
+393,393,"Aam Papad -  Fruit Bar, No Added Preservatives & Colours",Paper Boat,225.0,202.5,22.5,10.0,270 g - (Pack of 3),270 g ,270 g ,270.0,0.75
+394,394,Yummiez Pepper & Herb Chicken Sausages,Godrej Yummiez,180.0,170.0,10.0,5.56,250 g - Pouch,250 g ,250 g ,250.0,0.68
+395,395,Jack Fruit Chips,A-1 Chips,130.0,130.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.65
+396,396,Organic Wild Honey,BB Royal,798.0,450.0,348.0,43.61,2x500 g - Multipack,2*500 g ,1000 g,1000.0,0.45
+397,397,Expressions Gift Box - Assorted Chocolate Truffles,Lindberg,499.0,299.0,200.0,40.08,185 g - (16 Pcs),185 g ,185 g ,185.0,1.6162162162162161
+398,398,Sugar Free Cashew Cookies,UNIBIC,360.0,324.0,36.0,10.0,6x75 g - Multipack,6*75 g ,450 g,450.0,0.72
+399,399,Namkeen - Handmade Bhujia Sev,Tasties,294.0,193.02,100.97999999999999,34.35,6x150 g - Multipack,6*150 g ,900 g,900.0,0.21446666666666667
+400,400,Sugar Free Dark Chocolate,Amul,140.0,140.0,0.0,0.0,150 g ,150 g ,150 g ,150.0,0.9333333333333333
+401,401,Pastalicious Penne - 100% Durum Wheat Semolina,Disano,260.0,119.0,141.0,54.23,2x400 g - Multipack,2*400 g ,800 g,800.0,0.14875
+402,402,Super Snack - Piri Piri Paradise,MR. MAKHANA,49.0,46.55,2.450000000000003,5.0,27.5 g ,27.5 g ,27.5 g ,27.5,1.6927272727272726
+403,403,"Thenkuzhal Muruku - Namkeen Snack, No Transfats Or Cholesterol, Evening Snack",Townbus,65.0,65.0,0.0,0.0,170 g - Stand Pouch,170 g ,170 g ,170.0,0.38235294117647056
+404,404,"Pancake Mix - Chocolate Flavour, Makes Soft & Fluffy Pancakes",Pillsbury,53.0,26.5,26.5,50.0,80 g ,80 g ,80 g ,80.0,0.33125
+405,405,Quinoa Puffs - Spicy Garlic,GoodDiet,125.0,61.97,63.03,50.42,5x30 g - (Multipack),5*30 g ,150 g,150.0,0.41313333333333335
+406,406,Honey - Zero Adulteration,BB Royal,365.0,149.0,216.0,59.18,500 g - Squeezy Bottle,500 g ,500 g ,500.0,0.298
+407,407,"Bars Choco Almond 10 g Daily Protein Bar With Real Almond, Sugar Free Healthy Protein Snacks",RiteBite Max Protein,450.0,427.5,22.5,5.0,50 g - (Pack of 6),50 g ,50 g ,50.0,8.55
+408,408,"Poppins Candy - Fruit Flavoured Rolls, Tangy & Crunchy",Parle,30.0,22.5,7.5,25.0,100 g ,100 g ,100 g ,100.0,0.225
+409,409,Chewy Fruit Candies - Original,Skittles,10.0,10.0,0.0,0.0,9 g ,9 g ,9 g ,9.0,1.1111111111111112
+410,410,Instant Khatta Meetha Poha With Millets,Aashirvaad,108.0,81.0,27.0,25.0,4X60 g - Multipack,4*60 g ,240 g,240.0,0.3375
+411,411,Namkeen - Moong Dal,Haldiram's,210.0,190.0,20.0,9.52,2x350 g - Multipack,2*350 g ,700 g,700.0,0.2714285714285714
+412,412,No-Onion No-Garlic Tomato Sauce,Kissan,130.0,118.0,12.0,9.23,850 g - Doy Pack,850 g ,850 g ,850.0,0.1388235294117647
+413,413,Pazzta Cheesy Tomato Twist - Made With 100% Suji/Rawa,MAGGI ,32.0,32.0,0.0,0.0,68.5 g ,68.5 g ,68.5 g ,68.5,0.46715328467153283
+414,414,Banana Chips,A-1 Chips,140.0,133.0,7.0,5.0,250 g ,250 g ,250 g ,250.0,0.532
+415,415,Khara Groundnuts,Sanjay ,75.0,75.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.375
+416,416,Flavored Center Chocolate - Blueberry & Acai,Brookside,320.0,294.4,25.600000000000023,8.0,2x100 g - Multipack,2*100 g ,200 g,200.0,1.472
+417,417,Tamarind Date Chutney,Mother's Recipe,120.0,108.0,12.0,10.0,2 x 200 g - Multipack,2*200 g ,400 g,400.0,0.27
+418,418,"Tortilla Wrap - For Rolls, Wraps & Tacos",Habanero,555.0,555.0,0.0,0.0,3x330 g - Multipack,3*330 g ,990 g,990.0,0.5606060606060606
+419,419,Vermicelli - Roasted,Azad ,52.0,52.0,0.0,0.0,200 g - Pouch,200 g ,200 g ,200.0,0.26
+420,420,Ribbon Pakoda,Townbus,55.0,55.0,0.0,0.0,135 g ,135 g ,135 g ,135.0,0.4074074074074074
+421,421,Corn Flakes With Real Strawberry Puree,Kelloggs,325.0,325.0,0.0,0.0,575 g ,575 g ,575 g ,575.0,0.5652173913043478
+422,422,Almond Treat Premium Chocolate Bar,Cadbury Temptations,330.0,297.53,32.47000000000003,9.84,3 x 72 g - Multipack,3*72 g ,216 g,216.0,1.3774537037037036
+423,423,"Sprouted Ragi Powder, 100% Natural Ragi/Nachni, No Sugar, No Salt, No Milk",Slurrp Farm,900.0,837.0,63.0,7.0,3x250 g - Multipack,3*250 g ,750 g,750.0,1.116
+424,424,Namkeen - Navratan Mix,Haldiram's,60.0,60.0,0.0,0.0,200 g - Pouch,200 g ,200 g ,200.0,0.3
+425,425,"Muesli - Fruits, Nuts & Seeds, Healthy, Rich In Protein, Breakfast Cereal",Yoga Bar,359.0,299.01,59.99000000000001,16.71,400 g ,400 g ,400 g ,400.0,0.747525
+426,426,Kerala Banana Chips - Made In Coconut Oil,Tasties Origins,125.0,90.0,35.0,28.0,150 g - Pouch,150 g ,150 g ,150.0,0.6
+427,427,Pickle - Lime,MTR,155.0,155.0,0.0,0.0,500 g - Jar,500 g ,500 g ,500.0,0.31
+428,428,ChocoChip Cookies,Cadbury Chocobakes,160.0,144.26,15.740000000000009,9.84,2x167 g - Multipack,2*167 g ,334 g,334.0,0.4319161676646706
+429,429,Hifi Cookies - Biscuits - Butter,Sunfeast,5.0,5.0,0.0,0.0,35 g - pouch,35 g ,35 g ,35.0,0.14285714285714285
+430,430,Butter Popcorn,ACT II,50.0,40.0,10.0,20.0,2 x 50 g - Multipack,2*50 g ,100 g,100.0,0.4
+431,431,Original Rava Dosa Ready Mix,MTR,140.0,140.0,0.0,0.0,500 g - Pouch,500 g ,500 g ,500.0,0.28
+432,432,"Veg Hakka Noodles - Zero Fat, Free From Additives",Ramyeon,200.0,200.0,0.0,0.0,1 kg ,1 kg ,1 kg ,1000.0,0.2
+433,433,"Crunchy Chicken Nuggets, Non-Veg Snack, Ready To Cook",ITC Master Chef,650.0,487.5,162.5,25.0,1 kg - (55 pcs),1 kg ,1 kg ,1000.0,0.4875
+434,434,Roasted High Protein - Mixture,GoodDiet,100.0,76.0,24.0,24.0,4x30 g - (Multipack),4*30 g ,120 g,120.0,0.6333333333333333
+435,435,Munch Maha Choco Taste - Wafer Chocolate,Nestle ,5.0,5.0,0.0,0.0,8.9 g ,8.9 g ,8.9 g ,8.9,0.5617977528089887
+436,436,"Choco Deck - Mini Delights, Assorted, Home Pack",Fabelle,600.0,296.98,303.02,50.5,3 x 140 g - Multipack,3*140 g ,420 g,420.0,0.7070952380952381
+437,437,"International Cream Of Broccoli Soup - With Real Vegetables, No Preservatives",Knorr,70.0,64.4,5.599999999999994,8.0,50 g ,50 g ,50 g ,50.0,1.288
+438,438,"Gourmet Potato Chips - Thai Sweet Chilli, Crispy",Lays,100.0,72.0,28.0,28.0,2x80 g - Multipack,2*80 g ,160 g,160.0,0.45
+439,439,Funfoods Pasta Pizza Sauce,Dr. Oetker,198.0,148.0,50.0,25.25,2 x 315 g - Multipack,2*315 g ,630 g,630.0,0.23492063492063492
+440,440,Bounce Biscuits - Pineapple Creme Cookies,Sunfeast,60.0,57.0,3.0,5.0,6x76 g - Multipack,6*76 g ,456 g,456.0,0.125
+441,441,Biscuits,Cadbury Bournvita,105.0,94.75,10.25,9.76,3 x 120 g - Multipack,3*120 g ,360 g,360.0,0.26319444444444445
+442,442,Kerala Pappadam - Handmade,Jimmy's,32.0,32.0,0.0,0.0,50 g ,50 g ,50 g ,50.0,0.64
+443,443,Groundnut - Broken,Sanjay ,79.0,79.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.395
+444,444,Breakfast Mix - Multigrain Dosa,MTR,170.0,170.0,0.0,0.0,500 g - Pouch,500 g ,500 g ,500.0,0.34
+445,445,Coconut Ghee Burfi,Daadi's,150.0,150.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.75
+446,446,Mars Caramel Miniatures Chocolate Pack - 130 GM,Mars ,169.0,143.65,25.349999999999994,15.0,130 g - Pouch,130 g ,130 g ,130.0,1.105
+447,447,Heinz Tomato Ketchup,Heinz,165.0,156.75,8.25,5.0,900 g ,900 g ,900 g ,900.0,0.17416666666666666
+448,448,Peanut Chikki With Jaggery,IndiSecrets,75.0,45.0,30.0,40.0,100 g - (4 x 25 g each),100 g ,100 g ,100.0,0.45
+449,449,Biscuit - Spicy,Bisk Farm,70.0,70.0,0.0,0.0,2x200 g - Multipack,2*200 g ,400 g,400.0,0.175
+450,450,Chocos Fills,Kelloggs,410.0,390.0,20.0,4.88,2x250 g - (Multipack),2*250 g ,500 g,500.0,0.78
+451,451,Pancake Mix - Original,Betty Crocker,450.0,382.5,67.5,15.0,1 kg - Carton,1 kg ,1 kg ,1000.0,0.3825
+452,452,Monaco Cheeslings - Classic,Parle,140.0,113.96,26.040000000000006,18.6,2 x 150 g - Multipack,2*150 g ,300 g,300.0,0.37986666666666663
+453,453,"Chocolate Pancake Mix - No Maida, Eggless Instant Healthy Breakfast",Slurrp Farm,447.0,415.71,31.29000000000002,7.0,3x150 g - Multipack,3*150 g ,450 g,450.0,0.9238
+454,454,"Nutricrunch Digestive Cookies - Rich In Antioxidants, Fibre & Iron, Crispy, Crunchy",Parle Platina,270.0,135.0,135.0,50.0,1 kg ,1 kg ,1 kg ,1000.0,0.135
+455,455,Top Biscuits - Butter Munch,Bisk Farm,30.0,30.0,0.0,0.0,150 g - Pouch,150 g ,150 g ,150.0,0.2
+456,456,"Pancake Mix - Butterscotch Flavour, Makes Soft & Fluffy Pancakes",Pillsbury,53.0,26.5,26.5,50.0,80 g ,80 g ,80 g ,80.0,0.33125
+457,457,Sesame Chikki Bar,24 Mantra Organic,60.0,60.0,0.0,0.0,3 x 33 g - Multipack,3*33 g ,99 g,99.0,0.6060606060606061
+458,458,Appalam No 4,Atish Papad ,51.0,51.0,0.0,0.0,150 g ,150 g ,150 g ,150.0,0.34
+459,459,Roasted Almond Barks - Snacking Chocolate,Lindberg,215.0,179.0,36.0,16.74,75 g ,75 g ,75 g ,75.0,2.3866666666666667
+460,460,Millet Idly & Dosa Batter,Batter Box,105.0,105.0,0.0,0.0,1 Kg ,1 Kg ,1 Kg ,1000.0,0.105
+461,461,Froot Loops - Crunchy Multigrain Cereal,Kelloggs,398.0,348.0,50.0,12.56,2x285 g - Multipack,2*285 g ,570 g,570.0,0.6105263157894737
+462,462,3 Minute Breakfast - Khatta Meetha Poha,MTR,81.0,69.0,12.0,14.81,3 x 60 g - Multipack,3*60 g ,180 g,180.0,0.38333333333333336
+463,463,Dry Fruit Chikki,Paper Boat,30.0,27.0,3.0,10.0,25 g ,25 g ,25 g ,25.0,1.08
+464,464,Beanz - Baked Beans In Tomato Sauce,Heinz,150.0,150.0,0.0,0.0,415 g ,415 g ,415 g ,415.0,0.3614457831325301
+465,465,Pizza & Pasta Sauce,Knorr,60.0,60.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.3
+466,466,Chana Jor Garam,Haldiram's,40.0,40.0,0.0,0.0,200 g - Pouch,200 g ,200 g ,200.0,0.2
+467,467,Namkeen - Aloo Bhujia,Tasties,294.0,211.02,82.97999999999999,28.22,6x150 g - Multipack,6*150 g ,900 g,900.0,0.23446666666666668
+468,468,Appalam - No 2,Ambika,140.0,140.0,0.0,0.0,285 g - Pouch,285 g ,285 g ,285.0,0.49122807017543857
+469,469,Frozen Rasmalai,Amul,230.0,230.0,0.0,0.0,500 g ,500 g ,500 g ,500.0,0.46
+470,470,"Almond Cookies - Chocolate & Badam. Healthy biscuits- no added maida, 18 cookies",Open Secret,315.0,277.2,37.80000000000001,12.0,3x75 g - Multipack,3*75 g ,225 g,225.0,1.232
+471,471,"Multigrain Variety Energy Bar - Chocolate, Vanilla Almonds, Cashew Orange & Nuts & Seeds",Yoga Bar,400.0,368.0,32.0,8.0,38 g - (Pack of 10),38 g ,38 g ,38.0,9.68421052631579
+472,472,"Chocos Fills - Double Chocolaty, Multigrain, High In Protein & B Vitamins, 0% Maida, Anytime Snack",Kelloggs,99.0,94.0,5.0,5.05,160 g ,160 g ,160 g ,160.0,0.5875
+473,473,Biscuits,Cadbury Bournvita Biscuits,225.0,192.06,32.94,14.64,3x250 g - Multipack,3*250 g ,750 g,750.0,0.25608000000000003
+474,474,"Multigrain Energy Bar - Nuts & Seeds, Healthy Snack, High In Protein & Fibre",Yoga Bar,40.0,35.0,5.0,12.5,38 g ,38 g ,38 g ,38.0,0.9210526315789473
+475,475,Papad - Potato,Mother's Recipe,102.0,102.0,0.0,0.0,3x75 g - (Multipack),3*75 g ,225 g,225.0,0.4533333333333333
+476,476,Potato Chips - Masala,Sanjay ,50.0,50.0,0.0,0.0,90 g ,90 g ,90 g ,90.0,0.5555555555555556
+477,477,Spread - Cocoa with Almond,Hersheys ,525.0,498.75,26.25,5.0,3x135 g - Multipack,3*135 g ,405 g,405.0,1.2314814814814814
+478,478,"Ragi Bites Choco Fills - No Maida, Calcium & Protein From Dal",Tata Soulfull,698.0,488.6,209.39999999999998,30.0,2 x 500g - Multipack,2*500g ,1000 g,1000.0,0.48860000000000003
+479,479,Khatta Meetha,Tasties,15.0,11.0,4.0,26.67,60 g ,60 g ,60 g ,60.0,0.18333333333333332
+480,480,Chocolate - Lindor Assorted,Lindt,800.0,720.0,80.0,10.0,200 g ,200 g ,200 g ,200.0,3.6
+481,481,Potato Cheese Shotz - Crunchy Nuggets Of Potatoes & Cheese,McCain,240.0,240.0,0.0,0.0,400 g ,400 g ,400 g ,400.0,0.6
+482,482,Dessert Mix - Gulab Jamun,Gits,240.0,192.0,48.0,20.0,3 x 100 g - Multipack,3*100 g ,300 g,300.0,0.64
+483,483,Multigrain Chips - Sour Cream & Onion,GoodDiet,125.0,69.25,55.75,44.6,5x30 g - (Multipack),5*30 g ,150 g,150.0,0.46166666666666667
+484,484,Rich Tomato Sauce - No Onion & No Garlic,MAGGI ,175.0,175.0,0.0,0.0,970 g - Bottle,970 g ,970 g ,970.0,0.18041237113402062
+485,485,Pazzta Mushroom Penne - Made With 100% Suji/Rawa,MAGGI ,32.0,32.0,0.0,0.0,68.5 g ,68.5 g ,68.5 g ,68.5,0.46715328467153283
+486,486,"Valentine Special Gift Pack, Heart Pop",Cadbury Dairy Milk Silk,870.0,870.0,0.0,0.0,3x250 g - Multipack,3*250 g ,750 g,750.0,1.16
+487,487,Namkeen - Bikaneri Bhujia,Bikaji,320.0,288.0,32.0,10.0,1 kg - Pouch,1 kg ,1 kg ,1000.0,0.288
+488,488,Nacho Crisps - Cheese And Herbs,Cornitos,180.0,165.6,14.400000000000006,8.0,2x150 g - Multipack,2*150 g ,300 g,300.0,0.5519999999999999
+489,489,Kisses - Almonds Chocolate,Hersheys ,280.0,244.72,35.28,12.6,2 x 100 g - Multipack,2*100 g ,200 g,200.0,1.2236
+490,490,Veggie Burger Patty,McCain,135.0,135.0,0.0,0.0,360 g - Pouch,360 g ,360 g ,360.0,0.375
+491,491,"Munchiez Ragi Chips - Masala Twist, Cone Shaped, High In Calcium",Saffola,60.0,51.0,9.0,15.0,80 g ,80 g ,80 g ,80.0,0.6375
+492,492,Fruit Biscuits - Pure Vegetarian,Karachi Bakery ,170.0,161.5,8.5,5.0,400 g - Carton,400 g ,400 g ,400.0,0.40375
+493,493,Dry Yeast,HappyChef,45.0,39.0,6.0,13.33,25 g ,25 g ,25 g ,25.0,1.56
+494,494,Yummiez Chicken Burger Patty,Godrej Yummiez,200.0,175.0,25.0,12.5,300 g ,300 g ,300 g ,300.0,0.5833333333333334
+495,495,"Large Prawns - Soft & Juicy, Super Safe Frozen Prawns",ITC Master Chef,275.0,253.0,22.0,8.0,200 g ,200 g ,200 g ,200.0,1.265
+496,496,Fiery Chilli Instant Noodles,Top Ramen ,60.0,60.0,0.0,0.0,240 g - Pouch,240 g ,240 g ,240.0,0.25
+497,497,"All Rounder - Thin, Light & Crunchy Potato Biscuit With Cream & Herb Flavour",Sunfeast,150.0,135.0,15.0,10.0,75 g - (Pack of 6),75 g ,75 g ,75.0,1.8
+498,498,Cookies - Daily Digestive Oatmeal,UNIBIC,50.0,50.0,0.0,0.0,150 g - (Buy 1 Get 1 Extra),150 g ,150 g ,150.0,0.3333333333333333
+499,499,"Atta Hakka Noodles - Whole Wheat, Zero Fat, Free From Additives",Ramyeon,210.0,210.0,0.0,0.0,1 kg ,1 kg ,1 kg ,1000.0,0.21
+500,500,Super Snack - Pudina Party,MR. MAKHANA,49.0,49.0,0.0,0.0,25 g ,25 g ,25 g ,25.0,1.96
+501,501,"Osmania Biscuits - Healthy, Crispy, No Preservatives",Karachi Bakery ,160.0,152.0,8.0,5.0,400 g ,400 g ,400 g ,400.0,0.38
+502,502,Whipping Cream,Amul,258.0,258.0,0.0,0.0,1 L - Carton,1 L ,1 L ,1000.0,0.258
+503,503,Potato Chips - Kashmiri Chilli,Too Yumm!,60.0,54.0,6.0,10.0,3x52 g - Multipack,3*52 g ,156 g,156.0,0.34615384615384615
+504,504,"Cappuccino Coffee Candy - Worlds No 1 Coffee Candy, Party Pack",KOPIKO,100.0,100.0,0.0,0.0,297.5 g - (85 pcs x 3.5 g each),297.5 g ,297.5 g ,297.5,0.33613445378151263
+505,505,Badam Halwa,Haldiram's,50.0,50.0,0.0,0.0,200 g - Pouch,200 g ,200 g ,200.0,0.25
+506,506,Rava Idli Instant Mix - Easy To Make In 3 Steps,Aashirvaad,300.0,162.0,138.0,46.0,1 kg - Pouch,1 kg ,1 kg ,1000.0,0.162
+507,507,Chocolate Flavoured Cracker Biscuits - Family Pack,Malkist,300.0,300.0,0.0,0.0,720 g - (144 g x 5 N),720 g ,720 g ,720.0,0.4166666666666667
+508,508,Desi Popz Tangy Imli Candy,Go Desi,150.0,150.0,0.0,0.0,3 x 10pcs - Multipack,3*10pcs ,30 pcs,30.0,5.0
+509,509,Cocoa Powder - Rich & Decadent Pure Cocoa Powder,Weikfield,180.0,170.0,10.0,5.56,150 g - Jar,150 g ,150 g ,150.0,1.1333333333333333
+510,510,Doodh Peda Mithai / Sweet - Made With Desi Ghee,Tasties,199.0,149.0,50.0,25.13,200 g ,200 g ,200 g ,200.0,0.745
+511,511,Breakfast Mix - Rice Idli,MTR,120.0,105.0,15.0,12.5,500 g - Pouch,500 g ,500 g ,500.0,0.21
+512,512,"Custard Powder - Vanilla Flavour, Makes Smooth & Creamy Custard, Contains Quality Ingredients, Best For Fruit Salads & Puddings",Weikfield,35.0,32.0,3.0,8.57,100 g - Carton,100 g ,100 g ,100.0,0.32
+513,513,Nutri-Licious Masala Veg Atta Noodles With Spinach - Rich In Iron & Fibre,MAGGI ,112.0,112.0,0.0,0.0,290 g - (4 N x 72.5 g each),290 g ,290 g ,290.0,0.38620689655172413
+514,514,"Corn Flakes - Real Almond Honey, Breakfast Cereals, High In Vitamin B1, B2, B3, B6 & C, Iron, Trial Pack",Kelloggs,99.0,99.0,0.0,0.0,170 g - Pouch,170 g ,170 g ,170.0,0.5823529411764706
+515,515,Breakfast Mix - Khaman Dhokla,MTR,65.0,65.0,0.0,0.0,160 g - Pouch,160 g ,160 g ,160.0,0.40625
+516,516,"Foxtail Millet Noodles - No Maida, Not Fried",Slurrp Farm,387.0,359.91,27.089999999999975,7.0,3x192 g - Multipack,3*192 g ,576 g,576.0,0.62484375
+517,517,"Chocolate - Rich & Creamy, Natoons, Suprise Toy Inside",Kinder Joy,130.0,104.0,26.0,20.0,59 g - (Pack of 3),59 g ,59 g ,59.0,1.7627118644067796
+518,518,Strawberry Conserve,HappyChef,209.0,129.0,80.0,38.28,330 g ,330 g ,330 g ,330.0,0.39090909090909093
+519,519,Truffle Treats Gift Box - Assorted Chocolates,Lindberg,459.0,279.0,180.0,39.22,168 g - (14 Pcs),168 g ,168 g ,168.0,1.6607142857142858
+520,520,Mast Jeera - The Spicy Jeera Biscuits,Bisk Farm,50.0,50.0,0.0,0.0,200 g - Bottle,200 g ,200 g ,200.0,0.25
+521,521,Ready To Eat - Vegetable Pulao,MTR,130.0,130.0,0.0,0.0,250 g - Carton,250 g ,250 g ,250.0,0.52
+522,522,"Nachos Sizzlin' Hot Crunchy Chips - Snacks, Party Pack",Doritos,100.0,72.0,28.0,28.0,2 x 78 g - Multipack,2*78 g ,156 g,156.0,0.46153846153846156
+523,523,100% Pure Afghani Black Raisins Seedless | Kali Kishmish | Kali Draksh | Dry Fruits | Flavourful & Delicious Snack | Source of Potassium & Dietary Fibre,Tata Sampann,175.0,144.06,30.939999999999998,17.68,200 g ,200 g ,200 g ,200.0,0.7203
+524,524,Muesli With 20% Nuts Delight,Kelloggs,345.0,310.5,34.5,10.0,500 g - Pouch,500 g ,500 g ,500.0,0.621
+525,525,Snack Mix - Khaman Dhokla,Gits,70.0,61.6,8.399999999999999,12.0,180 g - Carton,180 g ,180 g ,180.0,0.3422222222222222
+526,526,Secret Chilli Vinegar,Chings,50.0,50.0,0.0,0.0,170 ml - Bottle,170 ml ,170 ml ,170.0,0.29411764705882354
+527,527,Mithai Sweet Gavvalu Shells - Crispy,Tasties Origins,109.0,65.0,44.0,40.37,150 g - Pouch,150 g ,150 g ,150.0,0.43333333333333335
+528,528,Secret Hot Garlic Instant Noodles,Chings,80.0,75.2,4.799999999999997,6.0,240 g - Pouch,240 g ,240 g ,240.0,0.31333333333333335
+529,529,Sugar Free Chewing Gum - Spearmint,Orbit,200.0,180.0,20.0,10.0,4x22 g - Multipack,4*22 g ,88 g,88.0,2.0454545454545454
+530,530,"Gluten Free Steel Cut Oats - Rich In Iron & Fibre, 100% Wholegrain",True Elements,600.0,492.0,108.0,18.0,1.5 kg - Pouch,1.5 kg ,1.5 kg ,1500.0,0.328
+531,531,"Cornflakes Mixture - Namkeen, No Transfats Or Cholesterol, Evening Teatime Snack",Townbus,55.0,55.0,0.0,0.0,135 g - Pouch,135 g ,135 g ,135.0,0.4074074074074074
+532,532,Cup Noodles Italiano,Nissin Food,150.0,133.86,16.139999999999986,10.76,3x70 g - Multipack,3*70 g ,210 g,210.0,0.6374285714285715
+533,533,"Chicken Seekh Kebab - Non-Veg Frozen Snack, Ready To Cook",ITC Master Chef,350.0,288.75,61.25,17.5,500 g ,500 g ,500 g ,500.0,0.5775
+534,534,Mixture - Panchratan,Haldiram's,160.0,160.0,0.0,0.0,2x150 g - Multipack,2*150 g ,300 g,300.0,0.5333333333333333
+535,535,Pure Honey - No Added Sugar,ZANDU,475.0,351.5,123.5,26.0,1 kg ,1 kg ,1 kg ,1000.0,0.3515
+536,536,Max Choco Coated Crunchy Wafer - Sweet,NESTLE MUNCH,20.0,18.0,2.0,10.0,42 g ,42 g ,42 g ,42.0,0.42857142857142855
+537,537,Filo Pastry Sheets - Thin,Switz,450.0,405.0,45.0,10.0,450 g ,450 g ,450 g ,450.0,0.9
+538,538,"Hashtags - Potato Chips, Cream & Onion, Unique Flavour, Crispy",Bingo,30.0,28.33,1.6700000000000017,5.57,58 g - Pouch,58 g ,58 g ,58.0,0.48844827586206896
+539,539,"Soan Cake - Regular, Traditional Delicacy/Sweets, Dessert, For Celebrations, Special Ocassions",GRB,50.0,50.0,0.0,0.0,100 g - Box,100 g ,100 g ,100.0,0.5
+540,540,Tropical Orange - Dark Chocolate Infused With Orange Extracts From Netherlands,Amul,1400.0,1400.0,0.0,0.0,10x150 g - Multipack,10*150 g ,1500 g,1500.0,0.9333333333333333
+541,541,"Chocolate Muesli - With 57% Multigrain, Fruit, Nut & Seeds",Kelloggs,360.0,310.0,50.0,13.89,450 g ,450 g ,450 g ,450.0,0.6888888888888889
+542,542,Eggless Mayonnaise Chef's Special,VEEBA,215.0,189.2,25.80000000000001,12.0,875 g - Standy Pouch,875 g ,875 g ,875.0,0.2162285714285714
+543,543,Snack Bar - Almond & Oats,UNIBIC,240.0,180.0,60.0,25.0,6X30 g - Multipack,6*30 g ,180 g,180.0,1.0
+544,544,Spring Rolls Sheets - 8x8,Switz,220.0,190.0,30.0,13.64,2x20 pcs - Multipack,2*20 pcs ,40 pcs,40.0,4.75
+545,545,Fruit & Nut Cookies - Zero Cholesterol & No Trans Fat,UNIBIC,300.0,150.0,150.0,50.0,2 x 300 g - (Multipack),2*300 g ,600 g,600.0,0.25
+546,546,Chilli Tomato Sauce,Kissan,115.0,115.0,0.0,0.0,500 g - Bottle,500 g ,500 g ,500.0,0.23
+547,547,Cookies - Pista Badam,UNIBIC,150.0,135.0,15.0,10.0,6X75 g - Multipack,6*75 g ,450 g,450.0,0.3
+548,548,Bagrry`S White Oats - With 100% Whole Grains 500 g Carton,Bagrrys,105.0,78.75,26.25,25.0,500 g - Carton,500 g ,500 g ,500.0,0.1575
+549,549,Nacho Crisps - Peri Peri,Cornitos,170.0,156.4,13.599999999999994,8.0,2x150 g - Multipack,2*150 g ,300 g,300.0,0.5213333333333333
+550,550,Puff Sheet Squares,UNROLL,286.0,286.0,0.0,0.0,550 g ,550 g ,550 g ,550.0,0.52
+551,551,Party Snack,Tong Garden,700.0,665.0,35.0,5.0,2x500 g - Multipack,2*500 g ,1000 g,1000.0,0.665
+552,552,Chewing Gum - Peppermint,Doublemint,10.0,10.0,0.0,0.0,13 g - Sticks,13 g ,13 g ,13.0,0.7692307692307693
+553,553,Bagrry`S Crunchy Muesli 30% Fruit & Nut With Cranberries - 750 g Pouch,Bagrrys,540.0,410.4,129.60000000000002,24.0,750 g - Pouch,750 g ,750 g ,750.0,0.5472
+554,554,Magic Masala Instant Noodles,Sunfeast YiPPee!,112.0,98.56,13.439999999999998,12.0,480 g - (Pack Of 8),480 g ,480 g ,480.0,0.20533333333333334
+555,555,Special Silk Selects Gift Pack,Cadbury Celebrations,1050.0,927.36,122.63999999999999,11.68,233 g - Pack of 3,233 g ,233 g ,233.0,3.9800858369098715
+556,556,Puliogare Powder,GRB,70.0,70.0,0.0,0.0,100 g - Pouch,100 g ,100 g ,100.0,0.7
+557,557,Appalam - No 3,Ambika,130.0,130.0,0.0,0.0,225 g - Pouch,225 g ,225 g ,225.0,0.5777777777777777
+558,558,Mixture,Haldiram's,176.0,176.0,0.0,0.0,2x350 g - Multipack,2*350 g ,700 g,700.0,0.25142857142857145
+559,559,"YiPPee! Pasta Treat - Cheesy & Soft Suji/Rawa Pasta, Cheese",Sunfeast,56.0,44.95,11.049999999999997,19.73,2x65 g - Multipack,2*65 g ,130 g,130.0,0.3457692307692308
+560,560,"Geki Cheese - Hot & Spicy, Korean Cheese Flavour",Nissin,294.0,209.47,84.53,28.75,80 g - (Pack of 6),80 g ,80 g ,80.0,2.618375
+561,561,"Rolled Oats - High Fibre, Protein Rich Breakfast Cereal, Wholegrain Breakfast",Bagrrys,490.0,289.0,201.0,41.02,1.2 kg - Jar,1.2 kg ,1.2 kg ,1200.0,0.24083333333333334
+562,562,Cookies - Chocolate Chip,UNIBIC,330.0,297.0,33.0,10.0,6X150 g - Multipack,6*150 g ,900 g,900.0,0.33
+563,563,"Bars Choco Berry, 10 g Protein Bar - Sugar Free Healthy Protein Snacks",RiteBite Max Protein,360.0,342.0,18.0,5.0,50 g - (Pack of 6),50 g ,50 g ,50.0,6.84
+564,564,Tapioca Chips Chilly,A-1 Chips,40.0,38.0,2.0,5.0,80 g ,80 g ,80 g ,80.0,0.475
+565,565,Vermicelli,BB Royal,100.0,65.0,35.0,35.0,2x400 g - Multipack,2*400 g ,800 g,800.0,0.08125
+566,566,Kimchi,Bombucha,450.0,450.0,0.0,0.0,450 g ,450 g ,450 g ,450.0,1.0
+567,567,Namkeen - Tasty Nuts,Haldiram's,150.0,150.0,0.0,0.0,3x150 g - Multipack,3*150 g ,450 g,450.0,0.3333333333333333
+568,568,"Ready To Eat Noodles - Instant, Chicken Flavour",Wai Wai,90.0,83.7,6.299999999999997,7.0,420 g - Single,420 g ,420 g ,420.0,0.1992857142857143
+569,569,Instant Veggie Upma With Vegetables,Aashirvaad,108.0,81.0,27.0,25.0,4X60 g - Multipack,4*60 g ,240 g,240.0,0.3375
+570,570,Cornflakes With Real Almond & Honey,BB Royal,410.0,249.0,161.0,39.27,650 g ,650 g ,650 g ,650.0,0.3830769230769231
+571,571,Rice Papad - Ajwain,Mother's Recipe,25.0,25.0,0.0,0.0,75 g - Pouch,75 g ,75 g ,75.0,0.3333333333333333
+572,572,Onion Sandige Papad,SDA PAPPADS,48.0,48.0,0.0,0.0,100 g ,100 g ,100 g ,100.0,0.48
+573,573,No Added Sugar Muesli With Real Fruits & Nuts - High Protein Breakfast,True Elements,695.0,590.75,104.25,15.0,1 kg - Bottle,1 kg ,1 kg ,1000.0,0.59075
+574,574,Premium Selections Chocolates Gift Pack,Cadbury Celebrations,700.0,618.24,81.75999999999999,11.68,268 g - Pack of 2,268 g ,268 g ,268.0,2.3068656716417912
+575,575,"Nutrichoice Herbs Biscuits - 0% Maida, Rich In Vitamins & Minerals",Britannia,75.0,63.75,11.25,15.0,3x100g - Multipack,3*100g ,300 g,300.0,0.2125
+576,576,Wheat Chapati,iD,75.0,75.0,0.0,0.0,350 g ,350 g ,350 g ,350.0,0.21428571428571427
+577,577,Shell Pasta,Keya,300.0,243.0,57.0,19.0,2x400 g - Multipack,2*400 g ,800 g,800.0,0.30375
+578,578,Bounce Biscuits - Choco Creme Cookies,Sunfeast,30.0,28.5,1.5,5.0,6x30 g - Multipack,6*30 g ,180 g,180.0,0.15833333333333333
+579,579,Wafers Potato Chips - Piri Piri,Parle,60.0,36.15,23.85,39.75,110 g ,110 g ,110 g ,110.0,0.3286363636363636
+580,580,Sugar Free Oatmeal Cookies,UNIBIC,360.0,324.0,36.0,10.0,6x75 g - Multipack,6*75 g ,450 g,450.0,0.72
+581,581,Kesar Peda,Lal sweets Pvt Ltd,135.0,135.0,0.0,0.0,200 g - Carton,200 g ,200 g ,200.0,0.675
+582,582,Namkeen - Dal Biji,Haldiram's,100.0,100.0,0.0,0.0,2x150 g - Multipack,2*150 g ,300 g,300.0,0.3333333333333333
+583,583,Juzt Jelly - Strawberry Flavour,ALPENLIEBE,200.0,200.0,0.0,0.0,4x148 g - Multipack,4*148 g ,592 g,592.0,0.33783783783783783
+584,584,Namkeen - All In One,Haldiram's,150.0,150.0,0.0,0.0,3x150 g - Multipack,3*150 g ,450 g,450.0,0.3333333333333333
+585,585,Papad - Pani Puri,Atish ,55.0,55.0,0.0,0.0,200 g - Pouch,200 g ,200 g ,200.0,0.275
+586,586,Instant Soup Noodles - Chicken Flavour,Indomie,64.0,60.8,3.200000000000003,5.0,2x70 g - Multipack,2*70 g ,140 g,140.0,0.4342857142857143
+587,587,Original Bajji Bonda Snack Mix,MTR,65.0,65.0,0.0,0.0,200 g - Pouch,200 g ,200 g ,200.0,0.325
+588,588,Chana Plain Namkeen,Kiara Foods,60.0,60.0,0.0,0.0,250 g ,250 g ,250 g ,250.0,0.24
+589,589,Penne Pasta,Keya,300.0,243.0,57.0,19.0,2x400 g - Multipack,2*400 g ,800 g,800.0,0.30375
+590,590,Pure Bee Honey,Hintz,775.0,775.0,0.0,0.0,500 g - Bottle,500 g ,500 g ,500.0,1.55
+591,591,Fancy Papad,SDA PAPPADS,48.0,48.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.24
+592,592,American Style Cream & Onion Potato Chips - 40% Less,Too Yumm!,70.0,46.9,23.1,33.0,90 g ,90 g ,90 g ,90.0,0.5211111111111111
+593,593,"Townbus Thatai Nippattu - Namkeen Savoury Snack, No Transfats Or Cholesterol, Evening Snack",Townbus,65.0,65.0,0.0,0.0,170 g - Stand Pouch,170 g ,170 g ,170.0,0.38235294117647056
+594,594,"Cheesy Peezy - Popped Lotus Seeds, Roasted In Olive Oil, Super Snack",MR. MAKHANA,120.0,114.0,6.0,5.0,75 g - Pouch,75 g ,75 g ,75.0,1.52
+595,595,Multigrain Chips - Dahi Papdi Chaat,Too Yumm!,35.0,28.0,7.0,20.0,75 g (65+10) - Get 10 gm Free,75 g (65+10) ,75 g (65+10) ,75.0,0.37333333333333335
+596,596,"Corn Mixture - Enriched With Dry Fruits, Fresh, Crispy, No Preservatives",Modern Kitchens,70.0,59.5,10.5,15.0,170 g ,170 g ,170 g ,170.0,0.35
+597,597,Besan Laddoo Mithai / Sweet - Made With Dry Fruits & Desi Ghee,Tasties,220.0,115.0,105.0,47.73,200 g ,200 g ,200 g ,200.0,0.575
+598,598,Krackjack Butter Masala Biscuits,Parle,130.0,65.0,65.0,50.0,307.8 g ,307.8 g ,307.8 g ,307.8,0.2111760883690708
+599,599,Super Snack - Lime & Chilli,MR. MAKHANA,49.0,46.55,2.450000000000003,5.0,27.5 g ,27.5 g ,27.5 g ,27.5,1.6927272727272726
+600,600,Roast Almond Chocolate Bar,Cadbury Dairy Milk Silk,555.0,527.58,27.41999999999996,4.94,3 x 143 g - Multipack,3*143 g ,429 g,429.0,1.2297902097902098
+601,601,Aralu Sandige Homemade Appalams/Papad - Fry & Eat,SDA PAPPADS,58.0,58.0,0.0,0.0,100 g - Pouch,100 g ,100 g ,100.0,0.58
+602,602,3 Minute Breakfast Seviyan Upma,MTR,65.0,65.0,0.0,0.0,160 g ,160 g ,160 g ,160.0,0.40625
+603,603,Taco Shells - 10 cm,Cornitos,120.0,108.0,12.0,10.0,12 pcs ,12 pcs ,12 pcs ,12.0,9.0
+604,604,"Choco Crunch Breakfast Cereal-Ragi Stars & Moons, Healthy Millet,No Maida/Sugar",Slurrp Farm,598.0,568.1,29.899999999999977,5.0,2x400 g - Multipack,2*400 g ,800 g,800.0,0.710125
+605,605,"Ragi Bites Combo Pack - Choco Fills, Vanilla Fills & Strawberry Fills",Tata Soulfull,99.0,94.05,4.950000000000003,5.0,140 g - (28 g x 5),140 g ,140 g ,140.0,0.6717857142857143
+606,606,"Thinz - Almond, Light & Crispy, Teatime Snack",Bisk Farm,10.0,10.0,0.0,0.0,50 g - Pouch,50 g ,50 g ,50.0,0.2
+607,607,Chatpata Dal Namkeen,Haldiram's,47.0,47.0,0.0,0.0,200 g - Pouch,200 g ,200 g ,200.0,0.235
+608,608,Ready To Eat - Jeera Rice,MTR,110.0,110.0,0.0,0.0,250 g - Carton,250 g ,250 g ,250.0,0.44
+609,609,Coffy Bite Classic,Lotte,5.0,5.0,0.0,0.0,23 g ,23 g ,23 g ,23.0,0.21739130434782608
+610,610,Vermicelli Roasted,Bambino,25.0,25.0,0.0,0.0,180g - Roasted,180g ,180g ,180.0,0.1388888888888889
+611,611,Treat Wafers Coconut,Britannia Treat,100.0,50.0,50.0,50.0,55 g - (Pack of 2),55 g ,55 g ,55.0,0.9090909090909091
+612,612,Minute Pepper Rasam,MTR,40.0,40.0,0.0,0.0,60 g - (Pack of 4),60 g ,60 g ,60.0,0.6666666666666666
+613,613,Palada Payasam Mix,Double Horse,85.0,68.0,17.0,20.0,300 g - Box,300 g ,300 g ,300.0,0.22666666666666666
+614,614,"Variety Pack - Chilli Garlic Potato, Smiles and Masala Fries",McCain,150.0,150.0,0.0,0.0,550 g - Pouch,550 g ,550 g ,550.0,0.2727272727272727
+615,615,Funfoods Veg Mayonnaise Classic,Dr. Oetker,178.0,142.0,36.0,20.22,2 x 245 g - Multipack,2*245 g ,490 g,490.0,0.2897959183673469
+616,616,Sugar Free Chewing Gum - Mixed Fruit,Orbit,200.0,190.0,10.0,5.0,4x22 g - Multipack,4*22 g ,88 g,88.0,2.159090909090909
+617,617,Honey,Patanjali,350.0,350.0,0.0,0.0,1 kg ,1 kg ,1 kg ,1000.0,0.35
+618,618,Whole Wheat Khakhra Methi,Tasties,80.0,75.0,5.0,6.25,180 g ,180 g ,180 g ,180.0,0.4166666666666667
+619,619,Sago Papad,Dnv,50.0,47.5,2.5,5.0,100 g ,100 g ,100 g ,100.0,0.475
+620,620,"Popz - Chocolatey Crunch, Choco Fills, Multigrain Munchies",Sundrop,60.0,56.0,4.0,6.67,140 g ,140 g ,140 g ,140.0,0.4
+621,621,Pasta Treat - Masala,Sunfeast,140.0,119.0,21.0,15.0,5x65 g - Multipack,5*65 g ,325 g,325.0,0.36615384615384616
+622,622,"Harmony Biscuit - Crunchy, Zero Trans Fat, Ready To Eat",Britannia Good Day,30.0,25.5,4.5,15.0,110 g - Pouch,110 g ,110 g ,110.0,0.2318181818181818
+623,623,"Cheese & Herbs Puff - Healthy Snacks For Kids, School Tiffin & Travel Friendly",Slurrp Farm,200.0,176.0,24.0,12.0,8x20 g - Multipack,8*20 g ,160 g,160.0,1.1
+624,624,Rusk - Suji & Elaichi,Tasties,110.0,74.1,35.900000000000006,32.64,2x200 g - Multipack,2*200 g ,400 g,400.0,0.18525
+625,625,"Kerala Banana Chips - Peri Peri Flavour, Thin & Crispy, Zero Cholesterol",Beyond Snack,95.0,85.5,9.5,10.0,125 g ,125 g ,125 g ,125.0,0.684
+626,626,Handmade Papad - Urad Punjabi Masala,Tasties,85.0,45.0,40.0,47.06,200 g ,200 g ,200 g ,200.0,0.225
+627,627,Papad - Curd Chilly,Balaji foods,40.0,40.0,0.0,0.0,100 g ,100 g ,100 g ,100.0,0.4
+628,628,Creamfills - Butter Toffee,ALPENLIEBE,150.0,150.0,0.0,0.0,3x152 g - Multipack,3*152 g ,456 g,456.0,0.32894736842105265
+629,629,Potato Chips - Indian Masala,Too Yumm!,100.0,80.0,20.0,20.0,2x130 g - Multipack,2*130 g ,260 g,260.0,0.3076923076923077
+630,630,Hand Murukku Special,A-1 Chips,120.0,120.0,0.0,0.0,250 g ,250 g ,250 g ,250.0,0.48
+631,631,"Namkeen - Ompudi/ Nylon Sev, Authentic, Traditional, Flavours, Savoury Snack",Tasties Origins,315.0,207.0,108.0,34.29,3x150 g - (Multipack),3*150 g ,450 g,450.0,0.46
+632,632,Soan Papdi - Coconut,Haldiram's,75.0,75.0,0.0,0.0,250 g - Pouch,250 g ,250 g ,250.0,0.3
+633,633,"Masala Oats - Tasty Evening Snack, Fibre Rich, Peppy Tomato",Saffola,215.0,189.2,25.80000000000001,12.0,500 g ,500 g ,500 g ,500.0,0.37839999999999996
+634,634,Nutty Tuxedo Chocolate Gourmet Popcorn,4700BC,225.0,202.5,22.5,10.0,150 g - Tin,150 g ,150 g ,150.0,1.35
+635,635,"Breath Mint - With The Hole, Refreshing",Polo,10.0,10.0,0.0,0.0,24 g - Pouch,24 g ,24 g ,24.0,0.4166666666666667
+636,636,Instant Rava Idli Mix,Bambino,120.0,120.0,0.0,0.0,500 g - Pouch,500 g ,500 g ,500.0,0.24
+637,637,Kaju - Salted,Haldiram's,50.0,50.0,0.0,0.0,35 g - Pouch,35 g ,35 g ,35.0,1.4285714285714286
+638,638,Onion Ring Papad,SDA PAPPADS,50.0,50.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.25
+639,639,Premium Pumpkin Seeds - All Natural,Happilo,550.0,467.5,82.5,15.0,2x200 g - Multipack,2*200 g ,400 g,400.0,1.16875
+640,640,"Biscotti - Almond, Gluten free",GoodDiet,225.0,175.0,50.0,22.22,150 g ,150 g ,150 g ,150.0,1.1666666666666667
+641,641,Karare - Noodle Masala,Too Yumm!,60.0,57.0,3.0,5.0,3x80 g - Multipack,3*80 g ,240 g,240.0,0.2375
+642,642,Chilli Cheesy Nuggets,McCain,240.0,240.0,0.0,0.0,400 g ,400 g ,400 g ,400.0,0.6
+643,643,Hide & Seek Chocolate & Almonds,Parle,30.0,22.5,7.5,25.0,100 g ,100 g ,100 g ,100.0,0.225
+644,644,Green Olives - Sliced,BORGES,250.0,222.5,27.5,11.0,450 g ,450 g ,450 g ,450.0,0.49444444444444446
+645,645,Chicken - Jumbo Hot Dog,Meatzza,365.0,328.5,36.5,10.0,500 g ,500 g ,500 g ,500.0,0.657
+646,646,"Choco Fills - Double Chocolaty, Multigrain, Anytime Snack",BB Royal,410.0,229.0,181.0,44.15,2x250 g - Multipack,2*250 g ,500 g,500.0,0.458
+647,647,Masala Oats Noodles - Source Of Fibre & Iron,MAGGI ,118.0,118.0,0.0,0.0,294 g - Pouch,294 g ,294 g ,294.0,0.4013605442176871
+648,648,Corn Flakes With Real Honey,Kelloggs,345.0,345.0,0.0,0.0,630 g ,630 g ,630 g ,630.0,0.5476190476190477
+649,649,"Gourmet Kettle Chips - Vintage Cheese & Paprika Flavour, Premium Slow-Cooked Potato Chips",Lays,100.0,72.0,28.0,28.0,2 x 80 g - Multipack,2*80 g ,160 g,160.0,0.45
+650,650,Mix - Chicken Biryani,Mother's Recipe,165.0,135.0,30.0,18.18,3x100 g - (Multipack),3*100 g ,300 g,300.0,0.45
+651,651,Sesame Chikki With Jaggery,IndiSecrets,75.0,49.0,26.0,34.67,100 g - (4 x 25 g each),100 g ,100 g ,100.0,0.49
+652,652,Hide & Seek Black Bourbon Creme Sandwich - Choco,Parle Platina,150.0,75.0,75.0,50.0,300 g ,300 g ,300 g ,300.0,0.25
+653,653,Chutney Podi - Groundnut,Farmveda,60.0,60.0,0.0,0.0,100 g ,100 g ,100 g ,100.0,0.6
+654,654,Pickle - Cut Mango (With Garlic),Priya,110.0,110.0,0.0,0.0,300 g - Bottle,300 g ,300 g ,300.0,0.36666666666666664
+655,655,Elaichi Shrikhand,Amul,208.0,208.0,0.0,0.0,4x200 g - Multipack,4*200 g ,800 g,800.0,0.26
+656,656,Oats - Rolled,By Nature,380.0,380.0,0.0,0.0,2x500 g - Multipack,2*500 g ,1000 g,1000.0,0.38
+657,657,Mad Angles Very Peri Peri - Spicy & Crunchy Corn Based Triangle Chips Pack For Snacks,Bingo,20.0,18.0,2.0,10.0,66 g ,66 g ,66 g ,66.0,0.2727272727272727
+658,658,Namkeen - Mini Samosa,Haldiram's,130.0,130.0,0.0,0.0,2x200 g - Multipack,2*200 g ,400 g,400.0,0.325
+659,659,Cookies- Shortbread Scotch finger,UNIBIC,360.0,324.0,36.0,10.0,6X100 g - Multipack,6*100 g ,600 g,600.0,0.54
+660,660,"Super Muesli - No Added Sugar, Rich In Protein & Fibre, No Preservatives",Yoga Bar,325.0,270.69,54.31,16.71,400 g ,400 g ,400 g ,400.0,0.676725
+661,661,"Blueberry Pancake Mix - No Maida, Eggless Instant Healthy Breakfast",Slurrp Farm,597.0,555.21,41.789999999999964,7.0,3x150 g - Multipack,3*150 g ,450 g,450.0,1.2338
+662,662,"Tandoori Naan - Ready To Cook, No Added Preservatives, Easy To Prepare Delicious Frozen",Aashirvaad,150.0,135.0,15.0,10.0,400 g - (5 pcs),400 g ,400 g ,400.0,0.3375
+663,663,"Multi Millet Muesli - With Fruits, Nuts & Berries",GoodDiet,349.0,269.0,80.0,22.92,350 g ,350 g ,350 g ,350.0,0.7685714285714286
+664,664,Instant Soup - Sweet Corn Veg,Chings,100.0,100.0,0.0,0.0,10x15 g - Multipack,10*15 g ,150 g,150.0,0.6666666666666666
+665,665,Pickle - Mango Avakaya Without Garlic,Priya,110.0,110.0,0.0,0.0,300 g - bottle,300 g ,300 g ,300.0,0.36666666666666664
+666,666,"Classic Gulkand - Promotes Healthy Skin, Natural Cooling Property, Made From Damask Roses",Food Circle ,360.0,360.0,0.0,0.0,300 g - Bottle,300 g ,300 g ,300.0,1.2
+667,667,Papad - Tomato Rice,Atish ,33.0,33.0,0.0,0.0,100 g - Pouch,100 g ,100 g ,100.0,0.33
+668,668,"Cheese Makhanas - Roasted, Vegan & Gluten Free",Tasties,50.0,40.0,10.0,20.0,25 g ,25 g ,25 g ,25.0,1.6
+669,669,Macaroni - Elbow,MTR,115.0,115.0,0.0,0.0,850 g - Pouch,850 g ,850 g ,850.0,0.13529411764705881
+670,670,Sugar Free Chewing Gum - Sweetmint,Orbit,15.0,15.0,0.0,0.0,8.8 g - Sleeve,8.8 g ,8.8 g ,8.8,1.7045454545454544
+671,671,Bombay Mixture,Balaji foods,55.0,55.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.275
+672,672,Pancake Mix - Original,Betty Crocker,140.0,119.0,21.0,15.0,250 g ,250 g ,250 g ,250.0,0.476
+673,673,Instant Soup Noodles - Special Chicken Flavour,Indomie,64.0,60.8,3.200000000000003,5.0,2x75 g - Multipack,2*75 g ,150 g,150.0,0.4053333333333333
+674,674,Gorgon Nut Roasted Makhana - Salted,Pravin Mixbox ,60.0,60.0,0.0,0.0,35 g ,35 g ,35 g ,35.0,1.7142857142857142
+675,675,Chips - West Indies Hot N Sweet Chili,Lays,5.0,5.0,0.0,0.0,12 g ,12 g ,12 g ,12.0,0.4166666666666667
+676,676,100% Natural Nut Powder - No Added Sugar Or Preservatives,Slurrp Farm,499.0,499.0,0.0,0.0,100 g ,100 g ,100 g ,100.0,4.99
+677,677,Pickle - Gongura With Garlic,Priya,110.0,110.0,0.0,0.0,300 g - Bottle,300 g ,300 g ,300.0,0.36666666666666664
+678,678,Pickle - Mango,Swastiks,80.0,80.0,0.0,0.0,500 g ,500 g ,500 g ,500.0,0.16
+679,679,Salted Popcorn,ACT II,50.0,40.0,10.0,20.0,2 x 50 g - Multipack,2*50 g ,100 g,100.0,0.4
+680,680,"6 Grain Khichdi Mix - Instant Ready To Cook, Rich In Fibre & Protein",Tata Sampann,75.0,63.75,11.25,15.0,200 g ,200 g ,200 g ,200.0,0.31875
+681,681,"Masala Peanuts - Namkeen, No Transfats Or Cholesterol, Evening Teatime Snack",Townbus,55.0,55.0,0.0,0.0,135 g - Pouch,135 g ,135 g ,135.0,0.4074074074074074
+682,682,Malai Peda,Amul,90.0,90.0,0.0,0.0,200g ,200g ,200g ,200.0,0.45
+683,683,Wafers Potato Chips - Cream N Onion,Parle,160.0,80.0,80.0,50.0,4 x 60 g - Multipack,4*60 g ,240 g,240.0,0.3333333333333333
+684,684,Luxury Delights Gift Box - Assorted Chocolate Truffles,Lindberg,165.0,99.0,66.0,40.0,46 g - (4 pcs),46 g ,46 g ,46.0,2.152173913043478
+685,685,Namkeen - Butter Murukku,Tasties Origins,105.0,65.0,40.0,38.1,150 g ,150 g ,150 g ,150.0,0.43333333333333335
+686,686,Vermicelli Payasam Sweet Mix,MTR,48.0,48.0,0.0,0.0,100 g - Pouch,100 g ,100 g ,100.0,0.48
+687,687,"Oodles Ring Noodles - Yummy Masala, No Maida, Ready In 5 Mins",Saffola,200.0,160.0,40.0,20.0,2x212 g - Multipack,2*212 g ,424 g,424.0,0.37735849056603776
+688,688,Soya Sauce,Tasties,180.0,139.5,40.5,22.5,3x210 g - (Multipack),3*210 g ,630 g,630.0,0.22142857142857142
+689,689,Pastalicious Elbow - 100% Durum Wheat Semolina,Disano,260.0,119.0,141.0,54.23,2x400 g - Multipack,2*400 g ,800 g,800.0,0.14875
+690,690,Schezwan Sauce,Knorr,70.0,70.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.35
+691,691,Hara Bhara Veg Kebab,Safal,80.0,68.0,12.0,15.0,200 g ,200 g ,200 g ,200.0,0.34
+692,692,"Natural Peanut Butter - Creamy, Unsweetened",Pintola,449.0,408.0,41.0,9.13,1 kg ,1 kg ,1 kg ,1000.0,0.408
+693,693,Ready To Eat - Pongal,MTR,115.0,115.0,0.0,0.0,300 g - Carton,300 g ,300 g ,300.0,0.38333333333333336
+694,694,"Peanut Chikki Ball - Made With jaggery, Healthy Snack, Protein Rich",SDA ,90.0,90.0,0.0,0.0,200 g - POUCH,200 g ,200 g ,200.0,0.45
+695,695,Pickle - Mix Vegetable,MTR,149.0,149.0,0.0,0.0,500 g - Jar,500 g ,500 g ,500.0,0.298
+696,696,Chocolush - Extra Crunchy Biscuit With Gooey Choco-Filling,Britannia,510.0,301.36,208.64,40.91,3 x 300 g - (Multipack),3*300 g ,900 g,900.0,0.33484444444444444
+697,697,Rishtey Meethe Pal Gift Pack,Bikaji,335.0,284.75,50.25,15.0,1.27 kg ,1.27 kg ,1.27 kg ,1270.0,0.22421259842519686
+698,698,Sauce - Oyster,Lee Kum Kee,275.0,275.0,0.0,0.0,510 g - Bottle,510 g ,510 g ,510.0,0.5392156862745098
+699,699,Ultra Dark Chocolate Bar - 70% Cocoa,Lindberg,175.0,149.0,26.0,14.86,100 g ,100 g ,100 g ,100.0,1.49
+700,700,Treat - Funky Choco Biscuits,Britannia,120.0,114.0,6.0,5.0,12x60 g - Multipack,12*60 g ,720 g,720.0,0.15833333333333333
+701,701,Orange Marmalade Jam,Kissan,190.0,190.0,0.0,0.0,500 g ,500 g ,500 g ,500.0,0.38
+702,702,Original Dosa Ready Mix,MTR,135.0,120.0,15.0,11.11,500 g - Pouch,500 g ,500 g ,500.0,0.24
+703,703,Pickle - Mango Thokku Without Garlic,Priya,110.0,110.0,0.0,0.0,300 g - Bottle,300 g ,300 g ,300.0,0.36666666666666664
+704,704,Pickle - Lime With Garlic,Priya,330.0,330.0,0.0,0.0,1 Kg - Jar,1 Kg ,1 Kg ,1000.0,0.33
+705,705,Soup - Italian Mushroom,Knorr,210.0,193.2,16.80000000000001,8.0,3x41 g - Multipack,3*41 g ,123 g,123.0,1.570731707317073
+706,706,Original Sauerkraut,Bombucha,340.0,340.0,0.0,0.0,450 g ,450 g ,450 g ,450.0,0.7555555555555555
+707,707,Corn Papad,SDA PAPPADS,45.0,45.0,0.0,0.0,100 g ,100 g ,100 g ,100.0,0.45
+708,708,"D'lite Dark Chocolate Bar - Hazelnut & Roasted Almonds, 50% Cocoa",Sugar Free,378.0,296.35,81.64999999999998,21.6,2 x 80 g - Multipack,2*80 g ,160 g,160.0,1.8521875
+709,709,Ready to Cook & Serve - Cheese Onion Paratha,Amul Happy Treats,240.0,240.0,0.0,0.0,500 g ,500 g ,500 g ,500.0,0.48
+710,710,"Rolled Oats - Rich In Protein, Nutritious, Easy To Cook",Quaker,368.0,368.0,0.0,0.0,2 Kg ,2 Kg ,2 Kg ,2000.0,0.184
+711,711,Momos - Vegetable,Prasuma,590.0,525.9,64.10000000000002,10.86,2 x 24 pcs - Multipack,2*24 pcs ,48 pcs,48.0,10.956249999999999
+712,712,Breakfast Mix - Upma,MTR,110.0,96.0,14.0,12.73,2x160 g - Multipack,2*160 g ,320 g,320.0,0.3
+713,713,Custard Powder - Vanilla Flavour,Brown & Polson,136.0,136.0,0.0,0.0,500 g ,500 g ,500 g ,500.0,0.272
+714,714,Mad Angles Chips Pizza - Aah,Bingo,100.0,76.0,24.0,24.0,2x130 g - Multipack,2*130 g ,260 g,260.0,0.2923076923076923
+715,715,Organic Himalayan Kashmir Honey,BB Royal,858.0,448.0,410.0,47.79,2x500 g - Multipack,2*500 g ,1000 g,1000.0,0.448
+716,716,Bhelpuri Chutney,Mother's Recipe,57.0,51.3,5.700000000000003,10.0,200 g ,200 g ,200 g ,200.0,0.2565
+717,717,Gold - Caramel Toffee,ALPENLIEBE,1260.0,1260.0,0.0,0.0,12x351 g - Multipack,12*351 g ,4212 g,4212.0,0.29914529914529914
+718,718,"Eclairs Plus Birthday Pack - Rich Choco Center, Caramel Chewy Toffee",ALPENLIEBE,300.0,300.0,0.0,0.0,2x425 g - (125 pcs) Multipack,2*425 g ,850 g,850.0,0.35294117647058826
+719,719,Super Snack - Butter Tomato,MR. MAKHANA,49.0,46.55,2.450000000000003,5.0,27.5 g ,27.5 g ,27.5 g ,27.5,1.6927272727272726
+720,720,Masala Fries - Hot & Spicy,McCain,150.0,150.0,0.0,0.0,420 g ,420 g ,420 g ,420.0,0.35714285714285715
+721,721,Pickle - Lime,Mother's Recipe,52.0,47.32,4.68,9.0,200 g - Pouch,200 g ,200 g ,200.0,0.2366
+722,722,Caramel Chocolate Coated Wafer,Nestle ,70.0,70.0,0.0,0.0,50 g ,50 g ,50 g ,50.0,1.4
+723,723,"Mint - Sugarfree, Peppermint Flavour, 15 Pcs (Pack Of 5)",Center Fresh,50.0,50.0,0.0,0.0,5 x 4.5 g - Multipack,5*4.5 g ,5*4.5 g ,,
+724,724,Chocolate Chips,Ask Foods,80.0,80.0,0.0,0.0,100 g ,100 g ,100 g ,100.0,0.8
+725,725,Ready To Eat - Dal Makhani,MTR,125.0,125.0,0.0,0.0,300 g - Carton,300 g ,300 g ,300.0,0.4166666666666667
+726,726,Soan Treat - Orange,Haldiram's,70.0,70.0,0.0,0.0,250 g - Pouch,250 g ,250 g ,250.0,0.28
+727,727,Dhania Pudina Chutney,Mother's Recipe,57.0,51.3,5.700000000000003,10.0,200 g - Pouch,200 g ,200 g ,200.0,0.2565
+728,728,Amaranth Muesli,Nourish Organics,485.0,485.0,0.0,0.0,280 g ,280 g ,280 g ,280.0,1.7321428571428572
+729,729,2-Minute Spicy Garlic Noodles,MAGGI ,80.0,70.0,10.0,12.5,248 g ,248 g ,248 g ,248.0,0.28225806451612906
+730,730,"Funfoods Veg Mayonnaise - Original, Rich, Creamy",DR.OETKER,25.0,25.0,0.0,0.0,60 g - Pouch,60 g ,60 g ,60.0,0.4166666666666667
+731,731,Chilli Chilli Chilli Super Hot Instant Cup Noodles,Nissin,150.0,133.86,16.139999999999986,10.76,70 g - (Pack of 3),70 g ,70 g ,70.0,1.9122857142857146
+732,732,Jelly - Mixed Fruit Flavour,Cocon,90.0,90.0,0.0,0.0,20 pcs ,20 pcs ,20 pcs ,20.0,4.5
+733,733,Durum Wheat Pasta - Mini Fusilli,BORGES,160.0,82.8,77.2,48.25,350 g - Pouch,350 g ,350 g ,350.0,0.23657142857142857
+734,734,"0% Added Sugar Millet Muesli, High Protein, Rich in Fibre",Tata Soulfull,399.0,379.05,19.94999999999999,5.0,500 g - Pouch,500 g ,500 g ,500.0,0.7581
+735,735,Masala Oats+ Tasty Snack With Millets - Desi Veggie,Tata Soulfull,239.0,215.1,23.900000000000006,10.0,500 g - Pouch,500 g ,500 g ,500.0,0.43019999999999997
+736,736,Khari - Maska,Tasties,258.0,180.5,77.5,30.04,2x200 g - Multipack,2*200 g ,400 g,400.0,0.45125
+737,737,Oreo Chocolate Bar,Cadbury 5 Star,40.0,40.0,0.0,0.0,42 g ,42 g ,42 g ,42.0,0.9523809523809523
+738,738,"Potato Chips - Pizza Flavour, Crunchy & Crispy",Pringles,230.0,207.0,23.0,10.0,2x107 g - Multipack,2*107 g ,214 g,214.0,0.9672897196261683
+739,739,Breakfast Sausages,Keventer,300.0,255.0,45.0,15.0,500 g ,500 g ,500 g ,500.0,0.51
+740,740,Fulvada Gathia Namkeen,Balaji foods,60.0,60.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.3
+741,741,"50-50 Potazos - Mint Magic Minty Flavoured Crisp, Teatime Snack",Britannia,50.0,42.5,7.5,15.0,2 x71.5 g - Multipack,2*71.5 g ,2*71.5 g ,,
+742,742,"Chicken - Momos, Spicy",Prasuma,650.0,578.5,71.5,11.0,2 x 24 pcs - Multipack,2*24 pcs ,48 pcs,48.0,12.052083333333334
+743,743,"Crunchy Granola - Honey, Almonds, Strawberries & Pumpkin Seeds",Kelloggs,380.0,380.0,0.0,0.0,450 g - Pouch,450 g ,450 g ,450.0,0.8444444444444444
+744,744,Coco Malai Biscuit,Bisk Farm,30.0,30.0,0.0,0.0,200 g - Pouch,200 g ,200 g ,200.0,0.15
+745,745,Qubz Wafer Cubes - Belgian Chocolate Sandwich Biscuit,UNIBIC,300.0,150.0,150.0,50.0,2 x 150 g - (Multipack),2*150 g ,300 g,300.0,0.5
+746,746,Honey - Coorg Natural,Goldrops,395.0,395.0,0.0,0.0,1 kg - Jar,1 kg ,1 kg ,1000.0,0.395
+747,747,"Crunchy Bites - Source Of Fibre, Calcium, High In Protein, 10 Essential Vitamins & Minerals, Breakfast Cereals",Kelloggs,10.0,10.0,0.0,0.0,23 g ,23 g ,23 g ,23.0,0.43478260869565216
+748,748,Rich Chocolate Coated Wafer,Nestle ,170.0,170.0,0.0,0.0,150 g ,150 g ,150 g ,150.0,1.1333333333333333
+749,749,Instant Soup - Manchow,Chings,100.0,100.0,0.0,0.0,10x15 g - Multipack,10*15 g ,150 g,150.0,0.6666666666666666
+750,750,Classic Chicken Delite Soup,Knorr,280.0,257.6,22.399999999999977,8.0,4x44 g - Multipack,4*44 g ,176 g,176.0,1.4636363636363638
+751,751,Potato Chips - Salt,A-1 Chips,50.0,50.0,0.0,0.0,80 g ,80 g ,80 g ,80.0,0.625
+752,752,"Homemade Appalams/Papad - Gold Finger, Fry & Eat",SDA PAPPADS,48.0,48.0,0.0,0.0,200 g - Pouch,200 g ,200 g ,200.0,0.24
+753,753,"Pancake Mix - Classic Flavour, Makes Soft & Fluffy Pancakes",Pillsbury,49.0,24.5,24.5,50.0,80 g ,80 g ,80 g ,80.0,0.30625
+754,754,Multigrain Balls - Chilli Chataka,GoodDiet,95.0,54.67,40.33,42.45,5x30 g - (Multipack),5*30 g ,150 g,150.0,0.36446666666666666
+755,755,Bakarwadi,Tasties Origins,125.0,99.0,26.0,20.8,250 g - Pouch,250 g ,250 g ,250.0,0.396
+756,756,Namkeen - Cornflakes Mixture,Tasties Origins,315.0,150.0,165.0,52.38,3x150 g - (Multipack),3*150 g ,450 g,450.0,0.3333333333333333
+757,757,Dark Fantasy Desserts Choco Nut Dipped Filled Cookie,Sunfeast,120.0,104.88,15.120000000000005,12.6,2 x 100 g - Multipack,2*100 g ,200 g,200.0,0.5244
+758,758,"Peanut Butter - Creamy, Rich In Protein, Spreads",Sundrop,240.0,237.0,3.0,1.25,924 g ,924 g ,924 g ,924.0,0.2564935064935065
+759,759,"Rice Paper - Round, 16 cm",REAL THAI,185.0,185.0,0.0,0.0,100 g - Carton,100 g ,100 g ,100.0,1.85
+760,760,Multigrain Cookies - Sugar Free,Tasties,49.0,45.0,4.0,8.16,75 g ,75 g ,75 g ,75.0,0.6
+761,761,Rol.A.Cola Candy,Parle,30.0,22.5,7.5,25.0,100 g ,100 g ,100 g ,100.0,0.225
+762,762,"Juicyfills - Orange & Mango Flavour, Assorted Candy",ALPENLIEBE,210.0,210.0,0.0,0.0,2x342 g - (90 pcs) Multipack,2*342 g ,684 g,684.0,0.30701754385964913
+763,763,Sixer Biscuits - Salted,Parle,70.0,70.0,0.0,0.0,200 g - Jar,200 g ,200 g ,200.0,0.35
+764,764,Slurrp Farm Instant Millet Noodles- Mild Masala,Slurrp Farm,140.0,140.0,0.0,0.0,228 gm - (Pack of 57g X 4),228 gm ,228 gm ,228.0,0.6140350877192983
+765,765,Funfoods Veg Mayonnaise De'lite,Dr. Oetker,358.0,258.0,100.0,27.93,2 x 750 g - Multipack,2*750 g ,1500 g,1500.0,0.172
+766,766,"O'Rice Cracker - Light & Tasty, Baked Not Fried",Orion,330.0,297.0,33.0,10.0,151.2 g - (Pack of 2),151.2 g ,151.2 g ,151.2,1.9642857142857144
+767,767,Banana Chips - Classic Salt,A-1 Chips,110.0,104.5,5.5,5.0,180 g ,180 g ,180 g ,180.0,0.5805555555555556
+768,768,Apple Cider Vinegar With Mother,Disano,495.0,176.43,318.57,64.36,500 ml - Bottle,500 ml ,500 ml ,500.0,0.35286
+769,769,Popcorn - Caramel Bliss,ACT II,195.0,168.0,27.0,13.85,3x70 g - Multipack,3*70 g ,210 g,210.0,0.8
+770,770,Yummiez Chicken Kabab - Lucknow Seekh,Godrej Yummiez,300.0,275.0,25.0,8.33,400 g - Pouch,400 g ,400 g ,400.0,0.6875
+771,771,Southwest Chipotle Dressing,VEEBA,175.0,175.0,0.0,0.0,300 g - Bottle,300 g ,300 g ,300.0,0.5833333333333334
+772,772,Milkybar Moosha - Caramel & Nougat Bar,Nestle ,20.0,16.0,4.0,20.0,38 g ,38 g ,38 g ,38.0,0.42105263157894735
+773,773,"Strawberry Cereal - No Sugar, Instant Healthy Cereal With Ragi, Rice & Milk",Slurrp Farm,349.0,349.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,1.745
+774,774,Crunchy Granola - Chocolate & Almonds,Kelloggs,380.0,350.0,30.0,7.89,450 g - Pouch,450 g ,450 g ,450.0,0.7777777777777778
+775,775,Hobnobs Oat Cookies With Chocochips,McVitie's,225.0,185.51,39.49000000000001,17.55,3 x 153.85 g - (3x pack of 5 ) Multipack,3*153.85 g ,3*153.85 g ,,
+776,776,Multi Grain Idli Dosa Batter,Rishta,150.0,132.0,18.0,12.0,800 g - Pouch,800 g ,800 g ,800.0,0.165
+777,777,Premium Cashews Toasted & Salted,Happilo,790.0,549.06,240.94000000000005,30.5,2x200 g - Multipack,2*200 g ,400 g,400.0,1.37265
+778,778,Kitkat Chunky Milk Chocolate Bar,Nestle ,140.0,130.0,10.0,7.14,2 x 40 g - Multipack,2*40 g ,80 g,80.0,1.625
+779,779,"Kachcha Aam Candy - With Tangy Twist, Hard-Boiled",Pulse,120.0,95.04,24.959999999999994,20.8,2 x 190 g - Multipack,2*190 g ,380 g,380.0,0.2501052631578948
+780,780,Dairy Milk Silk Mousse - Chocolate Bar,Cadbury Dairy Milk Silk,525.0,499.06,25.939999999999998,4.94,3x116 g - Multipack,3*116 g ,348 g,348.0,1.434080459770115
+781,781,Chocomini,Amul,140.0,140.0,0.0,0.0,250 g ,250 g ,250 g ,250.0,0.56
+782,782,"Tangy Tomato Puff - Healthy Snacks For Kids, School Tiffin & Travel Friendly",Slurrp Farm,200.0,190.0,10.0,5.0,8x20 g - Multipack,8*20 g ,160 g,160.0,1.1875
+783,783,Original Recipe - Pizza & Pasta Sauce,Wingreens Farms,298.0,262.24,35.75999999999999,12.0,2x450 g - Multipack,2*450 g ,900 g,900.0,0.2913777777777778
+784,784,"Egg Hakka Noodles - Zero Fat, Free From Additives",Ramyeon,195.0,165.75,29.25,15.0,1 kg ,1 kg ,1 kg ,1000.0,0.16575
+785,785,Chocolate - Lindor Dark,Lindt,1050.0,1050.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,5.25
+786,786,Milk Bikis Classic Biscuits - Zero Trans Fat,Britannia,50.0,50.0,0.0,0.0,288 g ,288 g ,288 g ,288.0,0.1736111111111111
+787,787,Yippee Tricolor Pasta - Masala,Sunfeast,84.0,71.4,12.599999999999994,15.0,3x70 g - Multipack,3*70 g ,210 g,210.0,0.34
+788,788,Misal Farsan/All In One Mixture - Crispy,Tasties Origins,218.0,131.0,87.0,39.91,2x150 g - Multipack,2*150 g ,300 g,300.0,0.43666666666666665
+789,789,Jelly Crystals - Strawberry Flavour,Weikfield,55.0,52.0,3.0,5.45,90 g - Carton,90 g ,90 g ,90.0,0.5777777777777777
+790,790,Quinoa Brown Rice Chips - Sour Cream & Onion,GoodDiet,105.0,89.25,15.75,15.0,3x30 g - (Multipack),3*30 g ,90 g,90.0,0.9916666666666667
+791,791,"Peanut Butter Crunchy - 25% Protein, India’s Finest Quality Peanuts",Kissan,415.0,381.8,33.19999999999999,8.0,920 g ,920 g ,920 g ,920.0,0.41500000000000004
+792,792,Pasta Treat - Tomato Cheese,Sunfeast,56.0,47.6,8.399999999999999,15.0,2x65 g ,2*65 g ,130 g,130.0,0.36615384615384616
+793,793,Pickle - Amla Without Garlic,Priya,110.0,110.0,0.0,0.0,300 g - Bottle,300 g ,300 g ,300.0,0.36666666666666664
+794,794,Sugar Free Petit Beurre - The Taste Of France,Bisk Farm,40.0,40.0,0.0,0.0,250 g - Pouch,250 g ,250 g ,250.0,0.16
+795,795,"Ragi Vermicelli - Source Of Calcium, Protein & Iron",Aashirvaad,64.0,64.0,0.0,0.0,450 g - Pouch,450 g ,450 g ,450.0,0.14222222222222222
+796,796,Yummiez American Sweet Corn,Godrej Yummiez,90.0,80.0,10.0,11.11,400 g - Pouch,400 g ,400 g ,400.0,0.2
+797,797,D'lite Dark Chocolate Bar - Rich Cocoa,Sugar Free,378.0,287.28,90.72000000000003,24.0,2 x 80 g - Multipack,2*80 g ,160 g,160.0,1.7954999999999999
+798,798,"Ragi Bites Strawberry Fills - No Maida, Calcium & Dal Protein",Tata Soulfull,219.0,208.05,10.949999999999989,5.0,250 g - Carton,250 g ,250 g ,250.0,0.8322
+799,799,Kesar Shrikhand,Amul,130.0,130.0,0.0,0.0,500 g - Cup,500 g ,500 g ,500.0,0.26
+800,800,"Chewy Candy Stick - Mint Flavour, 14 Pcs (Pack Of 3)",Mentos,60.0,60.0,0.0,0.0,3 x 36.4 g - Multipack,3*36.4 g ,3*36.4 g ,,
+801,801,"Dry Fruit Combo - Walnuts, Cashews, Almonds, Raisins, Pistachios, Boosts Energy",Zoff,3855.0,1191.58,2663.42,69.09,1.250 kg ,1.250 kg ,1.250 kg ,1250.0,0.9532639999999999
+802,802,Crackers - Roasted Onion,GoodDiet,225.0,175.0,50.0,22.22,150 g - Pouch,150 g ,150 g ,150.0,1.1666666666666667
+803,803,"Potato Chips - Original Style, Cream & Onion",Bingo,120.0,110.4,9.599999999999994,8.0,6x52 g - Multipack,6*52 g ,312 g,312.0,0.35384615384615387
+804,804,Potato Chips,Sanjay ,50.0,50.0,0.0,0.0,90 g ,90 g ,90 g ,90.0,0.5555555555555556
+805,805,For Boys - With Surprise,Kinder Joy,360.0,349.2,10.800000000000011,3.0,8x20 g - Multipack,8*20 g ,160 g,160.0,2.1825
+806,806,Lightly Salted Roasted Cashews,Cornitos,50.0,47.5,2.5,5.0,25 g - Pouch,25 g ,25 g ,25.0,1.9
+807,807,"Millet Muesli - Crunchy, 80% Whole Grains, Almonds & Raisins",Tata Soulfull,469.0,304.85,164.14999999999998,35.0,700 g ,700 g ,700 g ,700.0,0.43550000000000005
+808,808,Khakhra - Methi,JABSONS,80.0,80.0,0.0,0.0,180 g - Pouch,180 g ,180 g ,180.0,0.4444444444444444
+809,809,Cashew Biscuits,Karachi Bakery ,180.0,171.0,9.0,5.0,400 g ,400 g ,400 g ,400.0,0.4275
+810,810,Light Meat Tuna Flakes In Sunflower Oil,Tasty Nibbles,160.0,160.0,0.0,0.0,185 g - Canned light meat tuna flakes with sunflower oil as base,185 g ,185 g ,185.0,0.8648648648648649
+811,811,"Papad - Sabudana With Rock Salt, Crispy & Flavourful",Mother's Recipe,32.0,32.0,0.0,0.0,70 g - Pouch,70 g ,70 g ,70.0,0.45714285714285713
+812,812,Gold Candy,Cadbury Choclairs,200.0,180.0,20.0,10.0,520 g - (100 Candies),520 g ,520 g ,520.0,0.34615384615384615
+813,813,Hazelnut Chocolate Bar,Cadbury Dairy Milk Silk,370.0,355.35,14.649999999999977,3.96,2 x 143 g - Multipack,2*143 g ,286 g,286.0,1.2424825174825176
+814,814,Instant Popcorn - Barbeque,4700BC,30.0,28.5,1.5,5.0,60 g ,60 g ,60 g ,60.0,0.475
+815,815,Pineapple Jam,Kissan,190.0,190.0,0.0,0.0,500 g ,500 g ,500 g ,500.0,0.38
+816,816,"Chocos - Chhota Laddoo, With Whole Grain, Source Of Fibre, High In Calcium & Protein, Breakfast Cereals",Kelloggs,210.0,210.0,0.0,0.0,340 g ,340 g ,340 g ,340.0,0.6176470588235294
+817,817,Organic Unfiltered Apple Cider Vinegar with Mother,BORGES,400.0,377.0,23.0,5.75,355 ml ,355 ml ,355 ml ,355.0,1.0619718309859154
+818,818,"Potato Chips - Desi Masala Tadka Flavour, Crunchy & Crispy",Pringles,230.0,207.0,23.0,10.0,2x107 g - Multipack,2*107 g ,214 g,214.0,0.9672897196261683
+819,819,Instant Soup - Tomato,Chings,100.0,100.0,0.0,0.0,10x15 g - Multipack,10*15 g ,150 g,150.0,0.6666666666666666
+820,820,"Fox Nuts Black Salt - Delicious Teatime Snack, Popped Lotus Seeds, Roasted In Olive Oil",MR. MAKHANA,130.0,123.5,6.5,5.0,75 g ,75 g ,75 g ,75.0,1.6466666666666667
+821,821,"Cashew Cookies - Chocolate & Kaju. Healthy biscuits- no added maida, 18 cookies",Open Secret,315.0,277.2,37.80000000000001,12.0,3x75 g - Multipack,3*75 g ,225 g,225.0,1.232
+822,822,Citric Acid,Blue Bird,36.0,36.0,0.0,0.0,50 g - Box,50 g ,50 g ,50.0,0.72
+823,823,Bread Crumbs,HappyChef,119.0,95.0,24.0,20.17,400 g ,400 g ,400 g ,400.0,0.2375
+824,824,Kellogg`s Pro Muesli - With 100% Plant Protein  High Prote 500 g Pouch,Kelloggs,380.0,340.0,40.0,10.53,500 g - Pouch,500 g ,500 g ,500.0,0.68
+825,825,Aloo Paratha,Tasty Fresh ,125.0,125.0,0.0,0.0,400 g ,400 g ,400 g ,400.0,0.3125
+826,826,"Snappers Potato Crackers - Cream & Onion, Light, Crispy Snack",UNIBIC,150.0,135.0,15.0,10.0,6x75 g - Multipack,6*75 g ,450 g,450.0,0.3
+827,827,Thatta Murukku - Masala,A-1 Chips,120.0,114.0,6.0,5.0,250 g ,250 g ,250 g ,250.0,0.456
+828,828,Secret Schezwan Stir FryÂ Sauce,Chings,90.0,87.97,2.030000000000001,2.26,250 g - Jar,250 g ,250 g ,250.0,0.35187999999999997
+829,829,Red Chilli Papad,SDA PAPPADS,45.0,45.0,0.0,0.0,100 g ,100 g ,100 g ,100.0,0.45
+830,830,Funfoods Peanut Butter Crunchy,Dr. Oetker,278.0,238.0,40.0,14.39,2 x 400 g - Multipack,2*400 g ,800 g,800.0,0.2975
+831,831,Pickle - Red Stuffed Chilli,Mother's Recipe,75.0,68.25,6.75,9.0,200 g - Pouch,200 g ,200 g ,200.0,0.34125
+832,832,Instant Avalakki Bisi Bele Bhath,Sanketi Adukale,115.0,115.0,0.0,0.0,250 g ,250 g ,250 g ,250.0,0.46
+833,833,Chocolate Chip Cookies,Milano,240.0,120.0,120.0,50.0,2x120 g - Multipack,2*120 g ,240 g,240.0,0.5
+834,834,Dark Fantasy Desserts Choco Chunks Filled Cookie,Sunfeast,120.0,96.9,23.099999999999994,19.25,2 x 75 g - Multipack,2*75 g ,150 g,150.0,0.646
+835,835,Ready To Eat - Rajma Masala,MTR,125.0,125.0,0.0,0.0,300 g ,300 g ,300 g ,300.0,0.4166666666666667
+836,836,Golden Wheat Crisps - Jeera Khakhra,Daadi's,80.0,80.0,0.0,0.0,180 g - Pouch,180 g ,180 g ,180.0,0.4444444444444444
+837,837,"Mini Makhana - Salt & Pepper, High In Protein & Calcium, Gluten Free Snack",Protyze,80.0,80.0,0.0,0.0,60 g - Pouch,60 g ,60 g ,60.0,1.3333333333333333
+838,838,Instant Rava Pongal Mix,Sanketi Adukale,120.0,120.0,0.0,0.0,250 g ,250 g ,250 g ,250.0,0.48
+839,839,Bhakri Baked Mathri - Methi,Tasties,120.0,50.0,70.0,58.33,180 g ,180 g ,180 g ,180.0,0.2777777777777778
+840,840,Platina- Nutricrunch Lite Cracker,Parle,30.0,30.0,0.0,0.0,200 g - Pouch,200 g ,200 g ,200.0,0.15
+841,841,Almondo - Roasted Almonds Coated With Milk Chocolate,Amul,210.0,210.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,1.05
+842,842,Frozen Aloo-Tikki,Safal,90.0,76.5,13.5,15.0,400 g ,400 g ,400 g ,400.0,0.19125
+843,843,Pickle - Mango Tender,MTR,145.0,145.0,0.0,0.0,300 g - Jar,300 g ,300 g ,300.0,0.48333333333333334
+844,844,"Crunchy Chicken Nuggets - Non-Veg Frozen Snack, Ready To Cook",ITC Master Chef,315.0,267.75,47.25,15.0,450 g ,450 g ,450 g ,450.0,0.595
+845,845,Waffy Strawberry Flavoured Rolls - Creamy,Dukes ,300.0,150.0,150.0,50.0,300 g - Jar,300 g ,300 g ,300.0,0.5
+846,846,Halwa - Karachi,Lal,99.0,99.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.495
+847,847,For Girls - With Surprise,Kinder Joy,360.0,349.2,10.800000000000011,3.0,8x20 g - Multipack,8*20 g ,160 g,160.0,2.1825
+848,848,Instant Popcorn - Butter Delite,ACT II,99.0,99.0,0.0,0.0,3x77 g - Multipack,3*77 g ,231 g,231.0,0.42857142857142855
+849,849,Instant Popcorn - Butter,4700BC,30.0,27.0,3.0,10.0,90 g ,90 g ,90 g ,90.0,0.3
+850,850,Sweet Chili Sauce,REAL THAI,350.0,350.0,0.0,0.0,720 ml - Pet Bottle,720 ml ,720 ml ,720.0,0.4861111111111111
+851,851,Nacho Crisps - Sea Salt,Cornitos,180.0,165.6,14.400000000000006,8.0,2x150 g - Multipack,2*150 g ,300 g,300.0,0.5519999999999999
+852,852,"Chocos - Duet, With Whole Grain, Source Of Fibre, High In Calcium & Protein, Breakfast Cereals",Kelloggs,10.0,10.0,0.0,0.0,22 g - Pouch,22 g ,22 g ,22.0,0.45454545454545453
+853,853,"Lindor White Chocolate - Smooth, Creamy, Rich Flavour",Lindt,950.0,807.5,142.5,15.0,200 g ,200 g ,200 g ,200.0,4.0375
+854,854,Papad - Triangle,Balaji foods,35.0,35.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.175
+855,855,Mango Pickle/Aam Ka Achaar - Home Made,DIVINE BITE,260.0,260.0,0.0,0.0,300 g ,300 g ,300 g ,300.0,0.8666666666666667
+856,856,"Snack Bar - Fruit & Nut, Choco",UNIBIC,240.0,180.0,60.0,25.0,6X30 g - Multipack,6*30 g ,180 g,180.0,1.0
+857,857,Premium California Pistachio - Roasted & Salted,ProV,549.0,307.0,242.0,44.08,250 g ,250 g ,250 g ,250.0,1.228
+858,858,"Classic Pancake Mix - No Maida, Eggless Instant Healthy Breakfast",Slurrp Farm,447.0,415.71,31.29000000000002,7.0,3x150 g - Multipack,3*150 g ,450 g,450.0,0.9238
+859,859,Premium Wafer Bites - Strawberry,Tasties,85.0,85.0,0.0,0.0,100 g ,100 g ,100 g ,100.0,0.85
+860,860,Zero Sugar Dark Chocolate Bar - 55% Cocoa,Lindberg,175.0,149.0,26.0,14.86,100 g ,100 g ,100 g ,100.0,1.49
+861,861,Roasted Peanuts - Nimboo Pudina,JABSONS,70.0,70.0,0.0,0.0,140 g - Pouch,140 g ,140 g ,140.0,0.5
+862,862,Breakfast Mix - Vada,MTR,200.0,200.0,0.0,0.0,500 g ,500 g ,500 g ,500.0,0.4
+863,863,"Nutrition Energy Bar - Fig, Flax & Pumpkin Seeds",GoodDiet,520.0,350.1,169.89999999999998,32.67,10x40 g - (Multipack),10*40 g ,400 g,400.0,0.8752500000000001
+864,864,Digestive High Fibre Biscuits - Goodness Of Wholewheat,McVitie's,25.0,22.5,2.5,10.0,100 g - Pouch,100 g ,100 g ,100.0,0.225
+865,865,Minute Garlic Rasam,MTR,40.0,40.0,0.0,0.0,60 g ,60 g ,60 g ,60.0,0.6666666666666666
+866,866,Ready to Mix - Rava Idly,Swastiks,130.0,130.0,0.0,0.0,500 g ,500 g ,500 g ,500.0,0.26
+867,867,Syrup - Pancake,American Garden,1520.0,1520.0,0.0,0.0,2x709 ml - Multipack,2*709 ml ,1418 ml,1418.0,1.071932299012694
+868,868,"Choco Chip Cookie With No Maida - Healthy Biscuit, 7 Grains Protein Snacks",RiteBite Max Protein,600.0,600.0,0.0,0.0,660 g - (Pack of 12),660 g ,660 g ,660.0,0.9090909090909091
+869,869,Vanilla Wafers,Britannia Treat,100.0,50.0,50.0,50.0,2x60 g - Multipack,2*60 g ,120 g,120.0,0.4166666666666667
+870,870,Healthy Khakhra Pearl Millet Methi Bajra Methi,Tasties,80.0,50.0,30.0,37.5,180 g ,180 g ,180 g ,180.0,0.2777777777777778
+871,871,Pickle - Mix Vegetable,Swastiks,80.0,80.0,0.0,0.0,500 g ,500 g ,500 g ,500.0,0.16
+872,872,Rice Vermicelli,REAL THAI,240.0,240.0,0.0,0.0,375 g - Carton,375 g ,375 g ,375.0,0.64
+873,873,Oats Idli,GoodDiet,298.0,292.04,5.9599999999999795,2.0,2x400 g - Multipack,2*400 g ,800 g,800.0,0.36505000000000004
+874,874,No Added Sugar Muesli With Real Fruits & Nuts - High Protein,True Elements,835.0,676.35,158.64999999999998,19.0,1.2 kg ,1.2 kg ,1.2 kg ,1200.0,0.563625
+875,875,Chick Peas - Classic,American Garden,149.0,149.0,0.0,0.0,400 g - CUP,400 g ,400 g ,400.0,0.3725
+876,876,Honey Oats Cookies,Tasties,120.0,95.04,24.959999999999994,20.8,4x75 g - (Multipack),4*75 g ,300 g,300.0,0.3168
+877,877,Papad - Moong,Mother's Recipe,70.0,64.4,5.599999999999994,8.0,180 g ,180 g ,180 g ,180.0,0.3577777777777778
+878,878,Ready To Eat - Chana Masala,MTR,120.0,120.0,0.0,0.0,300 g - Pouch,300 g ,300 g ,300.0,0.4
+879,879,"Veda Marie Light Biscuits - With 5 Natural Ingredients, Tea Time Partner",Sunfeast,40.0,40.0,0.0,0.0,250 g ,250 g ,250 g ,250.0,0.16
+880,880,Spicy Crispy Murukku,Sowbhagya foods,70.0,70.0,0.0,0.0,200 g ,200 g ,200 g ,200.0,0.35
+881,881,Garlic Mixture,Sowbhagya foods,330.0,165.0,165.0,50.0,2 x 500 g - Multipack,2*500 g ,1000 g,1000.0,0.165
+882,882,"Cuppa Noodles - Chilli Chow, 70 g, Pack Of 3",MAGGI ,150.0,150.0,0.0,0.0,3x70 g - Multipack,3*70 g ,210 g,210.0,0.7142857142857143
+883,883,Bagrry`S Crunchy Diet Muesli With No Added Sugar - High Fibre  1 1 kg,Bagrrys,625.0,595.0,30.0,4.8,1 kg ,1 kg ,1 kg ,1000.0,0.595
+884,884,Dairy Milk Silk Bubbly Chocolate Bar - With Cocoa Butter,Cadbury Dairy Milk Silk,555.0,484.51,70.49000000000001,12.7,3x120 g - Multipack,3*120 g ,360 g,360.0,1.3458611111111112
+885,885,Dark Fantasy Choco Nut Fills Cookies,Sunfeast,40.0,40.0,0.0,0.0,75 g ,75 g ,75 g ,75.0,0.5333333333333333
+886,886,2-Minute Spicy Manchurian Noodles,MAGGI ,20.0,20.0,0.0,0.0,61 g ,61 g ,61 g ,61.0,0.32786885245901637
+887,887,Sour Belt Mixed Fruit Flavour Soft & Chewy Toffee,Chupa Chups,90.0,90.0,0.0,0.0,3x57.6 g - Multipack (8 pcs),3*57.6 g ,3*57.6 g ,,
+888,888,Collection Pralines,Ferrero Rocher,799.0,775.03,23.970000000000027,3.0,172.2 g - (15 pcs),172.2 g ,172.2 g ,172.2,4.50075493612079
+889,889,Sweet - Classic Petha,Bansiwala,189.0,170.1,18.900000000000006,10.0,350 g ,350 g ,350 g ,350.0,0.486
+890,890,Sugar Free Multigrain Cookies,UNIBIC,360.0,324.0,36.0,10.0,6x75 g - Multipack,6*75 g ,450 g,450.0,0.72
+891,891,"Belgian Milk Chocolate, Velvety & Smooth",Amul,160.0,160.0,0.0,0.0,125 g ,125 g ,125 g ,125.0,1.28
+892,892,"Roasted Makhana - Himalayan Salted, Rich In Protein, Calcium, Yummy Snacking",Farmley,745.0,695.0,50.0,6.71,5x90 g - Multipack,5*90 g ,450 g,450.0,1.5444444444444445
+893,893,Pasta & Pizza Sauce Herby Tomato| Red Pasta Sauce Herb,VEEBA,159.0,143.1,15.900000000000006,10.0,525 g ,525 g ,525 g ,525.0,0.2725714285714286
+894,894,"Kerala Banana Chips - Salt & Pepper, Savoury & Crispy, Zero Cholesterol",Beyond Snack,95.0,85.5,9.5,10.0,125 g ,125 g ,125 g ,125.0,0.684
+895,895,Popped Lotus Seeds - Himalaya Salt & Pepper,MR. MAKHANA,120.0,114.0,6.0,5.0,75 g ,75 g ,75 g ,75.0,1.52
+896,896,Roasted Peanuts - Lemon & Chilli,JABSONS,70.0,70.0,0.0,0.0,140 g ,140 g ,140 g ,140.0,0.5
+897,897,"Oats - Dark Chocolate, Healthy, High In Fibre, Breakfast Cereal, Gluten Free",Yoga Bar,25.0,15.0,10.0,40.0,40 g ,40 g ,40 g ,40.0,0.375
+898,898,"Oats -Whole Grain, Breakfast Cereal, Rich In Fibre & Calcium, Good For Heart",Quaker,119.0,119.0,0.0,0.0,600 g - Pouch,600 g ,600 g ,600.0,0.19833333333333333
+899,899,"Snack Bar - Multigrain, Choco",UNIBIC,240.0,180.0,60.0,25.0,6X30 g - Multipack,6*30 g ,180 g,180.0,1.0
+900,900,Playz Puffs Masala Munch Namkeen,Kurkure,20.0,18.0,2.0,10.0,55 g ,55 g ,55 g ,55.0,0.32727272727272727

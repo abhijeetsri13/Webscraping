@@ -1,0 +1,14 @@
+,Sr.No.,Grocery_Name,Brand_Name,Rating,MRP_Price,Discount_Price,Total Disc,Percetage Disc,Quantity,strip_qua,Quantity_upd,Converted_Quantity,Price_per_unit(gm/ml/pc)
+21,21.0,"Digestive High Fibre Biscuits,",Britannia NutriChoice,4.1,140.0,120.96,19.040000000000006,13.6,2x 250 g - Multipack,2*250 g ,500 g,500.0,0.24192
+107,107.0,Vanilla Flavour Creme Sandwich Biscuit,Cadbury Oreo,4.2,270.0,270.0,0.0,0.0,2 x 481.25 g - Multipack,2*481.25 g ,962.5 g,962.5,0.2805194805194805
+108,108.0,Vanilla Flavour Creme Sandwich Biscuit,Cadbury Oreo,4.2,198.0,198.0,0.0,0.0,3 x 288.75 g - Multipack,3*288.75 g ,866.25 g,866.25,0.22857142857142856
+211,211.0,Namkeen - Mixture,Haldiram's,4.1,60.0,60.0,0.0,0.0,6x55 g - Multipack,6*55 g ,330 g,330.0,0.18181818181818182
+213,213.0,Potato Chips - American Style Cream & Onion Flavour,Lays,4.2,60.0,57.0,3.0,5.0,3x52 g - Multipack,3*52 g ,156 g,156.0,0.36538461538461536
+257,257.0,Namkeen - All in One,Haldiram's,4.2,10.0,10.0,0.0,0.0,38 g - Pouch,38 g ,38 g ,38.0,0.2631578947368421
+260,260.0,Potato Chips Original Style - Salt Sprinkled,Bingo,4.2,60.0,54.0,6.0,10.0,3x45 g - Multipack,3*45 g ,135 g,135.0,0.4
+316,316.0,Soan Papdi,Haldiram's,4.2,1560.0,1560.0,0.0,0.0,12x500 g - Multipack,12*500 g ,6000 g,6000.0,0.26
+344,344.0,Chocolate Gift Pack,Cadbury Celebrations,4.0,1194.0,1099.91,94.08999999999992,7.88,178.8 g - Pack of 6,178.8 g ,178.8 g ,178.8,6.15162192393736
+411,411.0,Namkeen - Moong Dal,Haldiram's,4.1,210.0,190.0,20.0,9.52,2x350 g - Multipack,2*350 g ,700 g,700.0,0.2714285714285714
+541,541.0,"Chocolate Muesli - With 57% Multigrain, Fruit, Nut & Seeds",Kelloggs,4.0,360.0,310.0,50.0,13.89,450 g,450 g,450 g,450.0,0.6888888888888889
+567,567.0,Namkeen - Tasty Nuts,Haldiram's,4.2,150.0,150.0,0.0,0.0,3x150 g - Multipack,3*150 g ,450 g,450.0,0.3333333333333333
+672,672.0,Pancake Mix - Original,Betty Crocker,4.1,140.0,119.0,21.0,15.0,250 g,250 g,250 g,250.0,0.476
